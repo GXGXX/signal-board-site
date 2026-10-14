@@ -1,6 +1,6 @@
 {
   "partition": "ai",
-  "generated_at": "2026-10-14T10:00:49.246Z",
+  "generated_at": "2026-10-14T10:48:33.351Z",
   "next_update_at": "2026-10-14T13:00:00.000Z",
   "cap": 30,
   "cards": [
@@ -752,7 +752,7 @@
         "llm",
         "SaaS"
       ],
-      "score": 54,
+      "score": 46,
       "why": "独立/Agent：公开营收、indie；策展：长期发布带营收数字的真实创业案例（做了什么、卖给谁、怎么赚钱）。",
       "deep_link": "https://x.com/thepatwalls/status/2102384016661844445",
       "extra": {},
@@ -779,7 +779,7 @@
       "person_name": "Pat Walls",
       "_feed_type": "x_api",
       "_feed_url": "x://api/users/thepatwalls/tweets",
-      "_score_raw": 52,
+      "_score_raw": 44,
       "_decay_penalty": 8,
       "_decay_exempt": null,
       "_ai_business": true,

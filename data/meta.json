@@ -2,7 +2,7 @@
   "name": "信号台",
   "disclaimer": "非投资建议；加密高风险",
   "today": "2026-10-14",
-  "generated_at": "2026-10-14T10:00:49.246Z",
+  "generated_at": "2026-10-14T10:48:33.351Z",
   "next_update_at": "2026-10-14T13:00:00.000Z",
   "schedule": {
     "timezone": "Asia/Shanghai",
@@ -13,7 +13,7 @@
     "note": "下次更新于 = 下一个 09:00 或 21:00 Asia/Shanghai"
   },
   "collect": {
-    "collected_at": "2026-10-14T09:58:59.862Z",
+    "collected_at": "2026-10-14T10:43:00.885Z",
     "ok": [
       {
         "id": "hitmarker_sitemap",
@@ -100,8 +100,8 @@
         "id": "ai-reddit-era",
         "partition": "ai",
         "count": 3,
-        "scanned": 18,
-        "rejected": 15
+        "scanned": 20,
+        "rejected": 17
       },
       {
         "id": "ai-reddit-entrepreneur",
@@ -1308,7 +1308,7 @@
             "too_old:2829d",
             "too_old:2836d",
             "too_old:2843d",
-            "too_old:2917d"
+            "too_old:2918d"
           ]
         },
         "tibo_maker": {
@@ -1451,7 +1451,7 @@
           "drop_reasons": [
             "growth_politics_title",
             "too_old:50d",
-            "too_old:64d",
+            "too_old:65d",
             "too_old:78d"
           ]
         },
@@ -1919,14 +1919,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:49d",
-            "too_old:56d",
-            "too_old:63d",
-            "too_old:70d",
-            "too_old:77d",
-            "too_old:84d",
-            "too_old:91d",
-            "too_old:98d"
+            "too_old:50d",
+            "too_old:57d",
+            "too_old:64d",
+            "too_old:71d",
+            "too_old:78d",
+            "too_old:85d",
+            "too_old:92d",
+            "too_old:99d"
           ]
         },
         "moneyunder30": {
@@ -2518,7 +2518,7 @@
     },
     "community_rss": {
       "enabled": true,
-      "elapsed_ms": 73400,
+      "elapsed_ms": 22377,
       "kept": 9,
       "report": [
         {
@@ -2526,8 +2526,8 @@
           "url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
           "ok": true,
           "status": 200,
-          "attempts": 2,
-          "ms": 13059,
+          "attempts": 1,
+          "ms": 1029,
           "scanned": 40,
           "kept": 2,
           "rejects": {
@@ -2536,15 +2536,15 @@
             "question": 11,
             "single_fact_kind": 7,
             "body_too_short": 3,
-            "no_numeric_fact": 9,
-            "help_seeking": 4,
+            "no_numeric_fact": 8,
+            "help_seeking": 5,
             "spam_or_promo_body": 1
           },
           "error": null,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
-            "reset": "58"
+            "reset": "19"
           },
           "reject_samples": [
             {
@@ -2613,15 +2613,15 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 18,
+          "scanned": 20,
           "kept": 3,
           "rejects": {
-            "no_numeric_fact": 6,
+            "no_numeric_fact": 7,
             "question": 4,
             "spam_or_promo_body": 1,
             "single_fact_kind": 1,
             "help_seeking": 2,
-            "over_max_items": 1
+            "over_max_items": 2
           },
           "error": null,
           "shared_request": true,
@@ -2681,12 +2681,12 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 377,
+          "ms": 1860,
           "scanned": 19,
           "kept": 0,
           "rejects": {
-            "no_numeric_fact": 17,
-            "question": 2
+            "no_numeric_fact": 18,
+            "question": 1
           },
           "error": null,
           "ratelimit": {
@@ -2695,6 +2695,10 @@
             "reset": null
           },
           "reject_samples": [
+            {
+              "reason": "no_numeric_fact",
+              "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font"
+            },
             {
               "reason": "no_numeric_fact",
               "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs"
@@ -2714,10 +2718,6 @@
             {
               "reason": "no_numeric_fact",
               "title": "OpenAI engineer arrested in bugging of executive conference room"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard"
             }
           ],
           "partition": "ai"
@@ -2728,7 +2728,7 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 7614,
+          "ms": 2454,
           "scanned": 20,
           "kept": 1,
           "rejects": {
@@ -2736,7 +2736,7 @@
             "question": 1
           },
           "error": null,
-          "waited_ms": 7997,
+          "waited_ms": 7996,
           "ratelimit": {
             "used": null,
             "remaining": null,
@@ -2776,7 +2776,7 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 1258,
+          "ms": 1288,
           "scanned": 69,
           "kept": 2,
           "rejects": {
@@ -2796,7 +2796,7 @@
             "over_max_items": 1
           },
           "error": null,
-          "waited_ms": 42908,
+          "waited_ms": 7587,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
@@ -2994,13 +2994,6 @@
       "verdict": "worth"
     },
     {
-      "part": "invest",
-      "text": "理财：月光、存不下钱，看花得比赚得多怎么止住",
-      "id": "invest-post-ramit-5dec535e812b",
-      "url": "https://www.iwillteachyoutoberich.com/282-we-spend-154-of-what-we-make-will-we-ever-stop-drowning/",
-      "verdict": "worth"
-    },
-    {
       "part": "growth",
       "text": "成长：想多读书、读得更有收获，讲具体方法",
       "id": "growth-post-developgoodhabits-2adf829f3a8d",
@@ -3023,7 +3016,7 @@
   "partitions": {
     "jobs": 25,
     "ai": 12,
-    "invest": 13,
+    "invest": 24,
     "growth": 4
   },
   "caps": {
@@ -3618,7 +3611,7 @@
           "too_old:2829d",
           "too_old:2836d",
           "too_old:2843d",
-          "too_old:2917d"
+          "too_old:2918d"
         ]
       },
       "tibo_maker": {
@@ -3761,7 +3754,7 @@
         "drop_reasons": [
           "growth_politics_title",
           "too_old:50d",
-          "too_old:64d",
+          "too_old:65d",
           "too_old:78d"
         ]
       },
@@ -4229,14 +4222,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:49d",
-          "too_old:56d",
-          "too_old:63d",
-          "too_old:70d",
-          "too_old:77d",
-          "too_old:84d",
-          "too_old:91d",
-          "too_old:98d"
+          "too_old:50d",
+          "too_old:57d",
+          "too_old:64d",
+          "too_old:71d",
+          "too_old:78d",
+          "too_old:85d",
+          "too_old:92d",
+          "too_old:99d"
         ]
       },
       "moneyunder30": {
@@ -5055,14 +5048,14 @@
               "dropped": 0,
               "candidates": 1
             },
-            "kol:thepatwalls": {
-              "max_keep": 10,
+            "ai-levelsio-rss": {
+              "max_keep": 2,
               "kept": 1,
               "dropped": 0,
               "candidates": 1
             },
-            "ai-levelsio-rss": {
-              "max_keep": 2,
+            "kol:thepatwalls": {
+              "max_keep": 10,
               "kept": 1,
               "dropped": 0,
               "candidates": 1
@@ -5381,7 +5374,7 @@
               "source_id": "kol:MebFaber",
               "title": "10 Investing in America Quotes",
               "published_at": "2026-09-01T10:04:00.000Z",
-              "age_days": 42,
+              "age_days": 43,
               "penalty": 20,
               "score_before": 66,
               "score_after": 46
@@ -5411,7 +5404,7 @@
               "source_id": "kol:ramit",
               "title": "281. “We have 4 kids and nearly $1M in debt. Are we screwed?”",
               "published_at": "2026-10-06T10:04:04.000Z",
-              "age_days": 7,
+              "age_days": 8,
               "penalty": 8,
               "score_before": 63,
               "score_after": 55

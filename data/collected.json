@@ -1,6 +1,6 @@
 {
   "meta": {
-    "collected_at": "2026-10-14T09:58:59.862Z",
+    "collected_at": "2026-10-14T10:43:00.885Z",
     "ok": [
       {
         "id": "hitmarker_sitemap",
@@ -87,8 +87,8 @@
         "id": "ai-reddit-era",
         "partition": "ai",
         "count": 3,
-        "scanned": 18,
-        "rejected": 15
+        "scanned": 20,
+        "rejected": 17
       },
       {
         "id": "ai-reddit-entrepreneur",
@@ -1295,7 +1295,7 @@
             "too_old:2829d",
             "too_old:2836d",
             "too_old:2843d",
-            "too_old:2917d"
+            "too_old:2918d"
           ]
         },
         "tibo_maker": {
@@ -1438,7 +1438,7 @@
           "drop_reasons": [
             "growth_politics_title",
             "too_old:50d",
-            "too_old:64d",
+            "too_old:65d",
             "too_old:78d"
           ]
         },
@@ -1906,14 +1906,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:49d",
-            "too_old:56d",
-            "too_old:63d",
-            "too_old:70d",
-            "too_old:77d",
-            "too_old:84d",
-            "too_old:91d",
-            "too_old:98d"
+            "too_old:50d",
+            "too_old:57d",
+            "too_old:64d",
+            "too_old:71d",
+            "too_old:78d",
+            "too_old:85d",
+            "too_old:92d",
+            "too_old:99d"
           ]
         },
         "moneyunder30": {
@@ -2505,7 +2505,7 @@
     },
     "community_rss": {
       "enabled": true,
-      "elapsed_ms": 73400,
+      "elapsed_ms": 22377,
       "kept": 9,
       "report": [
         {
@@ -2513,8 +2513,8 @@
           "url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
           "ok": true,
           "status": 200,
-          "attempts": 2,
-          "ms": 13059,
+          "attempts": 1,
+          "ms": 1029,
           "scanned": 40,
           "kept": 2,
           "rejects": {
@@ -2523,15 +2523,15 @@
             "question": 11,
             "single_fact_kind": 7,
             "body_too_short": 3,
-            "no_numeric_fact": 9,
-            "help_seeking": 4,
+            "no_numeric_fact": 8,
+            "help_seeking": 5,
             "spam_or_promo_body": 1
           },
           "error": null,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
-            "reset": "58"
+            "reset": "19"
           },
           "reject_samples": [
             {
@@ -2600,15 +2600,15 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 18,
+          "scanned": 20,
           "kept": 3,
           "rejects": {
-            "no_numeric_fact": 6,
+            "no_numeric_fact": 7,
             "question": 4,
             "spam_or_promo_body": 1,
             "single_fact_kind": 1,
             "help_seeking": 2,
-            "over_max_items": 1
+            "over_max_items": 2
           },
           "error": null,
           "shared_request": true,
@@ -2668,12 +2668,12 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 377,
+          "ms": 1860,
           "scanned": 19,
           "kept": 0,
           "rejects": {
-            "no_numeric_fact": 17,
-            "question": 2
+            "no_numeric_fact": 18,
+            "question": 1
           },
           "error": null,
           "ratelimit": {
@@ -2682,6 +2682,10 @@
             "reset": null
           },
           "reject_samples": [
+            {
+              "reason": "no_numeric_fact",
+              "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font"
+            },
             {
               "reason": "no_numeric_fact",
               "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs"
@@ -2701,10 +2705,6 @@
             {
               "reason": "no_numeric_fact",
               "title": "OpenAI engineer arrested in bugging of executive conference room"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard"
             }
           ],
           "partition": "ai"
@@ -2715,7 +2715,7 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 7614,
+          "ms": 2454,
           "scanned": 20,
           "kept": 1,
           "rejects": {
@@ -2723,7 +2723,7 @@
             "question": 1
           },
           "error": null,
-          "waited_ms": 7997,
+          "waited_ms": 7996,
           "ratelimit": {
             "used": null,
             "remaining": null,
@@ -2763,7 +2763,7 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 1258,
+          "ms": 1288,
           "scanned": 69,
           "kept": 2,
           "rejects": {
@@ -2783,7 +2783,7 @@
             "over_max_items": 1
           },
           "error": null,
-          "waited_ms": 42908,
+          "waited_ms": 7587,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
@@ -5622,71 +5622,6 @@
         "_decay_exempt": "profile_fallback"
       },
       {
-        "id": "ai-post-thepatwalls-e288f00c6738",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!! Insane story, and they wr",
-        "summary": "搜索引擎营销（SEO）已经死亡，连发明它的公司也不例外。@kippbodnar指出，HubSpot在一年内失去了约1.4亿次搜索访问。这是一个疯狂的故事，他们还写了一本书来解释如何适应。简而言之，这是YouTube和有机地出现在大型语言模…",
-        "source": "@thepatwalls / Pat Walls",
-        "source_url": "https://x.com/thepatwalls/status/2102384016661844445",
-        "published_at": "2026-09-22T13:06:24.000Z",
-        "tags": [
-          "X动态",
-          "公开营收",
-          "indie",
-          "llm",
-          "SaaS"
-        ],
-        "score": 52,
-        "why": "独立/Agent：公开营收、indie；策展：长期发布带营收数字的真实创业案例（做了什么、卖给谁、怎么赚钱）。",
-        "deep_link": "https://x.com/thepatwalls/status/2102384016661844445",
-        "extra": {},
-        "blurb": "搜索引擎营销（SEO）已经死亡，连发明它的公司也不例外。@kippbodnar指出，HubSpot在一年内失去了约1.4亿次搜索访问。这是一个疯狂的故事，他们还写了一本书来解释如何适应。简而言之，这是YouTube和有机地出现在大型语言模…",
-        "url": "https://x.com/thepatwalls/status/2102384016661844445",
-        "handle": "thepatwalls",
-        "name": "Pat Walls",
-        "lang": "EN",
-        "posted_at": "2026-09-22",
-        "tier": "A",
-        "evidence_missing": false,
-        "_origin": "kol_x_api",
-        "_source_id": "kol:thepatwalls",
-        "title_orig": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!! Insane story, and they wr",
-        "source_excerpt": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!! Insane story, and they wrote a book about how they adapted. TLDR it's creators, YouTube, and showing up organically in LLMs. (Starter Story https",
-        "person_id": "thepatwalls",
-        "person_handle": "thepatwalls",
-        "person_name": "Pat Walls",
-        "_feed_type": "x_api",
-        "_feed_url": "x://api/users/thepatwalls/tweets",
-        "_score_raw": 60,
-        "_decay_penalty": 8,
-        "_decay_exempt": null,
-        "_ai_business": true,
-        "_practical_delta": 10,
-        "summary_zh": "搜索引擎营销（SEO）已经死亡，连发明它的公司也不例外。@kippbodnar指出，HubSpot在一年内失去了约1.4亿次搜索访问。这是一个疯狂的故事，他们还写了一本书来解释如何适应。简而言之，这是YouTube和有机地出现在大型语言模…",
-        "highlights": [
-          "According to @kippbodnar, HubSpot lost …",
-          "Insane story, and they wrote a book abo…"
-        ],
-        "summary_source": "local_llm",
-        "reader": {
-          "verdict": "watch",
-          "use": "判断 AI 副业怎么获客时看：搜索流量掉了 140 MILLION，新渠道是创作者/YouTube/AI 搜索",
-          "lines": {
-            "value": "搜索流量掉了 140 MILLION；新渠道是创作者/YouTube/AI 搜索"
-          },
-          "evidence": [
-            "lost 140 MILLION search visits",
-            "it's creators, YouTube, and showing up organically in LLMs"
-          ],
-          "point": "AI副业：搜索流量掉了 140 MILLION",
-          "verdict_label": "观望",
-          "title": ""
-        },
-        "_kept_last_good": true
-      },
-      {
         "id": "ai-rss-ai-levelsio-rss-7533dd3f765c",
         "partition": "ai",
         "type": "card",
@@ -6300,6 +6235,71 @@
         "_score_raw": 68,
         "_decay_penalty": 20,
         "_decay_exempt": null
+      },
+      {
+        "id": "ai-post-thepatwalls-e288f00c6738",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!! Insane story, and they wr",
+        "summary": "搜索引擎营销（SEO）已经死亡，连发明它的公司也不例外。@kippbodnar指出，HubSpot在一年内失去了约1.4亿次搜索访问。这是一个疯狂的故事，他们还写了一本书来解释如何适应。简而言之，这是YouTube和有机地出现在大型语言模…",
+        "source": "@thepatwalls / Pat Walls",
+        "source_url": "https://x.com/thepatwalls/status/2102384016661844445",
+        "published_at": "2026-09-22T13:06:24.000Z",
+        "tags": [
+          "X动态",
+          "公开营收",
+          "indie",
+          "llm",
+          "SaaS"
+        ],
+        "score": 44,
+        "why": "独立/Agent：公开营收、indie；策展：长期发布带营收数字的真实创业案例（做了什么、卖给谁、怎么赚钱）。",
+        "deep_link": "https://x.com/thepatwalls/status/2102384016661844445",
+        "extra": {},
+        "blurb": "搜索引擎营销（SEO）已经死亡，连发明它的公司也不例外。@kippbodnar指出，HubSpot在一年内失去了约1.4亿次搜索访问。这是一个疯狂的故事，他们还写了一本书来解释如何适应。简而言之，这是YouTube和有机地出现在大型语言模…",
+        "url": "https://x.com/thepatwalls/status/2102384016661844445",
+        "handle": "thepatwalls",
+        "name": "Pat Walls",
+        "lang": "EN",
+        "posted_at": "2026-09-22",
+        "tier": "A",
+        "evidence_missing": false,
+        "_origin": "kol_x_api",
+        "_source_id": "kol:thepatwalls",
+        "title_orig": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!! Insane story, and they wr",
+        "source_excerpt": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!! Insane story, and they wrote a book about how they adapted. TLDR it's creators, YouTube, and showing up organically in LLMs. (Starter Story https",
+        "highlights": [
+          "According to @kippbodnar, HubSpot lost …",
+          "Insane story, and they wrote a book abo…"
+        ],
+        "summary_zh": "搜索引擎营销（SEO）已经死亡，连发明它的公司也不例外。@kippbodnar指出，HubSpot在一年内失去了约1.4亿次搜索访问。这是一个疯狂的故事，他们还写了一本书来解释如何适应。简而言之，这是YouTube和有机地出现在大型语言模…",
+        "summary_source": "local_llm",
+        "person_id": "thepatwalls",
+        "person_handle": "thepatwalls",
+        "person_name": "Pat Walls",
+        "_feed_type": "x_api",
+        "_feed_url": "x://api/users/thepatwalls/tweets",
+        "_score_raw": 52,
+        "_decay_penalty": 8,
+        "_decay_exempt": null,
+        "_ai_business": true,
+        "_practical_delta": 10,
+        "reader": {
+          "verdict": "watch",
+          "use": "判断 AI 副业怎么获客时看：搜索流量掉了 140 MILLION，新渠道是创作者/YouTube/AI 搜索",
+          "lines": {
+            "value": "搜索流量掉了 140 MILLION；新渠道是创作者/YouTube/AI 搜索"
+          },
+          "evidence": [
+            "lost 140 MILLION search visits",
+            "it's creators, YouTube, and showing up organically in LLMs"
+          ],
+          "point": "AI副业：搜索流量掉了 140 MILLION",
+          "verdict_label": "观望",
+          "title": ""
+        },
+        "_kept_last_good": true
       }
     ],
     "invest": [
@@ -6662,47 +6662,6 @@
         "deep_link": "https://www.kiplinger.com/investing/stocks/stocks-churn-ahead-of-cpi-earnings-season-stock-market-today",
         "blurb": "The S&P 500 quietly celebrated the start of the bull market's fourth year, but volatility could pick up as earnings seas",
         "url": "https://www.kiplinger.com/investing/stocks/stocks-churn-ahead-of-cpi-earnings-season-stock-market-today",
-        "posted_at": "2026-10-12",
-        "handle": "kiplinger",
-        "name": "Kiplinger",
-        "person_id": "kiplinger",
-        "person_handle": "kiplinger",
-        "person_name": "Kiplinger",
-        "tier": "B",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:kiplinger",
-        "_feed_url": "https://www.kiplinger.com/feed/all",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 83,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-kiplinger-4b98d0b113fc",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "Are You Rebalancing Your Portfolio for a Good Reason?",
-        "summary": "Inflation, volatile markets and news from the Middle East have many feeling the need to make changes, but acting on impulse is unlikely to lead to success.",
-        "source": "@kiplinger / Kiplinger",
-        "source_url": "https://www.kiplinger.com/investing/good-reasons-to-rebalance-your-portfolio",
-        "published_at": "2026-10-12T12:00:00.000Z",
-        "tags": [
-          "观察",
-          "应急金",
-          "稳健"
-        ],
-        "score": 83,
-        "why": "工薪教育：应急金；宏观观察：inflation；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
-        "deep_link": "https://www.kiplinger.com/investing/good-reasons-to-rebalance-your-portfolio",
-        "blurb": "Inflation, volatile markets and news from the Middle East have many feeling the need to make changes, but acting on impu",
-        "url": "https://www.kiplinger.com/investing/good-reasons-to-rebalance-your-portfolio",
         "posted_at": "2026-10-12",
         "handle": "kiplinger",
         "name": "Kiplinger",
@@ -7448,6 +7407,88 @@
         "_decay_exempt": null
       },
       {
+        "id": "invest-post-kiplinger-56e796ae63b2",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "The Risks of an AI Bubble",
+        "summary": "The spending spree to build artificial intelligence is creating a bubble, but that’s not entirely a bad thing.",
+        "source": "@kiplinger / Kiplinger",
+        "source_url": "https://www.kiplinger.com/business/the-risks-of-an-ai-bubble",
+        "published_at": "2026-10-14T10:30:00.000Z",
+        "tags": [
+          "观察",
+          "应急金",
+          "稳健"
+        ],
+        "score": 71,
+        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
+        "deep_link": "https://www.kiplinger.com/business/the-risks-of-an-ai-bubble",
+        "blurb": "The spending spree to build artificial intelligence is creating a bubble, but that’s not entirely a bad thing.",
+        "url": "https://www.kiplinger.com/business/the-risks-of-an-ai-bubble",
+        "posted_at": "2026-10-14",
+        "handle": "kiplinger",
+        "name": "Kiplinger",
+        "person_id": "kiplinger",
+        "person_handle": "kiplinger",
+        "person_name": "Kiplinger",
+        "tier": "B",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:kiplinger",
+        "_feed_url": "https://www.kiplinger.com/feed/all",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-kiplinger-89516ecd3487",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "The Secret to Retirement Confidence Isn't Net Worth",
+        "summary": "More retirees are afraid of outliving their savings. Why the problem might not always lie in their savings. Here's how to turn your wealth into reliable income.",
+        "source": "@kiplinger / Kiplinger",
+        "source_url": "https://www.kiplinger.com/retirement/retirement-planning/secret-to-retirement-confidence",
+        "published_at": "2026-10-14T10:00:00.000Z",
+        "tags": [
+          "观察",
+          "应急金",
+          "稳健"
+        ],
+        "score": 71,
+        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
+        "deep_link": "https://www.kiplinger.com/retirement/retirement-planning/secret-to-retirement-confidence",
+        "blurb": "More retirees are afraid of outliving their savings. Why the problem might not always lie in their savings. Here's how t",
+        "url": "https://www.kiplinger.com/retirement/retirement-planning/secret-to-retirement-confidence",
+        "posted_at": "2026-10-14",
+        "handle": "kiplinger",
+        "name": "Kiplinger",
+        "person_id": "kiplinger",
+        "person_handle": "kiplinger",
+        "person_name": "Kiplinger",
+        "tier": "B",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:kiplinger",
+        "_feed_url": "https://www.kiplinger.com/feed/all",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
         "id": "invest-post-kiplinger-c700ce0faa63",
         "partition": "invest",
         "type": "post",
@@ -7550,47 +7591,6 @@
         "blurb": "The U.S. Securities and Exchange Commission has launched a five-year exemption for tokenized equities, bridging traditio",
         "url": "https://www.kiplinger.com/investing/cryptocurrency/sec-paves-the-way-for-blockchain-trading",
         "posted_at": "2026-10-13",
-        "handle": "kiplinger",
-        "name": "Kiplinger",
-        "person_id": "kiplinger",
-        "person_handle": "kiplinger",
-        "person_name": "Kiplinger",
-        "tier": "B",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:kiplinger",
-        "_feed_url": "https://www.kiplinger.com/feed/all",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 71,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-kiplinger-526a57d5a9b8",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "They Retired With $10 Million. Should They Invest Aggressively?",
-        "summary": "In this week's Wealth Wise advice column, experts explain why you don't have to play it safe if your income is secure and you're investing for your heirs.",
-        "source": "@kiplinger / Kiplinger",
-        "source_url": "https://www.kiplinger.com/retirement/retirement-planning/they-retired-with-usd10-million-should-they-still-invest-aggressively",
-        "published_at": "2026-10-12T12:30:00.000Z",
-        "tags": [
-          "观察",
-          "应急金",
-          "稳健"
-        ],
-        "score": 71,
-        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
-        "deep_link": "https://www.kiplinger.com/retirement/retirement-planning/they-retired-with-usd10-million-should-they-still-invest-aggressively",
-        "blurb": "In this week's Wealth Wise advice column, experts explain why you don't have to play it safe if your income is secure an",
-        "url": "https://www.kiplinger.com/retirement/retirement-planning/they-retired-with-usd10-million-should-they-still-invest-aggressively",
-        "posted_at": "2026-10-12",
         "handle": "kiplinger",
         "name": "Kiplinger",
         "person_id": "kiplinger",
