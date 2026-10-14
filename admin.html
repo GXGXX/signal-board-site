@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="oled">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>管理台 · 信号台</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <script type="module" crossorigin src="./assets/admin-CYQecRRB.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/style-ChhY3f4Z.js">
+    <link rel="stylesheet" crossorigin href="./assets/style-6ZNl8xkO.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="topbar-inner">
+        <a class="brand" href="./index.html">
+          <span class="brand-mark">◆</span>
+          <span class="brand-text shiny-text">信号台</span>
+        </a>
+        <div class="topbar-actions">
+          <button id="btn-theme" class="btn btn-ghost" type="button">◐</button>
+          <a class="btn btn-ghost" href="./index.html">← 返回看板</a>
+        </div>
+      </div>
+    </header>
+
+    <main class="page admin-page">
+      <h1 class="hero-title"><span class="shiny-text">管理台</span></h1>
+      <p class="hero-desc">查看 seed 统计 · 手动粘贴岗位 JSON 合并到本地 · LinkedIn 仅深链</p>
+
+      <div id="admin-stats" class="stats-row"></div>
+
+      <section class="admin-panel">
+        <h2>采集说明</h2>
+        <ul class="admin-list">
+          <li>本地运行 <code>npm run collect</code> 尝试抓取 Hitmarker / JobsDB / 公司 careers 公开页。</li>
+          <li>失败时保留 seed，日志写在 <code>logs/collect.log</code>。</li>
+          <li><strong>LinkedIn 不自动抓取</strong>——复制搜索深链，手动粘贴岗位 JSON。</li>
+        </ul>
+        <div class="deeplink-box">
+          <p>LinkedIn 深链（港区 Game Designer）：</p>
+          <a
+            href="https://www.linkedin.com/jobs/search/?keywords=Game%20Designer&location=Hong%20Kong"
+            target="_blank"
+            rel="noopener"
+            >打开 LinkedIn 搜索</a
+          >
+        </div>
+      </section>
+
+      <section class="admin-panel">
+        <h2>手动合并岗位（localStorage）</h2>
+        <p class="muted">粘贴岗位 JSON 数组或单条对象。字段：type, category, title, company, location, source, url, keywords, posted_at</p>
+        <textarea
+          id="job-json"
+          rows="12"
+          spellcheck="false"
+          placeholder='[{"type":"job","category":"游戏招聘","title":"...","company":"...","location":"Hong Kong","source":"手动","url":"https://...","keywords":["数值"],"posted_at":"2026-09-20"}]'
+        ></textarea>
+        <div class="admin-actions">
+          <button id="btn-merge" class="btn btn-primary" type="button">合并到本地</button>
+          <button id="btn-clear" class="btn btn-ghost" type="button">清空本地岗位</button>
+          <button id="btn-copy-sample" class="btn btn-ghost" type="button">填入示例</button>
+        </div>
+        <p id="admin-msg" class="admin-msg" role="status"></p>
+      </section>
+
+      <section class="admin-panel">
+        <h2>本地已存岗位</h2>
+        <pre id="local-jobs" class="code-block">[]</pre>
+      </section>
+    </main>
+
+  </body>
+</html>

@@ -1,0 +1,803 @@
+{
+  "partition": "ai",
+  "generated_at": "2026-10-14T10:00:49.246Z",
+  "next_update_at": "2026-10-14T13:00:00.000Z",
+  "cap": 30,
+  "cards": [
+    {
+      "id": "ai-community-ai-reddit-era-02319ac93d2b",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "How we helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
+      "summary": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
+      "source": "r/EntrepreneurRideAlong",
+      "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x4u6rp/how_we_helped_scale_a_travel_agency_from_3000_to/",
+      "published_at": "2026-10-13T11:32:21.000Z",
+      "tags": [
+        "reddit",
+        "r/EntrepreneurRideAlong",
+        "收入",
+        "定价",
+        "获客渠道",
+        "做法"
+      ],
+      "score": 86,
+      "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第1位 · 原帖含：收入、定价、获客渠道、做法",
+      "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x4u6rp/how_we_helped_scale_a_travel_agency_from_3000_to/",
+      "extra": {},
+      "blurb": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
+      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x4u6rp/how_we_helped_scale_a_travel_agency_from_3000_to/",
+      "name": "How we helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
+      "lang": "EN",
+      "posted_at": "2026-10-13",
+      "evidence_missing": false,
+      "_origin": "community_rss",
+      "_source_id": "ai-reddit-era",
+      "title_orig": "How we helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
+      "source_excerpt": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years. They were getting around 60-70 qualified inquiries a month from referrals and ads.. Here's how we did it: Six months later it's sitting at around $20k a month. of their WhatsApp chats and after some toiling around on reddit.",
+      "_feed_type": "reddit_rss",
+      "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+      "_score_raw": 76,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "_practical_delta": 10,
+      "summary_zh": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
+      "highlights": [
+        "They were getting around 60-70 qualified inquiries a month…",
+        "Here's how we did it…"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "worth",
+        "use": "找副业/创业做法参考时看：自述收入 $20,000 in monthly profit，渠道 referrals，定价 $3k a month",
+        "lines": {
+          "model": "原帖写到：「It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.」",
+          "value": "作者自述收入「$20,000 in monthly profit」；定价「$3k a month」；获客渠道「referrals」；做法「Here's how」",
+          "note": "数字均为发帖人自述，未经核实"
+        },
+        "evidence": [
+          "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
+          "$20,000 in monthly profit",
+          "$3k a month",
+          "referrals",
+          "Here's how"
+        ],
+        "point": "AI副业：自述收入 $20,000 in monthly profit，渠道 referrals",
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-community-ai-reddit-era-fb3c47d7471a",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
+      "summary": "Our latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe.",
+      "source": "r/EntrepreneurRideAlong",
+      "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x58c6l/we_finally_figured_out_how_to_get_customers_for/",
+      "published_at": "2026-10-13T20:49:32.000Z",
+      "tags": [
+        "reddit",
+        "r/EntrepreneurRideAlong",
+        "收入",
+        "踩坑/复盘"
+      ],
+      "score": 74,
+      "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第7位 · 原帖含：收入、踩坑/复盘",
+      "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x58c6l/we_finally_figured_out_how_to_get_customers_for/",
+      "extra": {},
+      "blurb": "Our latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe.",
+      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x58c6l/we_finally_figured_out_how_to_get_customers_for/",
+      "name": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
+      "lang": "EN",
+      "posted_at": "2026-10-13",
+      "evidence_missing": false,
+      "_origin": "community_rss",
+      "_source_id": "ai-reddit-era",
+      "title_orig": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
+      "source_excerpt": "Our latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe. We're also looking more seriously at churn. Our next goal is $5K MRR, but I don't want us to reach that point just by constantly replacing customers who leave.",
+      "_feed_type": "reddit_rss",
+      "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+      "_score_raw": 64,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "_practical_delta": 10,
+      "summary_zh": "Our latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe.",
+      "highlights": [
+        "We're also looking more seriously at churn.",
+        "Our next goal is $5K MRR…"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "worth",
+        "use": "找副业/创业做法参考时看：自述收入 $1K MRR，含踩坑复盘",
+        "lines": {
+          "value": "作者自述收入「$1K MRR」；踩坑/复盘「churn」",
+          "note": "数字均为发帖人自述，未经核实"
+        },
+        "evidence": [
+          "$1K MRR",
+          "churn"
+        ],
+        "point": "AI副业：自述收入 $1K MRR",
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-post-marc_louvion-21e883977fa1",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "I've made $3M with my 36 startups",
+      "summary": "通过36个创业项目赚了300万美元。",
+      "source": "@marc_louvion / Marc Lou",
+      "source_url": "https://marclou.beehiiv.com/p/i-ve-made-3m-with-my-36-startups",
+      "published_at": "2026-09-08T08:40:25.000Z",
+      "tags": [
+        "indie",
+        "ship",
+        "saas",
+        "SaaS"
+      ],
+      "score": 38,
+      "why": "独立/Agent：indie、ship；策展：ShipFast 等可售产品+高频 ship，直接对齐商业落地而非研究名声。",
+      "deep_link": "https://marclou.beehiiv.com/p/i-ve-made-3m-with-my-36-startups",
+      "extra": {},
+      "blurb": "通过36个创业项目赚了300万美元。",
+      "url": "https://marclou.beehiiv.com/p/i-ve-made-3m-with-my-36-startups",
+      "handle": "marc_louvion",
+      "name": "Marc Lou",
+      "lang": "EN",
+      "posted_at": "2026-09-08",
+      "tier": "S",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:marc_louvion",
+      "title_orig": "I've made $3M with my 36 startups",
+      "source_excerpt": "My 10-year solopreneur story.",
+      "person_id": "marc_louvion",
+      "person_handle": "marc_louvion",
+      "person_name": "Marc Lou",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://rss.beehiiv.com/feeds/eFrYnr889a.xml",
+      "_score_raw": 48,
+      "_decay_penalty": 20,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "ai_frame": {
+        "problem": null,
+        "model": null,
+        "proof": "$3M"
+      },
+      "_practical_delta": 10,
+      "summary_zh": "通过36个创业项目赚了300万美元。",
+      "highlights": [
+        "10年单干经历",
+        "36个创业项目"
+      ],
+      "summary_source": "local_llm",
+      "reader": {
+        "verdict": "worth",
+        "use": "找 AI 副业方向时看：一个人经营，公开收入 $3M",
+        "lines": {
+          "value": "真实收入数字（$3M）",
+          "scenario": "一个人经营——和你「非程序员、想一个人做副业」的处境接近"
+        },
+        "evidence": [
+          "made $3M",
+          "solopreneur"
+        ],
+        "point": "AI副业：有人公开收入 $3M，一个人经营",
+        "concrete": [
+          {
+            "kind": "money",
+            "quote": "$3M"
+          },
+          {
+            "kind": "quantity",
+            "quote": "36 startups"
+          }
+        ],
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-community-ai-reddit-era-1cf6342add8d",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "I opened a venue and spent over $15,000 on ads this year. Attendance is still unpredictable.",
+      "summary": "My biggest mistake was assuming that if I built something cool enough, people would just show up.",
+      "source": "r/EntrepreneurRideAlong",
+      "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5cl5q/i_opened_a_venue_and_spent_over_15000_on_ads_this/",
+      "published_at": "2026-10-13T23:53:49.000Z",
+      "tags": [
+        "reddit",
+        "r/EntrepreneurRideAlong",
+        "投入",
+        "踩坑/复盘",
+        "做法"
+      ],
+      "score": 81,
+      "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第5位 · 原帖含：投入、踩坑/复盘、做法",
+      "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5cl5q/i_opened_a_venue_and_spent_over_15000_on_ads_this/",
+      "extra": {},
+      "blurb": "My biggest mistake was assuming that if I built something cool enough, people would just show up.",
+      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5cl5q/i_opened_a_venue_and_spent_over_15000_on_ads_this/",
+      "name": "I opened a venue and spent over $15,000 on ads this year. Attendance is still unpredictable.",
+      "lang": "EN",
+      "posted_at": "2026-10-13",
+      "evidence_missing": false,
+      "_origin": "community_rss",
+      "_source_id": "ai-reddit-era",
+      "title_orig": "I opened a venue and spent over $15,000 on ads this year. Attendance is still unpredictable.",
+      "source_excerpt": "My biggest mistake was assuming that if I built something cool enough, people would just show up. Here's what I've tried so far:",
+      "_feed_type": "reddit_rss",
+      "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+      "_score_raw": 71,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "_practical_delta": 10,
+      "summary_zh": "My biggest mistake was assuming that if I built something cool enough, people would just show up.",
+      "highlights": [
+        "Here's what I've tried so far:"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "save",
+        "use": "避坑时看：投入 $15,000，含踩坑复盘，含具体做法",
+        "lines": {
+          "value": "投入「$15,000」；踩坑/复盘「mistake」；做法「Here's what」",
+          "note": "数字均为发帖人自述，未经核实"
+        },
+        "evidence": [
+          "$15,000",
+          "mistake",
+          "Here's what"
+        ],
+        "point": "AI副业：投入 $15,000",
+        "verdict_label": "收藏",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-post-nichepursuits-42549d21d42e",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
+      "summary": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
+      "source": "@nichepursuits / Niche Pursuits",
+      "source_url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
+      "published_at": "2026-10-07T14:02:14.000Z",
+      "tags": [
+        "公开营收",
+        "indie",
+        "saas",
+        "SaaS"
+      ],
+      "score": 78,
+      "why": "独立/Agent：公开营收、indie；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
+      "deep_link": "https://www.nichepursuits.com/maddox-schmidlkofer/",
+      "extra": {},
+      "blurb": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
+      "url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
+      "handle": "nichepursuits",
+      "name": "Niche Pursuits",
+      "lang": "EN",
+      "posted_at": "2026-10-07",
+      "tier": "A",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:nichepursuits",
+      "title_orig": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
+      "source_excerpt": "In this week's episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win. At 21, Maddox has already built a website generating $1,000 per day and sold it for $120,000. His current… The post How Maddox Schmidlkofer Bui",
+      "person_id": "nichepursuits",
+      "person_handle": "nichepursuits",
+      "person_name": "Niche Pursuits",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://www.nichepursuits.com/feed/",
+      "_score_raw": 68,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "ai_frame": {
+        "problem": null,
+        "model": null,
+        "proof": "$1,000"
+      },
+      "_practical_delta": 10,
+      "summary_zh": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
+      "highlights": [
+        "21岁Maddox Schmidlkofer，日入1000美元，12万美元。"
+      ],
+      "summary_source": "local_llm",
+      "reader": {
+        "verdict": "save",
+        "use": "找 AI 副业方向时看：公开收入 $1,000",
+        "lines": {
+          "value": "真实收入数字（$1,000）"
+        },
+        "evidence": [
+          "generating $1,000"
+        ],
+        "point": "AI副业：有人公开收入 $1,000",
+        "concrete": [
+          {
+            "kind": "money",
+            "quote": "$1,000"
+          }
+        ],
+        "verdict_label": "收藏",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-community-ai-hn-show-6bfaaf873eeb",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "summary": "Mac预算应用Pulse Local使用AI模型运行在用户机器上，支持同步银行交易",
+      "source": "Show HN",
+      "source_url": "https://pulseos.finance",
+      "published_at": "2026-10-13T23:13:23.000Z",
+      "tags": [
+        "hacker-news",
+        "Show HN",
+        "定价",
+        "踩坑/复盘"
+      ],
+      "score": 77,
+      "why": "公开社区帖 · Show HN 第2位 · 原帖含：定价、踩坑/复盘",
+      "deep_link": "https://pulseos.finance",
+      "extra": {},
+      "blurb": "Mac预算应用Pulse Local使用AI模型运行在用户机器上，支持同步银行交易",
+      "url": "https://pulseos.finance",
+      "name": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "lang": "EN",
+      "posted_at": "2026-10-13",
+      "evidence_missing": false,
+      "_origin": "community_rss",
+      "_source_id": "ai-hn-show",
+      "title_orig": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "source_excerpt": "An optional Connected mode (Sync Pass, $29/year) syncs US banks through Plaid; transactions pass through our server's memory and are not stored. The write-up covers how we test, the designs that failed, and the limits of the claim: The tuned weights are on Hugging Face (PulseOS/pulse-local-qwen3-0.6b).",
+      "_feed_type": "hn_rss",
+      "_feed_url": "https://hnrss.org/show?points=50",
+      "_score_raw": 67,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "_practical_delta": 10,
+      "summary_zh": "Mac预算应用Pulse Local使用AI模型运行在用户机器上，支持同步银行交易",
+      "highlights": [
+        "Pulse Local, AI模型, Mac预算应用, Hugging Face"
+      ],
+      "summary_source": "local_llm",
+      "reader": {
+        "verdict": "save",
+        "use": "避坑时看：定价 $29/year，含踩坑复盘",
+        "lines": {
+          "model": "原帖写到：「An optional Connected mode (Sync Pass, $29/year) syncs US banks through Plaid; transactions pass through our server's memory and are not stored.」",
+          "value": "定价「$29/year」；踩坑/复盘「failed」",
+          "note": "数字均为发帖人自述，未经核实"
+        },
+        "evidence": [
+          "An optional Connected mode (Sync Pass, $29/year) syncs US banks through Plaid; transactions pass through our server's memory and are not stored.",
+          "$29/year",
+          "failed"
+        ],
+        "point": "AI副业：定价 $29/year",
+        "verdict_label": "收藏",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-community-ai-reddit-saas-7d979928e640",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "I compared 10 AI assistants and I'm starting to question why we're still paying $20/month for AI",
+      "summary": "Basically these guys figured out that instead of charging users $20/month, the platform generates revenue from ads and shares a portion of that revenue with eligible users.",
+      "source": "r/SaaS",
+      "source_url": "https://www.reddit.com/r/SaaS/comments/1x5edg9/i_compared_10_ai_assistants_and_im_starting_to/",
+      "published_at": "2026-10-14T01:18:52.000Z",
+      "tags": [
+        "reddit",
+        "r/SaaS",
+        "投入",
+        "定价"
+      ],
+      "score": 75,
+      "why": "公开社区帖 · r/SaaS · top/day 第9位 · 原帖含：投入、定价",
+      "deep_link": "https://www.reddit.com/r/SaaS/comments/1x5edg9/i_compared_10_ai_assistants_and_im_starting_to/",
+      "extra": {},
+      "blurb": "Basically these guys figured out that instead of charging users $20/month, the platform generates revenue from ads and shares a portion of that revenue with eligible users.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1x5edg9/i_compared_10_ai_assistants_and_im_starting_to/",
+      "name": "I compared 10 AI assistants and I'm starting to question why we're still paying $20/month for AI",
+      "lang": "EN",
+      "posted_at": "2026-10-14",
+      "evidence_missing": false,
+      "_origin": "community_rss",
+      "_source_id": "ai-reddit-saas",
+      "title_orig": "I compared 10 AI assistants and I'm starting to question why we're still paying $20/month for AI",
+      "source_excerpt": "Basically these guys figured out that instead of charging users $20/month, the platform generates revenue from ads and shares a portion of that revenue with eligible users. Price to chat Free tier; Plus ~$20/mo Free tier; Pro ~$20/mo Free tier; AI Pro ~$20/mo Free, ad-supported 🏆 Best in class Free tier; Pro ~$20/mo Free tier; paid plans",
+      "_feed_type": "reddit_rss",
+      "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+      "_score_raw": 65,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "_practical_delta": 10,
+      "summary_zh": "Basically these guys figured out that instead of charging users $20/month, the platform generates revenue from ads and shares a portion of that revenue with eligible users.",
+      "highlights": [
+        "Price to chat Free tier; Plus ~$20/mo Free tier…"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "save",
+        "use": "看真实转化/成本数据时看：投入 $20，定价 $20/month",
+        "lines": {
+          "model": "原帖写到：「I compared 10 AI assistants and I'm starting to question why we're still paying $20/month for AI」",
+          "value": "投入「$20」；定价「$20/month」",
+          "note": "数字均为发帖人自述，未经核实"
+        },
+        "evidence": [
+          "I compared 10 AI assistants and I'm starting to question why we're still paying $20/month for AI",
+          "$20",
+          "$20/month"
+        ],
+        "point": "AI副业：投入 $20",
+        "verdict_label": "收藏",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-community-ai-reddit-saas-64d10d27818c",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "Update 27 Signups (4 Paying Users) 26 Days Later (since initially posting in here)",
+      "summary": "用户平台新增4位付费用户，26天前开始运营。",
+      "source": "r/SaaS",
+      "source_url": "https://www.reddit.com/r/SaaS/comments/1x5e8me/update_27_signups_4_paying_users_26_days_later/",
+      "published_at": "2026-10-14T01:12:15.000Z",
+      "tags": [
+        "reddit",
+        "r/SaaS",
+        "用户/流量数",
+        "做法"
+      ],
+      "score": 71,
+      "why": "公开社区帖 · r/SaaS · top/day 第14位 · 原帖含：用户/流量数、做法",
+      "deep_link": "https://www.reddit.com/r/SaaS/comments/1x5e8me/update_27_signups_4_paying_users_26_days_later/",
+      "extra": {},
+      "blurb": "用户平台新增4位付费用户，26天前开始运营。",
+      "url": "https://www.reddit.com/r/SaaS/comments/1x5e8me/update_27_signups_4_paying_users_26_days_later/",
+      "name": "Update 27 Signups (4 Paying Users) 26 Days Later (since initially posting in here)",
+      "lang": "EN",
+      "posted_at": "2026-10-14",
+      "evidence_missing": false,
+      "_origin": "community_rss",
+      "_source_id": "ai-reddit-saas",
+      "title_orig": "Update 27 Signups (4 Paying Users) 26 Days Later (since initially posting in here)",
+      "source_excerpt": "Here's what I changed I went over to a competitor and copied 1 feature they had from their site then went back and removed features users didn't use at all on my site. Ive posted in here a couple times my platform gained 4 paying users over the past week.",
+      "_feed_type": "reddit_rss",
+      "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+      "_score_raw": 61,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "_practical_delta": 10,
+      "summary_zh": "用户平台新增4位付费用户，26天前开始运营。",
+      "highlights": [
+        "平台新增付费用户",
+        "付费用户来自竞争对手"
+      ],
+      "summary_source": "local_llm",
+      "reader": {
+        "verdict": "save",
+        "use": "看真实转化/成本数据时看：数据 27 Signups，含具体做法",
+        "lines": {
+          "value": "数据「27 Signups」；做法「Here's what」",
+          "note": "数字均为发帖人自述，未经核实"
+        },
+        "evidence": [
+          "27 Signups",
+          "Here's what"
+        ],
+        "point": "AI副业：数据 27 Signups",
+        "verdict_label": "收藏",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-post-nichepursuits-3d2ee4b3faae",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "How Jason Zigelbaum Is Running a Nearly $2M ARR SaaS as a Solo Founder",
+      "summary": "Jason Zigelbaum作为单人创始人，通过非传统策略实现SaaS业务近200万美元收入。",
+      "source": "@nichepursuits / Niche Pursuits",
+      "source_url": "https://www.nichepursuits.com/jason-zigelbaum/",
+      "published_at": "2026-09-30T14:02:25.000Z",
+      "tags": [
+        "公开营收",
+        "indie",
+        "arr",
+        "SaaS"
+      ],
+      "score": 70,
+      "why": "独立/Agent：公开营收、indie；加分：AI建造/工具实践；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
+      "deep_link": "https://www.nichepursuits.com/jason-zigelbaum/",
+      "extra": {},
+      "blurb": "Jason Zigelbaum作为单人创始人，通过非传统策略实现SaaS业务近200万美元收入。",
+      "url": "https://www.nichepursuits.com/jason-zigelbaum/",
+      "handle": "nichepursuits",
+      "name": "Niche Pursuits",
+      "lang": "EN",
+      "posted_at": "2026-09-30",
+      "tier": "A",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:nichepursuits",
+      "title_orig": "How Jason Zigelbaum Is Running a Nearly $2M ARR SaaS as a Solo Founder",
+      "source_excerpt": "In this week's episode of the Niche Pursuits podcast, Jason Zigelbaum explains how he has grown Zigpoll into a one-person SaaS company approaching $2 million in annual revenue. Rather than relying on a large team or flashy marketing campaigns, he… The post How Jason Zigelbaum Is",
+      "person_id": "nichepursuits",
+      "person_handle": "nichepursuits",
+      "person_name": "Niche Pursuits",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://www.nichepursuits.com/feed/",
+      "_score_raw": 68,
+      "_decay_penalty": 8,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "ai_frame": {
+        "problem": null,
+        "model": null,
+        "proof": "$2M ARR"
+      },
+      "_practical_delta": 10,
+      "summary_zh": "Jason Zigelbaum作为单人创始人，通过非传统策略实现SaaS业务近200万美元收入。",
+      "highlights": [
+        "Jason Zigelbaum, SaaS, $2 million ARR, …"
+      ],
+      "summary_source": "local_llm",
+      "reader": {
+        "verdict": "save",
+        "use": "找 AI 副业方向时看：公开规模 $2M ARR",
+        "lines": {
+          "value": "真实收入数字（公开规模 $2M ARR）"
+        },
+        "evidence": [
+          "$2M ARR"
+        ],
+        "point": "AI副业：公开规模 $2M ARR",
+        "concrete": [
+          {
+            "kind": "money",
+            "quote": "$2M"
+          }
+        ],
+        "verdict_label": "收藏",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-post-nichepursuits-e14eecf2b5e5",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "How Besmir Bregasi Built ZeroRank in 3 Months and Reached Mid-Six Figures in ARR",
+      "summary": "零排名创始人Bregasi在3个月内实现ARR60万，分享影响品牌在ChatGPT等LLM搜索体验中被引用的关键因素。",
+      "source": "@nichepursuits / Niche Pursuits",
+      "source_url": "https://www.nichepursuits.com/besmir-bregasi/",
+      "published_at": "2026-09-23T14:02:08.000Z",
+      "tags": [
+        "公开营收",
+        "indie",
+        "arr",
+        "SaaS"
+      ],
+      "score": 62,
+      "why": "独立/Agent：公开营收、indie；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
+      "deep_link": "https://www.nichepursuits.com/besmir-bregasi/",
+      "extra": {},
+      "blurb": "零排名创始人Bregasi在3个月内实现ARR60万，分享影响品牌在ChatGPT等LLM搜索体验中被引用的关键因素。",
+      "url": "https://www.nichepursuits.com/besmir-bregasi/",
+      "handle": "nichepursuits",
+      "name": "Niche Pursuits",
+      "lang": "EN",
+      "posted_at": "2026-09-23",
+      "tier": "A",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:nichepursuits",
+      "title_orig": "How Besmir Bregasi Built ZeroRank in 3 Months and Reached Mid-Six Figures in ARR",
+      "source_excerpt": "In this episode, Besmir Bregasi and I discuss what appears to influence whether brands get cited in ChatGPT, Google AI Overviews, and other LLM-driven search experiences in 2026. As the founder of ZeroRank, Besmir has access to visibility data across… The post How Besmir Bregasi",
+      "person_id": "nichepursuits",
+      "person_handle": "nichepursuits",
+      "person_name": "Niche Pursuits",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://www.nichepursuits.com/feed/",
+      "_score_raw": 60,
+      "_decay_penalty": 8,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "_practical_delta": 10,
+      "summary_zh": "零排名创始人Bregasi在3个月内实现ARR60万，分享影响品牌在ChatGPT等LLM搜索体验中被引用的关键因素。",
+      "highlights": [
+        "3个月",
+        "ARR60万",
+        "影响品牌被引用的关键因素"
+      ],
+      "summary_source": "local_llm",
+      "reader": {
+        "verdict": "save",
+        "use": "找 AI 副业方向时看：公开规模「Mid-Six Figures in ARR」",
+        "lines": {
+          "value": "真实收入数字（公开规模「Mid-Six Figures in ARR」）"
+        },
+        "evidence": [
+          "Reached Mid-Six Figures in ARR"
+        ],
+        "point": "AI副业：公开规模「Mid-Six Figures in ARR」",
+        "concrete": [
+          {
+            "kind": "quantity",
+            "quote": "3 Months"
+          }
+        ],
+        "verdict_label": "收藏",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-post-marc_louvion-a6e12e89f7f8",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "I vibe-coded $330K in 9 months",
+      "summary": "9 个月内赚了 33 万美元，毫无目标。",
+      "source": "@marc_louvion / Marc Lou",
+      "source_url": "https://marclou.beehiiv.com/p/i-vibe-coded-330k-in-9-months",
+      "published_at": "2026-09-01T13:14:00.000Z",
+      "tags": [
+        "indie",
+        "vibe-coded",
+        "ship",
+        "SaaS"
+      ],
+      "score": 46,
+      "why": "独立/Agent：indie、vibe-coded；加分：AI建造/工具实践；策展：ShipFast 等可售产品+高频 ship，直接对齐商业落地而非研究名声。",
+      "deep_link": "https://marclou.beehiiv.com/p/i-vibe-coded-330k-in-9-months",
+      "extra": {},
+      "blurb": "9 个月内赚了 33 万美元，毫无目标。",
+      "url": "https://marclou.beehiiv.com/p/i-vibe-coded-330k-in-9-months",
+      "handle": "marc_louvion",
+      "name": "Marc Lou",
+      "lang": "EN",
+      "posted_at": "2026-09-01",
+      "tier": "S",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:marc_louvion",
+      "title_orig": "I vibe-coded $330K in 9 months",
+      "source_excerpt": "And had no idea where I was going all along.",
+      "person_id": "marc_louvion",
+      "person_handle": "marc_louvion",
+      "person_name": "Marc Lou",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://rss.beehiiv.com/feeds/eFrYnr889a.xml",
+      "_score_raw": 56,
+      "_decay_penalty": 20,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "ai_frame": {
+        "problem": null,
+        "model": null,
+        "proof": "$330K in 9 months"
+      },
+      "_practical_delta": 10,
+      "summary_zh": "9 个月内赚了 33 万美元，毫无目标。",
+      "highlights": [
+        "9 months, $330K, no idea where I was go…"
+      ],
+      "summary_source": "local_llm",
+      "reader": {
+        "verdict": "save",
+        "use": "找 AI 副业方向时看：公开收入 $330K in 9 months",
+        "lines": {
+          "value": "真实收入数字（$330K in 9 months）"
+        },
+        "evidence": [
+          "vibe-coded $330K in 9 months"
+        ],
+        "point": "AI副业：有人公开收入 $330K in 9 months",
+        "concrete": [
+          {
+            "kind": "money",
+            "quote": "$330K"
+          },
+          {
+            "kind": "quantity",
+            "quote": "9 months"
+          }
+        ],
+        "verdict_label": "收藏",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-post-thepatwalls-e288f00c6738",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!! Insane story, and they wr",
+      "summary": "搜索引擎营销（SEO）已经死亡，连发明它的公司也不例外。@kippbodnar指出，HubSpot在一年内失去了约1.4亿次搜索访问。这是一个疯狂的故事，他们还写了一本书来解释如何适应。简而言之，这是YouTube和有机地出现在大型语言模…",
+      "source": "@thepatwalls / Pat Walls",
+      "source_url": "https://x.com/thepatwalls/status/2102384016661844445",
+      "published_at": "2026-09-22T13:06:24.000Z",
+      "tags": [
+        "X动态",
+        "公开营收",
+        "indie",
+        "llm",
+        "SaaS"
+      ],
+      "score": 54,
+      "why": "独立/Agent：公开营收、indie；策展：长期发布带营收数字的真实创业案例（做了什么、卖给谁、怎么赚钱）。",
+      "deep_link": "https://x.com/thepatwalls/status/2102384016661844445",
+      "extra": {},
+      "blurb": "搜索引擎营销（SEO）已经死亡，连发明它的公司也不例外。@kippbodnar指出，HubSpot在一年内失去了约1.4亿次搜索访问。这是一个疯狂的故事，他们还写了一本书来解释如何适应。简而言之，这是YouTube和有机地出现在大型语言模…",
+      "url": "https://x.com/thepatwalls/status/2102384016661844445",
+      "handle": "thepatwalls",
+      "name": "Pat Walls",
+      "lang": "EN",
+      "posted_at": "2026-09-22",
+      "tier": "A",
+      "evidence_missing": false,
+      "_origin": "kol_x_api",
+      "_source_id": "kol:thepatwalls",
+      "title_orig": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!! Insane story, and they wr",
+      "source_excerpt": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!! Insane story, and they wrote a book about how they adapted. TLDR it's creators, YouTube, and showing up organically in LLMs. (Starter Story https",
+      "highlights": [
+        "According to @kippbodnar, HubSpot lost …",
+        "Insane story, and they wrote a book abo…"
+      ],
+      "summary_zh": "搜索引擎营销（SEO）已经死亡，连发明它的公司也不例外。@kippbodnar指出，HubSpot在一年内失去了约1.4亿次搜索访问。这是一个疯狂的故事，他们还写了一本书来解释如何适应。简而言之，这是YouTube和有机地出现在大型语言模…",
+      "summary_source": "local_llm",
+      "person_id": "thepatwalls",
+      "person_handle": "thepatwalls",
+      "person_name": "Pat Walls",
+      "_feed_type": "x_api",
+      "_feed_url": "x://api/users/thepatwalls/tweets",
+      "_score_raw": 52,
+      "_decay_penalty": 8,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "_practical_delta": 10,
+      "reader": {
+        "verdict": "watch",
+        "use": "判断 AI 副业怎么获客时看：搜索流量掉了 140 MILLION，新渠道是创作者/YouTube/AI 搜索",
+        "lines": {
+          "value": "搜索流量掉了 140 MILLION；新渠道是创作者/YouTube/AI 搜索"
+        },
+        "evidence": [
+          "lost 140 MILLION search visits",
+          "it's creators, YouTube, and showing up organically in LLMs"
+        ],
+        "point": "AI副业：搜索流量掉了 140 MILLION",
+        "verdict_label": "观望",
+        "title": ""
+      }
+    }
+  ]
+}

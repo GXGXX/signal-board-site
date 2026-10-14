@@ -1,0 +1,261 @@
+{
+  "partition": "growth",
+  "generated_at": "2026-10-14T10:00:49.246Z",
+  "next_update_at": "2026-10-14T13:00:00.000Z",
+  "cap": 30,
+  "cards": [
+    {
+      "id": "growth-post-developgoodhabits-2adf829f3a8d",
+      "partition": "growth",
+      "type": "post",
+      "category": "个人提升",
+      "title": "13 Books About Life Everyone Should Read at Least Once",
+      "summary": "阅读13本书，开启人生新篇章",
+      "source": "@developgoodhabits / Develop Good Habits",
+      "source_url": "https://www.developgoodhabits.com/books-life/",
+      "published_at": "2026-10-12T06:13:01.000Z",
+      "tags": [
+        "习惯",
+        "学习"
+      ],
+      "score": 79,
+      "why": "成长栏目：习惯；策展：习惯/目标类步骤清单文章，标题写明步骤数。",
+      "deep_link": "https://www.developgoodhabits.com/books-life/",
+      "extra": {},
+      "blurb": "阅读13本书，开启人生新篇章",
+      "url": "https://www.developgoodhabits.com/books-life/",
+      "handle": "developgoodhabits",
+      "name": "Develop Good Habits",
+      "lang": "EN",
+      "posted_at": "2026-10-12",
+      "tier": "B",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:developgoodhabits",
+      "title_orig": "13 Books About Life Everyone Should Read at Least Once",
+      "source_excerpt": "Have you ever stopped to wonder what life is really all about? Maybe you're searching for your purpose, trying to make sense of a difficult experience, or simply curious about how to live a more meaningful life. These are questions most of us wrestle with at some point. And while",
+      "person_id": "developgoodhabits",
+      "person_handle": "developgoodhabits",
+      "person_name": "Develop Good Habits",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://www.developgoodhabits.com/feed/",
+      "_score_raw": 63,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_practical": true,
+      "_practical_delta": 16,
+      "summary_zh": "阅读13本书，开启人生新篇章",
+      "highlights": [
+        "探索生命真谛",
+        "寻找人生意义",
+        "应对困难经验"
+      ],
+      "summary_source": "local_llm",
+      "reader": {
+        "verdict": "worth",
+        "use": "想多读书、读得更有收获时看：讲具体方法",
+        "lines": {
+          "scenario": "想多读书、读得更有收获时",
+          "value": "讲具体方法"
+        },
+        "evidence": [
+          "Books",
+          "how to"
+        ],
+        "point": "成长：想多读书、读得更有收获，讲具体方法",
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    },
+    {
+      "id": "growth-post-bakadesuyo-36eabbac6877",
+      "partition": "growth",
+      "type": "post",
+      "category": "个人提升",
+      "title": "How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory",
+      "summary": "利用博弈论6个秘诀避免被剥削",
+      "source": "@bakadesuyo / Eric Barker (Barking Up The Wrong Tree)",
+      "source_url": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
+      "published_at": "2026-09-27T16:25:55.000Z",
+      "tags": [
+        "习惯",
+        "决策"
+      ],
+      "score": 63,
+      "why": "成长栏目：习惯；策展：每篇把学术研究整理成 N 条可执行要点，标题即写明数量。",
+      "deep_link": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
+      "extra": {},
+      "blurb": "利用博弈论6个秘诀避免被剥削",
+      "url": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
+      "handle": "bakadesuyo",
+      "name": "Eric Barker (Barking Up The Wrong Tree)",
+      "lang": "EN",
+      "posted_at": "2026-09-27",
+      "tier": "A",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:bakadesuyo",
+      "title_orig": "How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory",
+      "source_excerpt": "You show up to the negotiation wanting to be reasonable. You’ve prepared several ways to demonstrate this, all of which involve receiving less. To make it worse, you’re dealing with the kind of person who’d happily disconnect an orphan’s ventilator to charge his phone. He asks fo",
+      "person_id": "bakadesuyo",
+      "person_handle": "bakadesuyo",
+      "person_name": "Eric Barker (Barking Up The Wrong Tree)",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://www.bakadesuyo.com/feed/",
+      "_score_raw": 55,
+      "_decay_penalty": 8,
+      "_decay_exempt": null,
+      "_practical": true,
+      "_practical_delta": 16,
+      "summary_zh": "利用博弈论6个秘诀避免被剥削",
+      "highlights": [
+        "准备多种示弱策略，面对贪婪者要保持冷静"
+      ],
+      "summary_source": "local_llm",
+      "title_zh": "如何避免被利用：从博弈论中获得6个秘诀",
+      "reader": {
+        "verdict": "worth",
+        "use": "要做决策、谈判或制定策略时看：讲具体方法，给了 6 条要点",
+        "lines": {
+          "scenario": "要做决策、谈判或制定策略时",
+          "value": "讲具体方法，给了 6 条要点"
+        },
+        "evidence": [
+          "Game Theory",
+          "How To",
+          "6 Secrets"
+        ],
+        "point": "成长：要做决策、谈判或制定策略，讲具体方法",
+        "verdict_label": "值得看",
+        "title": "如何避免被利用：从博弈论中获得6个秘诀"
+      }
+    },
+    {
+      "id": "growth-post-ScottHYoung-d22627fdeb41",
+      "partition": "growth",
+      "type": "post",
+      "category": "个人提升",
+      "title": "How to stop forgetting what you read",
+      "summary": "The decisive step for long-term retention of what you read occurs long before you open the book.",
+      "source": "@ScottHYoung / Scott Young",
+      "source_url": "https://www.scotthyoung.com/blog/2026/09/14/stop-forgetting-what-you-read/",
+      "published_at": "2026-09-15T03:58:24.000Z",
+      "tags": [
+        "认知",
+        "学习"
+      ],
+      "score": 53,
+      "why": "策展成长账号近期帖；策展：可复用学习/元认知框架，对齐认知与解题，非鸡汤。",
+      "deep_link": "https://www.scotthyoung.com/blog/2026/09/14/stop-forgetting-what-you-read/",
+      "extra": {},
+      "blurb": "The decisive step for long-term retention of what you read occurs long before you open the book.",
+      "url": "https://www.scotthyoung.com/blog/2026/09/14/stop-forgetting-what-you-read/",
+      "handle": "ScottHYoung",
+      "name": "Scott Young",
+      "lang": "EN",
+      "posted_at": "2026-09-15",
+      "tier": "A",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:ScottHYoung",
+      "title_orig": "How to stop forgetting what you read",
+      "source_excerpt": "The decisive step for long-term retention of what you read occurs long before you open the book. The post How to stop forgetting what you read appeared first on Scott H Young .",
+      "person_id": "ScottHYoung",
+      "person_handle": "ScottHYoung",
+      "person_name": "Scott Young",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://www.scotthyoung.com/blog/feed/",
+      "_score_raw": 45,
+      "_decay_penalty": 8,
+      "_decay_exempt": null,
+      "_practical": true,
+      "_practical_delta": 16,
+      "summary_zh": "The decisive step for long-term retention of what you read occurs long before you open the book.",
+      "highlights": [
+        "来源：Scott Young"
+      ],
+      "summary_source": "fallback",
+      "title_zh": "如何防止读过的东西忘掉",
+      "reader": {
+        "verdict": "worth",
+        "use": "读书读完就忘时看：讲具体方法",
+        "lines": {
+          "scenario": "读书读完就忘时",
+          "value": "讲具体方法"
+        },
+        "evidence": [
+          "read",
+          "forgetting",
+          "How to"
+        ],
+        "point": "成长：读书读完就忘，讲具体方法",
+        "verdict_label": "值得看",
+        "title": "如何防止读过的东西忘掉"
+      }
+    },
+    {
+      "id": "growth-post-bakadesuyo-534225020d03",
+      "partition": "growth",
+      "type": "post",
+      "category": "个人提升",
+      "title": "How To Be Strategic: 5 Secrets From History’s Greatest General",
+      "summary": "学会战略：历史最佳将领的5个秘诀",
+      "source": "@bakadesuyo / Eric Barker (Barking Up The Wrong Tree)",
+      "source_url": "https://bakadesuyo.com/2026/08/how-to-be-strategic/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-be-strategic",
+      "published_at": "2026-08-30T19:30:56.000Z",
+      "tags": [
+        "习惯",
+        "决策"
+      ],
+      "score": 39,
+      "why": "成长栏目：习惯；策展：每篇把学术研究整理成 N 条可执行要点，标题即写明数量。",
+      "deep_link": "https://bakadesuyo.com/2026/08/how-to-be-strategic/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-be-strategic",
+      "extra": {},
+      "blurb": "学会战略：历史最佳将领的5个秘诀",
+      "url": "https://bakadesuyo.com/2026/08/how-to-be-strategic/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-be-strategic",
+      "handle": "bakadesuyo",
+      "name": "Eric Barker (Barking Up The Wrong Tree)",
+      "lang": "EN",
+      "posted_at": "2026-08-30",
+      "tier": "A",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:bakadesuyo",
+      "title_orig": "How To Be Strategic: 5 Secrets From History’s Greatest General",
+      "source_excerpt": "We don’t think about it much, but a surprising amount of life involves strategy. Career goals. Negotiating salary and major purchases. And the near-constant attempts at persuading others that we engage in every day. So how do we get better at strategy? Well, we could do a lot wor",
+      "person_id": "bakadesuyo",
+      "person_handle": "bakadesuyo",
+      "person_name": "Eric Barker (Barking Up The Wrong Tree)",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://www.bakadesuyo.com/feed/",
+      "_score_raw": 43,
+      "_decay_penalty": 20,
+      "_decay_exempt": null,
+      "_practical": true,
+      "_practical_delta": 16,
+      "summary_zh": "学会战略：历史最佳将领的5个秘诀",
+      "highlights": [
+        "We don’t think about it much, but a sur…",
+        "Career goals",
+        "Negotiating salary and major purchases"
+      ],
+      "summary_source": "local_llm",
+      "reader": {
+        "verdict": "worth",
+        "use": "要做决策、谈判或制定策略时看：讲具体方法，给了 5 条要点",
+        "lines": {
+          "scenario": "要做决策、谈判或制定策略时",
+          "value": "讲具体方法，给了 5 条要点"
+        },
+        "evidence": [
+          "Strategic",
+          "How To",
+          "5 Secrets"
+        ],
+        "point": "成长：要做决策、谈判或制定策略，讲具体方法",
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    }
+  ]
+}

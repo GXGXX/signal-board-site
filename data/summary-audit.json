@@ -1,0 +1,514 @@
+{
+  "updated_at": "2026-10-14T10:00:49.246Z",
+  "note": "摘要/用途行数字核对：生成的中文里出现的数字、金额、比例、周期必须能在原文（标题+摘要+正文）找到；找不到的该行被拦下，改用规则摘要（原文原句）。stage: llm_output=模型刚生成即被拒；final_pass=缓存或其它路径的摘要被兜底拦下；reader=用途行/要点行。",
+  "last_run_blocked": 0,
+  "entries": [
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/",
+      "title": "Hopefully I can be debt free before 2030",
+      "field": "summary_zh",
+      "rejected": "个人每月还款1206元，实际支付1550元，33万元医疗贷款，税后净收入92145元。",
+      "unsupported": [
+        "1206元",
+        "1550元",
+        "33万元",
+        "92145元"
+      ],
+      "first_seen": "2026-10-14T05:55:16.084Z",
+      "last_seen": "2026-10-14T05:55:16.084Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.reddit.com/r/debtfree/comments/1wkiw8i/the_things_i_cut_out_to_save_money_and_pay_off/",
+      "title": "The things I cut out to save money and pay off debt quicker",
+      "field": "summary_zh",
+      "rejected": "省下200元，自己做汽车保养，咖啡价格从40元降至7元。",
+      "unsupported": [
+        "200元",
+        "40元",
+        "7元"
+      ],
+      "first_seen": "2026-10-14T05:55:16.084Z",
+      "last_seen": "2026-10-14T05:55:16.084Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "ai",
+      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x4jo6i/2_years_of_building_a_consumer_app_to_5k_users/",
+      "title": "2 years of building a consumer app to 5k users and $165k in GMV.",
+      "field": "summary_zh",
+      "rejected": "Chipp 的成长历程：从 2 万用户和 $165k GMV 到 5k 用户和 $165k GMV。",
+      "unsupported": [
+        "2 万"
+      ],
+      "first_seen": "2026-10-13T19:50:36.423Z",
+      "last_seen": "2026-10-13T19:50:36.423Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "ai",
+      "url": "https://www.reddit.com/r/SaaS/comments/1x4310s/paid_99_for_an_seo_tool_making_20k_mrr_i_got/",
+      "title": "paid $99 for an SEO tool making $20k MRR (I got scammed..)",
+      "field": "summary_zh",
+      "rejected": "SEO工具投资99美元，实际收入20万美元，我被骗了。",
+      "unsupported": [
+        "20万美元"
+      ],
+      "first_seen": "2026-10-12T21:39:43.877Z",
+      "last_seen": "2026-10-12T21:39:43.877Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "ai",
+      "url": "https://www.reddit.com/r/SaaS/comments/1x4310s/paid_99_for_an_seo_tool_making_20k_mrr_i_got/",
+      "title": "paid $99 for an SEO tool making $20k MRR (I got scammed..)",
+      "field": "summary_zh",
+      "rejected": "被骗花了99美元，获得20万美元收入的SEO工具。",
+      "unsupported": [
+        "20万美元"
+      ],
+      "first_seen": "2026-10-12T21:38:40.494Z",
+      "last_seen": "2026-10-12T21:38:40.494Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "ai",
+      "url": "https://www.reddit.com/r/SaaS/comments/1x3d6xy/im_selling_seoloupe_my_seo_audit_saas_i_built_as/",
+      "title": "I’m selling SeoLoupe, my SEO audit SaaS I built as a solo founder",
+      "field": "summary_zh",
+      "rejected": "初创者单人创立的SEO审计SaaS，月收入85万美元，用户2800，访客3000-4000。",
+      "unsupported": [
+        "85万美元"
+      ],
+      "first_seen": "2026-10-12T07:05:01.890Z",
+      "last_seen": "2026-10-12T07:05:01.890Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "ai",
+      "url": "https://www.reddit.com/r/SaaS/comments/1x3d6xy/im_selling_seoloupe_my_seo_audit_saas_i_built_as/",
+      "title": "I’m selling SeoLoupe, my SEO audit SaaS I built as a solo founder",
+      "field": "summary_zh",
+      "rejected": "SEO审计SaaS，月收入85万美元，用户2800，月访客3000-4000。",
+      "unsupported": [
+        "85万美元"
+      ],
+      "first_seen": "2026-10-12T07:03:31.454Z",
+      "last_seen": "2026-10-12T07:03:31.454Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.reddit.com/r/debtfree/comments/1wkiw8i/the_things_i_cut_out_to_save_money_and_pay_off/",
+      "title": "The things I cut out to save money and pay off debt quicker",
+      "field": "summary_zh",
+      "rejected": "省下200元，自己做汽车保养，咖啡成本从40元/周降至7元/周。",
+      "unsupported": [
+        "200元",
+        "40元",
+        "7元"
+      ],
+      "first_seen": "2026-10-04T06:41:36.773Z",
+      "last_seen": "2026-10-11T17:59:59.596Z",
+      "seen_count": 2
+    },
+    {
+      "stage": "llm_output",
+      "partition": "ai",
+      "url": "https://www.reddit.com/r/SaaS/comments/1x31j6a/day1_of_growing_my_saas_from_0_to_100_mrr_no/",
+      "title": "Day-1 of growing my SaaS from $0 to $100 MRR (No promotion)",
+      "field": "summary_zh",
+      "rejected": "通过AI搜索获客，从0元到100MRR仅18元收入",
+      "unsupported": [
+        "0元",
+        "18元"
+      ],
+      "first_seen": "2026-10-11T17:59:59.596Z",
+      "last_seen": "2026-10-11T17:59:59.596Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "ai",
+      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x1vm08/how_i_make_10kmonth_with_instagram_pages_ama/",
+      "title": "How I make $10k/month with Instagram pages - AMA",
+      "field": "summary_zh",
+      "rejected": "利用自动旅行指南获100-120日均线索，每月收入约4000元。",
+      "unsupported": [
+        "4000元"
+      ],
+      "first_seen": "2026-10-10T17:45:58.010Z",
+      "last_seen": "2026-10-10T17:45:58.010Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "ai",
+      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x1vm08/how_i_make_10kmonth_with_instagram_pages_ama/",
+      "title": "How I make $10k/month with Instagram pages - AMA",
+      "field": "summary_zh",
+      "rejected": "利用自动旅行指南获100-120个潜在客户，每月收入约4000元。",
+      "unsupported": [
+        "4000元"
+      ],
+      "first_seen": "2026-10-10T17:44:35.242Z",
+      "last_seen": "2026-10-10T17:44:35.242Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.reddit.com/r/debtfree/comments/1wkiw8i/the_things_i_cut_out_to_save_money_and_pay_off/",
+      "title": "The things I cut out to save money and pay off debt quicker",
+      "field": "summary_zh",
+      "rejected": "省下200元，自己做车美容，咖啡成本从40元/周降至7元/周。",
+      "unsupported": [
+        "200元",
+        "40元",
+        "7元"
+      ],
+      "first_seen": "2026-10-10T06:48:17.997Z",
+      "last_seen": "2026-10-10T06:48:17.997Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "ai",
+      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1wzuewz/i_built_a_boring_database_of_reddit_complaints/",
+      "title": "I built a boring database of reddit complaints. last month it made $3,200",
+      "field": "summary_zh",
+      "rejected": "AI改写了我 Reddit 投诉数据库，月收入3200元。",
+      "unsupported": [
+        "3200元"
+      ],
+      "first_seen": "2026-10-08T07:09:31.066Z",
+      "last_seen": "2026-10-08T07:09:31.066Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.reddit.com/r/debtfree/comments/1wkiw8i/the_things_i_cut_out_to_save_money_and_pay_off/",
+      "title": "The things I cut out to save money and pay off debt quicker",
+      "field": "summary_zh",
+      "rejected": "省下200元，自己做汽车保养，咖啡成本从每周40元降到每周7元。",
+      "unsupported": [
+        "200元",
+        "40元",
+        "7元"
+      ],
+      "first_seen": "2026-10-06T08:41:04.819Z",
+      "last_seen": "2026-10-06T08:41:04.819Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.reddit.com/r/debtfree/comments/1wkiw8i/the_things_i_cut_out_to_save_money_and_pay_off/",
+      "title": "The things I cut out to save money and pay off debt quicker",
+      "field": "summary_zh",
+      "rejected": "省下200美元，自己做汽车保养，咖啡从每周40元降到每周7元。",
+      "unsupported": [
+        "40元",
+        "7元"
+      ],
+      "first_seen": "2026-10-02T18:19:24.235Z",
+      "last_seen": "2026-10-06T07:18:54.693Z",
+      "seen_count": 2
+    },
+    {
+      "stage": "final_pass",
+      "partition": "ai",
+      "url": "https://www.reddit.com/r/SaaS/comments/1wxbkhy/never_focus_on_seo_until_1k_mrr/",
+      "title": "Never focus on SEO until $1k mrr",
+      "field": "highlights",
+      "rejected": "来源：Never focus on SEO until $1…",
+      "unsupported": [
+        "$1"
+      ],
+      "replacement": null,
+      "first_seen": "2026-10-04T17:23:48.948Z",
+      "last_seen": "2026-10-05T06:39:17.007Z",
+      "seen_count": 4
+    },
+    {
+      "stage": "llm_output",
+      "partition": "ai",
+      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1wxymko/hitting_25kmo_and_going_downhill/",
+      "title": "Hitting $25K/mo and going downhill",
+      "field": "summary_zh",
+      "rejected": "项目成功突破25K/月，目标50K/月，长期目标1000万美元收入。",
+      "unsupported": [
+        "1000万美元"
+      ],
+      "first_seen": "2026-10-05T06:39:17.007Z",
+      "last_seen": "2026-10-05T06:39:17.007Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.iwillteachyoutoberich.com/277-he-has-100k-of-debt-should-i-still-marry-him/",
+      "title": "277. “He has $100K of debt. Should I still marry him?”",
+      "field": "summary_zh",
+      "rejected": "债务100万，是否值得结婚？",
+      "unsupported": [
+        "100万"
+      ],
+      "first_seen": "2026-10-03T06:07:44.729Z",
+      "last_seen": "2026-10-05T06:37:43.075Z",
+      "seen_count": 4
+    },
+    {
+      "stage": "llm_output",
+      "partition": "ai",
+      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1wxymko/hitting_25kmo_and_going_downhill/",
+      "title": "Hitting $25K/mo and going downhill",
+      "field": "summary_zh",
+      "rejected": "收入突破25K，目标50K，ARR为100K。",
+      "unsupported": [
+        "100K"
+      ],
+      "first_seen": "2026-10-05T06:37:43.075Z",
+      "last_seen": "2026-10-05T06:37:43.075Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.iwillteachyoutoberich.com/277-he-has-100k-of-debt-should-i-still-marry-him/",
+      "title": "277. “He has $100K of debt. Should I still marry him?”",
+      "field": "summary_zh",
+      "rejected": "债务100万，是否还能结婚？",
+      "unsupported": [
+        "100万"
+      ],
+      "first_seen": "2026-10-02T10:38:08.946Z",
+      "last_seen": "2026-10-04T17:23:48.948Z",
+      "seen_count": 2
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.reddit.com/r/debtfree/comments/1wkiw8i/the_things_i_cut_out_to_save_money_and_pay_off/",
+      "title": "The things I cut out to save money and pay off debt quicker",
+      "field": "summary_zh",
+      "rejected": "省下200元，自己做汽车保养，咖啡成本从每周40元降至每周7元。",
+      "unsupported": [
+        "200元",
+        "40元",
+        "7元"
+      ],
+      "first_seen": "2026-10-04T17:23:48.948Z",
+      "last_seen": "2026-10-04T17:23:48.948Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.iwillteachyoutoberich.com/277-he-has-100k-of-debt-should-i-still-marry-him/",
+      "title": "277. “He has $100K of debt. Should I still marry him?”",
+      "field": "summary_zh",
+      "rejected": "债务100万，是否应该结婚？",
+      "unsupported": [
+        "100万"
+      ],
+      "first_seen": "2026-10-04T06:41:36.773Z",
+      "last_seen": "2026-10-04T06:41:36.773Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.reddit.com/r/debtfree/comments/1wetyl9/celebrations_28k_gone/",
+      "title": "Celebrations 🍾 🍾 28~k gone ✂️",
+      "field": "summary_zh",
+      "rejected": "快速还清28万元债务，13个月内通过兼职、减少开销、偿还房贷和信用卡债务实现。",
+      "unsupported": [
+        "28万元"
+      ],
+      "first_seen": "2026-10-04T06:41:36.773Z",
+      "last_seen": "2026-10-04T06:41:36.773Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.iwillteachyoutoberich.com/277-he-has-100k-of-debt-should-i-still-marry-him/",
+      "title": "277. “He has $100K of debt. Should I still marry him?”",
+      "field": "summary_zh",
+      "rejected": "债务100万，婚姻可否继续？",
+      "unsupported": [
+        "100万"
+      ],
+      "first_seen": "2026-10-03T17:05:13.247Z",
+      "last_seen": "2026-10-03T17:05:13.247Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.iwillteachyoutoberich.com/277-he-has-100k-of-debt-should-i-still-marry-him/",
+      "title": "277. “He has $100K of debt. Should I still marry him?”",
+      "field": "summary_zh",
+      "rejected": "债务100万，是否仍可结婚？",
+      "unsupported": [
+        "100万"
+      ],
+      "first_seen": "2026-10-03T17:03:41.882Z",
+      "last_seen": "2026-10-03T17:03:41.882Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.reddit.com/r/debtfree/comments/1w6h3as/debt_journey/",
+      "title": "DEBT JOURNEY",
+      "field": "summary_zh",
+      "rejected": "2030年全部信用卡还清，每月200元计划。",
+      "unsupported": [
+        "200元"
+      ],
+      "first_seen": "2026-10-03T17:03:41.882Z",
+      "last_seen": "2026-10-03T17:03:41.882Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.iwillteachyoutoberich.com/277-he-has-100k-of-debt-should-i-still-marry-him/",
+      "title": "277. “He has $100K of debt. Should I still marry him?”",
+      "field": "summary_zh",
+      "rejected": "债务100万，是否结婚？",
+      "unsupported": [
+        "100万"
+      ],
+      "first_seen": "2026-10-03T06:09:18.973Z",
+      "last_seen": "2026-10-03T06:09:18.973Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.reddit.com/r/debtfree/comments/1w6h3as/debt_journey/",
+      "title": "DEBT JOURNEY",
+      "field": "summary_zh",
+      "rejected": "分期还款计划，60个月免息，6年后还清所有信用卡，每月预算200元。",
+      "unsupported": [
+        "6年",
+        "200元"
+      ],
+      "first_seen": "2026-10-03T06:09:18.973Z",
+      "last_seen": "2026-10-03T06:09:18.973Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.reddit.com/r/debtfree/comments/1w6h3as/debt_journey/",
+      "title": "DEBT JOURNEY",
+      "field": "summary_zh",
+      "rejected": "分期还款计划，60个月零利率，200元月供，60个月还清所有信用卡。",
+      "unsupported": [
+        "200元"
+      ],
+      "first_seen": "2026-10-03T06:07:44.729Z",
+      "last_seen": "2026-10-03T06:07:44.729Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.iwillteachyoutoberich.com/277-he-has-100k-of-debt-should-i-still-marry-him/",
+      "title": "277. “He has $100K of debt. Should I still marry him?”",
+      "field": "summary_zh",
+      "rejected": "债务100万是否影响婚姻决定？",
+      "unsupported": [
+        "100万"
+      ],
+      "first_seen": "2026-10-02T18:19:24.235Z",
+      "last_seen": "2026-10-02T18:19:24.235Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.iwillteachyoutoberich.com/277-he-has-100k-of-debt-should-i-still-marry-him/",
+      "title": "277. “He has $100K of debt. Should I still marry him?”",
+      "field": "summary_zh",
+      "rejected": "债务100万，是否还应结婚？",
+      "unsupported": [
+        "100万"
+      ],
+      "first_seen": "2026-10-02T18:17:41.746Z",
+      "last_seen": "2026-10-02T18:17:41.746Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.reddit.com/r/debtfree/comments/1wetyl9/celebrations_28k_gone/",
+      "title": "Celebrations 🍾 🍾 28~k gone ✂️",
+      "field": "summary_zh",
+      "rejected": "在13个月内还清了28万元债务，通过减少开销和减少消费来实现。",
+      "unsupported": [
+        "28万元"
+      ],
+      "first_seen": "2026-10-02T10:38:08.946Z",
+      "last_seen": "2026-10-02T10:38:08.946Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "cached_summary",
+      "partition": "ai",
+      "url": "https://www.nichepursuits.com/besmir-bregasi/",
+      "title": "How Besmir Bregasi Built ZeroRank in 3 Months and Reached Mid-Six Figures in ARR",
+      "field": "summary_zh",
+      "rejected": "零排名创始人3个月拿下600万ARR，揭秘品牌在AI驱动搜索中被引用的关键因素。",
+      "unsupported": [
+        "600万"
+      ],
+      "first_seen": "2026-10-02T10:36:33.784Z",
+      "last_seen": "2026-10-02T10:36:33.784Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "cached_summary",
+      "partition": "invest",
+      "url": "https://www.iwillteachyoutoberich.com/277-he-has-100k-of-debt-should-i-still-marry-him/",
+      "title": "277. “He has $100K of debt. Should I still marry him?”",
+      "field": "summary_zh",
+      "rejected": "债务100万，是否继续婚约？",
+      "unsupported": [
+        "100万"
+      ],
+      "first_seen": "2026-10-02T10:36:33.784Z",
+      "last_seen": "2026-10-02T10:36:33.784Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "llm_output",
+      "partition": "invest",
+      "url": "https://www.iwillteachyoutoberich.com/277-he-has-100k-of-debt-should-i-still-marry-him/",
+      "title": "277. “He has $100K of debt. Should I still marry him?”",
+      "field": "summary_zh",
+      "rejected": "债务100万，是否可以结婚？",
+      "unsupported": [
+        "100万"
+      ],
+      "first_seen": "2026-10-02T10:36:33.784Z",
+      "last_seen": "2026-10-02T10:36:33.784Z",
+      "seen_count": 1
+    }
+  ]
+}
