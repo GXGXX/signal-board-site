@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-14T10:48:33.351Z",
-  "next_update_at": "2026-10-14T13:00:00.000Z",
+  "generated_at": "2026-10-15T00:13:19.142Z",
+  "next_update_at": "2026-10-15T01:00:00.000Z",
   "meta": {
     "name": "信号台",
     "disclaimer": "非投资建议；加密高风险",
-    "today": "2026-10-14",
-    "next_update_at": "2026-10-14T13:00:00.000Z",
+    "today": "2026-10-15",
+    "next_update_at": "2026-10-15T01:00:00.000Z",
     "collect": {
-      "collected_at": "2026-10-14T10:43:00.885Z",
+      "collected_at": "2026-10-15T00:13:08.999Z",
       "ok": [
         {
           "id": "hitmarker_sitemap",
           "count": 6,
-          "scanned": 473,
+          "scanned": 476,
           "rejected": {
             "hub_or_junk": 0,
-            "no_role_signal": 4,
+            "no_role_signal": 5,
             "noise_role": 0,
             "no_geo_low_role": 0,
             "below_threshold": 0,
-            "location_out_of_range": 201,
+            "location_out_of_range": 199,
             "page_unreadable": 0,
-            "too_old": 49
+            "too_old": 50
           }
         },
         {
@@ -79,37 +79,37 @@
         {
           "id": "ai-reddit-saas",
           "partition": "ai",
-          "count": 2,
+          "count": 4,
           "scanned": 40,
-          "rejected": 38
+          "rejected": 36
         },
         {
           "id": "ai-reddit-indiehackers",
           "partition": "ai",
           "count": 0,
-          "scanned": 3,
-          "rejected": 3
+          "scanned": 2,
+          "rejected": 2
         },
         {
           "id": "ai-reddit-era",
           "partition": "ai",
-          "count": 3,
+          "count": 1,
           "scanned": 20,
-          "rejected": 17
+          "rejected": 19
         },
         {
           "id": "ai-reddit-entrepreneur",
           "partition": "ai",
           "count": 0,
-          "scanned": 1,
-          "rejected": 1
+          "scanned": 2,
+          "rejected": 2
         },
         {
           "id": "ai-hn-frontpage",
           "partition": "ai",
           "count": 0,
-          "scanned": 19,
-          "rejected": 19
+          "scanned": 20,
+          "rejected": 20
         },
         {
           "id": "ai-hn-show",
@@ -122,15 +122,15 @@
           "id": "invest-reddit-debtfree",
           "partition": "invest",
           "count": 2,
-          "scanned": 69,
-          "rejected": 67
+          "scanned": 68,
+          "rejected": 66
         },
         {
           "id": "invest-reddit-ynab",
           "partition": "invest",
           "count": 1,
-          "scanned": 31,
-          "rejected": 30
+          "scanned": 32,
+          "rejected": 31
         },
         {
           "id": "kol:levelsio",
@@ -153,16 +153,6 @@
           "count": 1
         },
         {
-          "id": "kol:charliebilello",
-          "partition": "kol",
-          "count": 1
-        },
-        {
-          "id": "kol:LynAldenContact",
-          "partition": "kol",
-          "count": 1
-        },
-        {
           "id": "kol:VitalikButerin",
           "partition": "kol",
           "count": 1
@@ -174,16 +164,6 @@
         },
         {
           "id": "kol:MarkManson",
-          "partition": "kol",
-          "count": 1
-        },
-        {
-          "id": "kol:dannypostmaa",
-          "partition": "kol",
-          "count": 1
-        },
-        {
-          "id": "kol:damengchen",
           "partition": "kol",
           "count": 1
         },
@@ -229,16 +209,6 @@
         },
         {
           "id": "kol:naval",
-          "partition": "kol",
-          "count": 1
-        },
-        {
-          "id": "kol:I_Am_The_ICT",
-          "partition": "kol",
-          "count": 1
-        },
-        {
-          "id": "kol:TTrades_edu",
           "partition": "kol",
           "count": 1
         },
@@ -359,12 +329,36 @@
           "error": "html_list_empty_or_blocked;HTTP 404;HTTP 404;HTTP 404"
         },
         {
+          "id": "kol:charliebilello",
+          "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403"
+        },
+        {
+          "id": "kol:LynAldenContact",
+          "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403"
+        },
+        {
           "id": "kol:farnamstreet",
           "error": "HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403"
         },
         {
+          "id": "kol:dannypostmaa",
+          "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked"
+        },
+        {
+          "id": "kol:damengchen",
+          "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;html_list_empty_or_blocked;HTTP 404;HTTP 404;HTTP 404"
+        },
+        {
           "id": "kol:morganhousel",
           "error": "fetch failed;fetch failed;fetch failed;fetch failed;fetch failed;fetch failed;fetch failed;fetch failed"
+        },
+        {
+          "id": "kol:I_Am_The_ICT",
+          "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;html_list_empty_or_blocked;HTTP 404;HTTP 404;HTTP 404"
+        },
+        {
+          "id": "kol:TTrades_edu",
+          "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404"
         },
         {
           "id": "kol:gregisenberg",
@@ -377,13 +371,13 @@
       ],
       "rejected": {
         "hub_or_junk": 0,
-        "no_role_signal": 13,
+        "no_role_signal": 14,
         "noise_role": 0,
         "no_geo_low_role": 0,
         "below_threshold": 5,
-        "location_out_of_range": 201,
+        "location_out_of_range": 199,
         "page_unreadable": 0,
-        "too_old": 49,
+        "too_old": 50,
         "intern": 16,
         "off_target_title": 18,
         "rss_reasons": {
@@ -395,8 +389,8 @@
       "score_threshold": 40,
       "kept": 41,
       "articles_kept": {
-        "ai": 73,
-        "invest": 91,
+        "ai": 74,
+        "invest": 90,
         "growth": 62
       },
       "rss_rejects_sample": [
@@ -769,14 +763,14 @@
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:126d",
-              "too_old:217d",
-              "too_old:282d",
-              "too_old:332d",
-              "too_old:367d",
-              "too_old:395d",
-              "too_old:402d",
-              "too_old:409d"
+              "too_old:127d",
+              "too_old:218d",
+              "too_old:283d",
+              "too_old:333d",
+              "too_old:368d",
+              "too_old:396d",
+              "too_old:403d",
+              "too_old:410d"
             ]
           },
           "tdinh_me": {
@@ -873,74 +867,187 @@
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:75d",
-              "too_old:224d",
+              "too_old:76d",
+              "too_old:225d",
               "too_old:247d",
               "too_old:254d",
-              "too_old:271d",
-              "too_old:469d",
-              "too_old:501d",
-              "too_old:519d"
+              "too_old:272d",
+              "too_old:470d",
+              "too_old:502d",
+              "too_old:520d"
             ]
           },
           "charliebilello": {
             "ok": true,
             "partition": "invest",
-            "feed_ok": {
-              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
-              "type": "youtube_rss",
-              "scanned": 15
-            },
+            "feed_ok": null,
             "feeds_tried": [
               {
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
                 "type": "youtube_rss",
-                "ok": true,
-                "scanned": 15
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://bilello.blog/feed/",
+                "type": "blog_rss",
+                "ok": false,
+                "error": "HTTP 403"
+              },
+              {
+                "url": "https://www.bilello.blog/feed/",
+                "type": "blog_rss",
+                "ok": false,
+                "error": "HTTP 403"
+              },
+              {
+                "url": "https://bilello.blog/",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 403"
+              },
+              {
+                "url": "https://bilello.blog/blog/",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 403"
+              },
+              {
+                "url": "https://bilello.blog/archive",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 403"
+              },
+              {
+                "url": "https://bilello.blog/archive?sort=new",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 403"
+              },
+              {
+                "url": "https://www.bilello.blog/",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 403"
+              },
+              {
+                "url": "https://www.bilello.blog/blog/",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 403"
               }
             ],
             "kept": 0,
-            "dropped": 15,
+            "dropped": 0,
             "fallback": true,
             "used_last_good": false,
             "html_list": null,
             "x_api": null,
-            "drop_reasons": [
-              "too_old:790d",
-              "too_old:797d",
-              "too_old:817d",
-              "too_old:839d",
-              "too_old:841d",
-              "too_old:847d",
-              "too_old:902d",
-              "too_old:909d"
-            ]
+            "drop_reasons": []
           },
           "LynAldenContact": {
             "ok": true,
             "partition": "invest",
-            "feed_ok": {
-              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
-              "type": "youtube_rss",
-              "scanned": 1
-            },
+            "feed_ok": null,
             "feeds_tried": [
               {
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
                 "type": "youtube_rss",
-                "ok": true,
-                "scanned": 1
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://www.lynalden.com/feed/",
+                "type": "blog_rss",
+                "ok": false,
+                "error": "HTTP 403"
+              },
+              {
+                "url": "https://lynalden.com/feed/",
+                "type": "blog_rss",
+                "ok": false,
+                "error": "HTTP 403"
+              },
+              {
+                "url": "https://www.lynalden.com/",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 403"
+              },
+              {
+                "url": "https://www.lynalden.com/blog/",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 403"
+              },
+              {
+                "url": "https://www.lynalden.com/archive",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 403"
+              },
+              {
+                "url": "https://www.lynalden.com/archive?sort=new",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 403"
+              },
+              {
+                "url": "https://lynalden.com/",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 403"
+              },
+              {
+                "url": "https://lynalden.com/blog/",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 403"
               }
             ],
             "kept": 0,
-            "dropped": 1,
+            "dropped": 0,
             "fallback": true,
             "used_last_good": false,
             "html_list": null,
             "x_api": null,
-            "drop_reasons": [
-              "too_old:898d"
-            ]
+            "drop_reasons": []
           },
           "VitalikButerin": {
             "ok": true,
@@ -965,14 +1072,14 @@
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:54d",
-              "too_old:78d",
-              "too_old:107d",
-              "too_old:149d",
-              "too_old:195d",
-              "too_old:288d",
-              "too_old:301d",
-              "too_old:323d"
+              "too_old:55d",
+              "too_old:79d",
+              "too_old:108d",
+              "too_old:150d",
+              "too_old:196d",
+              "too_old:289d",
+              "too_old:302d",
+              "too_old:324d"
             ]
           },
           "dieworkwear": {
@@ -998,14 +1105,14 @@
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:319d",
-              "too_old:322d",
+              "too_old:320d",
+              "too_old:323d",
               "too_old:391d",
-              "too_old:497d",
-              "too_old:579d",
+              "too_old:498d",
+              "too_old:580d",
               "too_old:616d",
-              "too_old:683d",
-              "too_old:697d"
+              "too_old:684d",
+              "too_old:698d"
             ]
           },
           "farnamstreet": {
@@ -1106,57 +1213,126 @@
           "dannypostmaa": {
             "ok": true,
             "partition": "ai",
-            "feed_ok": {
-              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-              "type": "youtube_rss",
-              "scanned": 2
-            },
+            "feed_ok": null,
             "feeds_tried": [
               {
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
                 "type": "youtube_rss",
-                "ok": true,
-                "scanned": 2
-              }
-            ],
-            "kept": 1,
-            "dropped": 1,
-            "fallback": false,
-            "used_last_good": false,
-            "html_list": null,
-            "x_api": null,
-            "drop_reasons": [
-              "too_old:61d"
-            ]
-          },
-          "damengchen": {
-            "ok": true,
-            "partition": "ai",
-            "feed_ok": {
-              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-              "type": "youtube_rss",
-              "scanned": 4
-            },
-            "feeds_tried": [
+                "ok": false,
+                "error": "HTTP 404"
+              },
               {
-                "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+                "url": "https://youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
                 "type": "youtube_rss",
-                "ok": true,
-                "scanned": 4
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://www.dannypostma.com/",
+                "type": "html_list",
+                "ok": false,
+                "error": "html_list_empty_or_blocked"
+              },
+              {
+                "url": "https://www.dannypostma.com/blog/",
+                "type": "html_list",
+                "ok": false,
+                "error": "html_list_empty_or_blocked"
+              },
+              {
+                "url": "https://www.dannypostma.com/archive",
+                "type": "html_list",
+                "ok": false,
+                "error": "html_list_empty_or_blocked"
+              },
+              {
+                "url": "https://www.dannypostma.com/archive?sort=new",
+                "type": "html_list",
+                "ok": false,
+                "error": "html_list_empty_or_blocked"
               }
             ],
             "kept": 0,
-            "dropped": 4,
+            "dropped": 0,
             "fallback": true,
             "used_last_good": false,
             "html_list": null,
             "x_api": null,
-            "drop_reasons": [
-              "too_old:956d",
-              "too_old:970d",
-              "too_old:974d",
-              "too_old:979d"
-            ]
+            "drop_reasons": []
+          },
+          "damengchen": {
+            "ok": true,
+            "partition": "ai",
+            "feed_ok": null,
+            "feeds_tried": [
+              {
+                "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://damon.vc/",
+                "type": "html_list",
+                "ok": false,
+                "error": "html_list_empty_or_blocked"
+              },
+              {
+                "url": "https://damon.vc/blog/",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://damon.vc/archive",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://damon.vc/archive?sort=new",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 404"
+              }
+            ],
+            "kept": 0,
+            "dropped": 0,
+            "fallback": true,
+            "used_last_good": false,
+            "html_list": null,
+            "x_api": null,
+            "drop_reasons": []
           },
           "morganhousel": {
             "ok": true,
@@ -1243,9 +1419,9 @@
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:49d",
-              "too_old:56d",
-              "too_old:63d"
+              "too_old:50d",
+              "too_old:57d",
+              "too_old:64d"
             ]
           },
           "PutThisOn": {
@@ -1295,13 +1471,13 @@
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:2472d",
-              "too_old:2555d",
-              "too_old:2758d",
-              "too_old:2822d",
-              "too_old:2829d",
-              "too_old:2836d",
-              "too_old:2843d",
+              "too_old:2473d",
+              "too_old:2556d",
+              "too_old:2759d",
+              "too_old:2823d",
+              "too_old:2830d",
+              "too_old:2837d",
+              "too_old:2844d",
               "too_old:2918d"
             ]
           },
@@ -1362,8 +1538,8 @@
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:2138d",
-              "too_old:2312d"
+              "too_old:2139d",
+              "too_old:2313d"
             ]
           },
           "awealthofcs": {
@@ -1413,11 +1589,11 @@
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:48d",
-              "too_old:55d",
-              "too_old:62d",
+              "too_old:49d",
+              "too_old:56d",
               "too_old:63d",
-              "too_old:67d"
+              "too_old:64d",
+              "too_old:68d"
             ]
           },
           "CalNewport": {
@@ -1444,9 +1620,9 @@
             "x_api": null,
             "drop_reasons": [
               "growth_politics_title",
-              "too_old:50d",
+              "too_old:51d",
               "too_old:65d",
-              "too_old:78d"
+              "too_old:79d"
             ]
           },
           "naval": {
@@ -1472,35 +1648,73 @@
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:103d",
-              "too_old:134d",
-              "too_old:137d",
+              "too_old:104d",
+              "too_old:135d",
               "too_old:138d",
-              "too_old:139d",
-              "too_old:155d",
-              "too_old:162d",
-              "too_old:168d"
+              "too_old:138d",
+              "too_old:140d",
+              "too_old:156d",
+              "too_old:163d",
+              "too_old:169d"
             ]
           },
           "I_Am_The_ICT": {
             "ok": true,
             "partition": "invest",
-            "feed_ok": {
-              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjxa77NqamhVC8atV85Rog",
-              "type": "youtube_rss",
-              "scanned": 15
-            },
+            "feed_ok": null,
             "feeds_tried": [
               {
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjxa77NqamhVC8atV85Rog",
                 "type": "youtube_rss",
-                "ok": true,
-                "scanned": 15
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://youtube.com/feeds/videos.xml?channel_id=UCtjxa77NqamhVC8atV85Rog",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCtjxa77NqamhVC8atV85Rog",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCtjxa77NqamhVC8atV85Rog",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://www.theinnercircletrader.com/",
+                "type": "html_list",
+                "ok": false,
+                "error": "html_list_empty_or_blocked"
+              },
+              {
+                "url": "https://www.theinnercircletrader.com/blog/",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://www.theinnercircletrader.com/archive",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://www.theinnercircletrader.com/archive?sort=new",
+                "type": "html_list",
+                "ok": false,
+                "error": "HTTP 404"
               }
             ],
-            "kept": 1,
+            "kept": 0,
             "dropped": 0,
-            "fallback": false,
+            "fallback": true,
             "used_last_good": false,
             "html_list": null,
             "x_api": null,
@@ -1509,22 +1723,36 @@
           "TTrades_edu": {
             "ok": true,
             "partition": "invest",
-            "feed_ok": {
-              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
-              "type": "youtube_rss",
-              "scanned": 15
-            },
+            "feed_ok": null,
             "feeds_tried": [
               {
                 "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
                 "type": "youtube_rss",
-                "ok": true,
-                "scanned": 15
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
+              },
+              {
+                "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+                "type": "youtube_rss",
+                "ok": false,
+                "error": "HTTP 404"
               }
             ],
-            "kept": 2,
+            "kept": 0,
             "dropped": 0,
-            "fallback": false,
+            "fallback": true,
             "used_last_good": false,
             "html_list": null,
             "x_api": null,
@@ -1553,7 +1781,7 @@
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:46d",
+              "too_old:47d",
               "too_old:49d"
             ]
           },
@@ -1604,10 +1832,10 @@
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:48d",
-              "too_old:55d",
-              "too_old:68d",
-              "too_old:75d"
+              "too_old:49d",
+              "too_old:56d",
+              "too_old:69d",
+              "too_old:76d"
             ]
           },
           "RyanHoliday": {
@@ -1633,10 +1861,10 @@
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:46d",
-              "too_old:54d",
-              "too_old:68d",
-              "too_old:89d"
+              "too_old:47d",
+              "too_old:55d",
+              "too_old:69d",
+              "too_old:90d"
             ]
           },
           "gregisenberg": {
@@ -1713,14 +1941,14 @@
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:193d",
-              "too_old:207d",
-              "too_old:214d",
-              "too_old:242d",
-              "too_old:249d",
-              "too_old:256d",
-              "too_old:263d",
-              "too_old:270d"
+              "too_old:194d",
+              "too_old:208d",
+              "too_old:215d",
+              "too_old:243d",
+              "too_old:250d",
+              "too_old:257d",
+              "too_old:264d",
+              "too_old:271d"
             ]
           },
           "ramit": {
@@ -1770,14 +1998,14 @@
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:615d",
-              "too_old:622d",
-              "too_old:630d",
-              "too_old:637d",
-              "too_old:645d",
-              "too_old:648d",
-              "too_old:652d",
-              "too_old:655d"
+              "too_old:616d",
+              "too_old:623d",
+              "too_old:631d",
+              "too_old:638d",
+              "too_old:646d",
+              "too_old:649d",
+              "too_old:653d",
+              "too_old:656d"
             ]
           },
           "PaulaPant": {
@@ -1827,10 +2055,10 @@
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:47d",
-              "too_old:54d",
-              "too_old:61d",
-              "too_old:68d"
+              "too_old:48d",
+              "too_old:55d",
+              "too_old:62d",
+              "too_old:69d"
             ]
           },
           "noahkagan": {
@@ -1873,21 +2101,21 @@
                 "scanned": 20
               }
             ],
-            "kept": 6,
-            "dropped": 14,
+            "kept": 7,
+            "dropped": 13,
             "fallback": false,
             "used_last_good": false,
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:48d",
-              "too_old:55d",
-              "too_old:62d",
-              "too_old:69d",
-              "too_old:76d",
-              "too_old:83d",
-              "too_old:90d",
-              "too_old:97d"
+              "too_old:49d",
+              "too_old:56d",
+              "too_old:63d",
+              "too_old:70d",
+              "too_old:77d",
+              "too_old:84d",
+              "too_old:91d",
+              "too_old:98d"
             ]
           },
           "startupsfortherestofus": {
@@ -1994,13 +2222,13 @@
             "html_list": null,
             "x_api": null,
             "drop_reasons": [
-              "too_old:180d",
+              "too_old:181d",
               "too_old:302d",
               "too_old:372d",
-              "too_old:487d",
-              "too_old:595d",
-              "too_old:635d",
-              "too_old:730d",
+              "too_old:488d",
+              "too_old:596d",
+              "too_old:636d",
+              "too_old:731d",
               "too_old:812d"
             ]
           },
@@ -2177,18 +2405,6 @@
             "type": "blog_rss"
           },
           {
-            "handle": "charliebilello",
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
-            "scanned": 15,
-            "type": "youtube_rss"
-          },
-          {
-            "handle": "LynAldenContact",
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
-            "scanned": 1,
-            "type": "youtube_rss"
-          },
-          {
             "handle": "VitalikButerin",
             "url": "https://vitalik.eth.limo/feed.xml",
             "scanned": 20,
@@ -2205,18 +2421,6 @@
             "url": "https://markmanson.net/feed",
             "scanned": 10,
             "type": "blog_rss"
-          },
-          {
-            "handle": "dannypostmaa",
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-            "scanned": 2,
-            "type": "youtube_rss"
-          },
-          {
-            "handle": "damengchen",
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-            "scanned": 4,
-            "type": "youtube_rss"
           },
           {
             "handle": "dollarsanddata",
@@ -2271,18 +2475,6 @@
             "url": "https://nav.al/feed",
             "scanned": 10,
             "type": "blog_rss"
-          },
-          {
-            "handle": "I_Am_The_ICT",
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjxa77NqamhVC8atV85Rog",
-            "scanned": 15,
-            "type": "youtube_rss"
-          },
-          {
-            "handle": "TTrades_edu",
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
-            "scanned": 15,
-            "type": "youtube_rss"
           },
           {
             "handle": "yongfook",
@@ -2422,6 +2614,40 @@
             ]
           },
           {
+            "handle": "charliebilello",
+            "errors": [
+              "HTTP 404",
+              "HTTP 404",
+              "HTTP 404",
+              "HTTP 404",
+              "HTTP 403",
+              "HTTP 403",
+              "HTTP 403",
+              "HTTP 403",
+              "HTTP 403",
+              "HTTP 403",
+              "HTTP 403",
+              "HTTP 403"
+            ]
+          },
+          {
+            "handle": "LynAldenContact",
+            "errors": [
+              "HTTP 404",
+              "HTTP 404",
+              "HTTP 404",
+              "HTTP 404",
+              "HTTP 403",
+              "HTTP 403",
+              "HTTP 403",
+              "HTTP 403",
+              "HTTP 403",
+              "HTTP 403",
+              "HTTP 403",
+              "HTTP 403"
+            ]
+          },
+          {
             "handle": "farnamstreet",
             "errors": [
               "HTTP 403",
@@ -2435,6 +2661,32 @@
             ]
           },
           {
+            "handle": "dannypostmaa",
+            "errors": [
+              "HTTP 404",
+              "HTTP 404",
+              "HTTP 404",
+              "HTTP 404",
+              "html_list_empty_or_blocked",
+              "html_list_empty_or_blocked",
+              "html_list_empty_or_blocked",
+              "html_list_empty_or_blocked"
+            ]
+          },
+          {
+            "handle": "damengchen",
+            "errors": [
+              "HTTP 404",
+              "HTTP 404",
+              "HTTP 404",
+              "HTTP 404",
+              "html_list_empty_or_blocked",
+              "HTTP 404",
+              "HTTP 404",
+              "HTTP 404"
+            ]
+          },
+          {
             "handle": "morganhousel",
             "errors": [
               "fetch failed",
@@ -2445,6 +2697,28 @@
               "fetch failed",
               "fetch failed",
               "fetch failed"
+            ]
+          },
+          {
+            "handle": "I_Am_The_ICT",
+            "errors": [
+              "HTTP 404",
+              "HTTP 404",
+              "HTTP 404",
+              "HTTP 404",
+              "html_list_empty_or_blocked",
+              "HTTP 404",
+              "HTTP 404",
+              "HTTP 404"
+            ]
+          },
+          {
+            "handle": "TTrades_edu",
+            "errors": [
+              "HTTP 404",
+              "HTTP 404",
+              "HTTP 404",
+              "HTTP 404"
             ]
           },
           {
@@ -2463,9 +2737,9 @@
             ]
           }
         ],
-        "posts_kept": 195,
-        "posts_dropped": 219,
-        "fallbacks": 16,
+        "posts_kept": 192,
+        "posts_dropped": 197,
+        "fallbacks": 19,
         "last_good_reused": 1,
         "html_list_ok": [
           {
@@ -2475,7 +2749,9 @@
         ],
         "x_api_ok": [],
         "residual_403_hosts": [
-          "fs.blog"
+          "bilello.blog",
+          "fs.blog",
+          "lynalden.com"
         ],
         "sample_kept": [
           {
@@ -2497,22 +2773,22 @@
             "url": "https://vitalik.ca/general/2026/09/27/the_cryptographic_world_computer.html"
           },
           {
-            "handle": "dannypostmaa",
-            "title": "How I Stopped AI From Designing Ugly Landing Pages (Free Skill)",
-            "published_at": "2026-09-04T06:17:07.000Z",
-            "url": "https://www.youtube.com/watch?v=EMXJCSx5q60"
-          },
-          {
             "handle": "dollarsanddata",
             "title": "Who Got Richer Since 2022?",
             "published_at": "2026-10-13T11:45:36.000Z",
             "url": "https://ofdollarsanddata.com/who-got-richer-since-2022/"
+          },
+          {
+            "handle": "PutThisOn",
+            "title": "Inside Track: October 4th – October 10th Edition",
+            "published_at": "2026-10-13T01:34:18.000Z",
+            "url": "https://putthison.com/inside-track-october-4th-october-10th-edition-2/"
           }
         ]
       },
       "community_rss": {
         "enabled": true,
-        "elapsed_ms": 22377,
+        "elapsed_ms": 40332,
         "kept": 9,
         "report": [
           {
@@ -2521,49 +2797,49 @@
             "ok": true,
             "status": 200,
             "attempts": 1,
-            "ms": 1029,
+            "ms": 1026,
             "scanned": 40,
-            "kept": 2,
+            "kept": 4,
             "rejects": {
-              "no_body": 2,
-              "tech_news": 1,
-              "question": 11,
-              "single_fact_kind": 7,
+              "question": 9,
+              "single_fact_kind": 5,
               "body_too_short": 3,
-              "no_numeric_fact": 8,
+              "tech_news": 1,
               "help_seeking": 5,
-              "spam_or_promo_body": 1
+              "no_numeric_fact": 11,
+              "promo": 1,
+              "over_max_items": 1
             },
             "error": null,
             "ratelimit": {
               "used": "1",
               "remaining": "0.0",
-              "reset": "19"
+              "reset": "37"
             },
             "reject_samples": [
-              {
-                "reason": "no_body",
-                "title": "How rea be moving"
-              },
-              {
-                "reason": "tech_news",
-                "title": "Opus 5.5 + Blender won in motion design. Three.js didn't match the quality neede"
-              },
               {
                 "reason": "question",
                 "title": "If anyone can build software with AI, who are we building products for?"
               },
               {
+                "reason": "single_fact_kind",
+                "title": "I thought making my app 100% free would bring in users"
+              },
+              {
+                "reason": "single_fact_kind",
+                "title": "I spent almost a year building an app for Indian tuition teachers. Today, 3 peop"
+              },
+              {
                 "reason": "question",
-                "title": "Stripe alternatives if you need to accept payments in more markets?"
+                "title": "I'm from Iraq and can't use Stripe or PayPal. How can I sell subscriptions to my"
               },
               {
-                "reason": "single_fact_kind",
-                "title": "2 months after launch, 185 signups a month, 2.7% pay, still losing 117 bucks a m"
+                "reason": "body_too_short",
+                "title": "Be honest: what’s your MRR right now, and how many months have you been building"
               },
               {
-                "reason": "single_fact_kind",
-                "title": "Built something I'm not proud of. Got 1K visitors in 24h."
+                "reason": "tech_news",
+                "title": "Opus 5.5 + Brag = End of Motion Designers (X Bullshit)"
               }
             ],
             "partition": "ai"
@@ -2575,27 +2851,22 @@
             "status": 200,
             "attempts": 0,
             "ms": 0,
-            "scanned": 3,
+            "scanned": 2,
             "kept": 0,
             "rejects": {
-              "no_numeric_fact": 1,
-              "help_seeking": 1,
-              "question": 1
+              "body_too_short": 1,
+              "help_seeking": 1
             },
             "error": null,
             "shared_request": true,
             "reject_samples": [
               {
-                "reason": "no_numeric_fact",
-                "title": "Most of my commitments are made out loud and never written down, so I’m building"
+                "reason": "body_too_short",
+                "title": "Share what you're building"
               },
               {
                 "reason": "help_seeking",
                 "title": "Free ways to get backlinks, traffic and honest feedback for your product, built "
-              },
-              {
-                "reason": "question",
-                "title": "Looking for feedback on the proof receipt that gets generated after agent runs a"
               }
             ],
             "partition": "ai"
@@ -2608,29 +2879,31 @@
             "attempts": 0,
             "ms": 0,
             "scanned": 20,
-            "kept": 3,
+            "kept": 1,
             "rejects": {
+              "question": 7,
+              "body_too_short": 1,
               "no_numeric_fact": 7,
-              "question": 4,
-              "spam_or_promo_body": 1,
-              "single_fact_kind": 1,
-              "help_seeking": 2,
-              "over_max_items": 2
+              "help_seeking": 4
             },
             "error": null,
             "shared_request": true,
             "reject_samples": [
               {
-                "reason": "no_numeric_fact",
-                "title": "One of the best product lessons I learned as a founder came from getting laughed"
+                "reason": "question",
+                "title": "High income freelancer vs building an company, what would you do?"
+              },
+              {
+                "reason": "body_too_short",
+                "title": "If AI can now do most of the work why should I launch a business ?"
+              },
+              {
+                "reason": "question",
+                "title": "I finally built a business that gives me money, freedom and time with my kids. S"
               },
               {
                 "reason": "no_numeric_fact",
-                "title": "I had lunch with 500 strangers and never tried to sell anything to them"
-              },
-              {
-                "reason": "no_numeric_fact",
-                "title": "just got 3k first week on my 11th app! and the marketing is super automated."
+                "title": "Niching down on “boring” product details became our whole marketing angle"
               },
               {
                 "reason": "question",
@@ -2638,11 +2911,7 @@
               },
               {
                 "reason": "question",
-                "title": "How to figure out what other countries should pay"
-              },
-              {
-                "reason": "spam_or_promo_body",
-                "title": "From the factory floor to building for factories. Looking for a partner"
+                "title": "Can I make a business out of building SaaS apps?"
               }
             ],
             "partition": "ai"
@@ -2654,17 +2923,22 @@
             "status": 200,
             "attempts": 0,
             "ms": 0,
-            "scanned": 1,
+            "scanned": 2,
             "kept": 0,
             "rejects": {
-              "no_numeric_fact": 1
+              "no_numeric_fact": 1,
+              "question": 1
             },
             "error": null,
             "shared_request": true,
             "reject_samples": [
               {
                 "reason": "no_numeric_fact",
-                "title": "Hello Again & Other Tidbits on Acquiring a Business"
+                "title": "One thing I underestimated when starting a business: the work behind the scenes"
+              },
+              {
+                "reason": "question",
+                "title": "Why most agency SOPs fail when turned into prompts and the exact framework to au"
               }
             ],
             "partition": "ai"
@@ -2675,11 +2949,12 @@
             "ok": true,
             "status": 200,
             "attempts": 1,
-            "ms": 1860,
-            "scanned": 19,
+            "ms": 526,
+            "scanned": 20,
             "kept": 0,
             "rejects": {
-              "no_numeric_fact": 18,
+              "tech_news": 3,
+              "no_numeric_fact": 16,
               "question": 1
             },
             "error": null,
@@ -2690,28 +2965,28 @@
             },
             "reject_samples": [
               {
-                "reason": "no_numeric_fact",
-                "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font"
+                "reason": "tech_news",
+                "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers"
+              },
+              {
+                "reason": "tech_news",
+                "title": "OpenCode 2.0"
               },
               {
                 "reason": "no_numeric_fact",
-                "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs"
+                "title": "Anthropic's Scion is heavily inspired by Mononoke"
               },
               {
                 "reason": "no_numeric_fact",
-                "title": "Felix Rieseberg Homepage"
+                "title": "Yandex outage: data shows that instead of going dark, malicious bots moved"
               },
               {
                 "reason": "no_numeric_fact",
-                "title": "Grace Hopper Celebration Cancelled"
+                "title": "Things to know when you get cancer – 2026 Edition"
               },
               {
                 "reason": "no_numeric_fact",
-                "title": "Recreational Programming"
-              },
-              {
-                "reason": "no_numeric_fact",
-                "title": "OpenAI engineer arrested in bugging of executive conference room"
+                "title": "Suicide rates highest ever among middle-aged men"
               }
             ],
             "partition": "ai"
@@ -2722,7 +2997,7 @@
             "ok": true,
             "status": 200,
             "attempts": 1,
-            "ms": 2454,
+            "ms": 4571,
             "scanned": 20,
             "kept": 1,
             "rejects": {
@@ -2730,13 +3005,25 @@
               "question": 1
             },
             "error": null,
-            "waited_ms": 7996,
+            "waited_ms": 7997,
             "ratelimit": {
               "used": null,
               "remaining": null,
               "reset": null
             },
             "reject_samples": [
+              {
+                "reason": "no_numeric_fact",
+                "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free"
+              },
+              {
+                "reason": "no_numeric_fact",
+                "title": "Show HN: I wrote an email app that accepts only one sender per inbox"
+              },
+              {
+                "reason": "no_numeric_fact",
+                "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code"
+              },
               {
                 "reason": "no_numeric_fact",
                 "title": "Show HN: I built a tool to track what AI leaders say and how their views change"
@@ -2748,18 +3035,6 @@
               {
                 "reason": "no_numeric_fact",
                 "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard"
-              },
-              {
-                "reason": "no_numeric_fact",
-                "title": "Show HN: XY Music Notation"
-              },
-              {
-                "reason": "question",
-                "title": "Show HN: How random are you?"
-              },
-              {
-                "reason": "no_numeric_fact",
-                "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits"
               }
             ],
             "partition": "ai"
@@ -2770,8 +3045,8 @@
             "ok": true,
             "status": 200,
             "attempts": 1,
-            "ms": 1288,
-            "scanned": 69,
+            "ms": 1243,
+            "scanned": 68,
             "kept": 2,
             "rejects": {
               "body_too_short": 6,
@@ -2783,14 +3058,14 @@
               "no_body": 1,
               "no_practice_topic": 2,
               "help_seeking": 4,
-              "question": 16,
+              "question": 15,
               "off_profile": 1,
               "excerpt_lost_facts(no_concrete_method)": 1,
               "discussion_questions": 2,
               "over_max_items": 1
             },
             "error": null,
-            "waited_ms": 7587,
+            "waited_ms": 24813,
             "ratelimit": {
               "used": "1",
               "remaining": "0.0",
@@ -2831,12 +3106,12 @@
             "status": 200,
             "attempts": 0,
             "ms": 0,
-            "scanned": 31,
+            "scanned": 32,
             "kept": 1,
             "rejects": {
               "no_amount_in_action": 3,
               "no_concrete_method": 2,
-              "question": 7,
+              "question": 8,
               "no_numeric_fact": 10,
               "body_too_short": 2,
               "country_specific": 2,
@@ -2902,7 +3177,7 @@
       "model": "qwen2.5:1.5b",
       "ollama_ok": false,
       "local_llm": 0,
-      "fallback": 54,
+      "fallback": 55,
       "distinct_fix": 0,
       "unfaithful_reject": 0,
       "number_check": {
@@ -2913,7 +3188,7 @@
     "partitions": {
       "jobs": 25,
       "ai": 12,
-      "invest": 24,
+      "invest": 25,
       "growth": 4
     }
   },
@@ -3024,9 +3299,9 @@
     },
     {
       "part": "ai",
-      "text": "AI副业：自述收入 $20,000 in monthly profit，渠道 referrals",
-      "id": "ai-community-ai-reddit-era-02319ac93d2b",
-      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x4u6rp/how_we_helped_scale_a_travel_agency_from_3000_to/",
+      "text": "AI副业：自述收入 $3,900 MRR",
+      "id": "ai-community-ai-reddit-era-76ac639530b1",
+      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5qjo3/the_business_model_i_am_testing_does_not_need/",
       "verdict": "worth"
     },
     {
@@ -3374,7 +3649,7 @@
         "summary": "数值策划（MMO）（网易游戏（互娱）） @ 网易游戏招聘 · 广州市",
         "source": "网易游戏招聘",
         "source_url": "https://hr.163.com/job-detail.html?id=76799",
-        "published_at": "2026-10-14T12:00:00+08:00",
+        "published_at": "2026-10-15T12:00:00+08:00",
         "tags": [
           "数值策划",
           "mmo",
@@ -3396,7 +3671,7 @@
           "persona_transferable"
         ],
         "geo_uncertain": false,
-        "posted_at": "2026-10-14",
+        "posted_at": "2026-10-15",
         "evidence_missing": false,
         "_origin": "collected",
         "_source_id": null,
@@ -3439,7 +3714,7 @@
         "summary": "数值策划（梦幻端游畅玩服-经济系统）（网易游戏（互娱）） @ 网易游戏招聘 · 广州市",
         "source": "网易游戏招聘",
         "source_url": "https://hr.163.com/job-detail.html?id=76718",
-        "published_at": "2026-10-14T12:00:00+08:00",
+        "published_at": "2026-10-15T12:00:00+08:00",
         "tags": [
           "数值策划",
           "经济系统"
@@ -3459,7 +3734,7 @@
           "经济系统"
         ],
         "geo_uncertain": false,
-        "posted_at": "2026-10-14",
+        "posted_at": "2026-10-15",
         "evidence_missing": false,
         "_origin": "collected",
         "_source_id": null,
@@ -3503,7 +3778,7 @@
         "summary": "高级数值策划（天下3）（网易游戏（互娱）） @ 网易游戏招聘 · 广州市",
         "source": "网易游戏招聘",
         "source_url": "https://hr.163.com/job-detail.html?id=79081",
-        "published_at": "2026-10-14T12:00:00+08:00",
+        "published_at": "2026-10-15T12:00:00+08:00",
         "tags": [
           "数值策划",
           "高级数值策划"
@@ -3523,7 +3798,7 @@
           "高级数值策划"
         ],
         "geo_uncertain": false,
-        "posted_at": "2026-10-14",
+        "posted_at": "2026-10-15",
         "evidence_missing": false,
         "_origin": "collected",
         "_source_id": null,
@@ -3566,7 +3841,7 @@
         "summary": "资深数值策划（代号：修仙）（网易游戏（互娱）） @ 网易游戏招聘 · 广州市",
         "source": "网易游戏招聘",
         "source_url": "https://hr.163.com/job-detail.html?id=77428",
-        "published_at": "2026-10-14T12:00:00+08:00",
+        "published_at": "2026-10-15T12:00:00+08:00",
         "tags": [
           "数值策划",
           "资深数值策划"
@@ -3586,7 +3861,7 @@
           "资深数值策划"
         ],
         "geo_uncertain": false,
-        "posted_at": "2026-10-14",
+        "posted_at": "2026-10-15",
         "evidence_missing": false,
         "_origin": "collected",
         "_source_id": null,
@@ -3629,7 +3904,7 @@
         "summary": "资深数值策划（大话西游归来）（网易游戏（互娱）） @ 网易游戏招聘 · 广州市",
         "source": "网易游戏招聘",
         "source_url": "https://hr.163.com/job-detail.html?id=74907",
-        "published_at": "2026-10-14T12:00:00+08:00",
+        "published_at": "2026-10-15T12:00:00+08:00",
         "tags": [
           "数值策划",
           "资深数值策划"
@@ -3649,7 +3924,7 @@
           "资深数值策划"
         ],
         "geo_uncertain": false,
-        "posted_at": "2026-10-14",
+        "posted_at": "2026-10-15",
         "evidence_missing": false,
         "_origin": "collected",
         "_source_id": null,
@@ -3692,7 +3967,7 @@
         "summary": "《三角洲行动》-数值策划 @ 腾讯招聘 · Shenzhen",
         "source": "腾讯招聘",
         "source_url": "https://careers.tencent.com/jobdesc.html?postId=2008786057281298432",
-        "published_at": "2026-10-14T12:00:00+08:00",
+        "published_at": "2026-10-15T12:00:00+08:00",
         "tags": [
           "数值策划",
           "经济投放",
@@ -3714,7 +3989,7 @@
           "persona_transferable"
         ],
         "geo_uncertain": false,
-        "posted_at": "2026-10-14",
+        "posted_at": "2026-10-15",
         "evidence_missing": false,
         "_origin": "collected",
         "_source_id": null,
@@ -3758,7 +4033,7 @@
         "summary": "Supercell游戏《皇室战争》-数值策划 @ 腾讯招聘 · Shenzhen",
         "source": "腾讯招聘",
         "source_url": "https://careers.tencent.com/jobdesc.html?postId=2067513214815612928",
-        "published_at": "2026-10-14T12:00:00+08:00",
+        "published_at": "2026-10-15T12:00:00+08:00",
         "tags": [
           "数值策划",
           "经济系统",
@@ -3782,7 +4057,7 @@
           "数值平衡"
         ],
         "geo_uncertain": false,
-        "posted_at": "2026-10-14",
+        "posted_at": "2026-10-15",
         "evidence_missing": false,
         "_origin": "collected",
         "_source_id": null,
@@ -3826,7 +4101,7 @@
         "summary": "《怪物猎人：旅人》-资深数值策划 @ 腾讯招聘 · Shenzhen",
         "source": "腾讯招聘",
         "source_url": "https://careers.tencent.com/jobdesc.html?postId=2062715174758039552",
-        "published_at": "2026-10-14T12:00:00+08:00",
+        "published_at": "2026-10-15T12:00:00+08:00",
         "tags": [
           "数值策划",
           "数值设计",
@@ -3850,7 +4125,7 @@
           "资深数值策划"
         ],
         "geo_uncertain": false,
-        "posted_at": "2026-10-14",
+        "posted_at": "2026-10-15",
         "evidence_missing": false,
         "_origin": "collected",
         "_source_id": null,
@@ -3894,7 +4169,7 @@
         "summary": "supercell游戏《部落冲突》-资深数值策划 @ 腾讯招聘 · Shenzhen",
         "source": "腾讯招聘",
         "source_url": "https://careers.tencent.com/jobdesc.html?postId=2087091672277233664",
-        "published_at": "2026-10-14T12:00:00+08:00",
+        "published_at": "2026-10-15T12:00:00+08:00",
         "tags": [
           "数值策划",
           "战斗数值",
@@ -3922,7 +4197,7 @@
           "养成数值"
         ],
         "geo_uncertain": false,
-        "posted_at": "2026-10-14",
+        "posted_at": "2026-10-15",
         "evidence_missing": false,
         "_origin": "collected",
         "_source_id": null,
@@ -3967,7 +4242,7 @@
         "summary": "UE微恐轻动作项目-资深数值策划 @ 腾讯招聘 · Shenzhen",
         "source": "腾讯招聘",
         "source_url": "https://careers.tencent.com/jobdesc.html?postId=2077588768235368448",
-        "published_at": "2026-10-14T12:00:00+08:00",
+        "published_at": "2026-10-15T12:00:00+08:00",
         "tags": [
           "数值策划",
           "游戏数值",
@@ -3995,7 +4270,7 @@
           "养成"
         ],
         "geo_uncertain": false,
-        "posted_at": "2026-10-14",
+        "posted_at": "2026-10-15",
         "evidence_missing": false,
         "_origin": "collected",
         "_source_id": null,
@@ -4665,125 +4940,63 @@
     ],
     "ai": [
       {
-        "id": "ai-community-ai-reddit-era-02319ac93d2b",
+        "id": "ai-community-ai-reddit-era-76ac639530b1",
         "partition": "ai",
         "type": "post",
         "category": "AI变现",
-        "title": "How we helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
-        "summary": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
+        "title": "The business model I am testing does not need thousands of users",
+        "summary": "The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets.",
         "source": "r/EntrepreneurRideAlong",
-        "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x4u6rp/how_we_helped_scale_a_travel_agency_from_3000_to/",
-        "published_at": "2026-10-13T11:32:21.000Z",
+        "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5qjo3/the_business_model_i_am_testing_does_not_need/",
+        "published_at": "2026-10-14T12:58:22.000Z",
         "tags": [
           "reddit",
           "r/EntrepreneurRideAlong",
-          "收入",
           "定价",
-          "获客渠道",
-          "做法"
-        ],
-        "score": 86,
-        "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第1位 · 原帖含：收入、定价、获客渠道、做法",
-        "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x4u6rp/how_we_helped_scale_a_travel_agency_from_3000_to/",
-        "extra": {},
-        "blurb": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
-        "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x4u6rp/how_we_helped_scale_a_travel_agency_from_3000_to/",
-        "name": "How we helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
-        "lang": "EN",
-        "posted_at": "2026-10-13",
-        "evidence_missing": false,
-        "_origin": "community_rss",
-        "_source_id": "ai-reddit-era",
-        "title_orig": "How we helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
-        "source_excerpt": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years. They were getting around 60-70 qualified inquiries a month from referrals and ads.. Here's how we did it: Six months later it's sitting at around $20k a month. of their WhatsApp chats and after some toiling around on reddit.",
-        "_feed_type": "reddit_rss",
-        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-        "_score_raw": 76,
-        "_decay_penalty": 0,
-        "_decay_exempt": null,
-        "_ai_business": true,
-        "_practical_delta": 10,
-        "summary_zh": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
-        "highlights": [
-          "They were getting around 60-70 qualified inquiries a month…",
-          "Here's how we did it…"
-        ],
-        "summary_source": "fallback",
-        "reader": {
-          "verdict": "worth",
-          "use": "找副业/创业做法参考时看：自述收入 $20,000 in monthly profit，渠道 referrals，定价 $3k a month",
-          "lines": {
-            "model": "原帖写到：「It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.」",
-            "value": "作者自述收入「$20,000 in monthly profit」；定价「$3k a month」；获客渠道「referrals」；做法「Here's how」",
-            "note": "数字均为发帖人自述，未经核实"
-          },
-          "evidence": [
-            "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
-            "$20,000 in monthly profit",
-            "$3k a month",
-            "referrals",
-            "Here's how"
-          ],
-          "point": "AI副业：自述收入 $20,000 in monthly profit，渠道 referrals",
-          "verdict_label": "值得看",
-          "title": ""
-        }
-      },
-      {
-        "id": "ai-community-ai-reddit-era-fb3c47d7471a",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
-        "summary": "Our latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe.",
-        "source": "r/EntrepreneurRideAlong",
-        "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x58c6l/we_finally_figured_out_how_to_get_customers_for/",
-        "published_at": "2026-10-13T20:49:32.000Z",
-        "tags": [
-          "reddit",
-          "r/EntrepreneurRideAlong",
           "收入",
-          "踩坑/复盘"
+          "用户/流量数"
         ],
-        "score": 74,
-        "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第7位 · 原帖含：收入、踩坑/复盘",
-        "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x58c6l/we_finally_figured_out_how_to_get_customers_for/",
+        "score": 77,
+        "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第17位 · 原帖含：定价、收入、用户/流量数",
+        "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5qjo3/the_business_model_i_am_testing_does_not_need/",
         "extra": {},
-        "blurb": "Our latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe.",
-        "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x58c6l/we_finally_figured_out_how_to_get_customers_for/",
-        "name": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
+        "blurb": "The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets.",
+        "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5qjo3/the_business_model_i_am_testing_does_not_need/",
+        "name": "The business model I am testing does not need thousands of users",
         "lang": "EN",
-        "posted_at": "2026-10-13",
+        "posted_at": "2026-10-14",
         "evidence_missing": false,
         "_origin": "community_rss",
         "_source_id": "ai-reddit-era",
-        "title_orig": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
-        "source_excerpt": "Our latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe. We're also looking more seriously at churn. Our next goal is $5K MRR, but I don't want us to reach that point just by constantly replacing customers who leave.",
+        "title_orig": "The business model I am testing does not need thousands of users",
+        "source_excerpt": "The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets. That means 100 customers would be $3,900 MRR if every company was on the smallest tier, $7,900 MRR if every company was on the middle tier, or $15,900 MRR if every company was on the highest tier.",
         "_feed_type": "reddit_rss",
         "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-        "_score_raw": 64,
+        "_score_raw": 67,
         "_decay_penalty": 0,
         "_decay_exempt": null,
         "_ai_business": true,
         "_practical_delta": 10,
-        "summary_zh": "Our latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe.",
+        "summary_zh": "The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets.",
         "highlights": [
-          "We're also looking more seriously at churn.",
-          "Our next goal is $5K MRR…"
+          "That means 100 customers would be $3,900 MRR if every…"
         ],
         "summary_source": "fallback",
         "reader": {
           "verdict": "worth",
-          "use": "找副业/创业做法参考时看：自述收入 $1K MRR，含踩坑复盘",
+          "use": "找副业/创业做法参考时看：自述收入 $3,900 MRR，定价 $39 a month，数据 100 customers",
           "lines": {
-            "value": "作者自述收入「$1K MRR」；踩坑/复盘「churn」",
+            "model": "原帖写到：「The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets.」",
+            "value": "作者自述收入「$3,900 MRR」；数据「100 customers」；定价「$39 a month」",
             "note": "数字均为发帖人自述，未经核实"
           },
           "evidence": [
-            "$1K MRR",
-            "churn"
+            "The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets.",
+            "$3,900 MRR",
+            "100 customers",
+            "$39 a month"
           ],
-          "point": "AI副业：自述收入 $1K MRR",
+          "point": "AI副业：自述收入 $3,900 MRR",
           "verdict_label": "值得看",
           "title": ""
         }
@@ -4868,133 +5081,68 @@
         }
       },
       {
-        "id": "ai-community-ai-reddit-era-1cf6342add8d",
+        "id": "ai-community-ai-reddit-saas-a1d347e2418f",
         "partition": "ai",
         "type": "post",
         "category": "AI变现",
-        "title": "I opened a venue and spent over $15,000 on ads this year. Attendance is still unpredictable.",
-        "summary": "My biggest mistake was assuming that if I built something cool enough, people would just show up.",
-        "source": "r/EntrepreneurRideAlong",
-        "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5cl5q/i_opened_a_venue_and_spent_over_15000_on_ads_this/",
-        "published_at": "2026-10-13T23:53:49.000Z",
+        "title": "6 months building an AI tool, $2k+ in ads, almost no paying users. We turned off ads and things finally started working.",
+        "summary": "We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one.",
+        "source": "r/SaaS",
+        "source_url": "https://www.reddit.com/r/SaaS/comments/1x642m0/6_months_building_an_ai_tool_2k_in_ads_almost_no/",
+        "published_at": "2026-10-14T21:46:06.000Z",
         "tags": [
           "reddit",
-          "r/EntrepreneurRideAlong",
+          "r/SaaS",
+          "用户/流量数",
           "投入",
-          "踩坑/复盘",
-          "做法"
+          "获客渠道",
+          "定价",
+          "踩坑/复盘"
         ],
-        "score": 81,
-        "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第5位 · 原帖含：投入、踩坑/复盘、做法",
-        "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5cl5q/i_opened_a_venue_and_spent_over_15000_on_ads_this/",
+        "score": 85,
+        "why": "公开社区帖 · r/SaaS · top/day 第21位 · 原帖含：用户/流量数、投入、获客渠道、定价、踩坑/复盘",
+        "deep_link": "https://www.reddit.com/r/SaaS/comments/1x642m0/6_months_building_an_ai_tool_2k_in_ads_almost_no/",
         "extra": {},
-        "blurb": "My biggest mistake was assuming that if I built something cool enough, people would just show up.",
-        "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5cl5q/i_opened_a_venue_and_spent_over_15000_on_ads_this/",
-        "name": "I opened a venue and spent over $15,000 on ads this year. Attendance is still unpredictable.",
+        "blurb": "We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one.",
+        "url": "https://www.reddit.com/r/SaaS/comments/1x642m0/6_months_building_an_ai_tool_2k_in_ads_almost_no/",
+        "name": "6 months building an AI tool, $2k+ in ads, almost no paying users. We turned off ads and things finally started working.",
         "lang": "EN",
-        "posted_at": "2026-10-13",
+        "posted_at": "2026-10-14",
         "evidence_missing": false,
         "_origin": "community_rss",
-        "_source_id": "ai-reddit-era",
-        "title_orig": "I opened a venue and spent over $15,000 on ads this year. Attendance is still unpredictable.",
-        "source_excerpt": "My biggest mistake was assuming that if I built something cool enough, people would just show up. Here's what I've tried so far:",
+        "_source_id": "ai-reddit-saas",
+        "title_orig": "6 months building an AI tool, $2k+ in ads, almost no paying users. We turned off ads and things finally started working.",
+        "source_excerpt": "We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one. ChatGPT referred 53 visitors. We spent around $2,000 on Meta and Google ads. Instead of asking someone to subscribe just to finish one presentation, we added a $13 one-time option, offered right when they hit the free limit. First mistake: building for the customer we wanted",
         "_feed_type": "reddit_rss",
         "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-        "_score_raw": 71,
+        "_score_raw": 75,
         "_decay_penalty": 0,
         "_decay_exempt": null,
         "_ai_business": true,
         "_practical_delta": 10,
-        "summary_zh": "My biggest mistake was assuming that if I built something cool enough, people would just show up.",
+        "summary_zh": "We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one.",
         "highlights": [
-          "Here's what I've tried so far:"
+          "We spent around $2,000 on Meta and Google ads.",
+          "First mistake: building for the customer we wanted"
         ],
         "summary_source": "fallback",
         "reader": {
           "verdict": "save",
-          "use": "避坑时看：投入 $15,000，含踩坑复盘，含具体做法",
+          "use": "避坑时看：数据 53 visitors，渠道 Google ads，投入 $2,000",
           "lines": {
-            "value": "投入「$15,000」；踩坑/复盘「mistake」；做法「Here's what」",
+            "model": "原帖写到：「We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one.」",
+            "value": "数据「53 visitors」；投入「$2,000」；定价「$13 one-time」；获客渠道「Google ads」",
             "note": "数字均为发帖人自述，未经核实"
           },
           "evidence": [
-            "$15,000",
-            "mistake",
-            "Here's what"
+            "We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one.",
+            "53 visitors",
+            "$2,000",
+            "$13 one-time",
+            "Google ads",
+            "mistake"
           ],
-          "point": "AI副业：投入 $15,000",
-          "verdict_label": "收藏",
-          "title": ""
-        }
-      },
-      {
-        "id": "ai-post-nichepursuits-42549d21d42e",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
-        "summary": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
-        "source": "@nichepursuits / Niche Pursuits",
-        "source_url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
-        "published_at": "2026-10-07T14:02:14.000Z",
-        "tags": [
-          "公开营收",
-          "indie",
-          "saas",
-          "SaaS"
-        ],
-        "score": 78,
-        "why": "独立/Agent：公开营收、indie；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
-        "deep_link": "https://www.nichepursuits.com/maddox-schmidlkofer/",
-        "extra": {},
-        "blurb": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
-        "url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
-        "handle": "nichepursuits",
-        "name": "Niche Pursuits",
-        "lang": "EN",
-        "posted_at": "2026-10-07",
-        "tier": "A",
-        "evidence_missing": false,
-        "_origin": "kol_rss",
-        "_source_id": "kol:nichepursuits",
-        "title_orig": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
-        "source_excerpt": "In this week's episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win. At 21, Maddox has already built a website generating $1,000 per day and sold it for $120,000. His current… The post How Maddox Schmidlkofer Bui",
-        "person_id": "nichepursuits",
-        "person_handle": "nichepursuits",
-        "person_name": "Niche Pursuits",
-        "_feed_type": "blog_rss",
-        "_feed_url": "https://www.nichepursuits.com/feed/",
-        "_score_raw": 68,
-        "_decay_penalty": 0,
-        "_decay_exempt": null,
-        "_ai_business": true,
-        "ai_frame": {
-          "problem": null,
-          "model": null,
-          "proof": "$1,000"
-        },
-        "_practical_delta": 10,
-        "summary_zh": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
-        "highlights": [
-          "21岁Maddox Schmidlkofer，日入1000美元，12万美元。"
-        ],
-        "summary_source": "local_llm",
-        "reader": {
-          "verdict": "save",
-          "use": "找 AI 副业方向时看：公开收入 $1,000",
-          "lines": {
-            "value": "真实收入数字（$1,000）"
-          },
-          "evidence": [
-            "generating $1,000"
-          ],
-          "point": "AI副业：有人公开收入 $1,000",
-          "concrete": [
-            {
-              "kind": "money",
-              "quote": "$1,000"
-            }
-          ],
+          "point": "AI副业：数据 53 visitors，渠道 Google ads",
           "verdict_label": "收藏",
           "title": ""
         }
@@ -5016,7 +5164,7 @@
           "踩坑/复盘"
         ],
         "score": 77,
-        "why": "公开社区帖 · Show HN 第2位 · 原帖含：定价、踩坑/复盘",
+        "why": "公开社区帖 · Show HN 第5位 · 原帖含：定价、踩坑/复盘",
         "deep_link": "https://pulseos.finance",
         "extra": {},
         "blurb": "Mac预算应用Pulse Local使用AI模型运行在用户机器上，支持同步银行交易",
@@ -5075,8 +5223,8 @@
           "投入",
           "定价"
         ],
-        "score": 75,
-        "why": "公开社区帖 · r/SaaS · top/day 第9位 · 原帖含：投入、定价",
+        "score": 72,
+        "why": "公开社区帖 · r/SaaS · top/day 第33位 · 原帖含：投入、定价",
         "deep_link": "https://www.reddit.com/r/SaaS/comments/1x5edg9/i_compared_10_ai_assistants_and_im_starting_to/",
         "extra": {},
         "blurb": "Basically these guys figured out that instead of charging users $20/month, the platform generates revenue from ads and shares a portion of that revenue with eligible users.",
@@ -5091,7 +5239,7 @@
         "source_excerpt": "Basically these guys figured out that instead of charging users $20/month, the platform generates revenue from ads and shares a portion of that revenue with eligible users. Price to chat Free tier; Plus ~$20/mo Free tier; Pro ~$20/mo Free tier; AI Pro ~$20/mo Free, ad-supported 🏆 Best in class Free tier; Pro ~$20/mo Free tier; paid plans",
         "_feed_type": "reddit_rss",
         "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-        "_score_raw": 65,
+        "_score_raw": 62,
         "_decay_penalty": 0,
         "_decay_exempt": null,
         "_ai_business": true,
@@ -5115,6 +5263,66 @@
             "$20/month"
           ],
           "point": "AI副业：投入 $20",
+          "verdict_label": "收藏",
+          "title": ""
+        }
+      },
+      {
+        "id": "ai-community-ai-reddit-saas-99bb41de21dd",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "Selling infrastructure for AI agents might be the last moat left (I'll not sell)",
+        "summary": "Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had.",
+        "source": "r/SaaS",
+        "source_url": "https://www.reddit.com/r/SaaS/comments/1x5ffei/selling_infrastructure_for_ai_agents_might_be_the/",
+        "published_at": "2026-10-14T02:11:47.000Z",
+        "tags": [
+          "reddit",
+          "r/SaaS",
+          "定价",
+          "获客渠道"
+        ],
+        "score": 71,
+        "why": "公开社区帖 · r/SaaS · top/day 第32位 · 原帖含：定价、获客渠道",
+        "deep_link": "https://www.reddit.com/r/SaaS/comments/1x5ffei/selling_infrastructure_for_ai_agents_might_be_the/",
+        "extra": {},
+        "blurb": "Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had.",
+        "url": "https://www.reddit.com/r/SaaS/comments/1x5ffei/selling_infrastructure_for_ai_agents_might_be_the/",
+        "name": "Selling infrastructure for AI agents might be the last moat left (I'll not sell)",
+        "lang": "EN",
+        "posted_at": "2026-10-14",
+        "evidence_missing": false,
+        "_origin": "community_rss",
+        "_source_id": "ai-reddit-saas",
+        "title_orig": "Selling infrastructure for AI agents might be the last moat left (I'll not sell)",
+        "source_excerpt": "Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had. Then we let Claude itself use that infrastructure to send LinkedIn DMs, reach out to leads, and do pretty much everything related to LinkedIn directly from Claude.",
+        "_feed_type": "reddit_rss",
+        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+        "_score_raw": 61,
+        "_decay_penalty": 0,
+        "_decay_exempt": null,
+        "_ai_business": true,
+        "_practical_delta": 10,
+        "summary_zh": "Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had.",
+        "highlights": [
+          "Then we let Claude itself use that infrastructure to send…"
+        ],
+        "summary_source": "fallback",
+        "reader": {
+          "verdict": "save",
+          "use": "看获客渠道时看：渠道 LinkedIn，定价 $10,000 a month",
+          "lines": {
+            "model": "原帖写到：「Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had.」",
+            "value": "定价「$10,000 a month」；获客渠道「LinkedIn」",
+            "note": "数字均为发帖人自述，未经核实"
+          },
+          "evidence": [
+            "Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had.",
+            "$10,000 a month",
+            "LinkedIn"
+          ],
+          "point": "AI副业：渠道 LinkedIn，渠道 LinkedIn",
           "verdict_label": "收藏",
           "title": ""
         }
@@ -5244,6 +5452,78 @@
             {
               "kind": "money",
               "quote": "$2M"
+            }
+          ],
+          "verdict_label": "收藏",
+          "title": ""
+        }
+      },
+      {
+        "id": "ai-post-nichepursuits-42549d21d42e",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
+        "summary": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
+        "source": "@nichepursuits / Niche Pursuits",
+        "source_url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
+        "published_at": "2026-10-07T14:02:14.000Z",
+        "tags": [
+          "公开营收",
+          "indie",
+          "saas",
+          "SaaS"
+        ],
+        "score": 62,
+        "why": "独立/Agent：公开营收、indie；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
+        "deep_link": "https://www.nichepursuits.com/maddox-schmidlkofer/",
+        "extra": {},
+        "blurb": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
+        "url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
+        "handle": "nichepursuits",
+        "name": "Niche Pursuits",
+        "lang": "EN",
+        "posted_at": "2026-10-07",
+        "tier": "A",
+        "evidence_missing": false,
+        "_origin": "kol_rss",
+        "_source_id": "kol:nichepursuits",
+        "title_orig": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
+        "source_excerpt": "In this week's episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win. At 21, Maddox has already built a website generating $1,000 per day and sold it for $120,000. His current… The post How Maddox Schmidlkofer Bui",
+        "person_id": "nichepursuits",
+        "person_handle": "nichepursuits",
+        "person_name": "Niche Pursuits",
+        "_feed_type": "blog_rss",
+        "_feed_url": "https://www.nichepursuits.com/feed/",
+        "_score_raw": 60,
+        "_decay_penalty": 8,
+        "_decay_exempt": null,
+        "_ai_business": true,
+        "ai_frame": {
+          "problem": null,
+          "model": null,
+          "proof": "$1,000"
+        },
+        "_practical_delta": 10,
+        "summary_zh": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
+        "highlights": [
+          "21岁Maddox Schmidlkofer，日入1000美元，12万美元。"
+        ],
+        "summary_source": "local_llm",
+        "reader": {
+          "verdict": "save",
+          "use": "找 AI 副业方向时看：公开收入 $1,000",
+          "lines": {
+            "value": "真实收入数字（$1,000）"
+          },
+          "evidence": [
+            "generating $1,000"
+          ],
+          "point": "AI副业：有人公开收入 $1,000",
+          "concrete": [
+            {
+              "kind": "money",
+              "quote": "$1,000"
             }
           ],
           "verdict_label": "收藏",
@@ -5412,7 +5692,7 @@
           "llm",
           "SaaS"
         ],
-        "score": 46,
+        "score": 38,
         "why": "独立/Agent：公开营收、indie；策展：长期发布带营收数字的真实创业案例（做了什么、卖给谁、怎么赚钱）。",
         "deep_link": "https://x.com/thepatwalls/status/2102384016661844445",
         "extra": {},
@@ -5439,7 +5719,7 @@
         "person_name": "Pat Walls",
         "_feed_type": "x_api",
         "_feed_url": "x://api/users/thepatwalls/tweets",
-        "_score_raw": 44,
+        "_score_raw": 36,
         "_decay_penalty": 8,
         "_decay_exempt": null,
         "_ai_business": true,
@@ -5462,16 +5742,16 @@
     ],
     "invest": [
       {
-        "id": "crypto-market-2026-10-14",
+        "id": "crypto-market-2026-10-15",
         "partition": "invest",
         "type": "card",
         "category": "投资观察",
-        "title": "大盘 · BTC $83,319（24h +0.14%）· ETH $2,501（+0.34%）",
-        "title_orig": "大盘 · BTC $83,319（24h +0.14%）· ETH $2,501（+0.34%）",
+        "title": "大盘 · BTC $81,655（24h -2.03%）· ETH $2,422（-3.32%）",
+        "title_orig": "大盘 · BTC $81,655（24h -2.03%）· ETH $2,422（-3.32%）",
         "source": "CoinGecko 公开 API（/global + /coins/markets）",
         "source_url": "https://www.coingecko.com/",
         "url": "https://www.coingecko.com/",
-        "published_at": "2026-10-14T10:47:50.000Z",
+        "published_at": "2026-10-15T00:11:52.000Z",
         "tags": [
           "加密",
           "高风险",
@@ -5488,31 +5768,31 @@
         "reader": {
           "verdict": "worth",
           "verdict_label": "币圈观察",
-          "use": "今日币圈整体横盘；总市值 $2.79T（24h +0.15%），BTC 占比 59.8%，先看大盘再看单币异动",
-          "title": "大盘 · BTC $83,319（24h +0.14%）· ETH $2,501（+0.34%）",
+          "use": "今日币圈整体偏弱；总市值 $2.77T（24h -2.00%），BTC 占比 59.3%，先看大盘再看单币异动",
+          "title": "大盘 · BTC $81,655（24h -2.03%）· ETH $2,422（-3.32%）",
           "lines": {
-            "value": "BTC 7d -0.89%；ETH 7d -4.36%",
+            "value": "BTC 7d -1.93%；ETH 7d -5.84%",
             "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
           },
           "evidence": [
-            "bitcoin current_price: 83319, price_change_percentage_24h: 0.14",
-            "ethereum current_price: 2500.76, price_change_percentage_24h: 0.34",
-            "total_market_cap.usd: 2794578744690, market_cap_percentage.btc: 59.8 (24h 变化取前100币 market_cap_change_percentage_24h 按市值加权 = 0.15)"
+            "bitcoin current_price: 81655, price_change_percentage_24h: -2.03",
+            "ethereum current_price: 2421.6, price_change_percentage_24h: -3.32",
+            "total_market_cap.usd: 2765318509007, market_cap_percentage.btc: 59.3 (24h 变化取前100币 market_cap_change_percentage_24h 按市值加权 = -2.00)"
           ],
-          "point": "币圈：今日币圈整体横盘；总市值 $2.79T（24h +0.15%），BTC 占比 59.8%，先看大盘再看单币异动"
+          "point": "币圈：今日币圈整体偏弱；总市值 $2.77T（24h -2.00%），BTC 占比 59.3%，先看大盘再看单币异动"
         }
       },
       {
-        "id": "crypto-etf-btc-13Oct2026",
+        "id": "crypto-etf-btc-14Oct2026",
         "partition": "invest",
         "type": "card",
         "category": "投资观察",
-        "title": "BTC 现货 ETF · 13 Oct 2026 净流入 $175.7M",
-        "title_orig": "BTC 现货 ETF · 13 Oct 2026 净流入 $175.7M",
+        "title": "BTC 现货 ETF · 14 Oct 2026 净流入 $2.2M",
+        "title_orig": "BTC 现货 ETF · 14 Oct 2026 净流入 $2.2M",
         "source": "Farside Investors 公开 BTC ETF 日流表（单位：百万美元）",
         "source_url": "https://farside.co.uk/btc/",
         "url": "https://farside.co.uk/btc/",
-        "published_at": "2026-10-13T23:59:00.000Z",
+        "published_at": "2026-10-14T23:59:00.000Z",
         "tags": [
           "加密",
           "高风险",
@@ -5526,38 +5806,38 @@
         "extra": {
           "disclaimer": "非投资建议；加密高风险",
           "numbers": {
-            "total_net_flow_m_usd": 175.7,
-            "as_of": "13 Oct 2026",
-            "streak_days": 1,
-            "sum_5d_m_usd": -597.6
+            "total_net_flow_m_usd": 2.2,
+            "as_of": "14 Oct 2026",
+            "streak_days": 2,
+            "sum_5d_m_usd": -110.5
           }
         },
         "reader": {
           "verdict": "worth",
           "verdict_label": "币圈观察",
-          "use": "机构资金方向：已连续 1 个交易日净流入，近5日合计 −$597.6M",
-          "title": "BTC 现货 ETF · 13 Oct 2026 净流入 $175.7M",
+          "use": "机构资金方向：已连续 2 个交易日净流入，近5日合计 −$110.5M",
+          "title": "BTC 现货 ETF · 14 Oct 2026 净流入 $2.2M",
           "lines": {
-            "value": "前5日合计（百万美元）：118.8 / -484.9 / -244.1 / 21.1 / -65.4",
+            "value": "前5日合计（百万美元）：-484.9 / -244.1 / 21.1 / -65.4 / 175.7",
             "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
           },
           "evidence": [
-            "13 Oct 2026 65.9 103.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 175.7"
+            "14 Oct 2026 - - 2.2 0.0 0.0 0.0 0.0 - 0.0 - 0.0 0.0 2.2"
           ],
-          "point": "币圈：机构资金方向：已连续 1 个交易日净流入，近5日合计 −$597.6M"
+          "point": "币圈：机构资金方向：已连续 2 个交易日净流入，近5日合计 −$110.5M"
         }
       },
       {
-        "id": "crypto-etf-eth-13Oct2026",
+        "id": "crypto-etf-eth-14Oct2026",
         "partition": "invest",
         "type": "card",
         "category": "投资观察",
-        "title": "ETH 现货 ETF · 13 Oct 2026 净流入 $24.8M",
-        "title_orig": "ETH 现货 ETF · 13 Oct 2026 净流入 $24.8M",
+        "title": "ETH 现货 ETF · 14 Oct 2026 净流出 $19.7M",
+        "title_orig": "ETH 现货 ETF · 14 Oct 2026 净流出 $19.7M",
         "source": "Farside Investors 公开 ETH ETF 日流表（单位：百万美元）",
         "source_url": "https://farside.co.uk/eth/",
         "url": "https://farside.co.uk/eth/",
-        "published_at": "2026-10-13T23:59:00.000Z",
+        "published_at": "2026-10-14T23:59:00.000Z",
         "tags": [
           "加密",
           "高风险",
@@ -5571,38 +5851,38 @@
         "extra": {
           "disclaimer": "非投资建议；加密高风险",
           "numbers": {
-            "total_net_flow_m_usd": 24.8,
-            "as_of": "13 Oct 2026",
+            "total_net_flow_m_usd": -19.7,
+            "as_of": "14 Oct 2026",
             "streak_days": 1,
-            "sum_5d_m_usd": -350.1
+            "sum_5d_m_usd": -208.9
           }
         },
         "reader": {
           "verdict": "worth",
           "verdict_label": "币圈观察",
-          "use": "机构资金方向：已连续 1 个交易日净流入，近5日合计 −$350.1M",
-          "title": "ETH 现货 ETF · 13 Oct 2026 净流入 $24.8M",
+          "use": "机构资金方向：已连续 1 个交易日净流出，近5日合计 −$208.9M",
+          "title": "ETH 现货 ETF · 14 Oct 2026 净流出 $19.7M",
           "lines": {
-            "value": "前5日合计（百万美元）：-201.9 / -160.9 / -72.5 / -56.1 / -85.4",
+            "value": "前5日合计（百万美元）：-160.9 / -72.5 / -56.1 / -85.4 / 24.8",
             "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
           },
           "evidence": [
-            "13 Oct 2026 0.0 0.0 8.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 16.7 24.8"
+            "14 Oct 2026 - - - 0.0 0.0 - 0.0 (0.9) - 0.0 (18.8) (19.7)"
           ],
-          "point": "币圈：机构资金方向：已连续 1 个交易日净流入，近5日合计 −$350.1M"
+          "point": "币圈：机构资金方向：已连续 1 个交易日净流出，近5日合计 −$208.9M"
         }
       },
       {
-        "id": "crypto-movers-涨-2026-10-14",
+        "id": "crypto-movers-涨-2026-10-15",
         "partition": "invest",
         "type": "card",
         "category": "投资观察",
-        "title": "前100市值涨幅榜 · BTW +32.84% / STX +4.11% / XMR +3.48%（24h）",
-        "title_orig": "前100市值涨幅榜 · BTW +32.84% / STX +4.11% / XMR +3.48%（24h）",
+        "title": "前100市值涨幅榜 · BTW +13.70% / PYTH +9.36% / JST +2.82%（24h）",
+        "title_orig": "前100市值涨幅榜 · BTW +13.70% / PYTH +9.36% / JST +2.82%（24h）",
         "source": "CoinGecko 公开 API（/coins/markets 前100）",
         "source_url": "https://www.coingecko.com/en/crypto-gainers-losers",
         "url": "https://www.coingecko.com/en/crypto-gainers-losers",
-        "published_at": "2026-10-14T10:47:50.000Z",
+        "published_at": "2026-10-15T00:11:52.000Z",
         "tags": [
           "加密",
           "高风险",
@@ -5620,30 +5900,30 @@
           "verdict": "worth",
           "verdict_label": "币圈观察",
           "use": "大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐",
-          "title": "前100市值涨幅榜 · BTW +32.84% / STX +4.11% / XMR +3.48%（24h）",
+          "title": "前100市值涨幅榜 · BTW +13.70% / PYTH +9.36% / JST +2.82%（24h）",
           "lines": {
-            "value": "Bitway $2.500，24h 成交 $135.7M，市值排名 #33（流通仅占总量 15%，低流通盘易暴涨暴跌）；Stacks $0.4377，24h 成交 $51.4M，市值排名 #88；Monero $552，24h 成交 $113.6M，市值排名 #13",
+            "value": "Bitway $2.420，24h 成交 $95.6M，市值排名 #33（流通仅占总量 15%，低流通盘易暴涨暴跌）；Pyth Network $0.08552，24h 成交 $88.8M，市值排名 #98；JUST $0.1418，24h 成交 $29.3M，市值排名 #71",
             "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
           },
           "evidence": [
-            "bitway current_price: 2.5, price_change_percentage_24h: 32.84, total_volume: 135694944, circulating_supply: 1505787514, total_supply: 10000000000",
-            "blockstack current_price: 0.437687, price_change_percentage_24h: 4.11, total_volume: 51446042, circulating_supply: 1874478967, total_supply: 1874521487",
-            "monero current_price: 552.36, price_change_percentage_24h: 3.48, total_volume: 113641006, circulating_supply: 18817417, total_supply: 18817436"
+            "bitway current_price: 2.42, price_change_percentage_24h: 13.70, total_volume: 95589378, circulating_supply: 1505787514, total_supply: 10000000000",
+            "pyth-network current_price: 0.085522, price_change_percentage_24h: 9.36, total_volume: 88829608, circulating_supply: 7874959040, total_supply: 10000000000",
+            "just current_price: 0.141841, price_change_percentage_24h: 2.82, total_volume: 29334144, circulating_supply: 8188743036, total_supply: 8188743036"
           ],
           "point": "币圈：大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐"
         }
       },
       {
-        "id": "crypto-movers-跌-2026-10-14",
+        "id": "crypto-movers-跌-2026-10-15",
         "partition": "invest",
         "type": "card",
         "category": "投资观察",
-        "title": "前100市值跌幅榜 · POL -5.71% / RENDER -4.88% / ZRO -4.64%（24h）",
-        "title_orig": "前100市值跌幅榜 · POL -5.71% / RENDER -4.88% / ZRO -4.64%（24h）",
+        "title": "前100市值跌幅榜 · LIT -7.77% / ENA -7.06% / POL -6.34%（24h）",
+        "title_orig": "前100市值跌幅榜 · LIT -7.77% / ENA -7.06% / POL -6.34%（24h）",
         "source": "CoinGecko 公开 API（/coins/markets 前100）",
         "source_url": "https://www.coingecko.com/en/crypto-gainers-losers",
         "url": "https://www.coingecko.com/en/crypto-gainers-losers",
-        "published_at": "2026-10-14T10:47:50.000Z",
+        "published_at": "2026-10-15T00:11:52.000Z",
         "tags": [
           "加密",
           "高风险",
@@ -5661,30 +5941,30 @@
           "verdict": "worth",
           "verdict_label": "币圈观察",
           "use": "大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接",
-          "title": "前100市值跌幅榜 · POL -5.71% / RENDER -4.88% / ZRO -4.64%（24h）",
+          "title": "前100市值跌幅榜 · LIT -7.77% / ENA -7.06% / POL -6.34%（24h）",
           "lines": {
-            "value": "POL (ex-MATIC) $0.09836，24h 成交 $79.8M，市值排名 #77；Render $1.980，24h 成交 $92.9M，市值排名 #79；LayerZero $1.990，24h 成交 $66.6M，市值排名 #90",
+            "value": "Lighter $3.110，24h 成交 $74.6M，市值排名 #89（流通仅占总量 25%，低流通盘易暴涨暴跌）；Ethena $0.1959，24h 成交 $378.1M，市值排名 #41；POL (ex-MATIC) $0.09549，24h 成交 $67.0M，市值排名 #77",
             "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
           },
           "evidence": [
-            "polygon-ecosystem-token current_price: 0.098356, price_change_percentage_24h: -5.71, total_volume: 79811881, circulating_supply: 10631556553, total_supply: 10631556553",
-            "render-token current_price: 1.98, price_change_percentage_24h: -4.88, total_volume: 92853893, circulating_supply: 518776241, total_supply: 533536415",
-            "layerzero current_price: 1.99, price_change_percentage_24h: -4.64, total_volume: 66595999, circulating_supply: 399906717, total_supply: 1000000000"
+            "lighter current_price: 3.11, price_change_percentage_24h: -7.77, total_volume: 74604268, circulating_supply: 250000000, total_supply: 1000000000",
+            "ethena current_price: 0.195864, price_change_percentage_24h: -7.06, total_volume: 378109417, circulating_supply: 13406250000, total_supply: 15000000000",
+            "polygon-ecosystem-token current_price: 0.095487, price_change_percentage_24h: -6.34, total_volume: 67013372, circulating_supply: 10631556553, total_supply: 10631556553"
           ],
           "point": "币圈：大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接"
         }
       },
       {
-        "id": "crypto-trending-2026-10-14",
+        "id": "crypto-trending-2026-10-15",
         "partition": "invest",
         "type": "card",
         "category": "投资观察",
-        "title": "CoinGecko 热搜 · PRL +19.42% / ZYLO -0.82% / WAL +41.58% / DRV +1.63%",
-        "title_orig": "CoinGecko 热搜 · PRL +19.42% / ZYLO -0.82% / WAL +41.58% / DRV +1.63%",
+        "title": "CoinGecko 热搜 · PRL +5.37% / WAL +51.89% / BTC -1.86% / QTC -6.99%",
+        "title_orig": "CoinGecko 热搜 · PRL +5.37% / WAL +51.89% / BTC -1.86% / QTC -6.99%",
         "source": "CoinGecko 公开 API（/search/trending）",
         "source_url": "https://www.coingecko.com/en/highlights/trending-crypto",
         "url": "https://www.coingecko.com/en/highlights/trending-crypto",
-        "published_at": "2026-10-14T10:48:23.770Z",
+        "published_at": "2026-10-15T00:13:12.670Z",
         "tags": [
           "加密",
           "高风险",
@@ -5701,19 +5981,19 @@
         "reader": {
           "verdict": "worth",
           "verdict_label": "币圈观察",
-          "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PRL、WAL、DRV",
-          "title": "CoinGecko 热搜 · PRL +19.42% / ZYLO -0.82% / WAL +41.58% / DRV +1.63%",
+          "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PRL、WAL、BTC",
+          "title": "CoinGecko 热搜 · PRL +5.37% / WAL +51.89% / BTC -1.86% / QTC -6.99%",
           "lines": {
-            "value": "Pearl（市值排名 #98）、Zylo Ecosystem（市值排名 #843）、Walrus（市值排名 #227）、Derive（市值排名 #126）、Pudgy Penguins（市值排名 #121）、Arbitrum（市值排名 #69）、Quantus（市值排名 #606）、Pons（市值排名 #173）、Starknet（市值排名 #106）、Uniswap（市值排名 #26）、Optimism（市值排名 #135）、Bittensor（市值排名 #35）、Quant（市值排名 #37）、Aerodrome Finance（市值排名 #83）",
+            "value": "Pearl（市值排名 #100）、Walrus（市值排名 #216）、Bitcoin（市值排名 #1）、Quantus（市值排名 #628）、Quant（市值排名 #37）、Pudgy Penguins（市值排名 #119）、XRP（市值排名 #5）、Sui（市值排名 #29）、Starknet（市值排名 #108）、Plume（市值排名 #238）、Solana（市值排名 #7）、Backpack（市值排名 #160）、Ondo（市值排名 #49）、POL (ex-MATIC)（市值排名 #77）",
             "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
           },
           "evidence": [
-            "pearl-2 market_cap_rank: 98, price_change_percentage_24h.usd: 19.42",
-            "zylo-ecosystem market_cap_rank: 843, price_change_percentage_24h.usd: -0.82",
-            "walrus-2 market_cap_rank: 227, price_change_percentage_24h.usd: 41.58",
-            "derive market_cap_rank: 126, price_change_percentage_24h.usd: 1.63"
+            "pearl-2 market_cap_rank: 100, price_change_percentage_24h.usd: 5.37",
+            "walrus-2 market_cap_rank: 216, price_change_percentage_24h.usd: 51.89",
+            "bitcoin market_cap_rank: 1, price_change_percentage_24h.usd: -1.86",
+            "quantus market_cap_rank: 628, price_change_percentage_24h.usd: -6.99"
           ],
-          "point": "币圈：散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PRL、WAL、DRV"
+          "point": "币圈：散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PRL、WAL、BTC"
         }
       },
       {
@@ -5721,8 +6001,8 @@
         "partition": "invest",
         "type": "card",
         "category": "投资观察",
-        "title": "稳定币总量 $311.19B · 7日 -0.52% · 30日 +0.84%",
-        "title_orig": "稳定币总量 $311.19B · 7日 -0.52% · 30日 +0.84%",
+        "title": "稳定币总量 $306.10B · 7日 -0.59% · 30日 +0.85%",
+        "title_orig": "稳定币总量 $306.10B · 7日 -0.59% · 30日 +0.85%",
         "source": "DefiLlama 公开 API（stablecoincharts/all）",
         "source_url": "https://defillama.com/stablecoins",
         "url": "https://defillama.com/stablecoins",
@@ -5744,29 +6024,29 @@
           "verdict": "worth",
           "verdict_label": "币圈观察",
           "use": "稳定币在收缩：场内资金流出，反弹持续性要打折扣",
-          "title": "稳定币总量 $311.19B · 7日 -0.52% · 30日 +0.84%",
+          "title": "稳定币总量 $306.10B · 7日 -0.59% · 30日 +0.85%",
           "lines": {
-            "value": "7日变化 $-1.61B（数据日 2026-10-14）",
+            "value": "7日变化 $-1.80B（数据日 2026-10-14）",
             "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
           },
           "evidence": [
-            "date: 1791936000 (2026-10-14), totalCirculatingUSD.peggedUSD: 311193161801",
-            "7 days earlier totalCirculatingUSD.peggedUSD: 312806188008"
+            "date: 1791936000 (2026-10-14), totalCirculatingUSD.peggedUSD: 306101280612",
+            "7 days earlier totalCirculatingUSD.peggedUSD: 307904813747"
           ],
           "point": "币圈：稳定币在收缩：场内资金流出，反弹持续性要打折扣"
         }
       },
       {
-        "id": "crypto-news-lZC04Nm0tZHJhaW4",
+        "id": "crypto-news-sbGlvbi00MTg1NTY",
         "partition": "invest",
         "type": "card",
         "category": "投资观察",
-        "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
-        "title_orig": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
-        "source": "Decrypt",
-        "source_url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
-        "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
-        "published_at": "2026-10-13T11:53:15.000Z",
+        "title": "Strive buys $235 million in bitcoin as warrant exercises yield $369 million",
+        "title_orig": "Strive buys $235 million in bitcoin as warrant exercises yield $369 million",
+        "source": "The Block",
+        "source_url": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
+        "url": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
+        "published_at": "2026-10-14T14:32:39.000Z",
         "tags": [
           "加密",
           "高风险",
@@ -5783,29 +6063,30 @@
         "reader": {
           "verdict": "worth",
           "verdict_label": "币圈观察",
-          "use": "钱包安全事件：自查硬件钱包购买渠道（非官方渠道风险高），不涉及价格判断",
+          "use": "真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考",
           "title": "",
           "lines": {
-            "value": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
+            "value": "Strive buys $235 million in bitcoin as warrant exercises yield $369 million",
             "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
           },
           "evidence": [
-            "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain"
+            "Strive buys $235 million in bitcoin as warrant exercises yield $369 million",
+            "Strive acquired 2,822 bitcoin for $235 million following $369.2 million in gross proceeds from traditional warrant exercises."
           ],
-          "point": "币圈：钱包安全事件：自查硬件钱包购买渠道（非官方渠道风险高），不涉及价格判断"
+          "point": "币圈：真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考"
         }
       },
       {
-        "id": "crypto-news-bnVhcnktNDE4NDMw",
+        "id": "crypto-news-VkLTg2bS1kcmFpbg",
         "partition": "invest",
         "type": "card",
         "category": "投资观察",
-        "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-        "title_orig": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-        "source": "The Block",
-        "source_url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
-        "url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
-        "published_at": "2026-10-13T13:42:25.000Z",
+        "title": "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain",
+        "title_orig": "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain",
+        "source": "Decrypt",
+        "source_url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
+        "url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
+        "published_at": "2026-10-14T13:47:44.000Z",
         "tags": [
           "加密",
           "高风险",
@@ -5822,30 +6103,29 @@
         "reader": {
           "verdict": "worth",
           "verdict_label": "币圈观察",
-          "use": "真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考",
+          "use": "安全事件：涉事协议/代币短线有抛压，相关仓位先查是否受影响",
           "title": "",
           "lines": {
-            "value": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
+            "value": "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain",
             "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
           },
           "evidence": [
-            "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-            "Strive added 3,311 BTC between Oct."
+            "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain"
           ],
-          "point": "币圈：真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考"
+          "point": "币圈：安全事件：涉事协议/代币短线有抛压，相关仓位先查是否受影响"
         }
       },
       {
-        "id": "crypto-news-AtbW92ZXMtMzc3bQ",
+        "id": "crypto-news-vdy0yMDI1LXBlYWs",
         "partition": "invest",
         "type": "card",
         "category": "投资观察",
-        "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
-        "title_orig": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
-        "source": "Decrypt",
-        "source_url": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
-        "url": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
-        "published_at": "2026-10-13T19:38:12.000Z",
+        "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
+        "title_orig": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
+        "source": "CoinDesk",
+        "source_url": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
+        "url": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
+        "published_at": "2026-10-14T14:31:14.000Z",
         "tags": [
           "加密",
           "高风险",
@@ -5862,30 +6142,30 @@
         "reader": {
           "verdict": "worth",
           "verdict_label": "币圈观察",
-          "use": "真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考",
+          "use": "机构资金流向：ETF 资金方向会影响 BTC/ETH 短线承接力",
           "title": "",
           "lines": {
-            "value": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
+            "value": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
             "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
           },
           "evidence": [
-            "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
-            "A wallet that received 4,581 BTC in March 2020, worth about $40 million then, moved its stash today when it was worth about $377 million."
+            "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
+            "The asset manager's crypto assets surged 63% to $79.6 billion as investors returned, but holdings remain 23% below year-ago levels."
           ],
-          "point": "币圈：真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考"
+          "point": "币圈：机构资金流向：ETF 资金方向会影响 BTC/ETH 短线承接力"
         }
       },
       {
-        "id": "crypto-news-0Y29pbi00MTg0MDk",
+        "id": "crypto-news-YWx0Y29pbnMtbGFn",
         "partition": "invest",
         "type": "card",
         "category": "投资观察",
-        "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
-        "title_orig": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
-        "source": "The Block",
-        "source_url": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
-        "url": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
-        "published_at": "2026-10-13T11:38:19.000Z",
+        "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+        "title_orig": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+        "source": "CoinDesk",
+        "source_url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
+        "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
+        "published_at": "2026-10-14T10:51:39.000Z",
         "tags": [
           "加密",
           "高风险",
@@ -5902,29 +6182,30 @@
         "reader": {
           "verdict": "worth",
           "verdict_label": "币圈观察",
-          "use": "监管进展：影响机构入场预期和相关代币情绪",
+          "use": "宏观联动：利率/美元变化正在传导到币价",
           "title": "",
           "lines": {
-            "value": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
+            "value": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
             "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
           },
           "evidence": [
-            "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin"
+            "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+            "Bitcoin briefly reached $84,000 before easing back, while the CoinDesk 80 fell 0.6% since midnight as traders waited for U.S."
           ],
-          "point": "币圈：监管进展：影响机构入场预期和相关代币情绪"
+          "point": "币圈：宏观联动：利率/美元变化正在传导到币价"
         }
       },
       {
-        "id": "crypto-news-ZsYXRpb24tZGF0YQ",
+        "id": "crypto-news-RuZXJfaW5ib3VuZA",
         "partition": "invest",
         "type": "card",
         "category": "投资观察",
-        "title": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
-        "title_orig": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
-        "source": "CoinDesk",
-        "source_url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
-        "url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
-        "published_at": "2026-10-14T09:45:53.000Z",
+        "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+        "title_orig": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+        "source": "Cointelegraph",
+        "source_url": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published_at": "2026-10-14T14:21:15.000Z",
         "tags": [
           "加密",
           "高风险",
@@ -5944,12 +6225,12 @@
           "use": "宏观联动：利率/美元变化正在传导到币价",
           "title": "",
           "lines": {
-            "value": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
+            "value": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
             "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
           },
           "evidence": [
-            "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
-            "A brief run at $84,000 faded within the hour as tech stocks stalled and the chip selloff rolled on."
+            "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+            "Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation."
           ],
           "point": "币圈：宏观联动：利率/美元变化正在传导到币价"
         }
@@ -6318,7 +6599,7 @@
           "比例"
         ],
         "score": 82,
-        "why": "公开社区帖 · r/DebtFree · top/month 第66位 · 原帖含：负债偿还、金额、比例（数字均为发帖人自述，未经核实）",
+        "why": "公开社区帖 · r/DebtFree · top/month 第65位 · 原帖含：负债偿还、金额、比例（数字均为发帖人自述，未经核实）",
         "deep_link": "https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/",
         "extra": {},
         "blurb": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month…",
@@ -6417,6 +6698,78 @@
           ],
           "point": "理财：预算/储蓄率，发帖人自述 $36k",
           "verdict_label": "值得看",
+          "title": ""
+        }
+      },
+      {
+        "id": "invest-post-kiplinger-3e7d4f7b20aa",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "A 7-Point Checklist for Retiring With a Pension",
+        "summary": "Disciplined savers may need to learn how to confidently use the wealth they've accumulated.",
+        "source": "@kiplinger / Kiplinger",
+        "source_url": "https://www.kiplinger.com/retirement/retirement-planning/retirement-checklist-for-retiring-with-a-pension",
+        "published_at": "2026-10-14T14:00:00.000Z",
+        "tags": [
+          "观察",
+          "应急金",
+          "稳健"
+        ],
+        "score": 87,
+        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
+        "deep_link": "https://www.kiplinger.com/retirement/retirement-planning/retirement-checklist-for-retiring-with-a-pension",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "blurb": "Disciplined savers may need to learn how to confidently use the wealth they've accumulated.",
+        "url": "https://www.kiplinger.com/retirement/retirement-planning/retirement-checklist-for-retiring-with-a-pension",
+        "handle": "kiplinger",
+        "name": "Kiplinger",
+        "risk": "stable",
+        "lang": "EN",
+        "posted_at": "2026-10-14",
+        "tier": "B",
+        "evidence_missing": false,
+        "_origin": "kol_rss",
+        "_source_id": "kol:kiplinger",
+        "title_orig": "A 7-Point Checklist for Retiring With a Pension",
+        "source_excerpt": "Disciplined savers may need to learn how to confidently use the wealth they've accumulated. Here's how you can maximize your money in retirement.",
+        "person_id": "kiplinger",
+        "person_handle": "kiplinger",
+        "person_name": "Kiplinger",
+        "_feed_type": "blog_rss",
+        "_feed_url": "https://www.kiplinger.com/feed/all",
+        "_score_raw": 71,
+        "_decay_penalty": 0,
+        "_decay_exempt": null,
+        "_practical": true,
+        "_practical_delta": 16,
+        "summary_zh": "Disciplined savers may need to learn how to confidently use the wealth they've accumulated.",
+        "highlights": [
+          "Here's how you can maximize your money in retirement."
+        ],
+        "summary_source": "fallback",
+        "reader": {
+          "verdict": "save",
+          "use": "考虑养老金账户怎么用时看：养老金账户的用法取舍",
+          "lines": {
+            "scenario": "考虑养老金账户怎么用时",
+            "problem": "养老金账户的用法取舍",
+            "not_for": "养老金/账户规则按各国不同，国内不能照搬"
+          },
+          "evidence": [
+            "Pension"
+          ],
+          "point": "理财：考虑养老金账户怎么用，看养老金账户的用法取舍",
+          "concrete": [
+            {
+              "kind": "template",
+              "quote": "Checklist"
+            }
+          ],
+          "verdict_label": "收藏",
           "title": ""
         }
       },
@@ -7013,14 +7366,14 @@
     ]
   },
   "stats": {
-    "total": 125,
+    "total": 126,
     "accounts": 50,
     "jobs": 25,
     "sources": 10,
     "categories": {
       "AI变现": 28,
       "游戏招聘": 27,
-      "投资观察": 42,
+      "投资观察": 43,
       "个人提升": 18,
       "采集源": 10
     }
@@ -9300,7 +9653,7 @@
       "summary": "数值策划（MMO）（网易游戏（互娱）） @ 网易游戏招聘 · 广州市",
       "source": "网易游戏招聘",
       "source_url": "https://hr.163.com/job-detail.html?id=76799",
-      "published_at": "2026-10-14T12:00:00+08:00",
+      "published_at": "2026-10-15T12:00:00+08:00",
       "tags": [
         "数值策划",
         "mmo",
@@ -9322,7 +9675,7 @@
         "persona_transferable"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -9365,7 +9718,7 @@
       "summary": "数值策划（梦幻端游畅玩服-经济系统）（网易游戏（互娱）） @ 网易游戏招聘 · 广州市",
       "source": "网易游戏招聘",
       "source_url": "https://hr.163.com/job-detail.html?id=76718",
-      "published_at": "2026-10-14T12:00:00+08:00",
+      "published_at": "2026-10-15T12:00:00+08:00",
       "tags": [
         "数值策划",
         "经济系统"
@@ -9385,7 +9738,7 @@
         "经济系统"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -9429,7 +9782,7 @@
       "summary": "高级数值策划（天下3）（网易游戏（互娱）） @ 网易游戏招聘 · 广州市",
       "source": "网易游戏招聘",
       "source_url": "https://hr.163.com/job-detail.html?id=79081",
-      "published_at": "2026-10-14T12:00:00+08:00",
+      "published_at": "2026-10-15T12:00:00+08:00",
       "tags": [
         "数值策划",
         "高级数值策划"
@@ -9449,7 +9802,7 @@
         "高级数值策划"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -9492,7 +9845,7 @@
       "summary": "资深数值策划（代号：修仙）（网易游戏（互娱）） @ 网易游戏招聘 · 广州市",
       "source": "网易游戏招聘",
       "source_url": "https://hr.163.com/job-detail.html?id=77428",
-      "published_at": "2026-10-14T12:00:00+08:00",
+      "published_at": "2026-10-15T12:00:00+08:00",
       "tags": [
         "数值策划",
         "资深数值策划"
@@ -9512,7 +9865,7 @@
         "资深数值策划"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -9555,7 +9908,7 @@
       "summary": "资深数值策划（大话西游归来）（网易游戏（互娱）） @ 网易游戏招聘 · 广州市",
       "source": "网易游戏招聘",
       "source_url": "https://hr.163.com/job-detail.html?id=74907",
-      "published_at": "2026-10-14T12:00:00+08:00",
+      "published_at": "2026-10-15T12:00:00+08:00",
       "tags": [
         "数值策划",
         "资深数值策划"
@@ -9575,7 +9928,7 @@
         "资深数值策划"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -9618,7 +9971,7 @@
       "summary": "《三角洲行动》-数值策划 @ 腾讯招聘 · Shenzhen",
       "source": "腾讯招聘",
       "source_url": "https://careers.tencent.com/jobdesc.html?postId=2008786057281298432",
-      "published_at": "2026-10-14T12:00:00+08:00",
+      "published_at": "2026-10-15T12:00:00+08:00",
       "tags": [
         "数值策划",
         "经济投放",
@@ -9640,7 +9993,7 @@
         "persona_transferable"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -9684,7 +10037,7 @@
       "summary": "Supercell游戏《皇室战争》-数值策划 @ 腾讯招聘 · Shenzhen",
       "source": "腾讯招聘",
       "source_url": "https://careers.tencent.com/jobdesc.html?postId=2067513214815612928",
-      "published_at": "2026-10-14T12:00:00+08:00",
+      "published_at": "2026-10-15T12:00:00+08:00",
       "tags": [
         "数值策划",
         "经济系统",
@@ -9708,7 +10061,7 @@
         "数值平衡"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -9752,7 +10105,7 @@
       "summary": "《怪物猎人：旅人》-资深数值策划 @ 腾讯招聘 · Shenzhen",
       "source": "腾讯招聘",
       "source_url": "https://careers.tencent.com/jobdesc.html?postId=2062715174758039552",
-      "published_at": "2026-10-14T12:00:00+08:00",
+      "published_at": "2026-10-15T12:00:00+08:00",
       "tags": [
         "数值策划",
         "数值设计",
@@ -9776,7 +10129,7 @@
         "资深数值策划"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -9820,7 +10173,7 @@
       "summary": "supercell游戏《部落冲突》-资深数值策划 @ 腾讯招聘 · Shenzhen",
       "source": "腾讯招聘",
       "source_url": "https://careers.tencent.com/jobdesc.html?postId=2087091672277233664",
-      "published_at": "2026-10-14T12:00:00+08:00",
+      "published_at": "2026-10-15T12:00:00+08:00",
       "tags": [
         "数值策划",
         "战斗数值",
@@ -9848,7 +10201,7 @@
         "养成数值"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -9893,7 +10246,7 @@
       "summary": "UE微恐轻动作项目-资深数值策划 @ 腾讯招聘 · Shenzhen",
       "source": "腾讯招聘",
       "source_url": "https://careers.tencent.com/jobdesc.html?postId=2077588768235368448",
-      "published_at": "2026-10-14T12:00:00+08:00",
+      "published_at": "2026-10-15T12:00:00+08:00",
       "tags": [
         "数值策划",
         "游戏数值",
@@ -9921,7 +10274,7 @@
         "养成"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -10745,125 +11098,63 @@
       ]
     },
     {
-      "id": "ai-community-ai-reddit-era-02319ac93d2b",
+      "id": "ai-community-ai-reddit-era-76ac639530b1",
       "partition": "ai",
       "type": "post",
       "category": "AI变现",
-      "title": "How we helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
-      "summary": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
+      "title": "The business model I am testing does not need thousands of users",
+      "summary": "The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets.",
       "source": "r/EntrepreneurRideAlong",
-      "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x4u6rp/how_we_helped_scale_a_travel_agency_from_3000_to/",
-      "published_at": "2026-10-13T11:32:21.000Z",
+      "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5qjo3/the_business_model_i_am_testing_does_not_need/",
+      "published_at": "2026-10-14T12:58:22.000Z",
       "tags": [
         "reddit",
         "r/EntrepreneurRideAlong",
-        "收入",
         "定价",
-        "获客渠道",
-        "做法"
-      ],
-      "score": 86,
-      "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第1位 · 原帖含：收入、定价、获客渠道、做法",
-      "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x4u6rp/how_we_helped_scale_a_travel_agency_from_3000_to/",
-      "extra": {},
-      "blurb": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
-      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x4u6rp/how_we_helped_scale_a_travel_agency_from_3000_to/",
-      "name": "How we helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
-      "lang": "EN",
-      "posted_at": "2026-10-13",
-      "evidence_missing": false,
-      "_origin": "community_rss",
-      "_source_id": "ai-reddit-era",
-      "title_orig": "How we helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
-      "source_excerpt": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years. They were getting around 60-70 qualified inquiries a month from referrals and ads.. Here's how we did it: Six months later it's sitting at around $20k a month. of their WhatsApp chats and after some toiling around on reddit.",
-      "_feed_type": "reddit_rss",
-      "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-      "_score_raw": 76,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "_ai_business": true,
-      "_practical_delta": 10,
-      "summary_zh": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
-      "highlights": [
-        "They were getting around 60-70 qualified inquiries a month…",
-        "Here's how we did it…"
-      ],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "worth",
-        "use": "找副业/创业做法参考时看：自述收入 $20,000 in monthly profit，渠道 referrals，定价 $3k a month",
-        "lines": {
-          "model": "原帖写到：「It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.」",
-          "value": "作者自述收入「$20,000 in monthly profit」；定价「$3k a month」；获客渠道「referrals」；做法「Here's how」",
-          "note": "数字均为发帖人自述，未经核实"
-        },
-        "evidence": [
-          "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
-          "$20,000 in monthly profit",
-          "$3k a month",
-          "referrals",
-          "Here's how"
-        ],
-        "point": "AI副业：自述收入 $20,000 in monthly profit，渠道 referrals",
-        "verdict_label": "值得看",
-        "title": ""
-      }
-    },
-    {
-      "id": "ai-community-ai-reddit-era-fb3c47d7471a",
-      "partition": "ai",
-      "type": "post",
-      "category": "AI变现",
-      "title": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
-      "summary": "Our latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe.",
-      "source": "r/EntrepreneurRideAlong",
-      "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x58c6l/we_finally_figured_out_how_to_get_customers_for/",
-      "published_at": "2026-10-13T20:49:32.000Z",
-      "tags": [
-        "reddit",
-        "r/EntrepreneurRideAlong",
         "收入",
-        "踩坑/复盘"
+        "用户/流量数"
       ],
-      "score": 74,
-      "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第7位 · 原帖含：收入、踩坑/复盘",
-      "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x58c6l/we_finally_figured_out_how_to_get_customers_for/",
+      "score": 77,
+      "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第17位 · 原帖含：定价、收入、用户/流量数",
+      "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5qjo3/the_business_model_i_am_testing_does_not_need/",
       "extra": {},
-      "blurb": "Our latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe.",
-      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x58c6l/we_finally_figured_out_how_to_get_customers_for/",
-      "name": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
+      "blurb": "The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets.",
+      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5qjo3/the_business_model_i_am_testing_does_not_need/",
+      "name": "The business model I am testing does not need thousands of users",
       "lang": "EN",
-      "posted_at": "2026-10-13",
+      "posted_at": "2026-10-14",
       "evidence_missing": false,
       "_origin": "community_rss",
       "_source_id": "ai-reddit-era",
-      "title_orig": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
-      "source_excerpt": "Our latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe. We're also looking more seriously at churn. Our next goal is $5K MRR, but I don't want us to reach that point just by constantly replacing customers who leave.",
+      "title_orig": "The business model I am testing does not need thousands of users",
+      "source_excerpt": "The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets. That means 100 customers would be $3,900 MRR if every company was on the smallest tier, $7,900 MRR if every company was on the middle tier, or $15,900 MRR if every company was on the highest tier.",
       "_feed_type": "reddit_rss",
       "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-      "_score_raw": 64,
+      "_score_raw": 67,
       "_decay_penalty": 0,
       "_decay_exempt": null,
       "_ai_business": true,
       "_practical_delta": 10,
-      "summary_zh": "Our latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe.",
+      "summary_zh": "The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets.",
       "highlights": [
-        "We're also looking more seriously at churn.",
-        "Our next goal is $5K MRR…"
+        "That means 100 customers would be $3,900 MRR if every…"
       ],
       "summary_source": "fallback",
       "reader": {
         "verdict": "worth",
-        "use": "找副业/创业做法参考时看：自述收入 $1K MRR，含踩坑复盘",
+        "use": "找副业/创业做法参考时看：自述收入 $3,900 MRR，定价 $39 a month，数据 100 customers",
         "lines": {
-          "value": "作者自述收入「$1K MRR」；踩坑/复盘「churn」",
+          "model": "原帖写到：「The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets.」",
+          "value": "作者自述收入「$3,900 MRR」；数据「100 customers」；定价「$39 a month」",
           "note": "数字均为发帖人自述，未经核实"
         },
         "evidence": [
-          "$1K MRR",
-          "churn"
+          "The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets.",
+          "$3,900 MRR",
+          "100 customers",
+          "$39 a month"
         ],
-        "point": "AI副业：自述收入 $1K MRR",
+        "point": "AI副业：自述收入 $3,900 MRR",
         "verdict_label": "值得看",
         "title": ""
       }
@@ -10948,133 +11239,68 @@
       }
     },
     {
-      "id": "ai-community-ai-reddit-era-1cf6342add8d",
+      "id": "ai-community-ai-reddit-saas-a1d347e2418f",
       "partition": "ai",
       "type": "post",
       "category": "AI变现",
-      "title": "I opened a venue and spent over $15,000 on ads this year. Attendance is still unpredictable.",
-      "summary": "My biggest mistake was assuming that if I built something cool enough, people would just show up.",
-      "source": "r/EntrepreneurRideAlong",
-      "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5cl5q/i_opened_a_venue_and_spent_over_15000_on_ads_this/",
-      "published_at": "2026-10-13T23:53:49.000Z",
+      "title": "6 months building an AI tool, $2k+ in ads, almost no paying users. We turned off ads and things finally started working.",
+      "summary": "We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one.",
+      "source": "r/SaaS",
+      "source_url": "https://www.reddit.com/r/SaaS/comments/1x642m0/6_months_building_an_ai_tool_2k_in_ads_almost_no/",
+      "published_at": "2026-10-14T21:46:06.000Z",
       "tags": [
         "reddit",
-        "r/EntrepreneurRideAlong",
+        "r/SaaS",
+        "用户/流量数",
         "投入",
-        "踩坑/复盘",
-        "做法"
+        "获客渠道",
+        "定价",
+        "踩坑/复盘"
       ],
-      "score": 81,
-      "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第5位 · 原帖含：投入、踩坑/复盘、做法",
-      "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5cl5q/i_opened_a_venue_and_spent_over_15000_on_ads_this/",
+      "score": 85,
+      "why": "公开社区帖 · r/SaaS · top/day 第21位 · 原帖含：用户/流量数、投入、获客渠道、定价、踩坑/复盘",
+      "deep_link": "https://www.reddit.com/r/SaaS/comments/1x642m0/6_months_building_an_ai_tool_2k_in_ads_almost_no/",
       "extra": {},
-      "blurb": "My biggest mistake was assuming that if I built something cool enough, people would just show up.",
-      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5cl5q/i_opened_a_venue_and_spent_over_15000_on_ads_this/",
-      "name": "I opened a venue and spent over $15,000 on ads this year. Attendance is still unpredictable.",
+      "blurb": "We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1x642m0/6_months_building_an_ai_tool_2k_in_ads_almost_no/",
+      "name": "6 months building an AI tool, $2k+ in ads, almost no paying users. We turned off ads and things finally started working.",
       "lang": "EN",
-      "posted_at": "2026-10-13",
+      "posted_at": "2026-10-14",
       "evidence_missing": false,
       "_origin": "community_rss",
-      "_source_id": "ai-reddit-era",
-      "title_orig": "I opened a venue and spent over $15,000 on ads this year. Attendance is still unpredictable.",
-      "source_excerpt": "My biggest mistake was assuming that if I built something cool enough, people would just show up. Here's what I've tried so far:",
+      "_source_id": "ai-reddit-saas",
+      "title_orig": "6 months building an AI tool, $2k+ in ads, almost no paying users. We turned off ads and things finally started working.",
+      "source_excerpt": "We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one. ChatGPT referred 53 visitors. We spent around $2,000 on Meta and Google ads. Instead of asking someone to subscribe just to finish one presentation, we added a $13 one-time option, offered right when they hit the free limit. First mistake: building for the customer we wanted",
       "_feed_type": "reddit_rss",
       "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-      "_score_raw": 71,
+      "_score_raw": 75,
       "_decay_penalty": 0,
       "_decay_exempt": null,
       "_ai_business": true,
       "_practical_delta": 10,
-      "summary_zh": "My biggest mistake was assuming that if I built something cool enough, people would just show up.",
+      "summary_zh": "We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one.",
       "highlights": [
-        "Here's what I've tried so far:"
+        "We spent around $2,000 on Meta and Google ads.",
+        "First mistake: building for the customer we wanted"
       ],
       "summary_source": "fallback",
       "reader": {
         "verdict": "save",
-        "use": "避坑时看：投入 $15,000，含踩坑复盘，含具体做法",
+        "use": "避坑时看：数据 53 visitors，渠道 Google ads，投入 $2,000",
         "lines": {
-          "value": "投入「$15,000」；踩坑/复盘「mistake」；做法「Here's what」",
+          "model": "原帖写到：「We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one.」",
+          "value": "数据「53 visitors」；投入「$2,000」；定价「$13 one-time」；获客渠道「Google ads」",
           "note": "数字均为发帖人自述，未经核实"
         },
         "evidence": [
-          "$15,000",
-          "mistake",
-          "Here's what"
+          "We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one.",
+          "53 visitors",
+          "$2,000",
+          "$13 one-time",
+          "Google ads",
+          "mistake"
         ],
-        "point": "AI副业：投入 $15,000",
-        "verdict_label": "收藏",
-        "title": ""
-      }
-    },
-    {
-      "id": "ai-post-nichepursuits-42549d21d42e",
-      "partition": "ai",
-      "type": "post",
-      "category": "AI变现",
-      "title": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
-      "summary": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
-      "source": "@nichepursuits / Niche Pursuits",
-      "source_url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
-      "published_at": "2026-10-07T14:02:14.000Z",
-      "tags": [
-        "公开营收",
-        "indie",
-        "saas",
-        "SaaS"
-      ],
-      "score": 78,
-      "why": "独立/Agent：公开营收、indie；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
-      "deep_link": "https://www.nichepursuits.com/maddox-schmidlkofer/",
-      "extra": {},
-      "blurb": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
-      "url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
-      "handle": "nichepursuits",
-      "name": "Niche Pursuits",
-      "lang": "EN",
-      "posted_at": "2026-10-07",
-      "tier": "A",
-      "evidence_missing": false,
-      "_origin": "kol_rss",
-      "_source_id": "kol:nichepursuits",
-      "title_orig": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
-      "source_excerpt": "In this week's episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win. At 21, Maddox has already built a website generating $1,000 per day and sold it for $120,000. His current… The post How Maddox Schmidlkofer Bui",
-      "person_id": "nichepursuits",
-      "person_handle": "nichepursuits",
-      "person_name": "Niche Pursuits",
-      "_feed_type": "blog_rss",
-      "_feed_url": "https://www.nichepursuits.com/feed/",
-      "_score_raw": 68,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "_ai_business": true,
-      "ai_frame": {
-        "problem": null,
-        "model": null,
-        "proof": "$1,000"
-      },
-      "_practical_delta": 10,
-      "summary_zh": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
-      "highlights": [
-        "21岁Maddox Schmidlkofer，日入1000美元，12万美元。"
-      ],
-      "summary_source": "local_llm",
-      "reader": {
-        "verdict": "save",
-        "use": "找 AI 副业方向时看：公开收入 $1,000",
-        "lines": {
-          "value": "真实收入数字（$1,000）"
-        },
-        "evidence": [
-          "generating $1,000"
-        ],
-        "point": "AI副业：有人公开收入 $1,000",
-        "concrete": [
-          {
-            "kind": "money",
-            "quote": "$1,000"
-          }
-        ],
+        "point": "AI副业：数据 53 visitors，渠道 Google ads",
         "verdict_label": "收藏",
         "title": ""
       }
@@ -11096,7 +11322,7 @@
         "踩坑/复盘"
       ],
       "score": 77,
-      "why": "公开社区帖 · Show HN 第2位 · 原帖含：定价、踩坑/复盘",
+      "why": "公开社区帖 · Show HN 第5位 · 原帖含：定价、踩坑/复盘",
       "deep_link": "https://pulseos.finance",
       "extra": {},
       "blurb": "Mac预算应用Pulse Local使用AI模型运行在用户机器上，支持同步银行交易",
@@ -11155,8 +11381,8 @@
         "投入",
         "定价"
       ],
-      "score": 75,
-      "why": "公开社区帖 · r/SaaS · top/day 第9位 · 原帖含：投入、定价",
+      "score": 72,
+      "why": "公开社区帖 · r/SaaS · top/day 第33位 · 原帖含：投入、定价",
       "deep_link": "https://www.reddit.com/r/SaaS/comments/1x5edg9/i_compared_10_ai_assistants_and_im_starting_to/",
       "extra": {},
       "blurb": "Basically these guys figured out that instead of charging users $20/month, the platform generates revenue from ads and shares a portion of that revenue with eligible users.",
@@ -11171,7 +11397,7 @@
       "source_excerpt": "Basically these guys figured out that instead of charging users $20/month, the platform generates revenue from ads and shares a portion of that revenue with eligible users. Price to chat Free tier; Plus ~$20/mo Free tier; Pro ~$20/mo Free tier; AI Pro ~$20/mo Free, ad-supported 🏆 Best in class Free tier; Pro ~$20/mo Free tier; paid plans",
       "_feed_type": "reddit_rss",
       "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-      "_score_raw": 65,
+      "_score_raw": 62,
       "_decay_penalty": 0,
       "_decay_exempt": null,
       "_ai_business": true,
@@ -11195,6 +11421,66 @@
           "$20/month"
         ],
         "point": "AI副业：投入 $20",
+        "verdict_label": "收藏",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-community-ai-reddit-saas-99bb41de21dd",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "Selling infrastructure for AI agents might be the last moat left (I'll not sell)",
+      "summary": "Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had.",
+      "source": "r/SaaS",
+      "source_url": "https://www.reddit.com/r/SaaS/comments/1x5ffei/selling_infrastructure_for_ai_agents_might_be_the/",
+      "published_at": "2026-10-14T02:11:47.000Z",
+      "tags": [
+        "reddit",
+        "r/SaaS",
+        "定价",
+        "获客渠道"
+      ],
+      "score": 71,
+      "why": "公开社区帖 · r/SaaS · top/day 第32位 · 原帖含：定价、获客渠道",
+      "deep_link": "https://www.reddit.com/r/SaaS/comments/1x5ffei/selling_infrastructure_for_ai_agents_might_be_the/",
+      "extra": {},
+      "blurb": "Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1x5ffei/selling_infrastructure_for_ai_agents_might_be_the/",
+      "name": "Selling infrastructure for AI agents might be the last moat left (I'll not sell)",
+      "lang": "EN",
+      "posted_at": "2026-10-14",
+      "evidence_missing": false,
+      "_origin": "community_rss",
+      "_source_id": "ai-reddit-saas",
+      "title_orig": "Selling infrastructure for AI agents might be the last moat left (I'll not sell)",
+      "source_excerpt": "Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had. Then we let Claude itself use that infrastructure to send LinkedIn DMs, reach out to leads, and do pretty much everything related to LinkedIn directly from Claude.",
+      "_feed_type": "reddit_rss",
+      "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+      "_score_raw": 61,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "_practical_delta": 10,
+      "summary_zh": "Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had.",
+      "highlights": [
+        "Then we let Claude itself use that infrastructure to send…"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "save",
+        "use": "看获客渠道时看：渠道 LinkedIn，定价 $10,000 a month",
+        "lines": {
+          "model": "原帖写到：「Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had.」",
+          "value": "定价「$10,000 a month」；获客渠道「LinkedIn」",
+          "note": "数字均为发帖人自述，未经核实"
+        },
+        "evidence": [
+          "Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had.",
+          "$10,000 a month",
+          "LinkedIn"
+        ],
+        "point": "AI副业：渠道 LinkedIn，渠道 LinkedIn",
         "verdict_label": "收藏",
         "title": ""
       }
@@ -11324,6 +11610,78 @@
           {
             "kind": "money",
             "quote": "$2M"
+          }
+        ],
+        "verdict_label": "收藏",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-post-nichepursuits-42549d21d42e",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
+      "summary": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
+      "source": "@nichepursuits / Niche Pursuits",
+      "source_url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
+      "published_at": "2026-10-07T14:02:14.000Z",
+      "tags": [
+        "公开营收",
+        "indie",
+        "saas",
+        "SaaS"
+      ],
+      "score": 62,
+      "why": "独立/Agent：公开营收、indie；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
+      "deep_link": "https://www.nichepursuits.com/maddox-schmidlkofer/",
+      "extra": {},
+      "blurb": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
+      "url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
+      "handle": "nichepursuits",
+      "name": "Niche Pursuits",
+      "lang": "EN",
+      "posted_at": "2026-10-07",
+      "tier": "A",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:nichepursuits",
+      "title_orig": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
+      "source_excerpt": "In this week's episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win. At 21, Maddox has already built a website generating $1,000 per day and sold it for $120,000. His current… The post How Maddox Schmidlkofer Bui",
+      "person_id": "nichepursuits",
+      "person_handle": "nichepursuits",
+      "person_name": "Niche Pursuits",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://www.nichepursuits.com/feed/",
+      "_score_raw": 60,
+      "_decay_penalty": 8,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "ai_frame": {
+        "problem": null,
+        "model": null,
+        "proof": "$1,000"
+      },
+      "_practical_delta": 10,
+      "summary_zh": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
+      "highlights": [
+        "21岁Maddox Schmidlkofer，日入1000美元，12万美元。"
+      ],
+      "summary_source": "local_llm",
+      "reader": {
+        "verdict": "save",
+        "use": "找 AI 副业方向时看：公开收入 $1,000",
+        "lines": {
+          "value": "真实收入数字（$1,000）"
+        },
+        "evidence": [
+          "generating $1,000"
+        ],
+        "point": "AI副业：有人公开收入 $1,000",
+        "concrete": [
+          {
+            "kind": "money",
+            "quote": "$1,000"
           }
         ],
         "verdict_label": "收藏",
@@ -11492,7 +11850,7 @@
         "llm",
         "SaaS"
       ],
-      "score": 46,
+      "score": 38,
       "why": "独立/Agent：公开营收、indie；策展：长期发布带营收数字的真实创业案例（做了什么、卖给谁、怎么赚钱）。",
       "deep_link": "https://x.com/thepatwalls/status/2102384016661844445",
       "extra": {},
@@ -11519,7 +11877,7 @@
       "person_name": "Pat Walls",
       "_feed_type": "x_api",
       "_feed_url": "x://api/users/thepatwalls/tweets",
-      "_score_raw": 44,
+      "_score_raw": 36,
       "_decay_penalty": 8,
       "_decay_exempt": null,
       "_ai_business": true,
@@ -11540,16 +11898,16 @@
       }
     },
     {
-      "id": "crypto-market-2026-10-14",
+      "id": "crypto-market-2026-10-15",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "大盘 · BTC $83,319（24h +0.14%）· ETH $2,501（+0.34%）",
-      "title_orig": "大盘 · BTC $83,319（24h +0.14%）· ETH $2,501（+0.34%）",
+      "title": "大盘 · BTC $81,655（24h -2.03%）· ETH $2,422（-3.32%）",
+      "title_orig": "大盘 · BTC $81,655（24h -2.03%）· ETH $2,422（-3.32%）",
       "source": "CoinGecko 公开 API（/global + /coins/markets）",
       "source_url": "https://www.coingecko.com/",
       "url": "https://www.coingecko.com/",
-      "published_at": "2026-10-14T10:47:50.000Z",
+      "published_at": "2026-10-15T00:11:52.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -11566,31 +11924,31 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "今日币圈整体横盘；总市值 $2.79T（24h +0.15%），BTC 占比 59.8%，先看大盘再看单币异动",
-        "title": "大盘 · BTC $83,319（24h +0.14%）· ETH $2,501（+0.34%）",
+        "use": "今日币圈整体偏弱；总市值 $2.77T（24h -2.00%），BTC 占比 59.3%，先看大盘再看单币异动",
+        "title": "大盘 · BTC $81,655（24h -2.03%）· ETH $2,422（-3.32%）",
         "lines": {
-          "value": "BTC 7d -0.89%；ETH 7d -4.36%",
+          "value": "BTC 7d -1.93%；ETH 7d -5.84%",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "bitcoin current_price: 83319, price_change_percentage_24h: 0.14",
-          "ethereum current_price: 2500.76, price_change_percentage_24h: 0.34",
-          "total_market_cap.usd: 2794578744690, market_cap_percentage.btc: 59.8 (24h 变化取前100币 market_cap_change_percentage_24h 按市值加权 = 0.15)"
+          "bitcoin current_price: 81655, price_change_percentage_24h: -2.03",
+          "ethereum current_price: 2421.6, price_change_percentage_24h: -3.32",
+          "total_market_cap.usd: 2765318509007, market_cap_percentage.btc: 59.3 (24h 变化取前100币 market_cap_change_percentage_24h 按市值加权 = -2.00)"
         ],
-        "point": "币圈：今日币圈整体横盘；总市值 $2.79T（24h +0.15%），BTC 占比 59.8%，先看大盘再看单币异动"
+        "point": "币圈：今日币圈整体偏弱；总市值 $2.77T（24h -2.00%），BTC 占比 59.3%，先看大盘再看单币异动"
       }
     },
     {
-      "id": "crypto-etf-btc-13Oct2026",
+      "id": "crypto-etf-btc-14Oct2026",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "BTC 现货 ETF · 13 Oct 2026 净流入 $175.7M",
-      "title_orig": "BTC 现货 ETF · 13 Oct 2026 净流入 $175.7M",
+      "title": "BTC 现货 ETF · 14 Oct 2026 净流入 $2.2M",
+      "title_orig": "BTC 现货 ETF · 14 Oct 2026 净流入 $2.2M",
       "source": "Farside Investors 公开 BTC ETF 日流表（单位：百万美元）",
       "source_url": "https://farside.co.uk/btc/",
       "url": "https://farside.co.uk/btc/",
-      "published_at": "2026-10-13T23:59:00.000Z",
+      "published_at": "2026-10-14T23:59:00.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -11604,38 +11962,38 @@
       "extra": {
         "disclaimer": "非投资建议；加密高风险",
         "numbers": {
-          "total_net_flow_m_usd": 175.7,
-          "as_of": "13 Oct 2026",
-          "streak_days": 1,
-          "sum_5d_m_usd": -597.6
+          "total_net_flow_m_usd": 2.2,
+          "as_of": "14 Oct 2026",
+          "streak_days": 2,
+          "sum_5d_m_usd": -110.5
         }
       },
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "机构资金方向：已连续 1 个交易日净流入，近5日合计 −$597.6M",
-        "title": "BTC 现货 ETF · 13 Oct 2026 净流入 $175.7M",
+        "use": "机构资金方向：已连续 2 个交易日净流入，近5日合计 −$110.5M",
+        "title": "BTC 现货 ETF · 14 Oct 2026 净流入 $2.2M",
         "lines": {
-          "value": "前5日合计（百万美元）：118.8 / -484.9 / -244.1 / 21.1 / -65.4",
+          "value": "前5日合计（百万美元）：-484.9 / -244.1 / 21.1 / -65.4 / 175.7",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "13 Oct 2026 65.9 103.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 175.7"
+          "14 Oct 2026 - - 2.2 0.0 0.0 0.0 0.0 - 0.0 - 0.0 0.0 2.2"
         ],
-        "point": "币圈：机构资金方向：已连续 1 个交易日净流入，近5日合计 −$597.6M"
+        "point": "币圈：机构资金方向：已连续 2 个交易日净流入，近5日合计 −$110.5M"
       }
     },
     {
-      "id": "crypto-etf-eth-13Oct2026",
+      "id": "crypto-etf-eth-14Oct2026",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "ETH 现货 ETF · 13 Oct 2026 净流入 $24.8M",
-      "title_orig": "ETH 现货 ETF · 13 Oct 2026 净流入 $24.8M",
+      "title": "ETH 现货 ETF · 14 Oct 2026 净流出 $19.7M",
+      "title_orig": "ETH 现货 ETF · 14 Oct 2026 净流出 $19.7M",
       "source": "Farside Investors 公开 ETH ETF 日流表（单位：百万美元）",
       "source_url": "https://farside.co.uk/eth/",
       "url": "https://farside.co.uk/eth/",
-      "published_at": "2026-10-13T23:59:00.000Z",
+      "published_at": "2026-10-14T23:59:00.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -11649,38 +12007,38 @@
       "extra": {
         "disclaimer": "非投资建议；加密高风险",
         "numbers": {
-          "total_net_flow_m_usd": 24.8,
-          "as_of": "13 Oct 2026",
+          "total_net_flow_m_usd": -19.7,
+          "as_of": "14 Oct 2026",
           "streak_days": 1,
-          "sum_5d_m_usd": -350.1
+          "sum_5d_m_usd": -208.9
         }
       },
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "机构资金方向：已连续 1 个交易日净流入，近5日合计 −$350.1M",
-        "title": "ETH 现货 ETF · 13 Oct 2026 净流入 $24.8M",
+        "use": "机构资金方向：已连续 1 个交易日净流出，近5日合计 −$208.9M",
+        "title": "ETH 现货 ETF · 14 Oct 2026 净流出 $19.7M",
         "lines": {
-          "value": "前5日合计（百万美元）：-201.9 / -160.9 / -72.5 / -56.1 / -85.4",
+          "value": "前5日合计（百万美元）：-160.9 / -72.5 / -56.1 / -85.4 / 24.8",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "13 Oct 2026 0.0 0.0 8.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 16.7 24.8"
+          "14 Oct 2026 - - - 0.0 0.0 - 0.0 (0.9) - 0.0 (18.8) (19.7)"
         ],
-        "point": "币圈：机构资金方向：已连续 1 个交易日净流入，近5日合计 −$350.1M"
+        "point": "币圈：机构资金方向：已连续 1 个交易日净流出，近5日合计 −$208.9M"
       }
     },
     {
-      "id": "crypto-movers-涨-2026-10-14",
+      "id": "crypto-movers-涨-2026-10-15",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "前100市值涨幅榜 · BTW +32.84% / STX +4.11% / XMR +3.48%（24h）",
-      "title_orig": "前100市值涨幅榜 · BTW +32.84% / STX +4.11% / XMR +3.48%（24h）",
+      "title": "前100市值涨幅榜 · BTW +13.70% / PYTH +9.36% / JST +2.82%（24h）",
+      "title_orig": "前100市值涨幅榜 · BTW +13.70% / PYTH +9.36% / JST +2.82%（24h）",
       "source": "CoinGecko 公开 API（/coins/markets 前100）",
       "source_url": "https://www.coingecko.com/en/crypto-gainers-losers",
       "url": "https://www.coingecko.com/en/crypto-gainers-losers",
-      "published_at": "2026-10-14T10:47:50.000Z",
+      "published_at": "2026-10-15T00:11:52.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -11698,30 +12056,30 @@
         "verdict": "worth",
         "verdict_label": "币圈观察",
         "use": "大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐",
-        "title": "前100市值涨幅榜 · BTW +32.84% / STX +4.11% / XMR +3.48%（24h）",
+        "title": "前100市值涨幅榜 · BTW +13.70% / PYTH +9.36% / JST +2.82%（24h）",
         "lines": {
-          "value": "Bitway $2.500，24h 成交 $135.7M，市值排名 #33（流通仅占总量 15%，低流通盘易暴涨暴跌）；Stacks $0.4377，24h 成交 $51.4M，市值排名 #88；Monero $552，24h 成交 $113.6M，市值排名 #13",
+          "value": "Bitway $2.420，24h 成交 $95.6M，市值排名 #33（流通仅占总量 15%，低流通盘易暴涨暴跌）；Pyth Network $0.08552，24h 成交 $88.8M，市值排名 #98；JUST $0.1418，24h 成交 $29.3M，市值排名 #71",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "bitway current_price: 2.5, price_change_percentage_24h: 32.84, total_volume: 135694944, circulating_supply: 1505787514, total_supply: 10000000000",
-          "blockstack current_price: 0.437687, price_change_percentage_24h: 4.11, total_volume: 51446042, circulating_supply: 1874478967, total_supply: 1874521487",
-          "monero current_price: 552.36, price_change_percentage_24h: 3.48, total_volume: 113641006, circulating_supply: 18817417, total_supply: 18817436"
+          "bitway current_price: 2.42, price_change_percentage_24h: 13.70, total_volume: 95589378, circulating_supply: 1505787514, total_supply: 10000000000",
+          "pyth-network current_price: 0.085522, price_change_percentage_24h: 9.36, total_volume: 88829608, circulating_supply: 7874959040, total_supply: 10000000000",
+          "just current_price: 0.141841, price_change_percentage_24h: 2.82, total_volume: 29334144, circulating_supply: 8188743036, total_supply: 8188743036"
         ],
         "point": "币圈：大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐"
       }
     },
     {
-      "id": "crypto-movers-跌-2026-10-14",
+      "id": "crypto-movers-跌-2026-10-15",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "前100市值跌幅榜 · POL -5.71% / RENDER -4.88% / ZRO -4.64%（24h）",
-      "title_orig": "前100市值跌幅榜 · POL -5.71% / RENDER -4.88% / ZRO -4.64%（24h）",
+      "title": "前100市值跌幅榜 · LIT -7.77% / ENA -7.06% / POL -6.34%（24h）",
+      "title_orig": "前100市值跌幅榜 · LIT -7.77% / ENA -7.06% / POL -6.34%（24h）",
       "source": "CoinGecko 公开 API（/coins/markets 前100）",
       "source_url": "https://www.coingecko.com/en/crypto-gainers-losers",
       "url": "https://www.coingecko.com/en/crypto-gainers-losers",
-      "published_at": "2026-10-14T10:47:50.000Z",
+      "published_at": "2026-10-15T00:11:52.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -11739,30 +12097,30 @@
         "verdict": "worth",
         "verdict_label": "币圈观察",
         "use": "大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接",
-        "title": "前100市值跌幅榜 · POL -5.71% / RENDER -4.88% / ZRO -4.64%（24h）",
+        "title": "前100市值跌幅榜 · LIT -7.77% / ENA -7.06% / POL -6.34%（24h）",
         "lines": {
-          "value": "POL (ex-MATIC) $0.09836，24h 成交 $79.8M，市值排名 #77；Render $1.980，24h 成交 $92.9M，市值排名 #79；LayerZero $1.990，24h 成交 $66.6M，市值排名 #90",
+          "value": "Lighter $3.110，24h 成交 $74.6M，市值排名 #89（流通仅占总量 25%，低流通盘易暴涨暴跌）；Ethena $0.1959，24h 成交 $378.1M，市值排名 #41；POL (ex-MATIC) $0.09549，24h 成交 $67.0M，市值排名 #77",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "polygon-ecosystem-token current_price: 0.098356, price_change_percentage_24h: -5.71, total_volume: 79811881, circulating_supply: 10631556553, total_supply: 10631556553",
-          "render-token current_price: 1.98, price_change_percentage_24h: -4.88, total_volume: 92853893, circulating_supply: 518776241, total_supply: 533536415",
-          "layerzero current_price: 1.99, price_change_percentage_24h: -4.64, total_volume: 66595999, circulating_supply: 399906717, total_supply: 1000000000"
+          "lighter current_price: 3.11, price_change_percentage_24h: -7.77, total_volume: 74604268, circulating_supply: 250000000, total_supply: 1000000000",
+          "ethena current_price: 0.195864, price_change_percentage_24h: -7.06, total_volume: 378109417, circulating_supply: 13406250000, total_supply: 15000000000",
+          "polygon-ecosystem-token current_price: 0.095487, price_change_percentage_24h: -6.34, total_volume: 67013372, circulating_supply: 10631556553, total_supply: 10631556553"
         ],
         "point": "币圈：大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接"
       }
     },
     {
-      "id": "crypto-trending-2026-10-14",
+      "id": "crypto-trending-2026-10-15",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "CoinGecko 热搜 · PRL +19.42% / ZYLO -0.82% / WAL +41.58% / DRV +1.63%",
-      "title_orig": "CoinGecko 热搜 · PRL +19.42% / ZYLO -0.82% / WAL +41.58% / DRV +1.63%",
+      "title": "CoinGecko 热搜 · PRL +5.37% / WAL +51.89% / BTC -1.86% / QTC -6.99%",
+      "title_orig": "CoinGecko 热搜 · PRL +5.37% / WAL +51.89% / BTC -1.86% / QTC -6.99%",
       "source": "CoinGecko 公开 API（/search/trending）",
       "source_url": "https://www.coingecko.com/en/highlights/trending-crypto",
       "url": "https://www.coingecko.com/en/highlights/trending-crypto",
-      "published_at": "2026-10-14T10:48:23.770Z",
+      "published_at": "2026-10-15T00:13:12.670Z",
       "tags": [
         "加密",
         "高风险",
@@ -11779,19 +12137,19 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PRL、WAL、DRV",
-        "title": "CoinGecko 热搜 · PRL +19.42% / ZYLO -0.82% / WAL +41.58% / DRV +1.63%",
+        "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PRL、WAL、BTC",
+        "title": "CoinGecko 热搜 · PRL +5.37% / WAL +51.89% / BTC -1.86% / QTC -6.99%",
         "lines": {
-          "value": "Pearl（市值排名 #98）、Zylo Ecosystem（市值排名 #843）、Walrus（市值排名 #227）、Derive（市值排名 #126）、Pudgy Penguins（市值排名 #121）、Arbitrum（市值排名 #69）、Quantus（市值排名 #606）、Pons（市值排名 #173）、Starknet（市值排名 #106）、Uniswap（市值排名 #26）、Optimism（市值排名 #135）、Bittensor（市值排名 #35）、Quant（市值排名 #37）、Aerodrome Finance（市值排名 #83）",
+          "value": "Pearl（市值排名 #100）、Walrus（市值排名 #216）、Bitcoin（市值排名 #1）、Quantus（市值排名 #628）、Quant（市值排名 #37）、Pudgy Penguins（市值排名 #119）、XRP（市值排名 #5）、Sui（市值排名 #29）、Starknet（市值排名 #108）、Plume（市值排名 #238）、Solana（市值排名 #7）、Backpack（市值排名 #160）、Ondo（市值排名 #49）、POL (ex-MATIC)（市值排名 #77）",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "pearl-2 market_cap_rank: 98, price_change_percentage_24h.usd: 19.42",
-          "zylo-ecosystem market_cap_rank: 843, price_change_percentage_24h.usd: -0.82",
-          "walrus-2 market_cap_rank: 227, price_change_percentage_24h.usd: 41.58",
-          "derive market_cap_rank: 126, price_change_percentage_24h.usd: 1.63"
+          "pearl-2 market_cap_rank: 100, price_change_percentage_24h.usd: 5.37",
+          "walrus-2 market_cap_rank: 216, price_change_percentage_24h.usd: 51.89",
+          "bitcoin market_cap_rank: 1, price_change_percentage_24h.usd: -1.86",
+          "quantus market_cap_rank: 628, price_change_percentage_24h.usd: -6.99"
         ],
-        "point": "币圈：散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PRL、WAL、DRV"
+        "point": "币圈：散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PRL、WAL、BTC"
       }
     },
     {
@@ -11799,8 +12157,8 @@
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "稳定币总量 $311.19B · 7日 -0.52% · 30日 +0.84%",
-      "title_orig": "稳定币总量 $311.19B · 7日 -0.52% · 30日 +0.84%",
+      "title": "稳定币总量 $306.10B · 7日 -0.59% · 30日 +0.85%",
+      "title_orig": "稳定币总量 $306.10B · 7日 -0.59% · 30日 +0.85%",
       "source": "DefiLlama 公开 API（stablecoincharts/all）",
       "source_url": "https://defillama.com/stablecoins",
       "url": "https://defillama.com/stablecoins",
@@ -11822,29 +12180,29 @@
         "verdict": "worth",
         "verdict_label": "币圈观察",
         "use": "稳定币在收缩：场内资金流出，反弹持续性要打折扣",
-        "title": "稳定币总量 $311.19B · 7日 -0.52% · 30日 +0.84%",
+        "title": "稳定币总量 $306.10B · 7日 -0.59% · 30日 +0.85%",
         "lines": {
-          "value": "7日变化 $-1.61B（数据日 2026-10-14）",
+          "value": "7日变化 $-1.80B（数据日 2026-10-14）",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "date: 1791936000 (2026-10-14), totalCirculatingUSD.peggedUSD: 311193161801",
-          "7 days earlier totalCirculatingUSD.peggedUSD: 312806188008"
+          "date: 1791936000 (2026-10-14), totalCirculatingUSD.peggedUSD: 306101280612",
+          "7 days earlier totalCirculatingUSD.peggedUSD: 307904813747"
         ],
         "point": "币圈：稳定币在收缩：场内资金流出，反弹持续性要打折扣"
       }
     },
     {
-      "id": "crypto-news-lZC04Nm0tZHJhaW4",
+      "id": "crypto-news-sbGlvbi00MTg1NTY",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
-      "title_orig": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
-      "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
-      "published_at": "2026-10-13T11:53:15.000Z",
+      "title": "Strive buys $235 million in bitcoin as warrant exercises yield $369 million",
+      "title_orig": "Strive buys $235 million in bitcoin as warrant exercises yield $369 million",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
+      "url": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
+      "published_at": "2026-10-14T14:32:39.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -11861,29 +12219,30 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "钱包安全事件：自查硬件钱包购买渠道（非官方渠道风险高），不涉及价格判断",
+        "use": "真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考",
         "title": "",
         "lines": {
-          "value": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
+          "value": "Strive buys $235 million in bitcoin as warrant exercises yield $369 million",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain"
+          "Strive buys $235 million in bitcoin as warrant exercises yield $369 million",
+          "Strive acquired 2,822 bitcoin for $235 million following $369.2 million in gross proceeds from traditional warrant exercises."
         ],
-        "point": "币圈：钱包安全事件：自查硬件钱包购买渠道（非官方渠道风险高），不涉及价格判断"
+        "point": "币圈：真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考"
       }
     },
     {
-      "id": "crypto-news-bnVhcnktNDE4NDMw",
+      "id": "crypto-news-VkLTg2bS1kcmFpbg",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-      "title_orig": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
-      "url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
-      "published_at": "2026-10-13T13:42:25.000Z",
+      "title": "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain",
+      "title_orig": "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
+      "url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
+      "published_at": "2026-10-14T13:47:44.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -11900,30 +12259,29 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考",
+        "use": "安全事件：涉事协议/代币短线有抛压，相关仓位先查是否受影响",
         "title": "",
         "lines": {
-          "value": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
+          "value": "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-          "Strive added 3,311 BTC between Oct."
+          "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain"
         ],
-        "point": "币圈：真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考"
+        "point": "币圈：安全事件：涉事协议/代币短线有抛压，相关仓位先查是否受影响"
       }
     },
     {
-      "id": "crypto-news-AtbW92ZXMtMzc3bQ",
+      "id": "crypto-news-vdy0yMDI1LXBlYWs",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
-      "title_orig": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
-      "url": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
-      "published_at": "2026-10-13T19:38:12.000Z",
+      "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
+      "title_orig": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
+      "url": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
+      "published_at": "2026-10-14T14:31:14.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -11940,30 +12298,30 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考",
+        "use": "机构资金流向：ETF 资金方向会影响 BTC/ETH 短线承接力",
         "title": "",
         "lines": {
-          "value": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
+          "value": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
-          "A wallet that received 4,581 BTC in March 2020, worth about $40 million then, moved its stash today when it was worth about $377 million."
+          "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
+          "The asset manager's crypto assets surged 63% to $79.6 billion as investors returned, but holdings remain 23% below year-ago levels."
         ],
-        "point": "币圈：真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考"
+        "point": "币圈：机构资金流向：ETF 资金方向会影响 BTC/ETH 短线承接力"
       }
     },
     {
-      "id": "crypto-news-0Y29pbi00MTg0MDk",
+      "id": "crypto-news-YWx0Y29pbnMtbGFn",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
-      "title_orig": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
-      "url": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
-      "published_at": "2026-10-13T11:38:19.000Z",
+      "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+      "title_orig": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
+      "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
+      "published_at": "2026-10-14T10:51:39.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -11980,29 +12338,30 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "监管进展：影响机构入场预期和相关代币情绪",
+        "use": "宏观联动：利率/美元变化正在传导到币价",
         "title": "",
         "lines": {
-          "value": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
+          "value": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin"
+          "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+          "Bitcoin briefly reached $84,000 before easing back, while the CoinDesk 80 fell 0.6% since midnight as traders waited for U.S."
         ],
-        "point": "币圈：监管进展：影响机构入场预期和相关代币情绪"
+        "point": "币圈：宏观联动：利率/美元变化正在传导到币价"
       }
     },
     {
-      "id": "crypto-news-ZsYXRpb24tZGF0YQ",
+      "id": "crypto-news-RuZXJfaW5ib3VuZA",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
-      "title_orig": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
-      "url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
-      "published_at": "2026-10-14T09:45:53.000Z",
+      "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+      "title_orig": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+      "source": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-10-14T14:21:15.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -12022,12 +12381,12 @@
         "use": "宏观联动：利率/美元变化正在传导到币价",
         "title": "",
         "lines": {
-          "value": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
+          "value": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
-          "A brief run at $84,000 faded within the hour as tech stocks stalled and the chip selloff rolled on."
+          "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+          "Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation."
         ],
         "point": "币圈：宏观联动：利率/美元变化正在传导到币价"
       }
@@ -12396,7 +12755,7 @@
         "比例"
       ],
       "score": 82,
-      "why": "公开社区帖 · r/DebtFree · top/month 第66位 · 原帖含：负债偿还、金额、比例（数字均为发帖人自述，未经核实）",
+      "why": "公开社区帖 · r/DebtFree · top/month 第65位 · 原帖含：负债偿还、金额、比例（数字均为发帖人自述，未经核实）",
       "deep_link": "https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/",
       "extra": {},
       "blurb": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month…",
@@ -12495,6 +12854,78 @@
         ],
         "point": "理财：预算/储蓄率，发帖人自述 $36k",
         "verdict_label": "值得看",
+        "title": ""
+      }
+    },
+    {
+      "id": "invest-post-kiplinger-3e7d4f7b20aa",
+      "partition": "invest",
+      "type": "post",
+      "category": "投资观察",
+      "title": "A 7-Point Checklist for Retiring With a Pension",
+      "summary": "Disciplined savers may need to learn how to confidently use the wealth they've accumulated.",
+      "source": "@kiplinger / Kiplinger",
+      "source_url": "https://www.kiplinger.com/retirement/retirement-planning/retirement-checklist-for-retiring-with-a-pension",
+      "published_at": "2026-10-14T14:00:00.000Z",
+      "tags": [
+        "观察",
+        "应急金",
+        "稳健"
+      ],
+      "score": 87,
+      "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
+      "deep_link": "https://www.kiplinger.com/retirement/retirement-planning/retirement-checklist-for-retiring-with-a-pension",
+      "extra": {
+        "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+        "bucket": "稳健"
+      },
+      "blurb": "Disciplined savers may need to learn how to confidently use the wealth they've accumulated.",
+      "url": "https://www.kiplinger.com/retirement/retirement-planning/retirement-checklist-for-retiring-with-a-pension",
+      "handle": "kiplinger",
+      "name": "Kiplinger",
+      "risk": "stable",
+      "lang": "EN",
+      "posted_at": "2026-10-14",
+      "tier": "B",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:kiplinger",
+      "title_orig": "A 7-Point Checklist for Retiring With a Pension",
+      "source_excerpt": "Disciplined savers may need to learn how to confidently use the wealth they've accumulated. Here's how you can maximize your money in retirement.",
+      "person_id": "kiplinger",
+      "person_handle": "kiplinger",
+      "person_name": "Kiplinger",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://www.kiplinger.com/feed/all",
+      "_score_raw": 71,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_practical": true,
+      "_practical_delta": 16,
+      "summary_zh": "Disciplined savers may need to learn how to confidently use the wealth they've accumulated.",
+      "highlights": [
+        "Here's how you can maximize your money in retirement."
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "save",
+        "use": "考虑养老金账户怎么用时看：养老金账户的用法取舍",
+        "lines": {
+          "scenario": "考虑养老金账户怎么用时",
+          "problem": "养老金账户的用法取舍",
+          "not_for": "养老金/账户规则按各国不同，国内不能照搬"
+        },
+        "evidence": [
+          "Pension"
+        ],
+        "point": "理财：考虑养老金账户怎么用，看养老金账户的用法取舍",
+        "concrete": [
+          {
+            "kind": "template",
+            "quote": "Checklist"
+          }
+        ],
+        "verdict_label": "收藏",
         "title": ""
       }
     },

@@ -1,129 +1,67 @@
 {
   "partition": "ai",
-  "generated_at": "2026-10-14T10:48:33.351Z",
-  "next_update_at": "2026-10-14T13:00:00.000Z",
+  "generated_at": "2026-10-15T00:13:19.142Z",
+  "next_update_at": "2026-10-15T01:00:00.000Z",
   "cap": 30,
   "cards": [
     {
-      "id": "ai-community-ai-reddit-era-02319ac93d2b",
+      "id": "ai-community-ai-reddit-era-76ac639530b1",
       "partition": "ai",
       "type": "post",
       "category": "AI变现",
-      "title": "How we helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
-      "summary": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
+      "title": "The business model I am testing does not need thousands of users",
+      "summary": "The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets.",
       "source": "r/EntrepreneurRideAlong",
-      "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x4u6rp/how_we_helped_scale_a_travel_agency_from_3000_to/",
-      "published_at": "2026-10-13T11:32:21.000Z",
+      "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5qjo3/the_business_model_i_am_testing_does_not_need/",
+      "published_at": "2026-10-14T12:58:22.000Z",
       "tags": [
         "reddit",
         "r/EntrepreneurRideAlong",
-        "收入",
         "定价",
-        "获客渠道",
-        "做法"
-      ],
-      "score": 86,
-      "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第1位 · 原帖含：收入、定价、获客渠道、做法",
-      "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x4u6rp/how_we_helped_scale_a_travel_agency_from_3000_to/",
-      "extra": {},
-      "blurb": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
-      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x4u6rp/how_we_helped_scale_a_travel_agency_from_3000_to/",
-      "name": "How we helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
-      "lang": "EN",
-      "posted_at": "2026-10-13",
-      "evidence_missing": false,
-      "_origin": "community_rss",
-      "_source_id": "ai-reddit-era",
-      "title_orig": "How we helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
-      "source_excerpt": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years. They were getting around 60-70 qualified inquiries a month from referrals and ads.. Here's how we did it: Six months later it's sitting at around $20k a month. of their WhatsApp chats and after some toiling around on reddit.",
-      "_feed_type": "reddit_rss",
-      "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-      "_score_raw": 76,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "_ai_business": true,
-      "_practical_delta": 10,
-      "summary_zh": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
-      "highlights": [
-        "They were getting around 60-70 qualified inquiries a month…",
-        "Here's how we did it…"
-      ],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "worth",
-        "use": "找副业/创业做法参考时看：自述收入 $20,000 in monthly profit，渠道 referrals，定价 $3k a month",
-        "lines": {
-          "model": "原帖写到：「It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.」",
-          "value": "作者自述收入「$20,000 in monthly profit」；定价「$3k a month」；获客渠道「referrals」；做法「Here's how」",
-          "note": "数字均为发帖人自述，未经核实"
-        },
-        "evidence": [
-          "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
-          "$20,000 in monthly profit",
-          "$3k a month",
-          "referrals",
-          "Here's how"
-        ],
-        "point": "AI副业：自述收入 $20,000 in monthly profit，渠道 referrals",
-        "verdict_label": "值得看",
-        "title": ""
-      }
-    },
-    {
-      "id": "ai-community-ai-reddit-era-fb3c47d7471a",
-      "partition": "ai",
-      "type": "post",
-      "category": "AI变现",
-      "title": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
-      "summary": "Our latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe.",
-      "source": "r/EntrepreneurRideAlong",
-      "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x58c6l/we_finally_figured_out_how_to_get_customers_for/",
-      "published_at": "2026-10-13T20:49:32.000Z",
-      "tags": [
-        "reddit",
-        "r/EntrepreneurRideAlong",
         "收入",
-        "踩坑/复盘"
+        "用户/流量数"
       ],
-      "score": 74,
-      "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第7位 · 原帖含：收入、踩坑/复盘",
-      "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x58c6l/we_finally_figured_out_how_to_get_customers_for/",
+      "score": 77,
+      "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第17位 · 原帖含：定价、收入、用户/流量数",
+      "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5qjo3/the_business_model_i_am_testing_does_not_need/",
       "extra": {},
-      "blurb": "Our latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe.",
-      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x58c6l/we_finally_figured_out_how_to_get_customers_for/",
-      "name": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
+      "blurb": "The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets.",
+      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5qjo3/the_business_model_i_am_testing_does_not_need/",
+      "name": "The business model I am testing does not need thousands of users",
       "lang": "EN",
-      "posted_at": "2026-10-13",
+      "posted_at": "2026-10-14",
       "evidence_missing": false,
       "_origin": "community_rss",
       "_source_id": "ai-reddit-era",
-      "title_orig": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
-      "source_excerpt": "Our latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe. We're also looking more seriously at churn. Our next goal is $5K MRR, but I don't want us to reach that point just by constantly replacing customers who leave.",
+      "title_orig": "The business model I am testing does not need thousands of users",
+      "source_excerpt": "The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets. That means 100 customers would be $3,900 MRR if every company was on the smallest tier, $7,900 MRR if every company was on the middle tier, or $15,900 MRR if every company was on the highest tier.",
       "_feed_type": "reddit_rss",
       "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-      "_score_raw": 64,
+      "_score_raw": 67,
       "_decay_penalty": 0,
       "_decay_exempt": null,
       "_ai_business": true,
       "_practical_delta": 10,
-      "summary_zh": "Our latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe.",
+      "summary_zh": "The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets.",
       "highlights": [
-        "We're also looking more seriously at churn.",
-        "Our next goal is $5K MRR…"
+        "That means 100 customers would be $3,900 MRR if every…"
       ],
       "summary_source": "fallback",
       "reader": {
         "verdict": "worth",
-        "use": "找副业/创业做法参考时看：自述收入 $1K MRR，含踩坑复盘",
+        "use": "找副业/创业做法参考时看：自述收入 $3,900 MRR，定价 $39 a month，数据 100 customers",
         "lines": {
-          "value": "作者自述收入「$1K MRR」；踩坑/复盘「churn」",
+          "model": "原帖写到：「The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets.」",
+          "value": "作者自述收入「$3,900 MRR」；数据「100 customers」；定价「$39 a month」",
           "note": "数字均为发帖人自述，未经核实"
         },
         "evidence": [
-          "$1K MRR",
-          "churn"
+          "The plans are currently set at $39 a month for up to 10 pieces of equipment, $79 for up to 35, and $159 for larger fleets.",
+          "$3,900 MRR",
+          "100 customers",
+          "$39 a month"
         ],
-        "point": "AI副业：自述收入 $1K MRR",
+        "point": "AI副业：自述收入 $3,900 MRR",
         "verdict_label": "值得看",
         "title": ""
       }
@@ -208,133 +146,68 @@
       }
     },
     {
-      "id": "ai-community-ai-reddit-era-1cf6342add8d",
+      "id": "ai-community-ai-reddit-saas-a1d347e2418f",
       "partition": "ai",
       "type": "post",
       "category": "AI变现",
-      "title": "I opened a venue and spent over $15,000 on ads this year. Attendance is still unpredictable.",
-      "summary": "My biggest mistake was assuming that if I built something cool enough, people would just show up.",
-      "source": "r/EntrepreneurRideAlong",
-      "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5cl5q/i_opened_a_venue_and_spent_over_15000_on_ads_this/",
-      "published_at": "2026-10-13T23:53:49.000Z",
+      "title": "6 months building an AI tool, $2k+ in ads, almost no paying users. We turned off ads and things finally started working.",
+      "summary": "We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one.",
+      "source": "r/SaaS",
+      "source_url": "https://www.reddit.com/r/SaaS/comments/1x642m0/6_months_building_an_ai_tool_2k_in_ads_almost_no/",
+      "published_at": "2026-10-14T21:46:06.000Z",
       "tags": [
         "reddit",
-        "r/EntrepreneurRideAlong",
+        "r/SaaS",
+        "用户/流量数",
         "投入",
-        "踩坑/复盘",
-        "做法"
+        "获客渠道",
+        "定价",
+        "踩坑/复盘"
       ],
-      "score": 81,
-      "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第5位 · 原帖含：投入、踩坑/复盘、做法",
-      "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5cl5q/i_opened_a_venue_and_spent_over_15000_on_ads_this/",
+      "score": 85,
+      "why": "公开社区帖 · r/SaaS · top/day 第21位 · 原帖含：用户/流量数、投入、获客渠道、定价、踩坑/复盘",
+      "deep_link": "https://www.reddit.com/r/SaaS/comments/1x642m0/6_months_building_an_ai_tool_2k_in_ads_almost_no/",
       "extra": {},
-      "blurb": "My biggest mistake was assuming that if I built something cool enough, people would just show up.",
-      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x5cl5q/i_opened_a_venue_and_spent_over_15000_on_ads_this/",
-      "name": "I opened a venue and spent over $15,000 on ads this year. Attendance is still unpredictable.",
+      "blurb": "We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1x642m0/6_months_building_an_ai_tool_2k_in_ads_almost_no/",
+      "name": "6 months building an AI tool, $2k+ in ads, almost no paying users. We turned off ads and things finally started working.",
       "lang": "EN",
-      "posted_at": "2026-10-13",
+      "posted_at": "2026-10-14",
       "evidence_missing": false,
       "_origin": "community_rss",
-      "_source_id": "ai-reddit-era",
-      "title_orig": "I opened a venue and spent over $15,000 on ads this year. Attendance is still unpredictable.",
-      "source_excerpt": "My biggest mistake was assuming that if I built something cool enough, people would just show up. Here's what I've tried so far:",
+      "_source_id": "ai-reddit-saas",
+      "title_orig": "6 months building an AI tool, $2k+ in ads, almost no paying users. We turned off ads and things finally started working.",
+      "source_excerpt": "We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one. ChatGPT referred 53 visitors. We spent around $2,000 on Meta and Google ads. Instead of asking someone to subscribe just to finish one presentation, we added a $13 one-time option, offered right when they hit the free limit. First mistake: building for the customer we wanted",
       "_feed_type": "reddit_rss",
       "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-      "_score_raw": 71,
+      "_score_raw": 75,
       "_decay_penalty": 0,
       "_decay_exempt": null,
       "_ai_business": true,
       "_practical_delta": 10,
-      "summary_zh": "My biggest mistake was assuming that if I built something cool enough, people would just show up.",
+      "summary_zh": "We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one.",
       "highlights": [
-        "Here's what I've tried so far:"
+        "We spent around $2,000 on Meta and Google ads.",
+        "First mistake: building for the customer we wanted"
       ],
       "summary_source": "fallback",
       "reader": {
         "verdict": "save",
-        "use": "避坑时看：投入 $15,000，含踩坑复盘，含具体做法",
+        "use": "避坑时看：数据 53 visitors，渠道 Google ads，投入 $2,000",
         "lines": {
-          "value": "投入「$15,000」；踩坑/复盘「mistake」；做法「Here's what」",
+          "model": "原帖写到：「We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one.」",
+          "value": "数据「53 visitors」；投入「$2,000」；定价「$13 one-time」；获客渠道「Google ads」",
           "note": "数字均为发帖人自述，未经核实"
         },
         "evidence": [
-          "$15,000",
-          "mistake",
-          "Here's what"
+          "We'd built subscription pricing for people who needed presentations regularly, when most visitors just needed to finish one.",
+          "53 visitors",
+          "$2,000",
+          "$13 one-time",
+          "Google ads",
+          "mistake"
         ],
-        "point": "AI副业：投入 $15,000",
-        "verdict_label": "收藏",
-        "title": ""
-      }
-    },
-    {
-      "id": "ai-post-nichepursuits-42549d21d42e",
-      "partition": "ai",
-      "type": "post",
-      "category": "AI变现",
-      "title": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
-      "summary": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
-      "source": "@nichepursuits / Niche Pursuits",
-      "source_url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
-      "published_at": "2026-10-07T14:02:14.000Z",
-      "tags": [
-        "公开营收",
-        "indie",
-        "saas",
-        "SaaS"
-      ],
-      "score": 78,
-      "why": "独立/Agent：公开营收、indie；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
-      "deep_link": "https://www.nichepursuits.com/maddox-schmidlkofer/",
-      "extra": {},
-      "blurb": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
-      "url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
-      "handle": "nichepursuits",
-      "name": "Niche Pursuits",
-      "lang": "EN",
-      "posted_at": "2026-10-07",
-      "tier": "A",
-      "evidence_missing": false,
-      "_origin": "kol_rss",
-      "_source_id": "kol:nichepursuits",
-      "title_orig": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
-      "source_excerpt": "In this week's episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win. At 21, Maddox has already built a website generating $1,000 per day and sold it for $120,000. His current… The post How Maddox Schmidlkofer Bui",
-      "person_id": "nichepursuits",
-      "person_handle": "nichepursuits",
-      "person_name": "Niche Pursuits",
-      "_feed_type": "blog_rss",
-      "_feed_url": "https://www.nichepursuits.com/feed/",
-      "_score_raw": 68,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "_ai_business": true,
-      "ai_frame": {
-        "problem": null,
-        "model": null,
-        "proof": "$1,000"
-      },
-      "_practical_delta": 10,
-      "summary_zh": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
-      "highlights": [
-        "21岁Maddox Schmidlkofer，日入1000美元，12万美元。"
-      ],
-      "summary_source": "local_llm",
-      "reader": {
-        "verdict": "save",
-        "use": "找 AI 副业方向时看：公开收入 $1,000",
-        "lines": {
-          "value": "真实收入数字（$1,000）"
-        },
-        "evidence": [
-          "generating $1,000"
-        ],
-        "point": "AI副业：有人公开收入 $1,000",
-        "concrete": [
-          {
-            "kind": "money",
-            "quote": "$1,000"
-          }
-        ],
+        "point": "AI副业：数据 53 visitors，渠道 Google ads",
         "verdict_label": "收藏",
         "title": ""
       }
@@ -356,7 +229,7 @@
         "踩坑/复盘"
       ],
       "score": 77,
-      "why": "公开社区帖 · Show HN 第2位 · 原帖含：定价、踩坑/复盘",
+      "why": "公开社区帖 · Show HN 第5位 · 原帖含：定价、踩坑/复盘",
       "deep_link": "https://pulseos.finance",
       "extra": {},
       "blurb": "Mac预算应用Pulse Local使用AI模型运行在用户机器上，支持同步银行交易",
@@ -415,8 +288,8 @@
         "投入",
         "定价"
       ],
-      "score": 75,
-      "why": "公开社区帖 · r/SaaS · top/day 第9位 · 原帖含：投入、定价",
+      "score": 72,
+      "why": "公开社区帖 · r/SaaS · top/day 第33位 · 原帖含：投入、定价",
       "deep_link": "https://www.reddit.com/r/SaaS/comments/1x5edg9/i_compared_10_ai_assistants_and_im_starting_to/",
       "extra": {},
       "blurb": "Basically these guys figured out that instead of charging users $20/month, the platform generates revenue from ads and shares a portion of that revenue with eligible users.",
@@ -431,7 +304,7 @@
       "source_excerpt": "Basically these guys figured out that instead of charging users $20/month, the platform generates revenue from ads and shares a portion of that revenue with eligible users. Price to chat Free tier; Plus ~$20/mo Free tier; Pro ~$20/mo Free tier; AI Pro ~$20/mo Free, ad-supported 🏆 Best in class Free tier; Pro ~$20/mo Free tier; paid plans",
       "_feed_type": "reddit_rss",
       "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-      "_score_raw": 65,
+      "_score_raw": 62,
       "_decay_penalty": 0,
       "_decay_exempt": null,
       "_ai_business": true,
@@ -455,6 +328,66 @@
           "$20/month"
         ],
         "point": "AI副业：投入 $20",
+        "verdict_label": "收藏",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-community-ai-reddit-saas-99bb41de21dd",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "Selling infrastructure for AI agents might be the last moat left (I'll not sell)",
+      "summary": "Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had.",
+      "source": "r/SaaS",
+      "source_url": "https://www.reddit.com/r/SaaS/comments/1x5ffei/selling_infrastructure_for_ai_agents_might_be_the/",
+      "published_at": "2026-10-14T02:11:47.000Z",
+      "tags": [
+        "reddit",
+        "r/SaaS",
+        "定价",
+        "获客渠道"
+      ],
+      "score": 71,
+      "why": "公开社区帖 · r/SaaS · top/day 第32位 · 原帖含：定价、获客渠道",
+      "deep_link": "https://www.reddit.com/r/SaaS/comments/1x5ffei/selling_infrastructure_for_ai_agents_might_be_the/",
+      "extra": {},
+      "blurb": "Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1x5ffei/selling_infrastructure_for_ai_agents_might_be_the/",
+      "name": "Selling infrastructure for AI agents might be the last moat left (I'll not sell)",
+      "lang": "EN",
+      "posted_at": "2026-10-14",
+      "evidence_missing": false,
+      "_origin": "community_rss",
+      "_source_id": "ai-reddit-saas",
+      "title_orig": "Selling infrastructure for AI agents might be the last moat left (I'll not sell)",
+      "source_excerpt": "Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had. Then we let Claude itself use that infrastructure to send LinkedIn DMs, reach out to leads, and do pretty much everything related to LinkedIn directly from Claude.",
+      "_feed_type": "reddit_rss",
+      "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+      "_score_raw": 61,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "_practical_delta": 10,
+      "summary_zh": "Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had.",
+      "highlights": [
+        "Then we let Claude itself use that infrastructure to send…"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "save",
+        "use": "看获客渠道时看：渠道 LinkedIn，定价 $10,000 a month",
+        "lines": {
+          "model": "原帖写到：「Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had.」",
+          "value": "定价「$10,000 a month」；获客渠道「LinkedIn」",
+          "note": "数字均为发帖人自述，未经核实"
+        },
+        "evidence": [
+          "Sometimes, our latest bills were $10,000 a month, and it could go up to $20,000 or $30,000, depending on the number of accounts we had.",
+          "$10,000 a month",
+          "LinkedIn"
+        ],
+        "point": "AI副业：渠道 LinkedIn，渠道 LinkedIn",
         "verdict_label": "收藏",
         "title": ""
       }
@@ -584,6 +517,78 @@
           {
             "kind": "money",
             "quote": "$2M"
+          }
+        ],
+        "verdict_label": "收藏",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-post-nichepursuits-42549d21d42e",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
+      "summary": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
+      "source": "@nichepursuits / Niche Pursuits",
+      "source_url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
+      "published_at": "2026-10-07T14:02:14.000Z",
+      "tags": [
+        "公开营收",
+        "indie",
+        "saas",
+        "SaaS"
+      ],
+      "score": 62,
+      "why": "独立/Agent：公开营收、indie；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
+      "deep_link": "https://www.nichepursuits.com/maddox-schmidlkofer/",
+      "extra": {},
+      "blurb": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
+      "url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
+      "handle": "nichepursuits",
+      "name": "Niche Pursuits",
+      "lang": "EN",
+      "posted_at": "2026-10-07",
+      "tier": "A",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:nichepursuits",
+      "title_orig": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
+      "source_excerpt": "In this week's episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win. At 21, Maddox has already built a website generating $1,000 per day and sold it for $120,000. His current… The post How Maddox Schmidlkofer Bui",
+      "person_id": "nichepursuits",
+      "person_handle": "nichepursuits",
+      "person_name": "Niche Pursuits",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://www.nichepursuits.com/feed/",
+      "_score_raw": 60,
+      "_decay_penalty": 8,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "ai_frame": {
+        "problem": null,
+        "model": null,
+        "proof": "$1,000"
+      },
+      "_practical_delta": 10,
+      "summary_zh": "21岁Maddox Schmidlkofer通过卖掉日入1000美元的网站获得12万美元。",
+      "highlights": [
+        "21岁Maddox Schmidlkofer，日入1000美元，12万美元。"
+      ],
+      "summary_source": "local_llm",
+      "reader": {
+        "verdict": "save",
+        "use": "找 AI 副业方向时看：公开收入 $1,000",
+        "lines": {
+          "value": "真实收入数字（$1,000）"
+        },
+        "evidence": [
+          "generating $1,000"
+        ],
+        "point": "AI副业：有人公开收入 $1,000",
+        "concrete": [
+          {
+            "kind": "money",
+            "quote": "$1,000"
           }
         ],
         "verdict_label": "收藏",
@@ -752,7 +757,7 @@
         "llm",
         "SaaS"
       ],
-      "score": 46,
+      "score": 38,
       "why": "独立/Agent：公开营收、indie；策展：长期发布带营收数字的真实创业案例（做了什么、卖给谁、怎么赚钱）。",
       "deep_link": "https://x.com/thepatwalls/status/2102384016661844445",
       "extra": {},
@@ -779,7 +784,7 @@
       "person_name": "Pat Walls",
       "_feed_type": "x_api",
       "_feed_url": "x://api/users/thepatwalls/tweets",
-      "_score_raw": 44,
+      "_score_raw": 36,
       "_decay_penalty": 8,
       "_decay_exempt": null,
       "_ai_business": true,
