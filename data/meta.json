@@ -1,9 +1,9 @@
 {
   "name": "信号台",
   "disclaimer": "非投资建议；加密高风险",
-  "today": "2026-10-16",
-  "generated_at": "2026-10-16T00:13:00.329Z",
-  "next_update_at": "2026-10-16T01:00:00.000Z",
+  "today": "2026-10-17",
+  "generated_at": "2026-10-17T00:13:15.692Z",
+  "next_update_at": "2026-10-17T01:00:00.000Z",
   "schedule": {
     "timezone": "Asia/Shanghai",
     "hours": [
@@ -13,7 +13,7 @@
     "note": "下次更新于 = 下一个 09:00 或 21:00 Asia/Shanghai"
   },
   "collect": {
-    "collected_at": "2026-10-16T00:12:56.735Z",
+    "collected_at": "2026-10-17T00:13:10.479Z",
     "ok": [
       {
         "id": "hitmarker_sitemap",
@@ -21,13 +21,13 @@
         "scanned": 474,
         "rejected": {
           "hub_or_junk": 0,
-          "no_role_signal": 5,
+          "no_role_signal": 4,
           "noise_role": 0,
           "no_geo_low_role": 0,
           "below_threshold": 0,
-          "location_out_of_range": 204,
+          "location_out_of_range": 206,
           "page_unreadable": 0,
-          "too_old": 44
+          "too_old": 43
         }
       },
       {
@@ -50,8 +50,8 @@
           "noise_role": 0,
           "no_geo_low_role": 0,
           "below_threshold": 0,
-          "intern": 16,
-          "off_target_title": 17
+          "intern": 15,
+          "off_target_title": 16
         }
       },
       {
@@ -85,37 +85,37 @@
       {
         "id": "ai-reddit-saas",
         "partition": "ai",
-        "count": 2,
+        "count": 3,
         "scanned": 40,
-        "rejected": 38
+        "rejected": 37
       },
       {
         "id": "ai-reddit-indiehackers",
         "partition": "ai",
         "count": 0,
-        "scanned": 1,
-        "rejected": 1
+        "scanned": 3,
+        "rejected": 3
       },
       {
         "id": "ai-reddit-era",
         "partition": "ai",
-        "count": 2,
-        "scanned": 16,
-        "rejected": 14
+        "count": 3,
+        "scanned": 15,
+        "rejected": 12
       },
       {
         "id": "ai-reddit-entrepreneur",
         "partition": "ai",
         "count": 0,
-        "scanned": 2,
-        "rejected": 2
+        "scanned": 3,
+        "rejected": 3
       },
       {
         "id": "ai-hn-frontpage",
         "partition": "ai",
         "count": 0,
-        "scanned": 20,
-        "rejected": 20
+        "scanned": 17,
+        "rejected": 17
       },
       {
         "id": "ai-hn-show",
@@ -127,16 +127,16 @@
       {
         "id": "invest-reddit-debtfree",
         "partition": "invest",
-        "count": 1,
-        "scanned": 65,
-        "rejected": 64
+        "count": 2,
+        "scanned": 73,
+        "rejected": 71
       },
       {
         "id": "invest-reddit-ynab",
         "partition": "invest",
         "count": 1,
-        "scanned": 35,
-        "rejected": 34
+        "scanned": 27,
+        "rejected": 26
       },
       {
         "id": "kol:levelsio",
@@ -164,11 +164,6 @@
         "count": 1
       },
       {
-        "id": "kol:LynAldenContact",
-        "partition": "kol",
-        "count": 1
-      },
-      {
         "id": "kol:VitalikButerin",
         "partition": "kol",
         "count": 1
@@ -180,16 +175,6 @@
       },
       {
         "id": "kol:MarkManson",
-        "partition": "kol",
-        "count": 1
-      },
-      {
-        "id": "kol:dannypostmaa",
-        "partition": "kol",
-        "count": 1
-      },
-      {
-        "id": "kol:damengchen",
         "partition": "kol",
         "count": 1
       },
@@ -235,11 +220,6 @@
       },
       {
         "id": "kol:naval",
-        "partition": "kol",
-        "count": 1
-      },
-      {
-        "id": "kol:I_Am_The_ICT",
         "partition": "kol",
         "count": 1
       },
@@ -360,12 +340,28 @@
         "error": "html_list_empty_or_blocked;HTTP 404;HTTP 404;HTTP 404"
       },
       {
+        "id": "kol:LynAldenContact",
+        "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;HTTP 202 captcha;HTTP 403;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 403;HTTP 403"
+      },
+      {
         "id": "kol:farnamstreet",
         "error": "HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403"
       },
       {
+        "id": "kol:dannypostmaa",
+        "error": "HTTP 500;HTTP 500;HTTP 404;HTTP 404;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked"
+      },
+      {
+        "id": "kol:damengchen",
+        "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;html_list_empty_or_blocked;HTTP 404;HTTP 404;HTTP 404"
+      },
+      {
         "id": "kol:morganhousel",
         "error": "fetch failed;fetch failed;fetch failed;fetch failed;fetch failed;fetch failed;fetch failed;fetch failed"
+      },
+      {
+        "id": "kol:I_Am_The_ICT",
+        "error": "HTTP 404;HTTP 500;HTTP 500;HTTP 404;html_list_empty_or_blocked;HTTP 404;HTTP 404;HTTP 404"
       },
       {
         "id": "kol:gregisenberg",
@@ -382,15 +378,15 @@
     ],
     "rejected": {
       "hub_or_junk": 0,
-      "no_role_signal": 15,
+      "no_role_signal": 14,
       "noise_role": 0,
       "no_geo_low_role": 0,
       "below_threshold": 5,
-      "location_out_of_range": 204,
+      "location_out_of_range": 206,
       "page_unreadable": 0,
-      "too_old": 44,
-      "intern": 16,
-      "off_target_title": 17,
+      "too_old": 43,
+      "intern": 15,
+      "off_target_title": 16,
       "rss_reasons": {
         "ai_no_practice_signal": 28,
         "growth_no_pillar": 14,
@@ -398,11 +394,11 @@
       }
     },
     "score_threshold": 40,
-    "kept": 41,
+    "kept": 43,
     "articles_kept": {
-      "ai": 68,
-      "invest": 91,
-      "growth": 61
+      "ai": 70,
+      "invest": 92,
+      "growth": 60
     },
     "rss_rejects_sample": [
       {
@@ -545,6 +541,14 @@
         "source": "ai-simonw-atom",
         "partition": "ai",
         "reason": "ai_no_practice_signal",
+        "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+        "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+        "score": 0
+      },
+      {
+        "source": "ai-simonw-atom",
+        "partition": "ai",
+        "reason": "ai_no_practice_signal",
         "title": "Chirp Pong",
         "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
         "score": 0
@@ -619,14 +623,6 @@
         "reason": "ai_no_practice_signal",
         "title": "Quoting Matthew Green",
         "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
-        "score": 0
-      },
-      {
-        "source": "ai-simonw-atom",
-        "partition": "ai",
-        "reason": "ai_no_practice_signal",
-        "title": "Quoting Carson Gross",
-        "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
         "score": 0
       },
       {
@@ -774,14 +770,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:128d",
-            "too_old:219d",
-            "too_old:284d",
-            "too_old:334d",
-            "too_old:369d",
-            "too_old:397d",
-            "too_old:404d",
-            "too_old:411d"
+            "too_old:129d",
+            "too_old:220d",
+            "too_old:285d",
+            "too_old:335d",
+            "too_old:370d",
+            "too_old:398d",
+            "too_old:405d",
+            "too_old:412d"
           ]
         },
         "tdinh_me": {
@@ -807,14 +803,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:47d",
-            "too_old:127d",
-            "too_old:322d",
-            "too_old:371d",
-            "too_old:487d",
-            "too_old:681d",
-            "too_old:692d",
-            "too_old:811d"
+            "too_old:48d",
+            "too_old:128d",
+            "too_old:323d",
+            "too_old:372d",
+            "too_old:488d",
+            "too_old:682d",
+            "too_old:693d",
+            "too_old:812d"
           ]
         },
         "lxfater": {
@@ -878,27 +874,39 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:77d",
-            "too_old:226d",
-            "too_old:248d",
-            "too_old:255d",
-            "too_old:273d",
-            "too_old:471d",
-            "too_old:503d",
-            "too_old:521d"
+            "too_old:78d",
+            "too_old:227d",
+            "too_old:249d",
+            "too_old:256d",
+            "too_old:274d",
+            "too_old:472d",
+            "too_old:504d",
+            "too_old:522d"
           ]
         },
         "charliebilello": {
           "ok": true,
           "partition": "invest",
           "feed_ok": {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+            "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
             "type": "youtube_rss",
             "scanned": 15
           },
           "feeds_tried": [
             {
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
               "type": "youtube_rss",
               "ok": true,
               "scanned": 15
@@ -911,41 +919,101 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:791d",
-            "too_old:798d",
-            "too_old:819d",
-            "too_old:840d",
-            "too_old:843d",
-            "too_old:849d",
-            "too_old:904d",
-            "too_old:911d"
+            "too_old:792d",
+            "too_old:799d",
+            "too_old:820d",
+            "too_old:841d",
+            "too_old:844d",
+            "too_old:850d",
+            "too_old:905d",
+            "too_old:912d"
           ]
         },
         "LynAldenContact": {
           "ok": true,
           "partition": "invest",
-          "feed_ok": {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
-            "type": "youtube_rss",
-            "scanned": 1
-          },
+          "feed_ok": null,
           "feeds_tried": [
             {
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
               "type": "youtube_rss",
-              "ok": true,
-              "scanned": 1
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.lynalden.com/feed/",
+              "type": "blog_rss",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://lynalden.com/feed/",
+              "type": "blog_rss",
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            {
+              "url": "https://www.lynalden.com/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.lynalden.com/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.lynalden.com/archive",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.lynalden.com/archive?sort=new",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://lynalden.com/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            {
+              "url": "https://lynalden.com/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 403"
             }
           ],
           "kept": 0,
-          "dropped": 1,
+          "dropped": 0,
           "fallback": true,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
-          "drop_reasons": [
-            "too_old:900d"
-          ]
+          "drop_reasons": []
         },
         "VitalikButerin": {
           "ok": true,
@@ -970,14 +1038,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:56d",
-            "too_old:80d",
-            "too_old:109d",
-            "too_old:151d",
-            "too_old:197d",
-            "too_old:290d",
-            "too_old:303d",
-            "too_old:325d"
+            "too_old:57d",
+            "too_old:81d",
+            "too_old:110d",
+            "too_old:152d",
+            "too_old:198d",
+            "too_old:291d",
+            "too_old:304d",
+            "too_old:326d"
           ]
         },
         "dieworkwear": {
@@ -1003,14 +1071,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:321d",
-            "too_old:324d",
-            "too_old:392d",
-            "too_old:499d",
-            "too_old:581d",
-            "too_old:617d",
-            "too_old:685d",
-            "too_old:699d"
+            "too_old:322d",
+            "too_old:325d",
+            "too_old:393d",
+            "too_old:500d",
+            "too_old:582d",
+            "too_old:618d",
+            "too_old:686d",
+            "too_old:700d"
           ]
         },
         "farnamstreet": {
@@ -1098,70 +1166,139 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:293d",
-            "too_old:300d",
-            "too_old:307d",
-            "too_old:314d",
-            "too_old:889d",
-            "too_old:950d",
-            "too_old:966d",
-            "too_old:994d"
+            "too_old:294d",
+            "too_old:301d",
+            "too_old:308d",
+            "too_old:315d",
+            "too_old:890d",
+            "too_old:951d",
+            "too_old:967d",
+            "too_old:995d"
           ]
         },
         "dannypostmaa": {
           "ok": true,
           "partition": "ai",
-          "feed_ok": {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-            "type": "youtube_rss",
-            "scanned": 2
-          },
+          "feed_ok": null,
           "feeds_tried": [
             {
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
               "type": "youtube_rss",
-              "ok": true,
-              "scanned": 2
-            }
-          ],
-          "kept": 1,
-          "dropped": 1,
-          "fallback": false,
-          "used_last_good": false,
-          "html_list": null,
-          "x_api": null,
-          "drop_reasons": [
-            "too_old:62d"
-          ]
-        },
-        "damengchen": {
-          "ok": true,
-          "partition": "ai",
-          "feed_ok": {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-            "type": "youtube_rss",
-            "scanned": 4
-          },
-          "feeds_tried": [
+              "ok": false,
+              "error": "HTTP 500"
+            },
             {
-              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+              "url": "https://youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
               "type": "youtube_rss",
-              "ok": true,
-              "scanned": 4
+              "ok": false,
+              "error": "HTTP 500"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.dannypostma.com/",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://www.dannypostma.com/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://www.dannypostma.com/archive",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://www.dannypostma.com/archive?sort=new",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
             }
           ],
           "kept": 0,
-          "dropped": 4,
+          "dropped": 0,
           "fallback": true,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
-          "drop_reasons": [
-            "too_old:957d",
-            "too_old:971d",
-            "too_old:975d",
-            "too_old:981d"
-          ]
+          "drop_reasons": []
+        },
+        "damengchen": {
+          "ok": true,
+          "partition": "ai",
+          "feed_ok": null,
+          "feeds_tried": [
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://damon.vc/",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://damon.vc/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://damon.vc/archive",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://damon.vc/archive?sort=new",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 404"
+            }
+          ],
+          "kept": 0,
+          "dropped": 0,
+          "fallback": true,
+          "used_last_good": false,
+          "html_list": null,
+          "x_api": null,
+          "drop_reasons": []
         },
         "morganhousel": {
           "ok": true,
@@ -1248,9 +1385,9 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:51d",
-            "too_old:58d",
-            "too_old:65d"
+            "too_old:52d",
+            "too_old:59d",
+            "too_old:66d"
           ]
         },
         "PutThisOn": {
@@ -1300,14 +1437,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:2474d",
-            "too_old:2557d",
-            "too_old:2760d",
-            "too_old:2824d",
-            "too_old:2831d",
-            "too_old:2838d",
-            "too_old:2845d",
-            "too_old:2919d"
+            "too_old:2475d",
+            "too_old:2558d",
+            "too_old:2761d",
+            "too_old:2825d",
+            "too_old:2832d",
+            "too_old:2839d",
+            "too_old:2846d",
+            "too_old:2920d"
           ]
         },
         "tibo_maker": {
@@ -1367,8 +1504,8 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:2140d",
-            "too_old:2314d"
+            "too_old:2141d",
+            "too_old:2315d"
           ]
         },
         "awealthofcs": {
@@ -1418,10 +1555,10 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:50d",
-            "too_old:57d",
-            "too_old:64d",
-            "too_old:65d"
+            "too_old:51d",
+            "too_old:58d",
+            "too_old:65d",
+            "too_old:66d"
           ]
         },
         "CalNewport": {
@@ -1440,17 +1577,18 @@
               "scanned": 8
             }
           ],
-          "kept": 4,
-          "dropped": 4,
+          "kept": 3,
+          "dropped": 5,
           "fallback": false,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
             "growth_politics_title",
-            "too_old:52d",
-            "too_old:66d",
-            "too_old:80d"
+            "too_old:46d",
+            "too_old:53d",
+            "too_old:67d",
+            "too_old:81d"
           ]
         },
         "naval": {
@@ -1476,35 +1614,73 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:105d",
-            "too_old:136d",
-            "too_old:139d",
-            "too_old:139d",
-            "too_old:141d",
-            "too_old:157d",
-            "too_old:164d",
-            "too_old:170d"
+            "too_old:106d",
+            "too_old:137d",
+            "too_old:140d",
+            "too_old:140d",
+            "too_old:142d",
+            "too_old:158d",
+            "too_old:165d",
+            "too_old:171d"
           ]
         },
         "I_Am_The_ICT": {
           "ok": true,
           "partition": "invest",
-          "feed_ok": {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjxa77NqamhVC8atV85Rog",
-            "type": "youtube_rss",
-            "scanned": 15
-          },
+          "feed_ok": null,
           "feeds_tried": [
             {
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjxa77NqamhVC8atV85Rog",
               "type": "youtube_rss",
-              "ok": true,
-              "scanned": 15
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml?channel_id=UCtjxa77NqamhVC8atV85Rog",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 500"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCtjxa77NqamhVC8atV85Rog",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 500"
+            },
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCtjxa77NqamhVC8atV85Rog",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.theinnercircletrader.com/",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://www.theinnercircletrader.com/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.theinnercircletrader.com/archive",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.theinnercircletrader.com/archive?sort=new",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 404"
             }
           ],
-          "kept": 1,
+          "kept": 0,
           "dropped": 0,
-          "fallback": false,
+          "fallback": true,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
@@ -1514,13 +1690,25 @@
           "ok": true,
           "partition": "invest",
           "feed_ok": {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+            "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
             "type": "youtube_rss",
             "scanned": 15
           },
           "feeds_tried": [
             {
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
               "type": "youtube_rss",
               "ok": true,
               "scanned": 15
@@ -1557,8 +1745,8 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:48d",
-            "too_old:50d"
+            "too_old:49d",
+            "too_old:51d"
           ]
         },
         "ritholtz": {
@@ -1608,10 +1796,10 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:50d",
-            "too_old:57d",
-            "too_old:70d",
-            "too_old:77d"
+            "too_old:51d",
+            "too_old:58d",
+            "too_old:71d",
+            "too_old:78d"
           ]
         },
         "RyanHoliday": {
@@ -1637,10 +1825,10 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:48d",
-            "too_old:56d",
-            "too_old:70d",
-            "too_old:91d"
+            "too_old:49d",
+            "too_old:57d",
+            "too_old:71d",
+            "too_old:92d"
           ]
         },
         "gregisenberg": {
@@ -1717,14 +1905,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:195d",
-            "too_old:209d",
-            "too_old:216d",
-            "too_old:244d",
-            "too_old:251d",
-            "too_old:258d",
-            "too_old:265d",
-            "too_old:272d"
+            "too_old:196d",
+            "too_old:210d",
+            "too_old:217d",
+            "too_old:245d",
+            "too_old:252d",
+            "too_old:259d",
+            "too_old:266d",
+            "too_old:273d"
           ]
         },
         "ramit": {
@@ -1774,14 +1962,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:617d",
-            "too_old:624d",
-            "too_old:632d",
-            "too_old:639d",
-            "too_old:647d",
-            "too_old:650d",
-            "too_old:654d",
-            "too_old:657d"
+            "too_old:618d",
+            "too_old:625d",
+            "too_old:633d",
+            "too_old:640d",
+            "too_old:648d",
+            "too_old:651d",
+            "too_old:655d",
+            "too_old:658d"
           ]
         },
         "PaulaPant": {
@@ -1917,14 +2105,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:50d",
-            "too_old:57d",
-            "too_old:64d",
-            "too_old:71d",
-            "too_old:78d",
-            "too_old:85d",
-            "too_old:92d",
-            "too_old:99d"
+            "too_old:51d",
+            "too_old:58d",
+            "too_old:65d",
+            "too_old:72d",
+            "too_old:79d",
+            "too_old:86d",
+            "too_old:93d",
+            "too_old:100d"
           ]
         },
         "startupsfortherestofus": {
@@ -1950,14 +2138,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:51d",
-            "too_old:58d",
-            "too_old:65d",
-            "too_old:72d",
-            "too_old:79d",
-            "too_old:86d",
-            "too_old:93d",
-            "too_old:100d"
+            "too_old:52d",
+            "too_old:59d",
+            "too_old:66d",
+            "too_old:73d",
+            "too_old:80d",
+            "too_old:87d",
+            "too_old:94d",
+            "too_old:101d"
           ]
         },
         "moneyunder30": {
@@ -2031,14 +2219,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:182d",
-            "too_old:303d",
-            "too_old:373d",
-            "too_old:489d",
-            "too_old:597d",
-            "too_old:637d",
-            "too_old:732d",
-            "too_old:813d"
+            "too_old:183d",
+            "too_old:304d",
+            "too_old:374d",
+            "too_old:490d",
+            "too_old:598d",
+            "too_old:638d",
+            "too_old:733d",
+            "too_old:814d"
           ]
         },
         "askamanager": {
@@ -2088,8 +2276,8 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:46d",
-            "too_old:59d"
+            "too_old:47d",
+            "too_old:60d"
           ]
         },
         "artofmanliness": {
@@ -2216,14 +2404,8 @@
         },
         {
           "handle": "charliebilello",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+          "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
           "scanned": 15,
-          "type": "youtube_rss"
-        },
-        {
-          "handle": "LynAldenContact",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
-          "scanned": 1,
           "type": "youtube_rss"
         },
         {
@@ -2243,18 +2425,6 @@
           "url": "https://markmanson.net/feed",
           "scanned": 10,
           "type": "blog_rss"
-        },
-        {
-          "handle": "dannypostmaa",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-          "scanned": 2,
-          "type": "youtube_rss"
-        },
-        {
-          "handle": "damengchen",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-          "scanned": 4,
-          "type": "youtube_rss"
         },
         {
           "handle": "dollarsanddata",
@@ -2311,14 +2481,8 @@
           "type": "blog_rss"
         },
         {
-          "handle": "I_Am_The_ICT",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjxa77NqamhVC8atV85Rog",
-          "scanned": 15,
-          "type": "youtube_rss"
-        },
-        {
           "handle": "TTrades_edu",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+          "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
           "scanned": 15,
           "type": "youtube_rss"
         },
@@ -2454,6 +2618,23 @@
           ]
         },
         {
+          "handle": "LynAldenContact",
+          "errors": [
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 202 captcha",
+            "HTTP 403",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 403",
+            "HTTP 403"
+          ]
+        },
+        {
           "handle": "farnamstreet",
           "errors": [
             "HTTP 403",
@@ -2467,6 +2648,32 @@
           ]
         },
         {
+          "handle": "dannypostmaa",
+          "errors": [
+            "HTTP 500",
+            "HTTP 500",
+            "HTTP 404",
+            "HTTP 404",
+            "html_list_empty_or_blocked",
+            "html_list_empty_or_blocked",
+            "html_list_empty_or_blocked",
+            "html_list_empty_or_blocked"
+          ]
+        },
+        {
+          "handle": "damengchen",
+          "errors": [
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "html_list_empty_or_blocked",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404"
+          ]
+        },
+        {
           "handle": "morganhousel",
           "errors": [
             "fetch failed",
@@ -2477,6 +2684,19 @@
             "fetch failed",
             "fetch failed",
             "fetch failed"
+          ]
+        },
+        {
+          "handle": "I_Am_The_ICT",
+          "errors": [
+            "HTTP 404",
+            "HTTP 500",
+            "HTTP 500",
+            "HTTP 404",
+            "html_list_empty_or_blocked",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404"
           ]
         },
         {
@@ -2508,9 +2728,9 @@
           ]
         }
       ],
-      "posts_kept": 190,
-      "posts_dropped": 214,
-      "fallbacks": 17,
+      "posts_kept": 187,
+      "posts_dropped": 209,
+      "fallbacks": 19,
       "last_good_reused": 1,
       "html_list_ok": [
         {
@@ -2521,6 +2741,7 @@
       "x_api_ok": [],
       "residual_403_hosts": [
         "fs.blog",
+        "lynalden.com",
         "nathanbarry.com"
       ],
       "sample_kept": [
@@ -2543,23 +2764,23 @@
           "url": "https://vitalik.ca/general/2026/09/27/the_cryptographic_world_computer.html"
         },
         {
-          "handle": "dannypostmaa",
-          "title": "How I Stopped AI From Designing Ugly Landing Pages (Free Skill)",
-          "published_at": "2026-09-04T06:17:07.000Z",
-          "url": "https://www.youtube.com/watch?v=EMXJCSx5q60"
-        },
-        {
           "handle": "dollarsanddata",
           "title": "Who Got Richer Since 2022?",
           "published_at": "2026-10-13T11:45:36.000Z",
           "url": "https://ofdollarsanddata.com/who-got-richer-since-2022/"
+        },
+        {
+          "handle": "PutThisOn",
+          "title": "Inside Track: October 4th – October 10th Edition",
+          "published_at": "2026-10-13T01:34:18.000Z",
+          "url": "https://putthison.com/inside-track-october-4th-october-10th-edition-2/"
         }
       ]
     },
     "community_rss": {
       "enabled": true,
-      "elapsed_ms": 27737,
-      "kept": 7,
+      "elapsed_ms": 12395,
+      "kept": 10,
       "report": [
         {
           "id": "ai-reddit-saas",
@@ -2567,47 +2788,48 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 630,
+          "ms": 1167,
           "scanned": 40,
-          "kept": 2,
+          "kept": 3,
           "rejects": {
-            "no_body": 2,
-            "no_numeric_fact": 17,
-            "question": 9,
-            "body_too_short": 4,
             "single_fact_kind": 4,
-            "spam_or_promo_body": 2
+            "no_body": 2,
+            "question": 10,
+            "no_numeric_fact": 14,
+            "body_too_short": 3,
+            "help_seeking": 3,
+            "promo": 1
           },
           "error": null,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
-            "reset": "25"
+            "reset": "2"
           },
           "reject_samples": [
             {
-              "reason": "no_body",
-              "title": "You'll own nothing and be happy, Adobe..."
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Vibe coding isn’t killing SaaS"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "ChatGPT might become a surprisingly good distribution channel for SaaS"
+              "reason": "single_fact_kind",
+              "title": "My side project is making more than my 9-5"
             },
             {
               "reason": "no_body",
-              "title": "Ramp hits $60B valuation. What does this say about the future of B2B SaaS?"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Best python code visualzer"
+              "title": "I’m extremely happy that my first SaaS has hit 50+ users ♥️😊"
             },
             {
               "reason": "question",
-              "title": "Stripe alternatives for small business in 2026?"
+              "title": "Which kinds of software actually survive the next 10 years?"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "I just got my first paying customer for my SaaS!"
+            },
+            {
+              "reason": "body_too_short",
+              "title": "How are you hosting you saas ?"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Uncensored Qwen3.8-27b did my directory submissions in under 2 hours. DR went 17"
             }
           ],
           "partition": "ai"
@@ -2619,17 +2841,25 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 1,
+          "scanned": 3,
           "kept": 0,
           "rejects": {
-            "question": 1
+            "no_numeric_fact": 3
           },
           "error": null,
           "shared_request": true,
           "reject_samples": [
             {
-              "reason": "question",
-              "title": "I built Lánzalo for LATAM launches. Does the regional focus feel useful?"
+              "reason": "no_numeric_fact",
+              "title": "SEO for small SaaS is way harder than \"tools\" present it. Don't use them."
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "I built a site where founders get 30 seconds on a single stage to pitch their pr"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Looking to Connect with AI Builders, Founders & Global Partners"
             }
           ],
           "partition": "ai"
@@ -2641,39 +2871,42 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 16,
-          "kept": 2,
+          "scanned": 15,
+          "kept": 3,
           "rejects": {
+            "help_seeking": 1,
+            "question": 3,
+            "no_numeric_fact": 5,
             "single_fact_kind": 1,
-            "no_numeric_fact": 4,
-            "question": 9
+            "spam_or_promo_body": 1,
+            "body_too_short": 1
           },
           "error": null,
           "shared_request": true,
           "reject_samples": [
             {
-              "reason": "single_fact_kind",
-              "title": "I built a ticketing app for my kid's afterprom. 14 months after opening it up, i"
+              "reason": "help_seeking",
+              "title": "What if your next big opportunity starts with a conversation you almost never ha"
+            },
+            {
+              "reason": "question",
+              "title": "What a normal week looks like doing eBay dropshipping full time as a Digital Nom"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "carders loved my $9 plan. here's what finally stopped them"
-            },
-            {
-              "reason": "question",
-              "title": "How to price a product"
-            },
-            {
-              "reason": "question",
-              "title": "France first, everyone else later = bad decision ?"
-            },
-            {
-              "reason": "question",
-              "title": "What's the biggest gap you've caught between an ad report and what the business "
+              "title": "Uncensored Qwen3.8-27b did my directory submissions in under 2 hours. DR went 17"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "\"Lift Off!! (well not quite)\" - Building an App Pt 2"
+              "title": "Built a competitor price-monitoring SaaS for small e-commerce stores. Product is"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Accountability Buddy Wanted"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "My local directory finally has users. Now I’m trying not to ruin it by building "
             }
           ],
           "partition": "ai"
@@ -2685,22 +2918,27 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 2,
+          "scanned": 3,
           "kept": 0,
           "rejects": {
             "question": 1,
-            "body_too_short": 1
+            "no_numeric_fact": 1,
+            "help_seeking": 1
           },
           "error": null,
           "shared_request": true,
           "reject_samples": [
             {
               "reason": "question",
-              "title": "What's one business process you wish you'd simplified earlier?"
+              "title": "How do I maximize social media for multiple businesses/projects"
             },
             {
-              "reason": "body_too_short",
-              "title": "Thankful Thursday: Free Resources and Tools | October 15, 2026"
+              "reason": "no_numeric_fact",
+              "title": "My local directory finally has users. Now I’m trying not to ruin it by building "
+            },
+            {
+              "reason": "help_seeking",
+              "title": "Feedback Friday: Rate My Ideas | October 16, 2026"
             }
           ],
           "partition": "ai"
@@ -2711,15 +2949,12 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 5236,
-          "scanned": 20,
+          "ms": 2103,
+          "scanned": 17,
           "kept": 0,
           "rejects": {
-            "question": 1,
-            "single_fact_kind": 1,
             "no_numeric_fact": 16,
-            "help_seeking": 1,
-            "tech_news": 1
+            "question": 1
           },
           "error": null,
           "ratelimit": {
@@ -2729,28 +2964,28 @@
           },
           "reject_samples": [
             {
-              "reason": "question",
-              "title": "What I Self-Host"
-            },
-            {
-              "reason": "single_fact_kind",
-              "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing"
+              "reason": "no_numeric_fact",
+              "title": "I never authorized an integration that scans my secrets"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Someone on Torrent Sites Kept Fucking with My Sonarr"
+              "title": "How the Claude Code team does code review"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "E Ink Kaleido 4"
+              "title": "You could have invented transformers from memory"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Muse Spark Open"
+              "title": "Claude reveals ECDSA curve origins"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Jev meets the Trolley Problem"
+              "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Anthropic assigned highest junk credit rating in June"
             }
           ],
           "partition": "ai"
@@ -2761,7 +2996,7 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 63,
+          "ms": 83,
           "scanned": 20,
           "kept": 1,
           "rejects": {
@@ -2769,13 +3004,21 @@
             "question": 1
           },
           "error": null,
-          "waited_ms": 7997,
+          "waited_ms": 7992,
           "ratelimit": {
             "used": null,
             "remaining": null,
             "reset": null
           },
           "reject_samples": [
+            {
+              "reason": "no_numeric_fact",
+              "title": "Show HN: rStation – A shared research lab for your AI agents"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Show HN: Gemini 4 Argon plays StarCraft"
+            },
             {
               "reason": "no_numeric_fact",
               "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering"
@@ -2791,14 +3034,6 @@
             {
               "reason": "no_numeric_fact",
               "title": "Show HN: Ito – Build Terminal UIs in Lua"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Show HN: I wrote an email app that accepts only one sender per inbox"
             }
           ],
           "partition": "ai"
@@ -2809,33 +3044,39 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 1056,
-          "scanned": 65,
-          "kept": 1,
+          "ms": 891,
+          "scanned": 73,
+          "kept": 2,
           "rejects": {
-            "body_too_short": 7,
-            "no_concrete_method": 7,
-            "country_specific": 6,
-            "no_amount_in_action": 6,
-            "no_first_person_action": 4,
+            "body_too_short": 8,
+            "no_body": 1,
+            "no_concrete_method": 8,
+            "country_specific": 9,
+            "no_amount_in_action": 8,
+            "no_first_person_action": 3,
             "no_numeric_fact": 5,
-            "no_practice_topic": 2,
-            "help_seeking": 6,
             "question": 17,
+            "no_practice_topic": 2,
+            "help_seeking": 5,
+            "off_profile": 1,
             "excerpt_lost_facts(no_concrete_method)": 1,
-            "discussion_questions": 3
+            "discussion_questions": 2,
+            "over_max_items": 1
           },
           "error": null,
-          "waited_ms": 12620,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
-            "reset": "58"
+            "reset": "50"
           },
           "reject_samples": [
             {
               "reason": "body_too_short",
               "title": "$99,985 in CC debt"
+            },
+            {
+              "reason": "no_body",
+              "title": "US families are behind on bills at rate not seen since Great Recession of 2008"
             },
             {
               "reason": "no_concrete_method",
@@ -2852,10 +3093,6 @@
             {
               "reason": "no_concrete_method",
               "title": "100% debt freeeeeee!!"
-            },
-            {
-              "reason": "no_amount_in_action",
-              "title": "Reduced debt by $6k"
             }
           ],
           "partition": "invest"
@@ -2867,18 +3104,17 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 35,
+          "scanned": 27,
           "kept": 1,
           "rejects": {
-            "no_amount_in_action": 4,
-            "question": 10,
-            "no_numeric_fact": 10,
-            "body_too_short": 3,
+            "no_amount_in_action": 3,
+            "question": 7,
+            "no_numeric_fact": 9,
+            "body_too_short": 1,
             "country_specific": 2,
             "no_body": 1,
             "discussion_questions": 2,
-            "no_first_person_action": 1,
-            "help_seeking": 1
+            "no_first_person_action": 1
           },
           "error": null,
           "shared_request": true,
@@ -2893,15 +3129,15 @@
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Introducing the Plan Reset"
-            },
-            {
-              "reason": "no_numeric_fact",
               "title": "Yes, this is still winning!"
             },
             {
               "reason": "body_too_short",
               "title": "YNAB poor on the last day of the month"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Fire your UX Designer"
             },
             {
               "reason": "no_numeric_fact",
@@ -2959,30 +3195,30 @@
         "shown": 15
       },
       "ai": {
-        "total": 11,
-        "with_use": 11,
+        "total": 13,
+        "with_use": 13,
         "verdicts": {
+          "worth": 4,
           "save": 8,
-          "worth": 2,
           "watch": 1
         },
         "ungrounded": 0,
         "dropped_no_use": 0,
-        "useful_before_display_cap": 11,
-        "shown": 11
+        "useful_before_display_cap": 13,
+        "shown": 13
       },
       "invest": {
-        "total": 12,
-        "with_use": 12,
+        "total": 13,
+        "with_use": 13,
         "verdicts": {
-          "worth": 6,
+          "worth": 7,
           "save": 5,
           "watch": 1
         },
         "ungrounded": 0,
         "dropped_no_use": 0,
-        "useful_before_display_cap": 12,
-        "shown": 12
+        "useful_before_display_cap": 13,
+        "shown": 13
       },
       "growth": {
         "total": 2,
@@ -2998,7 +3234,7 @@
     },
     "title_model": "qwen2.5:1.5b",
     "title_budget_exhausted": false,
-    "title_zh_attempted": 21,
+    "title_zh_attempted": 24,
     "title_phase_s": 0
   },
   "today_points": [
@@ -3018,9 +3254,9 @@
     },
     {
       "part": "ai",
-      "text": "AI副业：自述收入 $100k",
-      "id": "ai-community-ai-reddit-saas-e224826a7725",
-      "url": "https://www.reddit.com/r/SaaS/comments/1x6xrsl/crossed_100k_processed_on_my_ticketing_saas_the/",
+      "text": "AI副业：自述收入 $1.5k mrr，渠道 Reddit",
+      "id": "ai-community-ai-reddit-saas-f9f9f984317c",
+      "url": "https://www.reddit.com/r/SaaS/comments/1x7lvaz/my_saas_just_crossed_15k_mrr_and_i_just_cant/",
       "verdict": "worth"
     },
     {
@@ -3035,7 +3271,7 @@
     "model": "qwen2.5:1.5b",
     "ollama_ok": false,
     "local_llm": 0,
-    "fallback": 50,
+    "fallback": 53,
     "distinct_fix": 0,
     "unfaithful_reject": 0,
     "number_check": {
@@ -3045,8 +3281,8 @@
   },
   "partitions": {
     "jobs": 25,
-    "ai": 11,
-    "invest": 24,
+    "ai": 13,
+    "invest": 23,
     "growth": 2
   },
   "caps": {
@@ -3108,14 +3344,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:128d",
-          "too_old:219d",
-          "too_old:284d",
-          "too_old:334d",
-          "too_old:369d",
-          "too_old:397d",
-          "too_old:404d",
-          "too_old:411d"
+          "too_old:129d",
+          "too_old:220d",
+          "too_old:285d",
+          "too_old:335d",
+          "too_old:370d",
+          "too_old:398d",
+          "too_old:405d",
+          "too_old:412d"
         ]
       },
       "tdinh_me": {
@@ -3141,14 +3377,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:47d",
-          "too_old:127d",
-          "too_old:322d",
-          "too_old:371d",
-          "too_old:487d",
-          "too_old:681d",
-          "too_old:692d",
-          "too_old:811d"
+          "too_old:48d",
+          "too_old:128d",
+          "too_old:323d",
+          "too_old:372d",
+          "too_old:488d",
+          "too_old:682d",
+          "too_old:693d",
+          "too_old:812d"
         ]
       },
       "lxfater": {
@@ -3212,27 +3448,39 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:77d",
-          "too_old:226d",
-          "too_old:248d",
-          "too_old:255d",
-          "too_old:273d",
-          "too_old:471d",
-          "too_old:503d",
-          "too_old:521d"
+          "too_old:78d",
+          "too_old:227d",
+          "too_old:249d",
+          "too_old:256d",
+          "too_old:274d",
+          "too_old:472d",
+          "too_old:504d",
+          "too_old:522d"
         ]
       },
       "charliebilello": {
         "ok": true,
         "partition": "invest",
         "feed_ok": {
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+          "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
           "type": "youtube_rss",
           "scanned": 15
         },
         "feeds_tried": [
           {
             "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
             "type": "youtube_rss",
             "ok": true,
             "scanned": 15
@@ -3245,41 +3493,101 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:791d",
-          "too_old:798d",
-          "too_old:819d",
-          "too_old:840d",
-          "too_old:843d",
-          "too_old:849d",
-          "too_old:904d",
-          "too_old:911d"
+          "too_old:792d",
+          "too_old:799d",
+          "too_old:820d",
+          "too_old:841d",
+          "too_old:844d",
+          "too_old:850d",
+          "too_old:905d",
+          "too_old:912d"
         ]
       },
       "LynAldenContact": {
         "ok": true,
         "partition": "invest",
-        "feed_ok": {
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
-          "type": "youtube_rss",
-          "scanned": 1
-        },
+        "feed_ok": null,
         "feeds_tried": [
           {
             "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
             "type": "youtube_rss",
-            "ok": true,
-            "scanned": 1
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://www.lynalden.com/feed/",
+            "type": "blog_rss",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://lynalden.com/feed/",
+            "type": "blog_rss",
+            "ok": false,
+            "error": "HTTP 403"
+          },
+          {
+            "url": "https://www.lynalden.com/",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://www.lynalden.com/blog/",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://www.lynalden.com/archive",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://www.lynalden.com/archive?sort=new",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://lynalden.com/",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 403"
+          },
+          {
+            "url": "https://lynalden.com/blog/",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 403"
           }
         ],
         "kept": 0,
-        "dropped": 1,
+        "dropped": 0,
         "fallback": true,
         "used_last_good": false,
         "html_list": null,
         "x_api": null,
-        "drop_reasons": [
-          "too_old:900d"
-        ]
+        "drop_reasons": []
       },
       "VitalikButerin": {
         "ok": true,
@@ -3304,14 +3612,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:56d",
-          "too_old:80d",
-          "too_old:109d",
-          "too_old:151d",
-          "too_old:197d",
-          "too_old:290d",
-          "too_old:303d",
-          "too_old:325d"
+          "too_old:57d",
+          "too_old:81d",
+          "too_old:110d",
+          "too_old:152d",
+          "too_old:198d",
+          "too_old:291d",
+          "too_old:304d",
+          "too_old:326d"
         ]
       },
       "dieworkwear": {
@@ -3337,14 +3645,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:321d",
-          "too_old:324d",
-          "too_old:392d",
-          "too_old:499d",
-          "too_old:581d",
-          "too_old:617d",
-          "too_old:685d",
-          "too_old:699d"
+          "too_old:322d",
+          "too_old:325d",
+          "too_old:393d",
+          "too_old:500d",
+          "too_old:582d",
+          "too_old:618d",
+          "too_old:686d",
+          "too_old:700d"
         ]
       },
       "farnamstreet": {
@@ -3432,70 +3740,139 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:293d",
-          "too_old:300d",
-          "too_old:307d",
-          "too_old:314d",
-          "too_old:889d",
-          "too_old:950d",
-          "too_old:966d",
-          "too_old:994d"
+          "too_old:294d",
+          "too_old:301d",
+          "too_old:308d",
+          "too_old:315d",
+          "too_old:890d",
+          "too_old:951d",
+          "too_old:967d",
+          "too_old:995d"
         ]
       },
       "dannypostmaa": {
         "ok": true,
         "partition": "ai",
-        "feed_ok": {
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-          "type": "youtube_rss",
-          "scanned": 2
-        },
+        "feed_ok": null,
         "feeds_tried": [
           {
             "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
             "type": "youtube_rss",
-            "ok": true,
-            "scanned": 2
-          }
-        ],
-        "kept": 1,
-        "dropped": 1,
-        "fallback": false,
-        "used_last_good": false,
-        "html_list": null,
-        "x_api": null,
-        "drop_reasons": [
-          "too_old:62d"
-        ]
-      },
-      "damengchen": {
-        "ok": true,
-        "partition": "ai",
-        "feed_ok": {
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-          "type": "youtube_rss",
-          "scanned": 4
-        },
-        "feeds_tried": [
+            "ok": false,
+            "error": "HTTP 500"
+          },
           {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+            "url": "https://youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
             "type": "youtube_rss",
-            "ok": true,
-            "scanned": 4
+            "ok": false,
+            "error": "HTTP 500"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://www.dannypostma.com/",
+            "type": "html_list",
+            "ok": false,
+            "error": "html_list_empty_or_blocked"
+          },
+          {
+            "url": "https://www.dannypostma.com/blog/",
+            "type": "html_list",
+            "ok": false,
+            "error": "html_list_empty_or_blocked"
+          },
+          {
+            "url": "https://www.dannypostma.com/archive",
+            "type": "html_list",
+            "ok": false,
+            "error": "html_list_empty_or_blocked"
+          },
+          {
+            "url": "https://www.dannypostma.com/archive?sort=new",
+            "type": "html_list",
+            "ok": false,
+            "error": "html_list_empty_or_blocked"
           }
         ],
         "kept": 0,
-        "dropped": 4,
+        "dropped": 0,
         "fallback": true,
         "used_last_good": false,
         "html_list": null,
         "x_api": null,
-        "drop_reasons": [
-          "too_old:957d",
-          "too_old:971d",
-          "too_old:975d",
-          "too_old:981d"
-        ]
+        "drop_reasons": []
+      },
+      "damengchen": {
+        "ok": true,
+        "partition": "ai",
+        "feed_ok": null,
+        "feeds_tried": [
+          {
+            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://damon.vc/",
+            "type": "html_list",
+            "ok": false,
+            "error": "html_list_empty_or_blocked"
+          },
+          {
+            "url": "https://damon.vc/blog/",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://damon.vc/archive",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://damon.vc/archive?sort=new",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 404"
+          }
+        ],
+        "kept": 0,
+        "dropped": 0,
+        "fallback": true,
+        "used_last_good": false,
+        "html_list": null,
+        "x_api": null,
+        "drop_reasons": []
       },
       "morganhousel": {
         "ok": true,
@@ -3582,9 +3959,9 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:51d",
-          "too_old:58d",
-          "too_old:65d"
+          "too_old:52d",
+          "too_old:59d",
+          "too_old:66d"
         ]
       },
       "PutThisOn": {
@@ -3634,14 +4011,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:2474d",
-          "too_old:2557d",
-          "too_old:2760d",
-          "too_old:2824d",
-          "too_old:2831d",
-          "too_old:2838d",
-          "too_old:2845d",
-          "too_old:2919d"
+          "too_old:2475d",
+          "too_old:2558d",
+          "too_old:2761d",
+          "too_old:2825d",
+          "too_old:2832d",
+          "too_old:2839d",
+          "too_old:2846d",
+          "too_old:2920d"
         ]
       },
       "tibo_maker": {
@@ -3701,8 +4078,8 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:2140d",
-          "too_old:2314d"
+          "too_old:2141d",
+          "too_old:2315d"
         ]
       },
       "awealthofcs": {
@@ -3752,10 +4129,10 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:50d",
-          "too_old:57d",
-          "too_old:64d",
-          "too_old:65d"
+          "too_old:51d",
+          "too_old:58d",
+          "too_old:65d",
+          "too_old:66d"
         ]
       },
       "CalNewport": {
@@ -3774,17 +4151,18 @@
             "scanned": 8
           }
         ],
-        "kept": 4,
-        "dropped": 4,
+        "kept": 3,
+        "dropped": 5,
         "fallback": false,
         "used_last_good": false,
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
           "growth_politics_title",
-          "too_old:52d",
-          "too_old:66d",
-          "too_old:80d"
+          "too_old:46d",
+          "too_old:53d",
+          "too_old:67d",
+          "too_old:81d"
         ]
       },
       "naval": {
@@ -3810,35 +4188,73 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:105d",
-          "too_old:136d",
-          "too_old:139d",
-          "too_old:139d",
-          "too_old:141d",
-          "too_old:157d",
-          "too_old:164d",
-          "too_old:170d"
+          "too_old:106d",
+          "too_old:137d",
+          "too_old:140d",
+          "too_old:140d",
+          "too_old:142d",
+          "too_old:158d",
+          "too_old:165d",
+          "too_old:171d"
         ]
       },
       "I_Am_The_ICT": {
         "ok": true,
         "partition": "invest",
-        "feed_ok": {
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjxa77NqamhVC8atV85Rog",
-          "type": "youtube_rss",
-          "scanned": 15
-        },
+        "feed_ok": null,
         "feeds_tried": [
           {
             "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjxa77NqamhVC8atV85Rog",
             "type": "youtube_rss",
-            "ok": true,
-            "scanned": 15
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml?channel_id=UCtjxa77NqamhVC8atV85Rog",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 500"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCtjxa77NqamhVC8atV85Rog",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 500"
+          },
+          {
+            "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCtjxa77NqamhVC8atV85Rog",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://www.theinnercircletrader.com/",
+            "type": "html_list",
+            "ok": false,
+            "error": "html_list_empty_or_blocked"
+          },
+          {
+            "url": "https://www.theinnercircletrader.com/blog/",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://www.theinnercircletrader.com/archive",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://www.theinnercircletrader.com/archive?sort=new",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 404"
           }
         ],
-        "kept": 1,
+        "kept": 0,
         "dropped": 0,
-        "fallback": false,
+        "fallback": true,
         "used_last_good": false,
         "html_list": null,
         "x_api": null,
@@ -3848,13 +4264,25 @@
         "ok": true,
         "partition": "invest",
         "feed_ok": {
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+          "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
           "type": "youtube_rss",
           "scanned": 15
         },
         "feeds_tried": [
           {
             "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
             "type": "youtube_rss",
             "ok": true,
             "scanned": 15
@@ -3891,8 +4319,8 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:48d",
-          "too_old:50d"
+          "too_old:49d",
+          "too_old:51d"
         ]
       },
       "ritholtz": {
@@ -3942,10 +4370,10 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:50d",
-          "too_old:57d",
-          "too_old:70d",
-          "too_old:77d"
+          "too_old:51d",
+          "too_old:58d",
+          "too_old:71d",
+          "too_old:78d"
         ]
       },
       "RyanHoliday": {
@@ -3971,10 +4399,10 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:48d",
-          "too_old:56d",
-          "too_old:70d",
-          "too_old:91d"
+          "too_old:49d",
+          "too_old:57d",
+          "too_old:71d",
+          "too_old:92d"
         ]
       },
       "gregisenberg": {
@@ -4051,14 +4479,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:195d",
-          "too_old:209d",
-          "too_old:216d",
-          "too_old:244d",
-          "too_old:251d",
-          "too_old:258d",
-          "too_old:265d",
-          "too_old:272d"
+          "too_old:196d",
+          "too_old:210d",
+          "too_old:217d",
+          "too_old:245d",
+          "too_old:252d",
+          "too_old:259d",
+          "too_old:266d",
+          "too_old:273d"
         ]
       },
       "ramit": {
@@ -4108,14 +4536,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:617d",
-          "too_old:624d",
-          "too_old:632d",
-          "too_old:639d",
-          "too_old:647d",
-          "too_old:650d",
-          "too_old:654d",
-          "too_old:657d"
+          "too_old:618d",
+          "too_old:625d",
+          "too_old:633d",
+          "too_old:640d",
+          "too_old:648d",
+          "too_old:651d",
+          "too_old:655d",
+          "too_old:658d"
         ]
       },
       "PaulaPant": {
@@ -4251,14 +4679,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:50d",
-          "too_old:57d",
-          "too_old:64d",
-          "too_old:71d",
-          "too_old:78d",
-          "too_old:85d",
-          "too_old:92d",
-          "too_old:99d"
+          "too_old:51d",
+          "too_old:58d",
+          "too_old:65d",
+          "too_old:72d",
+          "too_old:79d",
+          "too_old:86d",
+          "too_old:93d",
+          "too_old:100d"
         ]
       },
       "startupsfortherestofus": {
@@ -4284,14 +4712,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:51d",
-          "too_old:58d",
-          "too_old:65d",
-          "too_old:72d",
-          "too_old:79d",
-          "too_old:86d",
-          "too_old:93d",
-          "too_old:100d"
+          "too_old:52d",
+          "too_old:59d",
+          "too_old:66d",
+          "too_old:73d",
+          "too_old:80d",
+          "too_old:87d",
+          "too_old:94d",
+          "too_old:101d"
         ]
       },
       "moneyunder30": {
@@ -4365,14 +4793,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:182d",
-          "too_old:303d",
-          "too_old:373d",
-          "too_old:489d",
-          "too_old:597d",
-          "too_old:637d",
-          "too_old:732d",
-          "too_old:813d"
+          "too_old:183d",
+          "too_old:304d",
+          "too_old:374d",
+          "too_old:490d",
+          "too_old:598d",
+          "too_old:638d",
+          "too_old:733d",
+          "too_old:814d"
         ]
       },
       "askamanager": {
@@ -4422,8 +4850,8 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:46d",
-          "too_old:59d"
+          "too_old:47d",
+          "too_old:60d"
         ]
       },
       "artofmanliness": {
@@ -4550,14 +4978,8 @@
       },
       {
         "handle": "charliebilello",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+        "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
         "scanned": 15,
-        "type": "youtube_rss"
-      },
-      {
-        "handle": "LynAldenContact",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
-        "scanned": 1,
         "type": "youtube_rss"
       },
       {
@@ -4577,18 +4999,6 @@
         "url": "https://markmanson.net/feed",
         "scanned": 10,
         "type": "blog_rss"
-      },
-      {
-        "handle": "dannypostmaa",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-        "scanned": 2,
-        "type": "youtube_rss"
-      },
-      {
-        "handle": "damengchen",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-        "scanned": 4,
-        "type": "youtube_rss"
       },
       {
         "handle": "dollarsanddata",
@@ -4645,14 +5055,8 @@
         "type": "blog_rss"
       },
       {
-        "handle": "I_Am_The_ICT",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjxa77NqamhVC8atV85Rog",
-        "scanned": 15,
-        "type": "youtube_rss"
-      },
-      {
         "handle": "TTrades_edu",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+        "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
         "scanned": 15,
         "type": "youtube_rss"
       },
@@ -4788,6 +5192,23 @@
         ]
       },
       {
+        "handle": "LynAldenContact",
+        "errors": [
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 202 captcha",
+          "HTTP 403",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha",
+          "HTTP 403",
+          "HTTP 403"
+        ]
+      },
+      {
         "handle": "farnamstreet",
         "errors": [
           "HTTP 403",
@@ -4801,6 +5222,32 @@
         ]
       },
       {
+        "handle": "dannypostmaa",
+        "errors": [
+          "HTTP 500",
+          "HTTP 500",
+          "HTTP 404",
+          "HTTP 404",
+          "html_list_empty_or_blocked",
+          "html_list_empty_or_blocked",
+          "html_list_empty_or_blocked",
+          "html_list_empty_or_blocked"
+        ]
+      },
+      {
+        "handle": "damengchen",
+        "errors": [
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 404",
+          "html_list_empty_or_blocked",
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 404"
+        ]
+      },
+      {
         "handle": "morganhousel",
         "errors": [
           "fetch failed",
@@ -4811,6 +5258,19 @@
           "fetch failed",
           "fetch failed",
           "fetch failed"
+        ]
+      },
+      {
+        "handle": "I_Am_The_ICT",
+        "errors": [
+          "HTTP 404",
+          "HTTP 500",
+          "HTTP 500",
+          "HTTP 404",
+          "html_list_empty_or_blocked",
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 404"
         ]
       },
       {
@@ -4842,9 +5302,9 @@
         ]
       }
     ],
-    "posts_kept": 190,
-    "posts_dropped": 214,
-    "fallbacks": 17,
+    "posts_kept": 187,
+    "posts_dropped": 209,
+    "fallbacks": 19,
     "last_good_reused": 1,
     "html_list_ok": [
       {
@@ -4855,6 +5315,7 @@
     "x_api_ok": [],
     "residual_403_hosts": [
       "fs.blog",
+      "lynalden.com",
       "nathanbarry.com"
     ],
     "sample_kept": [
@@ -4877,16 +5338,16 @@
         "url": "https://vitalik.ca/general/2026/09/27/the_cryptographic_world_computer.html"
       },
       {
-        "handle": "dannypostmaa",
-        "title": "How I Stopped AI From Designing Ugly Landing Pages (Free Skill)",
-        "published_at": "2026-09-04T06:17:07.000Z",
-        "url": "https://www.youtube.com/watch?v=EMXJCSx5q60"
-      },
-      {
         "handle": "dollarsanddata",
         "title": "Who Got Richer Since 2022?",
         "published_at": "2026-10-13T11:45:36.000Z",
         "url": "https://ofdollarsanddata.com/who-got-richer-since-2022/"
+      },
+      {
+        "handle": "PutThisOn",
+        "title": "Inside Track: October 4th – October 10th Edition",
+        "published_at": "2026-10-13T01:34:18.000Z",
+        "url": "https://putthison.com/inside-track-october-4th-october-10th-edition-2/"
       }
     ]
   },
@@ -4908,14 +5369,14 @@
   },
   "quality": {
     "articles_in": {
-      "ai": 68,
-      "invest": 91,
-      "growth": 61
+      "ai": 70,
+      "invest": 92,
+      "growth": 60
     },
     "posts_in": {
-      "ai": 63,
-      "invest": 91,
-      "growth": 60
+      "ai": 65,
+      "invest": 92,
+      "growth": 59
     },
     "near_dup_drops": {
       "jobs": 0,
@@ -4934,18 +5395,18 @@
         ],
         "practical_boost": 0,
         "theory_demote": 0,
-        "business_boost": 11,
+        "business_boost": 14,
         "x_bonus": 0,
-        "frames": 5,
-        "no_business_demote": 1
+        "frames": 5
       },
       "invest": {
         "dropped_technical": [],
-        "practical_boost": 7,
+        "practical_boost": 8,
         "theory_demote": 0,
         "business_boost": 0,
         "x_bonus": 0,
-        "frames": 0
+        "frames": 0,
+        "theory_omitted": []
       },
       "growth": {
         "dropped_technical": [],
@@ -4991,7 +5452,7 @@
               "source_id": null,
               "title": "System & Economy Designer (Intermediate/Senior)",
               "published_at": "2026-09-10T12:00:00+08:00",
-              "age_days": 35,
+              "age_days": 36,
               "penalty": 20,
               "score_before": 86,
               "score_after": 66
@@ -5001,7 +5462,7 @@
               "source_id": null,
               "title": "Senior Game Designer - Systems & Economy - Fully Remote",
               "published_at": "2026-08-25T12:00:00+08:00",
-              "age_days": 51,
+              "age_days": 52,
               "penalty": 20,
               "score_before": 72,
               "score_after": 52
@@ -5011,7 +5472,7 @@
               "source_id": null,
               "title": "Senior Game Designer / Product Builder (AI Games)",
               "published_at": "2026-10-05T12:00:00+08:00",
-              "age_days": 10,
+              "age_days": 11,
               "penalty": 8,
               "score_before": 72,
               "score_after": 64
@@ -5021,7 +5482,7 @@
               "source_id": null,
               "title": "Lead Product Manager - RPG",
               "published_at": "2026-09-24T12:00:00+08:00",
-              "age_days": 21,
+              "age_days": 22,
               "penalty": 8,
               "score_before": 54,
               "score_after": 46
@@ -5031,7 +5492,7 @@
               "source_id": null,
               "title": "Senior Systems Game Designer",
               "published_at": "2026-09-24T12:00:00+08:00",
-              "age_days": 21,
+              "age_days": 22,
               "penalty": 8,
               "score_before": 44,
               "score_after": 36
@@ -5041,6 +5502,18 @@
         },
         "ai": {
           "source_keep": {
+            "ai-reddit-saas": {
+              "max_keep": 4,
+              "kept": 3,
+              "dropped": 0,
+              "candidates": 3
+            },
+            "ai-reddit-era": {
+              "max_keep": 3,
+              "kept": 3,
+              "dropped": 0,
+              "candidates": 3
+            },
             "kol:levelsio": {
               "max_keep": 10,
               "kept": 10,
@@ -5089,29 +5562,11 @@
               "dropped": 0,
               "candidates": 1
             },
-            "ai-reddit-saas": {
-              "max_keep": 4,
-              "kept": 2,
-              "dropped": 0,
-              "candidates": 2
-            },
-            "ai-reddit-era": {
-              "max_keep": 3,
-              "kept": 2,
-              "dropped": 0,
-              "candidates": 2
-            },
             "kol:marc_louvion": {
               "max_keep": 10,
               "kept": 2,
               "dropped": 0,
               "candidates": 2
-            },
-            "kol:dannypostmaa": {
-              "max_keep": 10,
-              "kept": 1,
-              "dropped": 0,
-              "candidates": 1
             },
             "ai-levelsio-rss": {
               "max_keep": 2,
@@ -5126,12 +5581,12 @@
               "candidates": 1
             }
           },
-          "decay_count": 40,
+          "decay_count": 39,
           "max_keep_drops": 0,
           "exempt": {
             "rsi": 0,
             "seed": 2,
-            "account": 23
+            "account": 24
           },
           "decay_penalties_sample": [
             {
@@ -5139,17 +5594,7 @@
               "source_id": "kol:tibo_maker",
               "title": "How to make the most of AI",
               "published_at": "2026-09-24T00:00:00.000Z",
-              "age_days": 22,
-              "penalty": 8,
-              "score_before": 68,
-              "score_after": 60
-            },
-            {
-              "id": "ai-post-tibo_maker-e923c54d7a85",
-              "source_id": "kol:tibo_maker",
-              "title": "How to generate world class work with AI",
-              "published_at": "2026-09-17T00:00:00.000Z",
-              "age_days": 29,
+              "age_days": 23,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5159,7 +5604,7 @@
               "source_id": "kol:yongfook",
               "title": "Turn Podcast Episodes into Vertical Social Clips with Bannerbear Workflows (Join",
               "published_at": "2026-09-30T03:02:00.000Z",
-              "age_days": 15,
+              "age_days": 16,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5169,7 +5614,7 @@
               "source_id": "kol:yongfook",
               "title": "How to Automate Branded Shorts in Minutes (Bannerbear Workflows Tutorial)",
               "published_at": "2026-09-29T09:00:00.000Z",
-              "age_days": 16,
+              "age_days": 17,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5179,7 +5624,7 @@
               "source_id": "kol:yongfook",
               "title": "How to Set Up the Bannerbear MCP in ChatGPT (Without Code!)",
               "published_at": "2026-09-25T03:32:00.000Z",
-              "age_days": 20,
+              "age_days": 21,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5189,7 +5634,7 @@
               "source_id": "kol:yongfook",
               "title": "ChatGPT x Bannerbear: How Podcasters Can Do More With Less",
               "published_at": "2026-09-22T09:00:00.000Z",
-              "age_days": 23,
+              "age_days": 24,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5199,7 +5644,7 @@
               "source_id": "kol:yongfook",
               "title": "How to Pivot Your SaaS Company in the Age of AI",
               "published_at": "2026-09-22T00:00:00.000Z",
-              "age_days": 24,
+              "age_days": 25,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5209,7 +5654,7 @@
               "source_id": "kol:nichepursuits",
               "title": "How Jason Zigelbaum Is Running a Nearly $2M ARR SaaS as a Solo Founder",
               "published_at": "2026-09-30T14:02:25.000Z",
-              "age_days": 15,
+              "age_days": 16,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5219,7 +5664,7 @@
               "source_id": "kol:startupsfortherestofus",
               "title": "Episode 853 | How to Become the SaaS That AI Recommends",
               "published_at": "2026-10-06T10:00:45.000Z",
-              "age_days": 9,
+              "age_days": 10,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5229,7 +5674,7 @@
               "source_id": "kol:startupsfortherestofus",
               "title": "Episode 851 | The Messy Middle of a SaaS Pivot",
               "published_at": "2026-09-22T10:00:32.000Z",
-              "age_days": 23,
+              "age_days": 24,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5239,7 +5684,7 @@
               "source_id": "kol:levelsio",
               "title": "I discovered that thousands of bots monitor every new link posted on X",
               "published_at": "2026-10-08T00:00:00.000Z",
-              "age_days": 8,
+              "age_days": 9,
               "penalty": 8,
               "score_before": 60,
               "score_after": 52
@@ -5249,7 +5694,17 @@
               "source_id": "kol:levelsio",
               "title": "Airbnb removes guest reviews whenever a host asks and that will destroy trust",
               "published_at": "2026-10-06T00:00:00.000Z",
-              "age_days": 10,
+              "age_days": 11,
+              "penalty": 8,
+              "score_before": 60,
+              "score_after": 52
+            },
+            {
+              "id": "ai-post-tibo_maker-8e8b64638d37",
+              "source_id": "kol:tibo_maker",
+              "title": "$36,000 of coaching for $0",
+              "published_at": "2026-10-08T00:00:00.000Z",
+              "age_days": 9,
               "penalty": 8,
               "score_before": 60,
               "score_after": 52
@@ -5319,20 +5774,14 @@
               "dropped": 0,
               "candidates": 10
             },
-            "kol:VitalikButerin": {
-              "max_keep": 10,
-              "kept": 1,
-              "dropped": 0,
-              "candidates": 1
-            },
-            "kol:I_Am_The_ICT": {
-              "max_keep": 10,
-              "kept": 1,
-              "dropped": 0,
-              "candidates": 1
-            },
             "invest-reddit-debtfree": {
               "max_keep": 2,
+              "kept": 2,
+              "dropped": 0,
+              "candidates": 2
+            },
+            "kol:VitalikButerin": {
+              "max_keep": 10,
               "kept": 1,
               "dropped": 0,
               "candidates": 1
@@ -5356,12 +5805,12 @@
               "candidates": 1
             }
           },
-          "decay_count": 47,
+          "decay_count": 46,
           "max_keep_drops": 0,
           "exempt": {
             "rsi": 0,
             "seed": 5,
-            "account": 22
+            "account": 23
           },
           "decay_penalties_sample": [
             {
@@ -5369,7 +5818,7 @@
               "source_id": "kol:dollarsanddata",
               "title": "Playing the Wrong Game",
               "published_at": "2026-10-06T11:45:56.000Z",
-              "age_days": 9,
+              "age_days": 10,
               "penalty": 8,
               "score_before": 90,
               "score_after": 82
@@ -5379,7 +5828,7 @@
               "source_id": "kol:ramit",
               "title": "279. “He lost his $150k job, but I make every decision. Can we fix this?”",
               "published_at": "2026-09-22T15:26:42.000Z",
-              "age_days": 23,
+              "age_days": 24,
               "penalty": 8,
               "score_before": 78,
               "score_after": 70
@@ -5389,7 +5838,7 @@
               "source_id": "kol:dollarsanddata",
               "title": "Who Is Really Rich in America? (Hint: Main Street Millionaires)",
               "published_at": "2026-09-29T11:45:37.000Z",
-              "age_days": 16,
+              "age_days": 17,
               "penalty": 8,
               "score_before": 75,
               "score_after": 67
@@ -5399,7 +5848,7 @@
               "source_id": "kol:dollarsanddata",
               "title": "Is Startup Equity a Bad Deal?",
               "published_at": "2026-09-22T11:45:57.000Z",
-              "age_days": 23,
+              "age_days": 24,
               "penalty": 8,
               "score_before": 75,
               "score_after": 67
@@ -5409,7 +5858,7 @@
               "source_id": "kol:PaulaPant",
               "title": "#751: Why Self-Worth Predicts Your Income More Than Your SAT Score Does, with Ma",
               "published_at": "2026-09-18T20:18:34.000Z",
-              "age_days": 27,
+              "age_days": 28,
               "penalty": 8,
               "score_before": 72,
               "score_after": 64
@@ -5419,7 +5868,7 @@
               "source_id": "kol:MebFaber",
               "title": "10 Investing in America Quotes",
               "published_at": "2026-09-01T10:04:00.000Z",
-              "age_days": 44,
+              "age_days": 45,
               "penalty": 20,
               "score_before": 66,
               "score_after": 46
@@ -5429,7 +5878,7 @@
               "source_id": "kol:dollarsanddata",
               "title": "What Was the Best Portfolio Over the Last 50 Years?",
               "published_at": "2026-09-15T11:45:37.000Z",
-              "age_days": 30,
+              "age_days": 31,
               "penalty": 20,
               "score_before": 63,
               "score_after": 43
@@ -5439,7 +5888,7 @@
               "source_id": "kol:dollarsanddata",
               "title": "Which Graduate Degrees Are the Best Investment? (Why I Skipped My MBA)",
               "published_at": "2026-09-01T11:45:54.000Z",
-              "age_days": 44,
+              "age_days": 45,
               "penalty": 20,
               "score_before": 63,
               "score_after": 43
@@ -5449,7 +5898,7 @@
               "source_id": "kol:MebFaber",
               "title": "What If AI Stocks Are Like The….Airlines?!",
               "published_at": "2026-10-08T20:16:16.000Z",
-              "age_days": 7,
+              "age_days": 8,
               "penalty": 8,
               "score_before": 63,
               "score_after": 55
@@ -5459,7 +5908,7 @@
               "source_id": "kol:MebFaber",
               "title": "The Bond Apocalypse",
               "published_at": "2026-10-07T18:57:57.000Z",
-              "age_days": 8,
+              "age_days": 9,
               "penalty": 8,
               "score_before": 63,
               "score_after": 55
@@ -5469,7 +5918,7 @@
               "source_id": "kol:MebFaber",
               "title": "Cheap, Hated, and Breaking Out…",
               "published_at": "2026-10-06T20:14:19.000Z",
-              "age_days": 9,
+              "age_days": 10,
               "penalty": 8,
               "score_before": 63,
               "score_after": 55
@@ -5479,7 +5928,7 @@
               "source_id": "kol:ramit",
               "title": "281. “We have 4 kids and nearly $1M in debt. Are we screwed?”",
               "published_at": "2026-10-06T10:04:04.000Z",
-              "age_days": 9,
+              "age_days": 10,
               "penalty": 8,
               "score_before": 63,
               "score_after": 55
@@ -5490,12 +5939,6 @@
         "growth": {
           "source_keep": {
             "kol:developgoodhabits": {
-              "max_keep": 10,
-              "kept": 10,
-              "dropped": 0,
-              "candidates": 10
-            },
-            "kol:askamanager": {
               "max_keep": 10,
               "kept": 10,
               "dropped": 0,
@@ -5515,15 +5958,21 @@
             },
             "kol:CalNewport": {
               "max_keep": 10,
-              "kept": 4,
+              "kept": 3,
               "dropped": 0,
-              "candidates": 4
+              "candidates": 3
             },
             "kol:ScottHYoung": {
               "max_keep": 10,
               "kept": 6,
               "dropped": 0,
               "candidates": 6
+            },
+            "kol:askamanager": {
+              "max_keep": 10,
+              "kept": 10,
+              "dropped": 0,
+              "candidates": 10
             },
             "kol:PutThisOn": {
               "max_keep": 10,
@@ -5553,21 +6002,11 @@
           },
           "decay_penalties_sample": [
             {
-              "id": "growth-post-CalNewport-8d873722f029",
-              "source_id": "kol:CalNewport",
-              "title": "Are We at War with AI Agent “Civilizations”?",
-              "published_at": "2026-08-31T15:44:59.000Z",
-              "age_days": 45,
-              "penalty": 20,
-              "score_before": 58,
-              "score_after": 38
-            },
-            {
               "id": "growth-post-CalNewport-a37b0826d622",
               "source_id": "kol:CalNewport",
               "title": "It’s Time to Investigate the AI Labs",
               "published_at": "2026-09-28T10:00:00.000Z",
-              "age_days": 17,
+              "age_days": 18,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -5577,7 +6016,17 @@
               "source_id": "kol:bakadesuyo",
               "title": "How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory",
               "published_at": "2026-09-27T16:25:55.000Z",
-              "age_days": 18,
+              "age_days": 19,
+              "penalty": 8,
+              "score_before": 55,
+              "score_after": 47
+            },
+            {
+              "id": "growth-post-artofmanliness-4b5f8815d4f0",
+              "source_id": "kol:artofmanliness",
+              "title": "Odds & Ends: October 9, 2026",
+              "published_at": "2026-10-09T18:45:26.000Z",
+              "age_days": 7,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -5587,7 +6036,7 @@
               "source_id": "kol:artofmanliness",
               "title": "Podcast #1,136: Silence, Solitude, Stillness — The Spiritual Disciplines We Need",
               "published_at": "2026-10-06T16:57:36.000Z",
-              "age_days": 9,
+              "age_days": 10,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -5597,7 +6046,7 @@
               "source_id": "kol:artofmanliness",
               "title": "Field-Tested Advice for Time-Crunched Dads",
               "published_at": "2026-10-05T16:54:32.000Z",
-              "age_days": 10,
+              "age_days": 11,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -5607,7 +6056,7 @@
               "source_id": "kol:artofmanliness",
               "title": "The Best Western Movies Ever Made",
               "published_at": "2026-10-04T15:12:00.000Z",
-              "age_days": 11,
+              "age_days": 12,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -5617,7 +6066,7 @@
               "source_id": "kol:artofmanliness",
               "title": "What Every Man Should Keep in His Glove Box",
               "published_at": "2026-10-01T15:38:01.000Z",
-              "age_days": 14,
+              "age_days": 15,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -5627,7 +6076,7 @@
               "source_id": "kol:ScottHYoung",
               "title": "The Simple Method That Boosts Memory by 50%",
               "published_at": "2026-10-06T21:33:47.000Z",
-              "age_days": 9,
+              "age_days": 10,
               "penalty": 8,
               "score_before": 45,
               "score_after": 37
@@ -5637,7 +6086,7 @@
               "source_id": "kol:ScottHYoung",
               "title": "Reach the Top 1% of Your Field (Deliberate Practice)",
               "published_at": "2026-09-30T16:54:51.000Z",
-              "age_days": 15,
+              "age_days": 16,
               "penalty": 8,
               "score_before": 45,
               "score_after": 37
@@ -5647,7 +6096,7 @@
               "source_id": "kol:ScottHYoung",
               "title": "You Should Care Less About Practical Advice",
               "published_at": "2026-09-21T18:58:23.000Z",
-              "age_days": 24,
+              "age_days": 25,
               "penalty": 8,
               "score_before": 45,
               "score_after": 37
@@ -5657,7 +6106,7 @@
               "source_id": "kol:RyanHoliday",
               "title": "10 Lessons It Took Me 10 Years To Understand",
               "published_at": "2026-10-07T20:16:57.000Z",
-              "age_days": 8,
+              "age_days": 9,
               "penalty": 8,
               "score_before": 45,
               "score_after": 37
@@ -5667,7 +6116,7 @@
               "source_id": "kol:RyanHoliday",
               "title": "Why I Ran A 50K Through Rome Alone (And What It Taught Me)",
               "published_at": "2026-09-29T21:51:02.000Z",
-              "age_days": 16,
+              "age_days": 17,
               "penalty": 8,
               "score_before": 45,
               "score_after": 37

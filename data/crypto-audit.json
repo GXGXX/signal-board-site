@@ -1,327 +1,392 @@
 {
-  "generated_at": "2026-10-16T00:12:57.438Z",
+  "generated_at": "2026-10-17T00:10:32.669Z",
   "sources": {
     "coingecko_global": {
       "url": "https://api.coingecko.com/api/v3/global",
       "status": 200,
-      "ms": 145
+      "ms": 231
     },
     "coingecko_markets": {
       "url": "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&price_change_percentage=24h,7d",
       "status": 200,
-      "ms": 62
+      "ms": 52
     },
     "coingecko_trending": {
       "url": "https://api.coingecko.com/api/v3/search/trending",
       "status": 200,
-      "ms": 18
+      "ms": 24
     },
     "farside_btc": {
       "url": "https://farside.co.uk/btc/",
       "status": 200,
-      "ms": 524
+      "ms": 527
     },
     "farside_eth": {
       "url": "https://farside.co.uk/eth/",
       "status": 200,
-      "ms": 242
+      "ms": 240
     },
     "defillama_stablecoins": {
       "url": "https://stablecoins.llama.fi/stablecoincharts/all",
       "status": 200,
-      "ms": 57
+      "ms": 73
     },
     "defillama_fees": {
       "url": "https://api.llama.fi/overview/fees?excludeTotalDataChart=true&excludeTotalDataChartBreakdown=true&dataType=dailyRevenue",
       "status": 200,
-      "ms": 55
+      "ms": 53
     },
     "coindesk": {
       "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
       "status": 200,
-      "ms": 91,
+      "ms": 139,
       "items": 25
     },
     "theblock": {
       "url": "https://www.theblock.co/rss.xml",
       "status": 200,
-      "ms": 89,
+      "ms": 48,
       "items": 20
     },
     "decrypt": {
       "url": "https://decrypt.co/feed",
       "status": 200,
-      "ms": 95,
-      "items": 36
+      "ms": 49,
+      "items": 57
     },
     "cointelegraph": {
       "url": "https://cointelegraph.com/rss",
       "status": 200,
-      "ms": 41,
+      "ms": 100,
       "items": 30
     },
     "reddit_multi": {
       "url": "https://www.reddit.com/r/CryptoCurrency+Bitcoin+ethereum/top/.rss?t=day&limit=25",
       "status": 200,
-      "ms": 294,
+      "ms": 267,
       "items": 25
     }
   },
   "dropped": [
     {
+      "source": "CoinGecko",
+      "title": "热搜去重 LIT,TIA",
+      "reason": "已在涨跌幅榜，热搜去掉：LIT、TIA"
+    },
+    {
+      "source": "Farside",
+      "title": "BTC 16 Oct 2026",
+      "reason": "当日合计为 0（可能尚未更新）"
+    },
+    {
+      "source": "Farside",
+      "title": "ETH 16 Oct 2026",
+      "reason": "当日合计为 0（可能尚未更新）"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Big Tech's AI auditors will only see what they're shown",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle targets 40 new markets as stablecoin demand grows globally",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
+      "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+      "reason": "no_concrete_number"
+    },
+    {
       "source": "CoinDesk",
       "title": "At the White House, crypto policy vacancy looms large",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
-      "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
-      "reason": "标题与价格/资金/监管/安全无关"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "The Block",
+      "title": "Coinbase to power stablecoin-backed cards for Marqeta customers",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "The Block",
+      "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
       "reason": "标题与价格/资金/监管/安全无关"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+      "source": "The Block",
+      "title": "How Ethereum Works",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "The Block",
+      "title": "OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "The Block",
+      "title": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "The Block",
+      "title": "Google demonstrates quantum computing breakthrough as observers weigh Q-day implications",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "The Block",
+      "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
       "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Here's how analysts see U.S. inflation influencing bitcoin",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
-      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "The Block",
       "title": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "The Block",
       "title": "Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "The Block",
       "title": "CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "The Block",
+      "title": "Multiliquid, a settlement platform for tokenized assets, raises $8 million",
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "The Block",
+      "title": "DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "The Block",
       "title": "Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "The Block",
       "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "The Block",
       "title": "Bitwise CIO argues bitcoin will benefit whether AI booms or busts",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "The Block",
       "title": "Helius CEO Mert Mumtaz joins NEAR Foundation Council",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "The Block",
       "title": "Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "The Block",
       "title": "EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token",
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have",
       "reason": "no_concrete_number"
     },
     {
-      "source": "The Block",
-      "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
-      "reason": "超过 24h，不是今天的新信息"
+      "source": "Decrypt",
+      "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
+      "reason": "no_concrete_number"
     },
     {
-      "source": "The Block",
-      "title": "Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month",
-      "reason": "超过 24h，不是今天的新信息"
+      "source": "Decrypt",
+      "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
+      "reason": "no_concrete_number"
     },
     {
-      "source": "The Block",
-      "title": "‘You’re committing crime in broad daylight’: Kalshi CEO defends prediction markets amid insider trading concerns",
-      "reason": "超过 24h，不是今天的新信息"
+      "source": "Decrypt",
+      "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
+      "reason": "no_concrete_number"
     },
     {
-      "source": "The Block",
-      "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
-      "reason": "超过 24h，不是今天的新信息"
+      "source": "Decrypt",
+      "title": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
+      "reason": "no_concrete_number"
     },
     {
-      "source": "The Block",
-      "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
-      "reason": "超过 24h，不是今天的新信息"
+      "source": "Decrypt",
+      "title": "Bitcoin Bounces, But Where Does It Go Next? Here’s What the Charts Say",
+      "reason": "no_concrete_number"
     },
     {
-      "source": "The Block",
-      "title": "Standard Chartered pushes $2 trillion stablecoin market forecast to 2030 as supply growth stalls",
-      "reason": "超过 24h，不是今天的新信息"
+      "source": "Decrypt",
+      "title": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
+      "reason": "no_concrete_number"
     },
     {
-      "source": "The Block",
-      "title": "StarkWare launches OffMarket to let Polymarket users trade more privately",
-      "reason": "超过 24h，不是今天的新信息"
+      "source": "Decrypt",
+      "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
+      "reason": "no_concrete_number"
     },
     {
-      "source": "The Block",
-      "title": "Strive buys $235 million in bitcoin as warrant exercises yield $369 million",
-      "reason": "超过 24h，不是今天的新信息"
+      "source": "Decrypt",
+      "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
+      "reason": "no_concrete_number"
     },
     {
       "source": "Decrypt",
       "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "BlackRock’s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Google Says AI Isn't Building Itself Yet—Even Though It Writes 75% of the Code",
-      "reason": "标题与价格/资金/监管/安全无关"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
-      "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Ledger Announces Atom Touchscreen Android Device",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Morning Minute: Solana Is About To Get Faster",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
@@ -375,73 +440,103 @@
     },
     {
       "source": "Decrypt",
-      "title": "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad",
+      "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Morning Minute: Move Over, Saylor, There’s a New Top Buyer in Town",
+      "title": "From Stellar to Canton: How Franklin Templeton Adopted Tokenization",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push",
+      "title": "Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "BitMEX Sued in UK for Return of $27M in Bitcoin Over Unlicensed Derivatives",
+      "title": "Trump’s speech at Davos gives small boost to Crypto! Saylor buys $2.13B BTC! Blondish Interview!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
+      "title": "Trump Tariffs 3: Return of the Bull Market! NYSE Tokenising, what that means for $Hype! Claude Meme Meta!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
+      "title": "Crypto sells off amidst Trump Tariff Turmoil! $Trove falls 90% in awful TGE! Pump Fund announced!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
+      "title": "Massive Coinbase News! Bitcoin Rips to $96,750! Football.Fun TGE Interview with Founder!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
+      "title": "Are we back? Crypto is Green! Solana Intern goes rogue! Pump up 13%! Monero hits another ATH!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
+      "title": "Pump & Memes HEATING up! XMR vs ZEC! How important are these rate cuts? - Under Exposed",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
+      "title": "PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
+      "title": "A16z raise $15B! Jerome Powell vs Trump! Crypto remains flat! Special Guest: Dudas!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
+      "title": "ZEC Rebounds 11%! Trump says he won’t pardon Sam Bankman-Fried! Florida revisits it’s Strategic Bitcoin Reserve!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
-      "reason": "no_concrete_number"
+      "source": "Decrypt",
+      "title": "The ZCash situation explained! Interview with ZEC bull Mert! BTC below $90K! ZEC falls 19%!",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-      "reason": "标题与价格/资金/监管/安全无关"
+      "source": "Decrypt",
+      "title": "First 2026 Dip! BTC at 92K! Morgan Stanley file for BTC, ETH & SOL ETFs! Hyperliquid Airdrop Speculation!",
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto starts 2026 STRONG! Venezuela Impacts on the market! Lighter TGE reactions!",
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Global Crypto MCap up to $3.22 Trillion! XRP up 12%! Japan Endorse Crypto! Fear & Greed back to Neutral!",
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto is Green! Up 6-9%! Memes outperform! Pepe up 67%! Infinex Founder Interview!",
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Wallets Can ‘Directly Compete With Neobanks'",
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Decrypt",
+      "title": "2026 Crypto Predictions! Tom Lee still buying ETH! Rekt tease WorldStar collab!",
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Decrypt",
+      "title": "The White Whale up 10x in a week! Lighter TGE! Saylor buys $109M BTC!",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
@@ -450,202 +545,237 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+      "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
+      "reason": "标题与价格/资金/监管/安全无关"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
+      "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
       "reason": "no_concrete_number"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy conditionally declares daily dividends as STRC hovers below $100",
+      "reason": "标题与价格/资金/监管/安全无关"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ledger’s early implant warnings deserved more action, Karpelès says",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Solana’s Liu says Shanghai event postponed over registration surge",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Balaji’s ‘Singapore of social media’ begins with a wave of bans",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MSCI adopts index exclusion rules that could oust Strategy",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
       "title": "Sweden revisits digital krona as ECB advances digital euro plans",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
       "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin slips under $80K after US PPI gains most in four years",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
       "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
       "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
-      "reason": "标题与价格/资金/监管/安全无关"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
       "title": "Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
       "title": "HEX token sellers erase $160M following reports of founder Richard Schueler arrest",
-      "reason": "标题与价格/资金/监管/安全无关"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
       "title": "Ledger’s answer to wallet tampering costs $849 and ships next year",
-      "reason": "标题与价格/资金/监管/安全无关"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
       "title": "White House crypto council chief Patrick Witt steps down",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
       "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Thailand crypto ETFs may see slow start despite new rules: CoinShares",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Polygon gains US payments licenses after closing Coinme deal",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US authorities dismantle crypto scam network that stole tens of millions",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "OCC report finds debanking efforts tied to crypto activities",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "Satoshi Nakamoto statue unveiled in Vienna yesterday",
+      "title": "UPDATE: Binance shuts down my account + seizes $11750. Yes they literally steal it. At the same time CZ publishes a book called “Freedom of ",
       "reason": "标题与价格/资金/监管/安全无关"
     },
     {
       "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "Russia Will Ban Peer-to-Peer Cryptocurrency Transactions Between Citizens",
+      "title": "Save in Bitcoin",
       "reason": "no_concrete_number"
     },
     {
       "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "I just got completly liquidated",
+      "title": "Bears VS Bitcoin since months ago",
       "reason": "no_concrete_number"
     },
     {
       "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "Public bitcoin miners spent about $75,500 to mine each BTC in Q2, while BTC ended June at $58,400",
+      "title": "A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
+      "title": "Don’t leverage, buy Bitcoin and hodl",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
+      "title": "Call me crazy but...",
+      "reason": "标题与价格/资金/监管/安全无关"
+    },
+    {
+      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
+      "title": "The Bitcoin Standard book in 5 minutes",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
+      "title": "Daily General Discussion October 16, 2026",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
+      "title": "Jack explains how the bond market will send bitcoin to new highs before AI Agents use it as money:",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
+      "title": "Deutsche Bank to Launch Bitcoin and Shitcoin Custody Within Weeks",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
+      "title": "Quantum Alliance forms to defend 6.4 million vulnerable bitcoin against future threats",
       "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
     },
     {
       "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "did anyone else purchase bitcoin from a man under a tree in the game second life circa 2012",
+      "title": "What do you buy with your Bitcoin?",
       "reason": "no_concrete_number"
     },
     {
       "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "Vitalik Says Ethereum's ZK Speed Race Is Won and Priority Shift Fully to Security",
-      "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
-    },
-    {
-      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "Time to buy Bitcoin now-\"Buy when everyone is fearful\"",
+      "title": "Random tokens keep showing up in my wallet",
       "reason": "no_concrete_number"
     },
     {
       "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "Daily General Discussion October 15, 2026",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "Anyone here regularly spend BTC on coffee? Square, Strike and Cash App make it a QR scan now",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "Where do governments keep their bitcoin?",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "One in four bitcoin is quantum exposed because of address reuse. Learn why that's a problem, and how to fix (most) of it without rushing.",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "AI agents are on a shopping spree: Total transactions on Base blockchain eclipse 138 million, Chainalysis finds",
+      "title": "Jurrien Timmer, Director of Global Macro at Fidelity Investments is Buying",
       "reason": "标题与价格/资金/监管/安全无关"
     },
     {
       "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "Daily Discussion, October 15, 2026",
+      "title": "A Crypto Scam in Brooklyn Hit Its Victims Twice. Seized Server Data Shows How",
       "reason": "no_concrete_number"
     },
     {
       "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "Bitget is letting users transfer existing US stocks and ETFs directly into crypto rTokens without selling first... Will This Bring more Liqu",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "⚡ Lightning Thursday! October 15, 2026: Explore the Lightning Network!⚡",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "DCA strategy",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "Does private tokenization fragment RWA liquidity?",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "Octant Epoch 13: Privacy Round. Help support your favorite projects.",
+      "title": "Weekly Investment",
       "reason": "标题与价格/资金/监管/安全无关"
     },
     {
       "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "How I got my first bitcoins without any KYC/AML",
+      "title": "Daily Discussion, October 16, 2026",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
+      "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
+      "reason": "标题与价格/资金/监管/安全无关"
+    },
+    {
+      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
+      "title": "LayerTree: a non-custodial scaling solution on bitcoin that connects to Lightning. A single UTXO can hold the balance of millions of users a",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
+      "title": "Just a reminder to make sure your grandma knows this is not real.",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
+      "title": "2 years of DCAing and my holding still under the water, with no gain",
       "reason": "no_concrete_number"
     },
     {
@@ -655,157 +785,135 @@
     },
     {
       "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "Why Building Wealth With Real Estate Is DEAD (And What Replaces It)",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "Notes on Thiel's Antichrist Lecture Night 3: Turnkey Enclosure, State Capture, and the Dual-Use Paradox",
+      "title": "Eclair DoS, LN-GAP - Bitcoin Optech Newsletter #427",
       "reason": "no_concrete_number"
     },
     {
       "source": "Decrypt",
-      "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
-      "reason": "与「Nearly $1 billion in crypto bets liquidated as bitcoin, ethe」重复"
+      "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
+      "reason": "与「Scammer gets scammed in Ledger spy-chip exploit, loses almos」重复"
     },
     {
       "source": "Cointelegraph",
-      "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
-      "reason": "单源上限 2"
+      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
+      "reason": "与「US federal judge denies joint Gemini-CFTC bid to undo $5 mil」重复"
     },
     {
-      "source": "The Block",
-      "title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
-      "reason": "与「Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot In」重复"
+      "source": "CoinDesk",
+      "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
+      "reason": "与「US federal judge denies joint Gemini-CFTC bid to undo $5 mil」重复"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April",
+      "source": "Decrypt",
+      "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
+      "reason": "与「US federal judge denies joint Gemini-CFTC bid to undo $5 mil」重复"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
       "reason": "单源上限 2"
     },
     {
       "source": "CoinDesk",
-      "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
+      "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
       "reason": "单源上限 2"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin slips under $80K after US PPI gains most in four years",
+      "source": "CoinDesk",
+      "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
       "reason": "单源上限 2"
     },
     {
       "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "$869m long position liquidated in the last 24 hours",
+      "title": "The Silent Mutiny Against the Dollar: Why 61% of Americans Are Ready for Bitcoin (And Why We Are Explaining It All Wrong).",
       "reason": "单源上限 1"
     },
     {
-      "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
-      "reason": "与「Nearly $1 billion in crypto bets liquidated as bitcoin, ethe」重复"
-    },
-    {
       "source": "Cointelegraph",
-      "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
-      "reason": "单源上限 2"
-    },
-    {
-      "source": "The Block",
-      "title": "DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings",
-      "reason": "新闻总上限 5（按证据数量/时间排序后靠后）"
-    },
-    {
-      "source": "The Block",
-      "title": "Multiliquid, a settlement platform for tokenized assets, raises $8 million",
+      "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
       "reason": "新闻总上限 5（按证据数量/时间排序后靠后）"
     },
     {
       "source": "Reddit r/CryptoCurrency+Bitcoin+ethereum（日榜）",
-      "title": "UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling",
+      "title": "Bitcoin ETFs Lost $65 Million In A Day. One BlackRock Fund Accounted For Every Dollar.",
+      "reason": "新闻总上限 5（按证据数量/时间排序后靠后）"
+    },
+    {
+      "source": "Decrypt",
+      "title": "GTA 6 Trailer Features Meme Coin—And Solana Copycat Soars 2,900%",
       "reason": "新闻总上限 5（按证据数量/时间排序后靠后）"
     }
   ],
   "kept": [
     {
-      "id": "crypto-market-2026-10-16",
-      "title": "大盘 · BTC $82,269（24h +0.68%）· ETH $2,443（+0.81%）",
+      "id": "crypto-market-2026-10-17",
+      "title": "大盘 · BTC $81,520（24h -0.93%）· ETH $2,420（-0.98%）",
       "source": "CoinGecko 公开 API（/global + /coins/markets）",
-      "use": "今日币圈整体横盘；总市值 $2.78T（24h +0.58%），BTC 占比 59.4%，先看大盘再看单币异动"
+      "use": "今日币圈整体横盘；总市值 $2.76T（24h -0.85%），BTC 占比 59.3%，先看大盘再看单币异动"
     },
     {
-      "id": "crypto-etf-btc-15Oct2026",
-      "title": "BTC 现货 ETF · 15 Oct 2026 净流出 $7.6M",
-      "source": "Farside Investors 公开 BTC ETF 日流表（单位：百万美元）",
-      "use": "机构资金方向：已连续 2 个交易日净流出，近5日合计 −$137.6M"
-    },
-    {
-      "id": "crypto-etf-eth-15Oct2026",
-      "title": "ETH 现货 ETF · 15 Oct 2026 净流出 $18.3M",
-      "source": "Farside Investors 公开 ETH ETF 日流表（单位：百万美元）",
-      "use": "机构资金方向：已连续 2 个交易日净流出，近5日合计 −$264.5M"
-    },
-    {
-      "id": "crypto-movers-涨-2026-10-16",
-      "title": "前100市值涨幅榜 · AKE +18.94% / INJ +11.87% / ZRO +10.69%（24h）",
+      "id": "crypto-movers-涨-2026-10-17",
+      "title": "前100市值涨幅榜 · TIA +17.01% / LIT +5.04% / BTW +3.27%（24h）",
       "source": "CoinGecko 公开 API（/coins/markets 前100）",
       "use": "大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐"
     },
     {
-      "id": "crypto-movers-跌-2026-10-16",
-      "title": "前100市值跌幅榜 · BTW -23.41% / CC -8.84% / JST -7.32%（24h）",
+      "id": "crypto-movers-跌-2026-10-17",
+      "title": "前100市值跌幅榜 · STX -9.74% / VVV -8.11% / PYTH -7.61%（24h）",
       "source": "CoinGecko 公开 API（/coins/markets 前100）",
       "use": "大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接"
     },
     {
-      "id": "crypto-trending-2026-10-16",
-      "title": "CoinGecko 热搜 · IGNITION +64.42% / STREAM +0.00% / SUI +1.34% / QTC -3.56%",
+      "id": "crypto-trending-2026-10-17",
+      "title": "CoinGecko 热搜 · DACITY +51.04% / PENGU -0.27% / QTC +4.79% / INJ +2.10%",
       "source": "CoinGecko 公开 API（/search/trending）",
-      "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 SUI"
+      "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PENGU、INJ"
     },
     {
-      "id": "crypto-stables-2026-10-15",
-      "title": "稳定币总量 $305.52B · 7日 -0.59% · 30日 +0.60%",
+      "id": "crypto-stables-2026-10-16",
+      "title": "稳定币总量 $305.20B · 7日 -0.45% · 30日 +0.75%",
       "source": "DefiLlama 公开 API（stablecoincharts/all）",
       "use": "稳定币在收缩：场内资金流出，反弹持续性要打折扣"
     },
     {
-      "id": "crypto-revenue-2026-10-16",
-      "title": "协议收入异动 · Collector Crypt $971,122/日（较7日前 +62.78%） / Polymarket International $576,067/日（较7日前 +97.77%）",
+      "id": "crypto-revenue-2026-10-17",
+      "title": "协议收入异动 · Hyperliquid Perps $3.4M/日（较7日前 +40.74%） / Collector Crypt $1.1M/日（较7日前 +123.75%）",
       "source": "DefiLlama 公开 API（overview/fees, dailyRevenue）",
       "use": "真实使用量变化：收入暴增的协议/链通常是当下资金和话题在的地方，收入下滑说明热度退潮"
     },
     {
-      "id": "crypto-news-RuZXJfaW5ib3VuZA",
-      "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
-      "source": "Cointelegraph",
-      "use": "安全事件：涉事协议/代币短线有抛压，相关仓位先查是否受影响"
+      "id": "crypto-news-bi1pbi1iaXRjb2lu",
+      "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+      "source": "CoinDesk",
+      "use": "钱包安全事件：自查硬件钱包购买渠道（非官方渠道风险高），不涉及价格判断"
     },
     {
-      "id": "crypto-news-dG5lcl9pbmJvdW5k",
-      "title": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
-      "source": "Cointelegraph",
-      "use": "机构资金流向：ETF 资金方向会影响 BTC/ETH 短线承接力"
+      "id": "crypto-news-jb3dlbi00MTg4Mzk",
+      "title": "Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen",
+      "source": "The Block",
+      "use": "真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考"
     },
     {
-      "id": "crypto-news-FpbnR5LXdlaWdocw",
-      "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+      "id": "crypto-news-jLWJpZC00MTg3NzU",
+      "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
+      "source": "The Block",
+      "use": "监管进展：影响机构入场预期和相关代币情绪"
+    },
+    {
+      "id": "crypto-news-0LXJhdGUtcGxhbnM",
+      "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
       "source": "CoinDesk",
       "use": "宏观联动：利率/美元变化正在传导到币价"
     },
     {
-      "id": "crypto-news-bmQteHJwLXNsaWRl",
-      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-      "source": "CoinDesk",
-      "use": "清算数据：说明杠杆刚被洗过一轮，短线波动放大，别在这时候追"
-    },
-    {
-      "id": "crypto-news-ZmxhdGlvbi1kYXRh",
-      "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
-      "source": "Decrypt",
+      "id": "crypto-news-0bmVyX2luYm91bmQ",
+      "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
+      "source": "Cointelegraph",
       "use": "宏观联动：利率/美元变化正在传导到币价"
     }
   ],
   "notes": [
-    "global 24h 市值变化 -2.05% 与前100加权 0.58% 不符，改用前100加权"
+    "global 24h 市值变化 -3.50% 与前100加权 -0.85% 不符，改用前100加权"
   ],
   "x": {
     "skipped": true,

@@ -1,7 +1,7 @@
 {
   "partition": "jobs",
-  "generated_at": "2026-10-16T00:13:00.329Z",
-  "next_update_at": "2026-10-16T01:00:00.000Z",
+  "generated_at": "2026-10-17T00:13:15.692Z",
+  "next_update_at": "2026-10-17T01:00:00.000Z",
   "cap": 40,
   "cards": [
     {
@@ -339,7 +339,7 @@
       "summary": "数值策划（MMO）（网易游戏（互娱）） @ 网易游戏招聘 · 广州市",
       "source": "网易游戏招聘",
       "source_url": "https://hr.163.com/job-detail.html?id=76799",
-      "published_at": "2026-10-16T12:00:00+08:00",
+      "published_at": "2026-10-17T12:00:00+08:00",
       "tags": [
         "数值策划",
         "mmo",
@@ -361,7 +361,7 @@
         "persona_transferable"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-16",
+      "posted_at": "2026-10-17",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -404,7 +404,7 @@
       "summary": "数值策划（梦幻端游畅玩服-经济系统）（网易游戏（互娱）） @ 网易游戏招聘 · 广州市",
       "source": "网易游戏招聘",
       "source_url": "https://hr.163.com/job-detail.html?id=76718",
-      "published_at": "2026-10-16T12:00:00+08:00",
+      "published_at": "2026-10-17T12:00:00+08:00",
       "tags": [
         "数值策划",
         "经济系统"
@@ -424,7 +424,7 @@
         "经济系统"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-16",
+      "posted_at": "2026-10-17",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -468,7 +468,7 @@
       "summary": "资深数值策划（大话西游归来）（网易游戏（互娱）） @ 网易游戏招聘 · 广州市",
       "source": "网易游戏招聘",
       "source_url": "https://hr.163.com/job-detail.html?id=74907",
-      "published_at": "2026-10-16T12:00:00+08:00",
+      "published_at": "2026-10-17T12:00:00+08:00",
       "tags": [
         "数值策划",
         "资深数值策划"
@@ -488,7 +488,7 @@
         "资深数值策划"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-16",
+      "posted_at": "2026-10-17",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -531,7 +531,7 @@
       "summary": "资深数值策划（代号：修仙）（网易游戏（互娱）） @ 网易游戏招聘 · 广州市",
       "source": "网易游戏招聘",
       "source_url": "https://hr.163.com/job-detail.html?id=77428",
-      "published_at": "2026-10-16T12:00:00+08:00",
+      "published_at": "2026-10-17T12:00:00+08:00",
       "tags": [
         "数值策划",
         "资深数值策划"
@@ -551,7 +551,7 @@
         "资深数值策划"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-16",
+      "posted_at": "2026-10-17",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -594,7 +594,7 @@
       "summary": "资深数值策划（决战平安京）（网易游戏（互娱）） @ 网易游戏招聘 · 广州市",
       "source": "网易游戏招聘",
       "source_url": "https://hr.163.com/job-detail.html?id=75477",
-      "published_at": "2026-10-16T12:00:00+08:00",
+      "published_at": "2026-10-17T12:00:00+08:00",
       "tags": [
         "数值策划",
         "资深数值策划"
@@ -614,7 +614,7 @@
         "资深数值策划"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-16",
+      "posted_at": "2026-10-17",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -649,6 +649,70 @@
       }
     },
     {
+      "id": "jobs-stid=2110920887430725632",
+      "partition": "jobs",
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "《逆战：未来》-数值策划",
+      "summary": "《逆战：未来》-数值策划 @ 腾讯招聘 · Shenzhen",
+      "source": "腾讯招聘",
+      "source_url": "https://careers.tencent.com/jobdesc.html?postId=2110920887430725632",
+      "published_at": "2026-10-17T12:00:00+08:00",
+      "tags": [
+        "数值策划",
+        "战斗数值"
+      ],
+      "score": 58,
+      "why": "数值/经济向 · Shenzhen · 分86",
+      "deep_link": "https://careers.tencent.com/jobdesc.html?postId=2110920887430725632",
+      "extra": {},
+      "blurb": "《逆战：未来》-数值策划 @ 腾讯招聘 · Shenzhen",
+      "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、战斗数值",
+      "url": "https://careers.tencent.com/jobdesc.html?postId=2110920887430725632",
+      "name": "《逆战：未来》-数值策划",
+      "company": "腾讯招聘",
+      "location": "Shenzhen",
+      "keywords": [
+        "数值策划",
+        "战斗数值"
+      ],
+      "geo_uncertain": false,
+      "posted_at": "2026-10-17",
+      "evidence_missing": false,
+      "_origin": "collected",
+      "_source_id": null,
+      "title_orig": "《逆战：未来》-数值策划",
+      "source_excerpt": "数值/经济向 · Shenzhen · 分86",
+      "_score_raw": 86,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_mega_penalty": 28,
+      "summary_zh": "《逆战：未来》-数值策划 @ 腾讯招聘 · Shenzhen",
+      "highlights": [
+        "公司：腾讯招聘",
+        "地点：Shenzhen",
+        "关键词：数值策划 · 战斗数值"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "save",
+        "use": "数值+战斗岗，对口你的战斗公式/养成数值、战斗公式；深圳，大厂",
+        "lines": {
+          "fit": "数值+战斗方向，对口你做过的战斗公式/养成数值、战斗公式",
+          "company": "大厂（你的偏好里排在中小厂之后）",
+          "location": "深圳（在你的目标范围内）",
+          "action": "可投但非优先：先投中小厂，再顺手投这个"
+        },
+        "evidence": [
+          "数值",
+          "战斗"
+        ],
+        "point": "顺手投：腾讯 《逆战：未来》-数值策划，对口你的战斗公式经验",
+        "title": "腾讯 · 《逆战：未来》-数值策划",
+        "verdict_label": "收藏"
+      }
+    },
+    {
       "id": "jobs-stid=2008786057281298432",
       "partition": "jobs",
       "type": "job",
@@ -657,7 +721,7 @@
       "summary": "《三角洲行动》-数值策划 @ 腾讯招聘 · Shenzhen",
       "source": "腾讯招聘",
       "source_url": "https://careers.tencent.com/jobdesc.html?postId=2008786057281298432",
-      "published_at": "2026-10-16T12:00:00+08:00",
+      "published_at": "2026-10-17T12:00:00+08:00",
       "tags": [
         "数值策划",
         "经济投放",
@@ -679,7 +743,7 @@
         "persona_transferable"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-16",
+      "posted_at": "2026-10-17",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -723,7 +787,7 @@
       "summary": "Supercell游戏《皇室战争》-数值策划 @ 腾讯招聘 · Shenzhen",
       "source": "腾讯招聘",
       "source_url": "https://careers.tencent.com/jobdesc.html?postId=2067513214815612928",
-      "published_at": "2026-10-16T12:00:00+08:00",
+      "published_at": "2026-10-17T12:00:00+08:00",
       "tags": [
         "数值策划",
         "经济系统",
@@ -747,7 +811,7 @@
         "数值平衡"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-16",
+      "posted_at": "2026-10-17",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -791,7 +855,7 @@
       "summary": "《怪物猎人：旅人》-资深数值策划 @ 腾讯招聘 · Shenzhen",
       "source": "腾讯招聘",
       "source_url": "https://careers.tencent.com/jobdesc.html?postId=2062715174758039552",
-      "published_at": "2026-10-16T12:00:00+08:00",
+      "published_at": "2026-10-17T12:00:00+08:00",
       "tags": [
         "数值策划",
         "数值设计",
@@ -815,7 +879,7 @@
         "资深数值策划"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-16",
+      "posted_at": "2026-10-17",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -859,7 +923,7 @@
       "summary": "supercell游戏《部落冲突》-资深数值策划 @ 腾讯招聘 · Shenzhen",
       "source": "腾讯招聘",
       "source_url": "https://careers.tencent.com/jobdesc.html?postId=2087091672277233664",
-      "published_at": "2026-10-16T12:00:00+08:00",
+      "published_at": "2026-10-17T12:00:00+08:00",
       "tags": [
         "数值策划",
         "战斗数值",
@@ -887,7 +951,7 @@
         "养成数值"
       ],
       "geo_uncertain": false,
-      "posted_at": "2026-10-16",
+      "posted_at": "2026-10-17",
       "evidence_missing": false,
       "_origin": "collected",
       "_source_id": null,
@@ -920,79 +984,6 @@
         ],
         "point": "顺手投：腾讯 supercell游戏《部落冲突》-资深数值策划，对口你的战斗公式经验",
         "title": "腾讯 · supercell游戏《部落冲突》-资深数值策划",
-        "verdict_label": "收藏"
-      }
-    },
-    {
-      "id": "jobs-stid=2077588768235368448",
-      "partition": "jobs",
-      "type": "job",
-      "category": "游戏招聘",
-      "title": "UE微恐轻动作项目-资深数值策划",
-      "summary": "UE微恐轻动作项目-资深数值策划 @ 腾讯招聘 · Shenzhen",
-      "source": "腾讯招聘",
-      "source_url": "https://careers.tencent.com/jobdesc.html?postId=2077588768235368448",
-      "published_at": "2026-10-16T12:00:00+08:00",
-      "tags": [
-        "数值策划",
-        "游戏数值",
-        "数值设计",
-        "经济系统",
-        "资深数值策划",
-        "养成"
-      ],
-      "score": 58,
-      "why": "数值/经济向 · Shenzhen · 分86",
-      "deep_link": "https://careers.tencent.com/jobdesc.html?postId=2077588768235368448",
-      "extra": {},
-      "blurb": "UE微恐轻动作项目-资深数值策划 @ 腾讯招聘 · Shenzhen",
-      "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、游戏数值、数值设计",
-      "url": "https://careers.tencent.com/jobdesc.html?postId=2077588768235368448",
-      "name": "UE微恐轻动作项目-资深数值策划",
-      "company": "腾讯招聘",
-      "location": "Shenzhen",
-      "keywords": [
-        "数值策划",
-        "游戏数值",
-        "数值设计",
-        "经济系统",
-        "资深数值策划",
-        "养成"
-      ],
-      "geo_uncertain": false,
-      "posted_at": "2026-10-16",
-      "evidence_missing": false,
-      "_origin": "collected",
-      "_source_id": null,
-      "title_orig": "UE微恐轻动作项目-资深数值策划",
-      "source_excerpt": "数值/经济向 · Shenzhen · 分86",
-      "_score_raw": 86,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "_mega_penalty": 28,
-      "summary_zh": "UE微恐轻动作项目-资深数值策划 @ 腾讯招聘 · Shenzhen",
-      "highlights": [
-        "公司：腾讯招聘",
-        "地点：Shenzhen",
-        "关键词：数值策划 · 游戏数值 · 数值设计"
-      ],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "save",
-        "use": "经济+数值+成长岗，对口你的经济投放/商店定价、战斗公式/养成数值；深圳，大厂",
-        "lines": {
-          "fit": "经济+数值+成长方向，对口你做过的经济投放/商店定价、战斗公式/养成数值",
-          "company": "大厂（你的偏好里排在中小厂之后）",
-          "location": "深圳（在你的目标范围内）",
-          "action": "可投但非优先：先投中小厂，再顺手投这个"
-        },
-        "evidence": [
-          "经济",
-          "数值",
-          "养成"
-        ],
-        "point": "顺手投：腾讯 UE微恐轻动作项目-资深数值策划，对口你的经济投放经验",
-        "title": "腾讯 · UE微恐轻动作项目-资深数值策划",
         "verdict_label": "收藏"
       }
     },

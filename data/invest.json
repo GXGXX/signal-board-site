@@ -1,20 +1,20 @@
 {
   "partition": "invest",
-  "generated_at": "2026-10-16T00:13:00.329Z",
-  "next_update_at": "2026-10-16T01:00:00.000Z",
+  "generated_at": "2026-10-17T00:13:15.692Z",
+  "next_update_at": "2026-10-17T01:00:00.000Z",
   "cap": 30,
   "cards": [
     {
-      "id": "crypto-market-2026-10-16",
+      "id": "crypto-market-2026-10-17",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "大盘 · BTC $82,269（24h +0.68%）· ETH $2,443（+0.81%）",
-      "title_orig": "大盘 · BTC $82,269（24h +0.68%）· ETH $2,443（+0.81%）",
+      "title": "大盘 · BTC $81,520（24h -0.93%）· ETH $2,420（-0.98%）",
+      "title_orig": "大盘 · BTC $81,520（24h -0.93%）· ETH $2,420（-0.98%）",
       "source": "CoinGecko 公开 API（/global + /coins/markets）",
       "source_url": "https://www.coingecko.com/",
       "url": "https://www.coingecko.com/",
-      "published_at": "2026-10-16T00:11:54.000Z",
+      "published_at": "2026-10-17T00:08:52.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -31,121 +31,31 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "今日币圈整体横盘；总市值 $2.78T（24h +0.58%），BTC 占比 59.4%，先看大盘再看单币异动",
-        "title": "大盘 · BTC $82,269（24h +0.68%）· ETH $2,443（+0.81%）",
+        "use": "今日币圈整体横盘；总市值 $2.76T（24h -0.85%），BTC 占比 59.3%，先看大盘再看单币异动",
+        "title": "大盘 · BTC $81,520（24h -0.93%）· ETH $2,420（-0.98%）",
         "lines": {
-          "value": "BTC 7d +0.38%；ETH 7d -1.39%",
+          "value": "BTC 7d -1.24%；ETH 7d -2.67%",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "bitcoin current_price: 82269, price_change_percentage_24h: 0.68",
-          "ethereum current_price: 2442.77, price_change_percentage_24h: 0.81",
-          "total_market_cap.usd: 2783874098282, market_cap_percentage.btc: 59.4 (24h 变化取前100币 market_cap_change_percentage_24h 按市值加权 = 0.58)"
+          "bitcoin current_price: 81520, price_change_percentage_24h: -0.93",
+          "ethereum current_price: 2420.09, price_change_percentage_24h: -0.98",
+          "total_market_cap.usd: 2756623849162, market_cap_percentage.btc: 59.3 (24h 变化取前100币 market_cap_change_percentage_24h 按市值加权 = -0.85)"
         ],
-        "point": "币圈：今日币圈整体横盘；总市值 $2.78T（24h +0.58%），BTC 占比 59.4%，先看大盘再看单币异动"
+        "point": "币圈：今日币圈整体横盘；总市值 $2.76T（24h -0.85%），BTC 占比 59.3%，先看大盘再看单币异动"
       }
     },
     {
-      "id": "crypto-etf-btc-15Oct2026",
+      "id": "crypto-movers-涨-2026-10-17",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "BTC 现货 ETF · 15 Oct 2026 净流出 $7.6M",
-      "title_orig": "BTC 现货 ETF · 15 Oct 2026 净流出 $7.6M",
-      "source": "Farside Investors 公开 BTC ETF 日流表（单位：百万美元）",
-      "source_url": "https://farside.co.uk/btc/",
-      "url": "https://farside.co.uk/btc/",
-      "published_at": "2026-10-15T23:59:00.000Z",
-      "tags": [
-        "加密",
-        "高风险",
-        "ETF流向"
-      ],
-      "score": 92,
-      "risk": "high",
-      "lang": "zh",
-      "_origin": "crypto",
-      "_crypto_kind": "ETF流向",
-      "extra": {
-        "disclaimer": "非投资建议；加密高风险",
-        "numbers": {
-          "total_net_flow_m_usd": -7.6,
-          "as_of": "15 Oct 2026",
-          "streak_days": 2,
-          "sum_5d_m_usd": -137.6
-        }
-      },
-      "reader": {
-        "verdict": "worth",
-        "verdict_label": "币圈观察",
-        "use": "机构资金方向：已连续 2 个交易日净流出，近5日合计 −$137.6M",
-        "title": "BTC 现货 ETF · 15 Oct 2026 净流出 $7.6M",
-        "lines": {
-          "value": "前5日合计（百万美元）：-244.1 / 21.1 / -65.4 / 175.7 / -261.4",
-          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
-        },
-        "evidence": [
-          "15 Oct 2026 - - 0.0 0.0 - 0.0 0.0 - - 0.0 0.0 (7.6) (7.6)"
-        ],
-        "point": "币圈：机构资金方向：已连续 2 个交易日净流出，近5日合计 −$137.6M"
-      }
-    },
-    {
-      "id": "crypto-etf-eth-15Oct2026",
-      "partition": "invest",
-      "type": "card",
-      "category": "投资观察",
-      "title": "ETH 现货 ETF · 15 Oct 2026 净流出 $18.3M",
-      "title_orig": "ETH 现货 ETF · 15 Oct 2026 净流出 $18.3M",
-      "source": "Farside Investors 公开 ETH ETF 日流表（单位：百万美元）",
-      "source_url": "https://farside.co.uk/eth/",
-      "url": "https://farside.co.uk/eth/",
-      "published_at": "2026-10-15T23:59:00.000Z",
-      "tags": [
-        "加密",
-        "高风险",
-        "ETF流向"
-      ],
-      "score": 92,
-      "risk": "high",
-      "lang": "zh",
-      "_origin": "crypto",
-      "_crypto_kind": "ETF流向",
-      "extra": {
-        "disclaimer": "非投资建议；加密高风险",
-        "numbers": {
-          "total_net_flow_m_usd": -18.3,
-          "as_of": "15 Oct 2026",
-          "streak_days": 2,
-          "sum_5d_m_usd": -264.5
-        }
-      },
-      "reader": {
-        "verdict": "worth",
-        "verdict_label": "币圈观察",
-        "use": "机构资金方向：已连续 2 个交易日净流出，近5日合计 −$264.5M",
-        "title": "ETH 现货 ETF · 15 Oct 2026 净流出 $18.3M",
-        "lines": {
-          "value": "前5日合计（百万美元）：-72.5 / -56.1 / -85.4 / 24.8 / -129.5",
-          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
-        },
-        "evidence": [
-          "15 Oct 2026 - - - 0.0 0.0 - - 0.0 0.0 (18.3) 0.0 (18.3)"
-        ],
-        "point": "币圈：机构资金方向：已连续 2 个交易日净流出，近5日合计 −$264.5M"
-      }
-    },
-    {
-      "id": "crypto-movers-涨-2026-10-16",
-      "partition": "invest",
-      "type": "card",
-      "category": "投资观察",
-      "title": "前100市值涨幅榜 · AKE +18.94% / INJ +11.87% / ZRO +10.69%（24h）",
-      "title_orig": "前100市值涨幅榜 · AKE +18.94% / INJ +11.87% / ZRO +10.69%（24h）",
+      "title": "前100市值涨幅榜 · TIA +17.01% / LIT +5.04% / BTW +3.27%（24h）",
+      "title_orig": "前100市值涨幅榜 · TIA +17.01% / LIT +5.04% / BTW +3.27%（24h）",
       "source": "CoinGecko 公开 API（/coins/markets 前100）",
       "source_url": "https://www.coingecko.com/en/crypto-gainers-losers",
       "url": "https://www.coingecko.com/en/crypto-gainers-losers",
-      "published_at": "2026-10-16T00:11:54.000Z",
+      "published_at": "2026-10-17T00:08:52.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -163,30 +73,30 @@
         "verdict": "worth",
         "verdict_label": "币圈观察",
         "use": "大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐",
-        "title": "前100市值涨幅榜 · AKE +18.94% / INJ +11.87% / ZRO +10.69%（24h）",
+        "title": "前100市值涨幅榜 · TIA +17.01% / LIT +5.04% / BTW +3.27%（24h）",
         "lines": {
-          "value": "Akedo $0.03263，24h 成交 $39.1M，市值排名 #92（流通仅占总量 23%，低流通盘易暴涨暴跌）；Injective $8.550，24h 成交 $225.8M，市值排名 #85；LayerZero $2.100，24h 成交 $155.3M，市值排名 #86",
+          "value": "Celestia $0.6886，24h 成交 $266.1M，市值排名 #99；Lighter $3.180，24h 成交 $78.4M，市值排名 #90（流通仅占总量 25%，低流通盘易暴涨暴跌）；Bitway $1.910，24h 成交 $50.4M，市值排名 #39（流通仅占总量 15%，低流通盘易暴涨暴跌）",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "akedo current_price: 0.03262944, price_change_percentage_24h: 18.94, total_volume: 39110502, circulating_supply: 22796250000, total_supply: 100000000000",
-          "injective-protocol current_price: 8.55, price_change_percentage_24h: 11.87, total_volume: 225751840, circulating_supply: 100000000, total_supply: 100000000",
-          "layerzero current_price: 2.1, price_change_percentage_24h: 10.69, total_volume: 155279657, circulating_supply: 399976128, total_supply: 1000000000"
+          "celestia current_price: 0.688574, price_change_percentage_24h: 17.01, total_volume: 266062209, circulating_supply: 981722015, total_supply: 1179475082",
+          "lighter current_price: 3.18, price_change_percentage_24h: 5.04, total_volume: 78363631, circulating_supply: 250000000, total_supply: 1000000000",
+          "bitway current_price: 1.91, price_change_percentage_24h: 3.27, total_volume: 50441452, circulating_supply: 1505787514, total_supply: 10000000000"
         ],
         "point": "币圈：大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐"
       }
     },
     {
-      "id": "crypto-movers-跌-2026-10-16",
+      "id": "crypto-movers-跌-2026-10-17",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "前100市值跌幅榜 · BTW -23.41% / CC -8.84% / JST -7.32%（24h）",
-      "title_orig": "前100市值跌幅榜 · BTW -23.41% / CC -8.84% / JST -7.32%（24h）",
+      "title": "前100市值跌幅榜 · STX -9.74% / VVV -8.11% / PYTH -7.61%（24h）",
+      "title_orig": "前100市值跌幅榜 · STX -9.74% / VVV -8.11% / PYTH -7.61%（24h）",
       "source": "CoinGecko 公开 API（/coins/markets 前100）",
       "source_url": "https://www.coingecko.com/en/crypto-gainers-losers",
       "url": "https://www.coingecko.com/en/crypto-gainers-losers",
-      "published_at": "2026-10-16T00:11:54.000Z",
+      "published_at": "2026-10-17T00:08:52.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -204,30 +114,30 @@
         "verdict": "worth",
         "verdict_label": "币圈观察",
         "use": "大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接",
-        "title": "前100市值跌幅榜 · BTW -23.41% / CC -8.84% / JST -7.32%（24h）",
+        "title": "前100市值跌幅榜 · STX -9.74% / VVV -8.11% / PYTH -7.61%（24h）",
         "lines": {
-          "value": "Bitway $1.850，24h 成交 $22.9M，市值排名 #40（流通仅占总量 15%，低流通盘易暴涨暴跌）；Canton $0.1049，24h 成交 $28.8M，市值排名 #29；JUST $0.1315，24h 成交 $38.7M，市值排名 #74",
+          "value": "Stacks $0.3892，24h 成交 $24.0M，市值排名 #92；Venice Token $22.80，24h 成交 $32.7M，市值排名 #71；Pyth Network $0.08668，24h 成交 $71.0M，市值排名 #98",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "bitway current_price: 1.85, price_change_percentage_24h: -23.41, total_volume: 22920892, circulating_supply: 1505787514, total_supply: 10000000000",
-          "canton-network current_price: 0.104868, price_change_percentage_24h: -8.84, total_volume: 28838987, circulating_supply: 39848086792, total_supply: 39848775667",
-          "just current_price: 0.131458, price_change_percentage_24h: -7.32, total_volume: 38657998, circulating_supply: 8188743036, total_supply: 8188743036"
+          "blockstack current_price: 0.389236, price_change_percentage_24h: -9.74, total_volume: 23982787, circulating_supply: 1875207121, total_supply: 1875207121",
+          "venice-token current_price: 22.8, price_change_percentage_24h: -8.11, total_volume: 32700116, circulating_supply: 48460746, total_supply: 81138387",
+          "pyth-network current_price: 0.086681, price_change_percentage_24h: -7.61, total_volume: 71010928, circulating_supply: 7874959029, total_supply: 10000000000"
         ],
         "point": "币圈：大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接"
       }
     },
     {
-      "id": "crypto-trending-2026-10-16",
+      "id": "crypto-trending-2026-10-17",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "CoinGecko 热搜 · IGNITION +64.42% / STREAM +0.00% / SUI +1.34% / QTC -3.56%",
-      "title_orig": "CoinGecko 热搜 · IGNITION +64.42% / STREAM +0.00% / SUI +1.34% / QTC -3.56%",
+      "title": "CoinGecko 热搜 · DACITY +51.04% / PENGU -0.27% / QTC +4.79% / INJ +2.10%",
+      "title_orig": "CoinGecko 热搜 · DACITY +51.04% / PENGU -0.27% / QTC +4.79% / INJ +2.10%",
       "source": "CoinGecko 公开 API（/search/trending）",
       "source_url": "https://www.coingecko.com/en/highlights/trending-crypto",
       "url": "https://www.coingecko.com/en/highlights/trending-crypto",
-      "published_at": "2026-10-16T00:12:57.438Z",
+      "published_at": "2026-10-17T00:10:32.669Z",
       "tags": [
         "加密",
         "高风险",
@@ -244,32 +154,32 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 SUI",
-        "title": "CoinGecko 热搜 · IGNITION +64.42% / STREAM +0.00% / SUI +1.34% / QTC -3.56%",
+        "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PENGU、INJ",
+        "title": "CoinGecko 热搜 · DACITY +51.04% / PENGU -0.27% / QTC +4.79% / INJ +2.10%",
         "lines": {
-          "value": "IGNITION（市值排名 #871）、streamoors（市值排名 #750）、Sui（市值排名 #28）、Quantus（市值排名 #637）、Ethereum（市值排名 #2）、Pearl（市值排名 #101）、Zcash（市值排名 #10）、Pudgy Penguins（市值排名 #119）、Lighter（市值排名 #91）、NEAR Protocol（市值排名 #19）、Solana（市值排名 #7）、Venice Token（市值排名 #71）、Celestia（市值排名 #108）、Zebec Network（市值排名 #173）、Cash Cat（市值排名 #244）",
+          "value": "Dacity Coin（市值排名 #707）、Pudgy Penguins（市值排名 #118）、Quantus（市值排名 #614）、Injective（市值排名 #85）、Bitcoin（市值排名 #1）、NEAR Protocol（市值排名 #19）、Pump.fun（市值排名 #49）、Hyperliquid（市值排名 #11）、Zcash（市值排名 #10）、ZKsync（市值排名 #197）、Avalanche（市值排名 #27）、Ondo（市值排名 #47）、Pearl（市值排名 #106）",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "ignition-2 market_cap_rank: 871, price_change_percentage_24h.usd: 64.42",
-          "streamoors market_cap_rank: 750, price_change_percentage_24h.usd: 0.00",
-          "sui market_cap_rank: 28, price_change_percentage_24h.usd: 1.34",
-          "quantus market_cap_rank: 637, price_change_percentage_24h.usd: -3.56"
+          "dacity-coin market_cap_rank: 707, price_change_percentage_24h.usd: 51.04",
+          "pudgy-penguins market_cap_rank: 118, price_change_percentage_24h.usd: -0.27",
+          "quantus market_cap_rank: 614, price_change_percentage_24h.usd: 4.79",
+          "injective-protocol market_cap_rank: 85, price_change_percentage_24h.usd: 2.10"
         ],
-        "point": "币圈：散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 SUI"
+        "point": "币圈：散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PENGU、INJ"
       }
     },
     {
-      "id": "crypto-stables-2026-10-15",
+      "id": "crypto-stables-2026-10-16",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "稳定币总量 $305.52B · 7日 -0.59% · 30日 +0.60%",
-      "title_orig": "稳定币总量 $305.52B · 7日 -0.59% · 30日 +0.60%",
+      "title": "稳定币总量 $305.20B · 7日 -0.45% · 30日 +0.75%",
+      "title_orig": "稳定币总量 $305.20B · 7日 -0.45% · 30日 +0.75%",
       "source": "DefiLlama 公开 API（stablecoincharts/all）",
       "source_url": "https://defillama.com/stablecoins",
       "url": "https://defillama.com/stablecoins",
-      "published_at": "2026-10-15T00:00:00.000Z",
+      "published_at": "2026-10-16T00:00:00.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -287,29 +197,29 @@
         "verdict": "worth",
         "verdict_label": "币圈观察",
         "use": "稳定币在收缩：场内资金流出，反弹持续性要打折扣",
-        "title": "稳定币总量 $305.52B · 7日 -0.59% · 30日 +0.60%",
+        "title": "稳定币总量 $305.20B · 7日 -0.45% · 30日 +0.75%",
         "lines": {
-          "value": "7日变化 $-1.81B（数据日 2026-10-15）",
+          "value": "7日变化 $-1.39B（数据日 2026-10-16）",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "date: 1792022400 (2026-10-15), totalCirculatingUSD.peggedUSD: 305518585759",
-          "7 days earlier totalCirculatingUSD.peggedUSD: 307332258579"
+          "date: 1792108800 (2026-10-16), totalCirculatingUSD.peggedUSD: 305204130315",
+          "7 days earlier totalCirculatingUSD.peggedUSD: 306595359767"
         ],
         "point": "币圈：稳定币在收缩：场内资金流出，反弹持续性要打折扣"
       }
     },
     {
-      "id": "crypto-revenue-2026-10-16",
+      "id": "crypto-revenue-2026-10-17",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "协议收入异动 · Collector Crypt $971,122/日（较7日前 +62.78%） / Polymarket International $576,067/日（较7日前 +97.77%）",
-      "title_orig": "协议收入异动 · Collector Crypt $971,122/日（较7日前 +62.78%） / Polymarket International $576,067/日（较7日前 +97.77%）",
+      "title": "协议收入异动 · Hyperliquid Perps $3.4M/日（较7日前 +40.74%） / Collector Crypt $1.1M/日（较7日前 +123.75%）",
+      "title_orig": "协议收入异动 · Hyperliquid Perps $3.4M/日（较7日前 +40.74%） / Collector Crypt $1.1M/日（较7日前 +123.75%）",
       "source": "DefiLlama 公开 API（overview/fees, dailyRevenue）",
       "source_url": "https://defillama.com/revenue",
       "url": "https://defillama.com/revenue",
-      "published_at": "2026-10-16T00:12:57.438Z",
+      "published_at": "2026-10-17T00:10:32.669Z",
       "tags": [
         "加密",
         "高风险",
@@ -327,29 +237,29 @@
         "verdict": "worth",
         "verdict_label": "币圈观察",
         "use": "真实使用量变化：收入暴增的协议/链通常是当下资金和话题在的地方，收入下滑说明热度退潮",
-        "title": "协议收入异动 · Collector Crypt $971,122/日（较7日前 +62.78%） / Polymarket International $576,067/日（较7日前 +97.77%）",
+        "title": "协议收入异动 · Hyperliquid Perps $3.4M/日（较7日前 +40.74%） / Collector Crypt $1.1M/日（较7日前 +123.75%）",
         "lines": {
-          "value": "Collector Crypt（Physical TCG）、Polymarket International（Prediction Market）",
+          "value": "Hyperliquid Perps（Derivatives）、Collector Crypt（Physical TCG）",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Collector Crypt total24h: 971122, change_7d: 62.78",
-          "Polymarket International total24h: 576067, change_7d: 97.77"
+          "Hyperliquid Perps total24h: 3379500, change_7d: 40.74",
+          "Collector Crypt total24h: 1143725, change_7d: 123.75"
         ],
         "point": "币圈：真实使用量变化：收入暴增的协议/链通常是当下资金和话题在的地方，收入下滑说明热度退潮"
       }
     },
     {
-      "id": "crypto-news-RuZXJfaW5ib3VuZA",
+      "id": "crypto-news-bi1pbi1iaXRjb2lu",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
-      "title_orig": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
-      "source": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-10-15T10:00:00.000Z",
+      "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+      "title_orig": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+      "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+      "published_at": "2026-10-16T10:24:30.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -366,30 +276,29 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "安全事件：涉事协议/代币短线有抛压，相关仓位先查是否受影响",
+        "use": "钱包安全事件：自查硬件钱包购买渠道（非官方渠道风险高），不涉及价格判断",
         "title": "",
         "lines": {
-          "value": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
+          "value": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
-          "Compromised suppliers, developer tools and infrastructure components outside security audits drove about 77% of the quarter’s total losses, according to Hacken."
+          "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin"
         ],
-        "point": "币圈：安全事件：涉事协议/代币短线有抛压，相关仓位先查是否受影响"
+        "point": "币圈：钱包安全事件：自查硬件钱包购买渠道（非官方渠道风险高），不涉及价格判断"
       }
     },
     {
-      "id": "crypto-news-dG5lcl9pbmJvdW5k",
+      "id": "crypto-news-jb3dlbi00MTg4Mzk",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
-      "title_orig": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
-      "source": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-10-15T07:23:43.000Z",
+      "title": "Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen",
+      "title_orig": "Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
+      "url": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
+      "published_at": "2026-10-16T20:22:57.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -406,30 +315,29 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "机构资金流向：ETF 资金方向会影响 BTC/ETH 短线承接力",
+        "use": "真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考",
         "title": "",
         "lines": {
-          "value": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
+          "value": "Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
-          "Bitcoin ETFs have recorded $151 million in net outflows since Monday, after investors withdrew $681 million the previous week."
+          "Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen"
         ],
-        "point": "币圈：机构资金流向：ETF 资金方向会影响 BTC/ETH 短线承接力"
+        "point": "币圈：真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考"
       }
     },
     {
-      "id": "crypto-news-FpbnR5LXdlaWdocw",
+      "id": "crypto-news-jLWJpZC00MTg3NzU",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
-      "title_orig": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
-      "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
-      "published_at": "2026-10-15T03:57:45.000Z",
+      "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
+      "title_orig": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+      "url": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+      "published_at": "2026-10-16T05:44:05.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -446,30 +354,29 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "宏观联动：利率/美元变化正在传导到币价",
+        "use": "监管进展：影响机构入场预期和相关代币情绪",
         "title": "",
         "lines": {
-          "value": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+          "value": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
-          "Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled."
+          "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement"
         ],
-        "point": "币圈：宏观联动：利率/美元变化正在传导到币价"
+        "point": "币圈：监管进展：影响机构入场预期和相关代币情绪"
       }
     },
     {
-      "id": "crypto-news-bmQteHJwLXNsaWRl",
+      "id": "crypto-news-0LXJhdGUtcGxhbnM",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-      "title_orig": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+      "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+      "title_orig": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
       "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
-      "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
-      "published_at": "2026-10-15T04:25:15.000Z",
+      "source_url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+      "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+      "published_at": "2026-10-16T10:41:03.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -486,30 +393,30 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "清算数据：说明杠杆刚被洗过一轮，短线波动放大，别在这时候追",
+        "use": "宏观联动：利率/美元变化正在传导到币价",
         "title": "",
         "lines": {
-          "value": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+          "value": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-          "Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin."
+          "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+          "Celestia jumped 16%, injective rose 7.7% and layerzero added 7.3% while bitcoin held little changed near $82,100 and Fed Chair Warsh gave no sign on interest rates."
         ],
-        "point": "币圈：清算数据：说明杠杆刚被洗过一轮，短线波动放大，别在这时候追"
+        "point": "币圈：宏观联动：利率/美元变化正在传导到币价"
       }
     },
     {
-      "id": "crypto-news-ZmxhdGlvbi1kYXRh",
+      "id": "crypto-news-0bmVyX2luYm91bmQ",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
-      "title_orig": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data",
-      "url": "https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data",
-      "published_at": "2026-10-15T11:48:42.000Z",
+      "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
+      "title_orig": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
+      "source": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-10-16T15:45:43.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -529,12 +436,12 @@
         "use": "宏观联动：利率/美元变化正在传导到币价",
         "title": "",
         "lines": {
-          "value": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
+          "value": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
-          "Odds of an October Fed hike have climbed to 29% from 18% a week ago, and analysts see Bitcoin range-bound until the picture clears."
+          "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
+          "Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike."
         ],
         "point": "币圈：宏观联动：利率/美元变化正在传导到币价"
       }
@@ -748,6 +655,63 @@
       }
     },
     {
+      "id": "invest-obs-us-cpi-window-2026-10-14",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "观察 · 美国 9 月 CPI 今晚发布窗口（BLS 日历 08:30 ET）",
+      "summary": "写稿时结果未出；只作财务体检时间窗，非交易信号。",
+      "source": "BLS 发布日历 · 今日核实",
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched.htm",
+      "published_at": "2026-10-14T17:50:00+08:00",
+      "tags": [
+        "观察",
+        "宏观",
+        "通胀"
+      ],
+      "score": 89,
+      "why": "今日核实：官方日历发布时间窗",
+      "deep_link": "https://www.bls.gov/cpi/",
+      "extra": {
+        "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+        "bucket": "稳健",
+        "verified_at": "2026-10-14T17:50:00+08:00",
+        "release_local": "2026-10-14T20:30:00+08:00"
+      },
+      "blurb": "写稿时结果未出；只作财务体检时间窗，非交易信号。",
+      "url": "https://www.bls.gov/cpi/",
+      "name": "观察 · 美国 9 月 CPI 今晚发布窗口（BLS 日历 08:30 ET）",
+      "risk": "stable",
+      "posted_at": "2026-10-14",
+      "evidence_missing": false,
+      "_origin": "seed",
+      "_source_id": null,
+      "title_orig": "观察 · 美国 9 月 CPI 今晚发布窗口（BLS 日历 08:30 ET）",
+      "source_excerpt": "BLS October 2026 schedule lists: 14 Consumer Price Index September 2026 08:30 AM Eastern. Use the official CPI release as a financial check-up checklist before any portfolio review of low-cost ETFs. Observation only — not investment advice.",
+      "_score_raw": 89,
+      "_decay_penalty": 0,
+      "_decay_exempt": "seed",
+      "summary_zh": "写稿时结果未出；只作财务体检时间窗，非交易信号。",
+      "highlights": [],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "worth",
+        "use": "刚工作几年、想理清自己财务时看：二十多岁该定期检查哪几项财务",
+        "lines": {
+          "scenario": "刚工作几年、想理清自己财务时",
+          "problem": "二十多岁该定期检查哪几项财务；低费率 ETF 和主动方案比谁更划算",
+          "step": "按文章列的清单，对照自己的账户逐项检查"
+        },
+        "evidence": [
+          "financial check-up",
+          "low-cost ETFs"
+        ],
+        "point": "理财：刚工作几年、想理清自己财务，看二十多岁该定期检查哪几项财务",
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    },
+    {
       "id": "invest-post-dollarsanddata-61ec1eae87c6",
       "partition": "invest",
       "type": "post",
@@ -829,6 +793,65 @@
       }
     },
     {
+      "id": "invest-community-invest-reddit-debtfree-26187d112b86",
+      "partition": "invest",
+      "type": "post",
+      "category": "投资观察",
+      "title": "Hopefully I can be debt free before 2030",
+      "summary": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month…",
+      "source": "r/DebtFree",
+      "source_url": "https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/",
+      "published_at": "2026-10-13T23:20:36.000Z",
+      "tags": [
+        "reddit",
+        "r/DebtFree",
+        "负债偿还",
+        "金额",
+        "比例"
+      ],
+      "score": 82,
+      "why": "公开社区帖 · r/DebtFree · top/month 第46位 · 原帖含：负债偿还、金额、比例（数字均为发帖人自述，未经核实）",
+      "deep_link": "https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/",
+      "extra": {},
+      "blurb": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month…",
+      "url": "https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/",
+      "name": "Hopefully I can be debt free before 2030",
+      "lang": "EN",
+      "posted_at": "2026-10-13",
+      "evidence_missing": false,
+      "_origin": "community_rss",
+      "_source_id": "invest-reddit-debtfree",
+      "title_orig": "Hopefully I can be debt free before 2030",
+      "source_excerpt": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month - Care Credit Dental Im 33M in MA I make $92,145 per year after taxes(Including All sources of income into my bank account even non income that regulary comes in)",
+      "_feed_type": "reddit_rss",
+      "_feed_url": "https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100",
+      "_score_raw": 62,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_practical": true,
+      "_practical_delta": 20,
+      "summary_zh": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month…",
+      "highlights": [],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "worth",
+        "use": "有负债、想还债时看：发帖人自述 $1227，9.30%（未经核实）",
+        "lines": {
+          "value": "数字（发帖人自述）「$1227」「9.30%」；涉及：还债；做法原话：「My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month - Care Credit Dental Im 33M in MA I make $92,145 per year after」",
+          "note": "数字均为发帖人自述，未经核实；账户/税制按各国不同，只参考做法思路"
+        },
+        "evidence": [
+          "$1227",
+          "9.30%",
+          "debt free",
+          "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month - Care Credit Dental Im 33M in MA I make $92,145 per year after"
+        ],
+        "point": "理财：还债，发帖人自述 $1227",
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    },
+    {
       "id": "invest-community-invest-reddit-ynab-d8e120b5c12a",
       "partition": "invest",
       "type": "post",
@@ -846,7 +869,7 @@
         "预算/储蓄率"
       ],
       "score": 66,
-      "why": "公开社区帖 · r/YNAB · top/month 第12位 · 原帖含：金额、周期、预算/储蓄率（数字均为发帖人自述，未经核实）",
+      "why": "公开社区帖 · r/YNAB · top/month 第13位 · 原帖含：金额、周期、预算/储蓄率（数字均为发帖人自述，未经核实）",
       "deep_link": "https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/",
       "extra": {},
       "blurb": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money…",
@@ -969,7 +992,7 @@
         "金额"
       ],
       "score": 68,
-      "why": "公开社区帖 · r/DebtFree · top/month 第2位 · 原帖含：负债偿还、金额（数字均为发帖人自述，未经核实）",
+      "why": "公开社区帖 · r/DebtFree · top/month 第3位 · 原帖含：负债偿还、金额（数字均为发帖人自述，未经核实）",
       "deep_link": "https://www.reddit.com/r/debtfree/comments/1wkiw8i/the_things_i_cut_out_to_save_money_and_pay_off/",
       "extra": {},
       "blurb": "my yearly car detail (did it myself, it’s not as good as a professional but I’m happy with it and I saved $200)",
