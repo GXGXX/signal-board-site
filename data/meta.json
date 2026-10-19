@@ -1,9 +1,9 @@
 {
   "name": "信号台",
   "disclaimer": "非投资建议；加密高风险",
-  "today": "2026-10-18",
-  "generated_at": "2026-10-18T00:04:58.045Z",
-  "next_update_at": "2026-10-18T01:00:00.000Z",
+  "today": "2026-10-19",
+  "generated_at": "2026-10-19T00:09:05.111Z",
+  "next_update_at": "2026-10-19T01:00:00.000Z",
   "schedule": {
     "timezone": "Asia/Shanghai",
     "hours": [
@@ -13,11 +13,11 @@
     "note": "下次更新于 = 下一个 09:00 或 21:00 Asia/Shanghai"
   },
   "collect": {
-    "collected_at": "2026-10-18T00:04:55.158Z",
+    "collected_at": "2026-10-19T00:09:00.518Z",
     "ok": [
       {
         "id": "hitmarker_sitemap",
-        "count": 8,
+        "count": 10,
         "scanned": 476,
         "rejected": {
           "hub_or_junk": 0,
@@ -25,7 +25,7 @@
           "noise_role": 0,
           "no_geo_low_role": 0,
           "below_threshold": 0,
-          "location_out_of_range": 198,
+          "location_out_of_range": 196,
           "page_unreadable": 0,
           "too_old": 43
         }
@@ -50,7 +50,7 @@
           "noise_role": 0,
           "no_geo_low_role": 0,
           "below_threshold": 0,
-          "intern": 15,
+          "intern": 16,
           "off_target_title": 16
         }
       },
@@ -64,9 +64,9 @@
       {
         "id": "ai-simonw-atom",
         "partition": "ai",
-        "count": 12,
+        "count": 11,
         "scanned": 24,
-        "rejected": 11
+        "rejected": 13
       },
       {
         "id": "growth-jamesclear",
@@ -85,37 +85,37 @@
       {
         "id": "ai-reddit-saas",
         "partition": "ai",
-        "count": 1,
+        "count": 4,
         "scanned": 40,
-        "rejected": 39
+        "rejected": 36
       },
       {
         "id": "ai-reddit-indiehackers",
         "partition": "ai",
-        "count": 1,
-        "scanned": 2,
-        "rejected": 1
+        "count": 0,
+        "scanned": 0,
+        "rejected": 0
       },
       {
         "id": "ai-reddit-era",
         "partition": "ai",
-        "count": 1,
-        "scanned": 16,
-        "rejected": 15
+        "count": 2,
+        "scanned": 14,
+        "rejected": 12
       },
       {
         "id": "ai-reddit-entrepreneur",
         "partition": "ai",
         "count": 0,
-        "scanned": 3,
-        "rejected": 3
+        "scanned": 4,
+        "rejected": 4
       },
       {
         "id": "ai-hn-frontpage",
         "partition": "ai",
         "count": 0,
-        "scanned": 18,
-        "rejected": 18
+        "scanned": 17,
+        "rejected": 17
       },
       {
         "id": "ai-hn-show",
@@ -128,15 +128,15 @@
         "id": "invest-reddit-debtfree",
         "partition": "invest",
         "count": 2,
-        "scanned": 71,
-        "rejected": 69
+        "scanned": 70,
+        "rejected": 68
       },
       {
         "id": "invest-reddit-ynab",
         "partition": "invest",
         "count": 1,
-        "scanned": 29,
-        "rejected": 28
+        "scanned": 30,
+        "rejected": 29
       },
       {
         "id": "kol:levelsio",
@@ -386,25 +386,33 @@
       "noise_role": 0,
       "no_geo_low_role": 0,
       "below_threshold": 5,
-      "location_out_of_range": 198,
+      "location_out_of_range": 196,
       "page_unreadable": 0,
       "too_old": 43,
-      "intern": 15,
+      "intern": 16,
       "off_target_title": 16,
       "rss_reasons": {
-        "ai_no_practice_signal": 28,
+        "ai_no_practice_signal": 30,
         "growth_no_pillar": 14,
         "fetch_fail": 1
       }
     },
     "score_threshold": 40,
-    "kept": 44,
+    "kept": 46,
     "articles_kept": {
-      "ai": 65,
-      "invest": 91,
+      "ai": 67,
+      "invest": 93,
       "growth": 59
     },
     "rss_rejects_sample": [
+      {
+        "source": "ai-levelsio-rss",
+        "partition": "ai",
+        "reason": "ai_no_practice_signal",
+        "title": "Warsaw is completely safe at 1am and there's a lot to learn from Poland",
+        "url": "https://levels.io/warsaw-safe-at-night-learn-poland",
+        "score": 0
+      },
       {
         "source": "ai-levelsio-rss",
         "partition": "ai",
@@ -534,11 +542,19 @@
         "score": 0
       },
       {
-        "source": "ai-levelsio-rss",
+        "source": "ai-simonw-atom",
         "partition": "ai",
         "reason": "ai_no_practice_signal",
-        "title": "An Apple Store in Dubai leaves Apple Watches lying freely by the open door",
-        "url": "https://levels.io/dubai-apple-store-high-trust",
+        "title": "Inline rendering with document​.currentScript",
+        "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+        "score": 0
+      },
+      {
+        "source": "ai-simonw-atom",
+        "partition": "ai",
+        "reason": "ai_no_practice_signal",
+        "title": "web-edit 0.1a2",
+        "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
         "score": 0
       },
       {
@@ -705,22 +721,6 @@
         "title": "Inside Track: September 20th – September 26th Edition",
         "url": "https://putthison.com/inside-track-september-20th-september-26th-edition-2/",
         "score": 0
-      },
-      {
-        "source": "growth-putthison",
-        "partition": "growth",
-        "reason": "growth_no_pillar",
-        "title": "Scarf Season Is Almost Upon Us!",
-        "url": "https://putthison.com/scarf-season-is-almost-upon-us/",
-        "score": 0
-      },
-      {
-        "source": "growth-putthison",
-        "partition": "growth",
-        "reason": "growth_no_pillar",
-        "title": "Inside Track: September 13th – September 19th Edition",
-        "url": "https://putthison.com/inside-track-september-13th-september-19th-edition-2/",
-        "score": 0
       }
     ],
     "plan_c": {
@@ -774,14 +774,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:46d",
-            "too_old:130d",
-            "too_old:221d",
-            "too_old:286d",
-            "too_old:336d",
-            "too_old:371d",
-            "too_old:399d",
-            "too_old:406d"
+            "too_old:47d",
+            "too_old:131d",
+            "too_old:222d",
+            "too_old:287d",
+            "too_old:337d",
+            "too_old:372d",
+            "too_old:400d",
+            "too_old:407d"
           ]
         },
         "tdinh_me": {
@@ -807,14 +807,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:49d",
-            "too_old:129d",
-            "too_old:324d",
-            "too_old:373d",
-            "too_old:489d",
-            "too_old:683d",
-            "too_old:694d",
-            "too_old:813d"
+            "too_old:50d",
+            "too_old:130d",
+            "too_old:325d",
+            "too_old:374d",
+            "too_old:490d",
+            "too_old:684d",
+            "too_old:695d",
+            "too_old:814d"
           ]
         },
         "lxfater": {
@@ -878,14 +878,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:79d",
-            "too_old:228d",
-            "too_old:250d",
-            "too_old:257d",
-            "too_old:275d",
-            "too_old:473d",
-            "too_old:505d",
-            "too_old:523d"
+            "too_old:80d",
+            "too_old:229d",
+            "too_old:251d",
+            "too_old:258d",
+            "too_old:276d",
+            "too_old:474d",
+            "too_old:506d",
+            "too_old:524d"
           ]
         },
         "charliebilello": {
@@ -911,14 +911,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:793d",
-            "too_old:800d",
-            "too_old:821d",
-            "too_old:842d",
-            "too_old:845d",
-            "too_old:851d",
-            "too_old:906d",
-            "too_old:913d"
+            "too_old:794d",
+            "too_old:801d",
+            "too_old:822d",
+            "too_old:843d",
+            "too_old:846d",
+            "too_old:852d",
+            "too_old:907d",
+            "too_old:914d"
           ]
         },
         "LynAldenContact": {
@@ -944,7 +944,7 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:902d"
+            "too_old:903d"
           ]
         },
         "VitalikButerin": {
@@ -970,14 +970,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:58d",
-            "too_old:82d",
-            "too_old:111d",
-            "too_old:153d",
-            "too_old:199d",
-            "too_old:292d",
-            "too_old:305d",
-            "too_old:327d"
+            "too_old:59d",
+            "too_old:83d",
+            "too_old:112d",
+            "too_old:154d",
+            "too_old:200d",
+            "too_old:293d",
+            "too_old:306d",
+            "too_old:328d"
           ]
         },
         "dieworkwear": {
@@ -1003,14 +1003,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:323d",
-            "too_old:326d",
-            "too_old:394d",
-            "too_old:501d",
-            "too_old:583d",
-            "too_old:619d",
-            "too_old:687d",
-            "too_old:701d"
+            "too_old:324d",
+            "too_old:327d",
+            "too_old:395d",
+            "too_old:502d",
+            "too_old:584d",
+            "too_old:620d",
+            "too_old:688d",
+            "too_old:702d"
           ]
         },
         "farnamstreet": {
@@ -1098,14 +1098,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:295d",
-            "too_old:302d",
-            "too_old:309d",
-            "too_old:316d",
-            "too_old:891d",
-            "too_old:952d",
-            "too_old:968d",
-            "too_old:996d"
+            "too_old:296d",
+            "too_old:303d",
+            "too_old:310d",
+            "too_old:317d",
+            "too_old:892d",
+            "too_old:953d",
+            "too_old:969d",
+            "too_old:997d"
           ]
         },
         "dannypostmaa": {
@@ -1131,7 +1131,7 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:64d"
+            "too_old:65d"
           ]
         },
         "damengchen": {
@@ -1157,10 +1157,10 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:959d",
-            "too_old:973d",
-            "too_old:977d",
-            "too_old:983d"
+            "too_old:960d",
+            "too_old:974d",
+            "too_old:978d",
+            "too_old:984d"
           ]
         },
         "morganhousel": {
@@ -1248,10 +1248,10 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:46d",
-            "too_old:53d",
-            "too_old:60d",
-            "too_old:67d"
+            "too_old:47d",
+            "too_old:54d",
+            "too_old:61d",
+            "too_old:68d"
           ]
         },
         "PutThisOn": {
@@ -1301,14 +1301,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:2476d",
-            "too_old:2559d",
-            "too_old:2762d",
-            "too_old:2826d",
-            "too_old:2833d",
-            "too_old:2840d",
-            "too_old:2847d",
-            "too_old:2921d"
+            "too_old:2477d",
+            "too_old:2560d",
+            "too_old:2763d",
+            "too_old:2827d",
+            "too_old:2834d",
+            "too_old:2841d",
+            "too_old:2848d",
+            "too_old:2922d"
           ]
         },
         "tibo_maker": {
@@ -1368,8 +1368,8 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:2142d",
-            "too_old:2316d"
+            "too_old:2143d",
+            "too_old:2317d"
           ]
         },
         "awealthofcs": {
@@ -1412,17 +1412,16 @@
               "scanned": 10
             }
           ],
-          "kept": 5,
-          "dropped": 5,
+          "kept": 6,
+          "dropped": 4,
           "fallback": false,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:46d",
-            "too_old:52d",
-            "too_old:59d",
-            "too_old:66d",
+            "too_old:47d",
+            "too_old:53d",
+            "too_old:60d",
             "too_old:67d"
           ]
         },
@@ -1450,10 +1449,10 @@
           "x_api": null,
           "drop_reasons": [
             "growth_politics_title",
-            "too_old:47d",
-            "too_old:54d",
-            "too_old:68d",
-            "too_old:82d"
+            "too_old:48d",
+            "too_old:55d",
+            "too_old:69d",
+            "too_old:83d"
           ]
         },
         "naval": {
@@ -1479,14 +1478,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:106d",
-            "too_old:138d",
-            "too_old:140d",
-            "too_old:141d",
-            "too_old:143d",
-            "too_old:159d",
-            "too_old:166d",
-            "too_old:172d"
+            "too_old:108d",
+            "too_old:139d",
+            "too_old:142d",
+            "too_old:142d",
+            "too_old:144d",
+            "too_old:160d",
+            "too_old:167d",
+            "too_old:173d"
           ]
         },
         "I_Am_The_ICT": {
@@ -1560,7 +1559,7 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:50d"
+            "too_old:51d"
           ]
         },
         "ritholtz": {
@@ -1579,7 +1578,7 @@
               "scanned": 10
             }
           ],
-          "kept": 7,
+          "kept": 8,
           "dropped": 0,
           "fallback": false,
           "used_last_good": false,
@@ -1610,11 +1609,11 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:46d",
-            "too_old:52d",
-            "too_old:59d",
-            "too_old:72d",
-            "too_old:79d"
+            "too_old:47d",
+            "too_old:53d",
+            "too_old:60d",
+            "too_old:73d",
+            "too_old:80d"
           ]
         },
         "RyanHoliday": {
@@ -1640,10 +1639,10 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:50d",
-            "too_old:58d",
-            "too_old:72d",
-            "too_old:93d"
+            "too_old:51d",
+            "too_old:59d",
+            "too_old:73d",
+            "too_old:94d"
           ]
         },
         "gregisenberg": {
@@ -1720,14 +1719,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:197d",
-            "too_old:211d",
-            "too_old:218d",
-            "too_old:246d",
-            "too_old:253d",
-            "too_old:260d",
-            "too_old:267d",
-            "too_old:274d"
+            "too_old:198d",
+            "too_old:212d",
+            "too_old:219d",
+            "too_old:247d",
+            "too_old:254d",
+            "too_old:261d",
+            "too_old:268d",
+            "too_old:275d"
           ]
         },
         "ramit": {
@@ -1777,14 +1776,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:619d",
-            "too_old:626d",
-            "too_old:634d",
-            "too_old:641d",
-            "too_old:649d",
-            "too_old:652d",
-            "too_old:656d",
-            "too_old:659d"
+            "too_old:620d",
+            "too_old:627d",
+            "too_old:635d",
+            "too_old:642d",
+            "too_old:650d",
+            "too_old:653d",
+            "too_old:657d",
+            "too_old:660d"
           ]
         },
         "PaulaPant": {
@@ -1913,21 +1912,21 @@
               "scanned": 20
             }
           ],
-          "kept": 7,
-          "dropped": 13,
+          "kept": 6,
+          "dropped": 14,
           "fallback": false,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:52d",
-            "too_old:59d",
-            "too_old:66d",
-            "too_old:73d",
-            "too_old:80d",
-            "too_old:87d",
-            "too_old:94d",
-            "too_old:101d"
+            "too_old:46d",
+            "too_old:53d",
+            "too_old:60d",
+            "too_old:67d",
+            "too_old:74d",
+            "too_old:81d",
+            "too_old:88d",
+            "too_old:95d"
           ]
         },
         "startupsfortherestofus": {
@@ -1953,14 +1952,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:46d",
-            "too_old:53d",
-            "too_old:60d",
-            "too_old:67d",
-            "too_old:74d",
-            "too_old:81d",
-            "too_old:88d",
-            "too_old:95d"
+            "too_old:47d",
+            "too_old:54d",
+            "too_old:61d",
+            "too_old:68d",
+            "too_old:75d",
+            "too_old:82d",
+            "too_old:89d",
+            "too_old:96d"
           ]
         },
         "moneyunder30": {
@@ -2034,14 +2033,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:184d",
-            "too_old:305d",
-            "too_old:375d",
-            "too_old:491d",
-            "too_old:599d",
-            "too_old:639d",
-            "too_old:734d",
-            "too_old:815d"
+            "too_old:185d",
+            "too_old:306d",
+            "too_old:376d",
+            "too_old:492d",
+            "too_old:600d",
+            "too_old:640d",
+            "too_old:735d",
+            "too_old:816d"
           ]
         },
         "askamanager": {
@@ -2091,8 +2090,8 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:48d",
-            "too_old:61d"
+            "too_old:49d",
+            "too_old:62d"
           ]
         },
         "artofmanliness": {
@@ -2511,7 +2510,7 @@
           ]
         }
       ],
-      "posts_kept": 185,
+      "posts_kept": 186,
       "posts_dropped": 219,
       "fallbacks": 17,
       "last_good_reused": 1,
@@ -2529,9 +2528,9 @@
       "sample_kept": [
         {
           "handle": "levelsio",
-          "title": "I'm scrambling to chase any remaining moats as AI companies suck up everything else",
-          "published_at": "2026-10-16T00:00:00.000Z",
-          "url": "https://levels.io/scrambling-to-chase-remaining-moats"
+          "title": "Warsaw is completely safe at 1am and there's a lot to learn from Poland",
+          "published_at": "2026-10-18T00:00:00.000Z",
+          "url": "https://levels.io/warsaw-safe-at-night-learn-poland"
         },
         {
           "handle": "marc_louvion",
@@ -2561,8 +2560,8 @@
     },
     "community_rss": {
       "enabled": true,
-      "elapsed_ms": 58587,
-      "kept": 7,
+      "elapsed_ms": 39565,
+      "kept": 10,
       "report": [
         {
           "id": "ai-reddit-saas",
@@ -2570,48 +2569,48 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 488,
+          "ms": 574,
           "scanned": 40,
-          "kept": 1,
+          "kept": 4,
           "rejects": {
-            "no_numeric_fact": 10,
-            "question": 12,
-            "no_body": 2,
+            "question": 14,
+            "no_numeric_fact": 11,
+            "no_body": 5,
+            "help_seeking": 3,
             "single_fact_kind": 1,
-            "body_too_short": 8,
-            "help_seeking": 5,
-            "spam_or_promo_body": 1
+            "body_too_short": 1,
+            "over_max_items": 1
           },
           "error": null,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
-            "reset": "56"
+            "reset": "37"
           },
           "reject_samples": [
             {
+              "reason": "question",
+              "title": "one person farmed our AI free trial with 9 apple IDs and ran up ~$1,900 in image"
+            },
+            {
               "reason": "no_numeric_fact",
-              "title": "Got fired, built a product for a year, and nobody uses it. Tell me why."
+              "title": "You are not dumb enough to succeed."
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "I Am Shutting Down adultdatalink.com (Adult Content API) After 2 Years & Open So"
             },
             {
               "reason": "question",
-              "title": "Everyone says \"talk to customers before building.\" But how do you actually find "
+              "title": "How do you validate a SaaS idea before building it?"
             },
             {
-              "reason": "no_body",
-              "title": "Yesterday my website was knocked off by 280k bots. Unique IPv6 addresses, no hea"
+              "reason": "no_numeric_fact",
+              "title": "$600+ MRR from one simple comment"
             },
             {
-              "reason": "single_fact_kind",
-              "title": "SaaS directories are a slopfest, grifty and useless"
-            },
-            {
-              "reason": "body_too_short",
-              "title": "How is your marketing?"
-            },
-            {
-              "reason": "no_body",
-              "title": "How do you all handle support for your SaaS/app?"
+              "reason": "question",
+              "title": "Are indie hacker lifetime deals scams, or just badly explained?"
             }
           ],
           "partition": "ai"
@@ -2623,19 +2622,12 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 2,
-          "kept": 1,
-          "rejects": {
-            "help_seeking": 1
-          },
+          "scanned": 0,
+          "kept": 0,
+          "rejects": {},
           "error": null,
           "shared_request": true,
-          "reject_samples": [
-            {
-              "reason": "help_seeking",
-              "title": "I’m building a free hands-on DevOps lab — looking for feedback"
-            }
-          ],
+          "reject_samples": [],
           "partition": "ai"
         },
         {
@@ -2645,41 +2637,42 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 16,
-          "kept": 1,
+          "scanned": 14,
+          "kept": 2,
           "rejects": {
-            "no_numeric_fact": 6,
-            "help_seeking": 1,
-            "question": 5,
-            "no_body": 2,
-            "body_too_short": 1
+            "help_seeking": 3,
+            "single_fact_kind": 1,
+            "question": 3,
+            "spam_or_promo_body": 1,
+            "no_numeric_fact": 3,
+            "no_body": 1
           },
           "error": null,
           "shared_request": true,
           "reject_samples": [
             {
-              "reason": "no_numeric_fact",
-              "title": "Solo founder, 6 months in: building an app for lifters with muscle imbalances. H"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Decided to make social media scheduling free for small businesses"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Small production company looking for extra income model based on podcast about b"
-            },
-            {
               "reason": "help_seeking",
-              "title": "I automated my reselling workflow & made ~$3500 in a month on 12hrs of work. Now"
+              "title": "I got 600K+ views on Reddit without ever mentioning my startup. Need help with w"
+            },
+            {
+              "reason": "single_fact_kind",
+              "title": "I built an app to save my marriage. The marriage didn't make it, the app did"
+            },
+            {
+              "reason": "question",
+              "title": "Built my first CRM with Claude. What can I do with it?"
+            },
+            {
+              "reason": "question",
+              "title": "I want to start a business but have 0 connections, or idea where to begin. Where"
+            },
+            {
+              "reason": "spam_or_promo_body",
+              "title": "5 checkout leaks I keep finding on Shopify stores doing under $20k/month"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "I built an audience before launching. 600+ people joined in 4 days."
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "I turned my habit of never launching my apps into a product"
+              "title": "Discounts"
             }
           ],
           "partition": "ai"
@@ -2691,26 +2684,31 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 3,
+          "scanned": 4,
           "kept": 0,
           "rejects": {
             "question": 2,
-            "body_too_short": 1
+            "help_seeking": 1,
+            "single_fact_kind": 1
           },
           "error": null,
           "shared_request": true,
           "reject_samples": [
             {
               "reason": "question",
-              "title": "Y'all feel like you don't make progress fast enough?"
+              "title": "Is Part-Time Consultation Worth the Time for Exposure?"
+            },
+            {
+              "reason": "help_seeking",
+              "title": "Sunday Steam: Vent It or Roast It | October 18, 2026"
+            },
+            {
+              "reason": "single_fact_kind",
+              "title": "Rate my idea: I got some scrap books from my dad, my mom passed away. I started "
             },
             {
               "reason": "question",
-              "title": "A big piece of the Industrial Revolution came out of a monthly dinner party. Wha"
-            },
-            {
-              "reason": "body_too_short",
-              "title": "Success Saturday: What's Going Right | October 17, 2026"
+              "title": "I built a CRM with Claude. What can I actually do with it?"
             }
           ],
           "partition": "ai"
@@ -2721,12 +2719,12 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 69,
-          "scanned": 18,
+          "ms": 76,
+          "scanned": 17,
           "kept": 0,
           "rejects": {
             "no_numeric_fact": 16,
-            "tech_news": 2
+            "tech_news": 1
           },
           "error": null,
           "ratelimit": {
@@ -2737,27 +2735,27 @@
           "reject_samples": [
             {
               "reason": "no_numeric_fact",
-              "title": "OpenCode Hacked: User credentials leaked"
+              "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "I Became a Citizen of Japan"
-            },
-            {
-              "reason": "tech_news",
-              "title": "Development statistics for the 7.2 kernel"
+              "title": "Free Pascal compiler now supports dynamic packages"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Gold is now the top U.S. export"
+              "title": "Florida's HOAs and condo associations are making the housing crisis worse"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Pele – Mermaid diagrams as themeable SVG"
+              "title": "Namecheap just seized and disabled all my domains"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Solar surpasses nuclear power globally for first time"
+              "title": "Someone behind the software"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Java sealed classes and exhaustive pattern matching"
             }
           ],
           "partition": "ai"
@@ -2768,12 +2766,12 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 1111,
+          "ms": 59,
           "scanned": 20,
           "kept": 1,
           "rejects": {
             "no_numeric_fact": 18,
-            "question": 1
+            "tech_news": 1
           },
           "error": null,
           "waited_ms": 7998,
@@ -2785,6 +2783,18 @@
           "reject_samples": [
             {
               "reason": "no_numeric_fact",
+              "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping"
+            },
+            {
+              "reason": "tech_news",
+              "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5"
+            },
+            {
+              "reason": "no_numeric_fact",
               "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser"
             },
             {
@@ -2794,18 +2804,6 @@
             {
               "reason": "no_numeric_fact",
               "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Show HN: rStation – A shared research lab for your AI agents"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Show HN: Gemini 4 Argon plays StarCraft"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering"
             }
           ],
           "partition": "ai"
@@ -2816,18 +2814,18 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 1004,
-          "scanned": 71,
+          "ms": 933,
+          "scanned": 70,
           "kept": 2,
           "rejects": {
-            "body_too_short": 8,
             "no_body": 1,
+            "body_too_short": 7,
             "no_concrete_method": 8,
             "country_specific": 9,
             "no_amount_in_action": 8,
             "no_first_person_action": 2,
-            "no_numeric_fact": 5,
             "question": 18,
+            "no_numeric_fact": 5,
             "no_practice_topic": 2,
             "help_seeking": 4,
             "off_profile": 1,
@@ -2835,20 +2833,20 @@
             "over_max_items": 1
           },
           "error": null,
-          "waited_ms": 47746,
+          "waited_ms": 29788,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
-            "reset": "59"
+            "reset": "58"
           },
           "reject_samples": [
             {
-              "reason": "body_too_short",
-              "title": "$99,985 in CC debt"
-            },
-            {
               "reason": "no_body",
               "title": "US families are behind on bills at rate not seen since Great Recession of 2008"
+            },
+            {
+              "reason": "body_too_short",
+              "title": "$99,985 in CC debt"
             },
             {
               "reason": "no_concrete_method",
@@ -2876,7 +2874,7 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 29,
+          "scanned": 30,
           "kept": 1,
           "rejects": {
             "no_amount_in_action": 3,
@@ -2886,7 +2884,8 @@
             "country_specific": 3,
             "no_body": 1,
             "discussion_questions": 2,
-            "no_first_person_action": 1
+            "no_first_person_action": 1,
+            "help_seeking": 1
           },
           "error": null,
           "shared_request": true,
@@ -2967,30 +2966,30 @@
         "shown": 15
       },
       "ai": {
+        "total": 12,
+        "with_use": 12,
+        "verdicts": {
+          "save": 8,
+          "worth": 3,
+          "watch": 1
+        },
+        "ungrounded": 0,
+        "dropped_no_use": 0,
+        "useful_before_display_cap": 12,
+        "shown": 12
+      },
+      "invest": {
         "total": 9,
         "with_use": 9,
         "verdicts": {
-          "save": 6,
-          "worth": 2,
+          "worth": 5,
+          "save": 3,
           "watch": 1
         },
         "ungrounded": 0,
         "dropped_no_use": 0,
         "useful_before_display_cap": 9,
         "shown": 9
-      },
-      "invest": {
-        "total": 13,
-        "with_use": 13,
-        "verdicts": {
-          "worth": 7,
-          "save": 5,
-          "watch": 1
-        },
-        "ungrounded": 0,
-        "dropped_no_use": 0,
-        "useful_before_display_cap": 13,
-        "shown": 13
       },
       "growth": {
         "total": 2,
@@ -3006,7 +3005,7 @@
     },
     "title_model": "qwen2.5:1.5b",
     "title_budget_exhausted": false,
-    "title_zh_attempted": 20,
+    "title_zh_attempted": 19,
     "title_phase_s": 0
   },
   "today_points": [
@@ -3026,9 +3025,9 @@
     },
     {
       "part": "ai",
-      "text": "AI副业：自述收入 $200K ARR，渠道 YouTube",
-      "id": "ai-community-ai-reddit-era-7ac36d3bf89c",
-      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x8fbvu/i_couldnt_sell_for_sht_in_2022_i_still_got_to/",
+      "text": "AI副业：自述收入 $1600",
+      "id": "ai-community-ai-reddit-saas-f3d66c10146d",
+      "url": "https://www.reddit.com/r/SaaS/comments/1x93pr1/i_built_a_launch_video_generator_saas_and/",
       "verdict": "worth"
     },
     {
@@ -3043,18 +3042,18 @@
     "model": "qwen2.5:1.5b",
     "ollama_ok": false,
     "local_llm": 0,
-    "fallback": 50,
+    "fallback": 49,
     "distinct_fix": 0,
     "unfaithful_reject": 0,
     "number_check": {
-      "zh_summaries_checked": 14,
+      "zh_summaries_checked": 10,
       "blocked_this_run": 0
     }
   },
   "partitions": {
     "jobs": 25,
-    "ai": 9,
-    "invest": 20,
+    "ai": 12,
+    "invest": 18,
     "growth": 2
   },
   "caps": {
@@ -3116,14 +3115,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:46d",
-          "too_old:130d",
-          "too_old:221d",
-          "too_old:286d",
-          "too_old:336d",
-          "too_old:371d",
-          "too_old:399d",
-          "too_old:406d"
+          "too_old:47d",
+          "too_old:131d",
+          "too_old:222d",
+          "too_old:287d",
+          "too_old:337d",
+          "too_old:372d",
+          "too_old:400d",
+          "too_old:407d"
         ]
       },
       "tdinh_me": {
@@ -3149,14 +3148,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:49d",
-          "too_old:129d",
-          "too_old:324d",
-          "too_old:373d",
-          "too_old:489d",
-          "too_old:683d",
-          "too_old:694d",
-          "too_old:813d"
+          "too_old:50d",
+          "too_old:130d",
+          "too_old:325d",
+          "too_old:374d",
+          "too_old:490d",
+          "too_old:684d",
+          "too_old:695d",
+          "too_old:814d"
         ]
       },
       "lxfater": {
@@ -3220,14 +3219,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:79d",
-          "too_old:228d",
-          "too_old:250d",
-          "too_old:257d",
-          "too_old:275d",
-          "too_old:473d",
-          "too_old:505d",
-          "too_old:523d"
+          "too_old:80d",
+          "too_old:229d",
+          "too_old:251d",
+          "too_old:258d",
+          "too_old:276d",
+          "too_old:474d",
+          "too_old:506d",
+          "too_old:524d"
         ]
       },
       "charliebilello": {
@@ -3253,14 +3252,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:793d",
-          "too_old:800d",
-          "too_old:821d",
-          "too_old:842d",
-          "too_old:845d",
-          "too_old:851d",
-          "too_old:906d",
-          "too_old:913d"
+          "too_old:794d",
+          "too_old:801d",
+          "too_old:822d",
+          "too_old:843d",
+          "too_old:846d",
+          "too_old:852d",
+          "too_old:907d",
+          "too_old:914d"
         ]
       },
       "LynAldenContact": {
@@ -3286,7 +3285,7 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:902d"
+          "too_old:903d"
         ]
       },
       "VitalikButerin": {
@@ -3312,14 +3311,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:58d",
-          "too_old:82d",
-          "too_old:111d",
-          "too_old:153d",
-          "too_old:199d",
-          "too_old:292d",
-          "too_old:305d",
-          "too_old:327d"
+          "too_old:59d",
+          "too_old:83d",
+          "too_old:112d",
+          "too_old:154d",
+          "too_old:200d",
+          "too_old:293d",
+          "too_old:306d",
+          "too_old:328d"
         ]
       },
       "dieworkwear": {
@@ -3345,14 +3344,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:323d",
-          "too_old:326d",
-          "too_old:394d",
-          "too_old:501d",
-          "too_old:583d",
-          "too_old:619d",
-          "too_old:687d",
-          "too_old:701d"
+          "too_old:324d",
+          "too_old:327d",
+          "too_old:395d",
+          "too_old:502d",
+          "too_old:584d",
+          "too_old:620d",
+          "too_old:688d",
+          "too_old:702d"
         ]
       },
       "farnamstreet": {
@@ -3440,14 +3439,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:295d",
-          "too_old:302d",
-          "too_old:309d",
-          "too_old:316d",
-          "too_old:891d",
-          "too_old:952d",
-          "too_old:968d",
-          "too_old:996d"
+          "too_old:296d",
+          "too_old:303d",
+          "too_old:310d",
+          "too_old:317d",
+          "too_old:892d",
+          "too_old:953d",
+          "too_old:969d",
+          "too_old:997d"
         ]
       },
       "dannypostmaa": {
@@ -3473,7 +3472,7 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:64d"
+          "too_old:65d"
         ]
       },
       "damengchen": {
@@ -3499,10 +3498,10 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:959d",
-          "too_old:973d",
-          "too_old:977d",
-          "too_old:983d"
+          "too_old:960d",
+          "too_old:974d",
+          "too_old:978d",
+          "too_old:984d"
         ]
       },
       "morganhousel": {
@@ -3590,10 +3589,10 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:46d",
-          "too_old:53d",
-          "too_old:60d",
-          "too_old:67d"
+          "too_old:47d",
+          "too_old:54d",
+          "too_old:61d",
+          "too_old:68d"
         ]
       },
       "PutThisOn": {
@@ -3643,14 +3642,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:2476d",
-          "too_old:2559d",
-          "too_old:2762d",
-          "too_old:2826d",
-          "too_old:2833d",
-          "too_old:2840d",
-          "too_old:2847d",
-          "too_old:2921d"
+          "too_old:2477d",
+          "too_old:2560d",
+          "too_old:2763d",
+          "too_old:2827d",
+          "too_old:2834d",
+          "too_old:2841d",
+          "too_old:2848d",
+          "too_old:2922d"
         ]
       },
       "tibo_maker": {
@@ -3710,8 +3709,8 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:2142d",
-          "too_old:2316d"
+          "too_old:2143d",
+          "too_old:2317d"
         ]
       },
       "awealthofcs": {
@@ -3754,17 +3753,16 @@
             "scanned": 10
           }
         ],
-        "kept": 5,
-        "dropped": 5,
+        "kept": 6,
+        "dropped": 4,
         "fallback": false,
         "used_last_good": false,
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:46d",
-          "too_old:52d",
-          "too_old:59d",
-          "too_old:66d",
+          "too_old:47d",
+          "too_old:53d",
+          "too_old:60d",
           "too_old:67d"
         ]
       },
@@ -3792,10 +3790,10 @@
         "x_api": null,
         "drop_reasons": [
           "growth_politics_title",
-          "too_old:47d",
-          "too_old:54d",
-          "too_old:68d",
-          "too_old:82d"
+          "too_old:48d",
+          "too_old:55d",
+          "too_old:69d",
+          "too_old:83d"
         ]
       },
       "naval": {
@@ -3821,14 +3819,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:106d",
-          "too_old:138d",
-          "too_old:140d",
-          "too_old:141d",
-          "too_old:143d",
-          "too_old:159d",
-          "too_old:166d",
-          "too_old:172d"
+          "too_old:108d",
+          "too_old:139d",
+          "too_old:142d",
+          "too_old:142d",
+          "too_old:144d",
+          "too_old:160d",
+          "too_old:167d",
+          "too_old:173d"
         ]
       },
       "I_Am_The_ICT": {
@@ -3902,7 +3900,7 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:50d"
+          "too_old:51d"
         ]
       },
       "ritholtz": {
@@ -3921,7 +3919,7 @@
             "scanned": 10
           }
         ],
-        "kept": 7,
+        "kept": 8,
         "dropped": 0,
         "fallback": false,
         "used_last_good": false,
@@ -3952,11 +3950,11 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:46d",
-          "too_old:52d",
-          "too_old:59d",
-          "too_old:72d",
-          "too_old:79d"
+          "too_old:47d",
+          "too_old:53d",
+          "too_old:60d",
+          "too_old:73d",
+          "too_old:80d"
         ]
       },
       "RyanHoliday": {
@@ -3982,10 +3980,10 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:50d",
-          "too_old:58d",
-          "too_old:72d",
-          "too_old:93d"
+          "too_old:51d",
+          "too_old:59d",
+          "too_old:73d",
+          "too_old:94d"
         ]
       },
       "gregisenberg": {
@@ -4062,14 +4060,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:197d",
-          "too_old:211d",
-          "too_old:218d",
-          "too_old:246d",
-          "too_old:253d",
-          "too_old:260d",
-          "too_old:267d",
-          "too_old:274d"
+          "too_old:198d",
+          "too_old:212d",
+          "too_old:219d",
+          "too_old:247d",
+          "too_old:254d",
+          "too_old:261d",
+          "too_old:268d",
+          "too_old:275d"
         ]
       },
       "ramit": {
@@ -4119,14 +4117,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:619d",
-          "too_old:626d",
-          "too_old:634d",
-          "too_old:641d",
-          "too_old:649d",
-          "too_old:652d",
-          "too_old:656d",
-          "too_old:659d"
+          "too_old:620d",
+          "too_old:627d",
+          "too_old:635d",
+          "too_old:642d",
+          "too_old:650d",
+          "too_old:653d",
+          "too_old:657d",
+          "too_old:660d"
         ]
       },
       "PaulaPant": {
@@ -4255,21 +4253,21 @@
             "scanned": 20
           }
         ],
-        "kept": 7,
-        "dropped": 13,
+        "kept": 6,
+        "dropped": 14,
         "fallback": false,
         "used_last_good": false,
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:52d",
-          "too_old:59d",
-          "too_old:66d",
-          "too_old:73d",
-          "too_old:80d",
-          "too_old:87d",
-          "too_old:94d",
-          "too_old:101d"
+          "too_old:46d",
+          "too_old:53d",
+          "too_old:60d",
+          "too_old:67d",
+          "too_old:74d",
+          "too_old:81d",
+          "too_old:88d",
+          "too_old:95d"
         ]
       },
       "startupsfortherestofus": {
@@ -4295,14 +4293,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:46d",
-          "too_old:53d",
-          "too_old:60d",
-          "too_old:67d",
-          "too_old:74d",
-          "too_old:81d",
-          "too_old:88d",
-          "too_old:95d"
+          "too_old:47d",
+          "too_old:54d",
+          "too_old:61d",
+          "too_old:68d",
+          "too_old:75d",
+          "too_old:82d",
+          "too_old:89d",
+          "too_old:96d"
         ]
       },
       "moneyunder30": {
@@ -4376,14 +4374,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:184d",
-          "too_old:305d",
-          "too_old:375d",
-          "too_old:491d",
-          "too_old:599d",
-          "too_old:639d",
-          "too_old:734d",
-          "too_old:815d"
+          "too_old:185d",
+          "too_old:306d",
+          "too_old:376d",
+          "too_old:492d",
+          "too_old:600d",
+          "too_old:640d",
+          "too_old:735d",
+          "too_old:816d"
         ]
       },
       "askamanager": {
@@ -4433,8 +4431,8 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:48d",
-          "too_old:61d"
+          "too_old:49d",
+          "too_old:62d"
         ]
       },
       "artofmanliness": {
@@ -4853,7 +4851,7 @@
         ]
       }
     ],
-    "posts_kept": 185,
+    "posts_kept": 186,
     "posts_dropped": 219,
     "fallbacks": 17,
     "last_good_reused": 1,
@@ -4871,9 +4869,9 @@
     "sample_kept": [
       {
         "handle": "levelsio",
-        "title": "I'm scrambling to chase any remaining moats as AI companies suck up everything else",
-        "published_at": "2026-10-16T00:00:00.000Z",
-        "url": "https://levels.io/scrambling-to-chase-remaining-moats"
+        "title": "Warsaw is completely safe at 1am and there's a lot to learn from Poland",
+        "published_at": "2026-10-18T00:00:00.000Z",
+        "url": "https://levels.io/warsaw-safe-at-night-learn-poland"
       },
       {
         "handle": "marc_louvion",
@@ -4919,13 +4917,13 @@
   },
   "quality": {
     "articles_in": {
-      "ai": 65,
-      "invest": 91,
+      "ai": 67,
+      "invest": 93,
       "growth": 59
     },
     "posts_in": {
-      "ai": 60,
-      "invest": 91,
+      "ai": 62,
+      "invest": 93,
       "growth": 58
     },
     "near_dup_drops": {
@@ -4936,18 +4934,12 @@
     },
     "practical": {
       "ai": {
-        "dropped_technical": [
-          {
-            "title": "llm-gemini 0.35",
-            "reason": "version_changelog",
-            "handle": "simonw"
-          }
-        ],
+        "dropped_technical": [],
         "practical_boost": 0,
         "theory_demote": 0,
-        "business_boost": 10,
+        "business_boost": 12,
         "x_bonus": 0,
-        "frames": 4
+        "frames": 3
       },
       "invest": {
         "dropped_technical": [],
@@ -4970,7 +4962,7 @@
     "summary_distinct_fixes": 0,
     "summary_unfaithful_rejects": 0,
     "rss_reject_reasons": {
-      "ai_no_practice_signal": 28,
+      "ai_no_practice_signal": 30,
       "growth_no_pillar": 14,
       "fetch_fail": 1
     },
@@ -4989,7 +4981,7 @@
       "by_partition": {
         "jobs": {
           "source_keep": {},
-          "decay_count": 6,
+          "decay_count": 7,
           "max_keep_drops": 0,
           "exempt": {
             "rsi": 0,
@@ -5002,7 +4994,7 @@
               "source_id": null,
               "title": "System & Economy Designer (Intermediate/Senior)",
               "published_at": "2026-09-10T12:00:00+08:00",
-              "age_days": 37,
+              "age_days": 38,
               "penalty": 20,
               "score_before": 86,
               "score_after": 66
@@ -5012,17 +5004,27 @@
               "source_id": null,
               "title": "Senior Game Designer - Systems & Economy - Fully Remote",
               "published_at": "2026-08-25T12:00:00+08:00",
-              "age_days": 53,
+              "age_days": 54,
               "penalty": 20,
               "score_before": 72,
               "score_after": 52
+            },
+            {
+              "id": "jobs-builder-ai-games-5104334",
+              "source_id": null,
+              "title": "Senior Game Designer / Product Builder (AI Games)",
+              "published_at": "2026-10-05T12:00:00+08:00",
+              "age_days": 13,
+              "penalty": 8,
+              "score_before": 72,
+              "score_after": 64
             },
             {
               "id": "jobs--combat-designer-4843359",
               "source_id": null,
               "title": "Senior Technical Combat Designer",
               "published_at": "2026-09-17T12:00:00+08:00",
-              "age_days": 30,
+              "age_days": 31,
               "penalty": 20,
               "score_before": 54,
               "score_after": 34
@@ -5032,7 +5034,7 @@
               "source_id": null,
               "title": "Lead Product Manager - RPG",
               "published_at": "2026-09-24T12:00:00+08:00",
-              "age_days": 23,
+              "age_days": 24,
               "penalty": 8,
               "score_before": 54,
               "score_after": 46
@@ -5042,7 +5044,7 @@
               "source_id": null,
               "title": "Senior Systems Game Designer",
               "published_at": "2026-09-24T12:00:00+08:00",
-              "age_days": 23,
+              "age_days": 24,
               "penalty": 8,
               "score_before": 44,
               "score_after": 36
@@ -5052,7 +5054,7 @@
               "source_id": null,
               "title": "Technical Game Designer (Creator Tools)",
               "published_at": "2026-08-20T12:00:00+08:00",
-              "age_days": 58,
+              "age_days": 59,
               "penalty": 20,
               "score_before": 44,
               "score_after": 24
@@ -5062,12 +5064,6 @@
         },
         "ai": {
           "source_keep": {
-            "ai-reddit-indiehackers": {
-              "max_keep": 3,
-              "kept": 1,
-              "dropped": 0,
-              "candidates": 1
-            },
             "kol:levelsio": {
               "max_keep": 10,
               "kept": 10,
@@ -5086,11 +5082,17 @@
               "dropped": 0,
               "candidates": 10
             },
+            "ai-reddit-saas": {
+              "max_keep": 4,
+              "kept": 4,
+              "dropped": 0,
+              "candidates": 4
+            },
             "ai-reddit-era": {
               "max_keep": 3,
-              "kept": 1,
+              "kept": 2,
               "dropped": 0,
-              "candidates": 1
+              "candidates": 2
             },
             "kol:tibo_maker": {
               "max_keep": 10,
@@ -5100,9 +5102,9 @@
             },
             "kol:nichepursuits": {
               "max_keep": 10,
-              "kept": 7,
+              "kept": 6,
               "dropped": 0,
-              "candidates": 7
+              "candidates": 6
             },
             "kol:startupsfortherestofus": {
               "max_keep": 10,
@@ -5115,12 +5117,6 @@
               "kept": 4,
               "dropped": 0,
               "candidates": 4
-            },
-            "ai-reddit-saas": {
-              "max_keep": 4,
-              "kept": 1,
-              "dropped": 0,
-              "candidates": 1
             },
             "ai-hn-show": {
               "max_keep": 2,
@@ -5162,11 +5158,21 @@
           },
           "decay_penalties_sample": [
             {
+              "id": "ai-post-levelsio-9c02e6bff581",
+              "source_id": "kol:levelsio",
+              "title": "You can get very rich helping IRL businesses transition to AI",
+              "published_at": "2026-10-12T00:00:00.000Z",
+              "age_days": 7,
+              "penalty": 8,
+              "score_before": 68,
+              "score_after": 60
+            },
+            {
               "id": "ai-post-levelsio-1b163c8378c2",
               "source_id": "kol:levelsio",
               "title": "I've cancelled almost all my SaaS subscriptions and now my money only goes to co",
               "published_at": "2026-10-11T00:00:00.000Z",
-              "age_days": 7,
+              "age_days": 8,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5176,7 +5182,7 @@
               "source_id": "kol:levelsio",
               "title": "Normies won't know they're building software because their AI will do it for the",
               "published_at": "2026-10-11T00:00:00.000Z",
-              "age_days": 7,
+              "age_days": 8,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5186,7 +5192,7 @@
               "source_id": "kol:levelsio",
               "title": "Everyone will mostly use personal ephemeral software inside AI chat apps",
               "published_at": "2026-10-11T00:00:00.000Z",
-              "age_days": 7,
+              "age_days": 8,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5196,7 +5202,7 @@
               "source_id": "kol:tibo_maker",
               "title": "How to make the most of AI",
               "published_at": "2026-09-24T00:00:00.000Z",
-              "age_days": 24,
+              "age_days": 25,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5206,7 +5212,7 @@
               "source_id": "kol:yongfook",
               "title": "Turn Podcast Episodes into Vertical Social Clips with Bannerbear Workflows (Join",
               "published_at": "2026-09-30T03:02:00.000Z",
-              "age_days": 17,
+              "age_days": 18,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5216,7 +5222,7 @@
               "source_id": "kol:yongfook",
               "title": "How to Automate Branded Shorts in Minutes (Bannerbear Workflows Tutorial)",
               "published_at": "2026-09-29T09:00:00.000Z",
-              "age_days": 18,
+              "age_days": 19,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5226,7 +5232,7 @@
               "source_id": "kol:yongfook",
               "title": "ChatGPT x Bannerbear: How Podcasters Can Do More With Less",
               "published_at": "2026-09-22T09:00:00.000Z",
-              "age_days": 25,
+              "age_days": 26,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5236,7 +5242,7 @@
               "source_id": "kol:yongfook",
               "title": "How to Pivot Your SaaS Company in the Age of AI",
               "published_at": "2026-09-22T00:00:00.000Z",
-              "age_days": 26,
+              "age_days": 27,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5246,7 +5252,7 @@
               "source_id": "kol:nichepursuits",
               "title": "How Jason Zigelbaum Is Running a Nearly $2M ARR SaaS as a Solo Founder",
               "published_at": "2026-09-30T14:02:25.000Z",
-              "age_days": 17,
+              "age_days": 18,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5256,7 +5262,7 @@
               "source_id": "kol:startupsfortherestofus",
               "title": "Episode 853 | How to Become the SaaS That AI Recommends",
               "published_at": "2026-10-06T10:00:45.000Z",
-              "age_days": 11,
+              "age_days": 12,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5266,26 +5272,22 @@
               "source_id": "kol:startupsfortherestofus",
               "title": "Episode 851 | The Messy Middle of a SaaS Pivot",
               "published_at": "2026-09-22T10:00:32.000Z",
-              "age_days": 25,
+              "age_days": 26,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
-            },
-            {
-              "id": "ai-post-levelsio-787e2c0e038e",
-              "source_id": "kol:levelsio",
-              "title": "Software is dead and it's now the era of personal software",
-              "published_at": "2026-10-11T00:00:00.000Z",
-              "age_days": 7,
-              "penalty": 8,
-              "score_before": 60,
-              "score_after": 52
             }
           ],
           "max_keep_drops_sample": []
         },
         "invest": {
           "source_keep": {
+            "kol:MebFaber": {
+              "max_keep": 10,
+              "kept": 6,
+              "dropped": 0,
+              "candidates": 6
+            },
             "kol:dollarsanddata": {
               "max_keep": 10,
               "kept": 6,
@@ -5294,15 +5296,9 @@
             },
             "kol:ritholtz": {
               "max_keep": 10,
-              "kept": 7,
+              "kept": 8,
               "dropped": 0,
-              "candidates": 7
-            },
-            "kol:kiplinger": {
-              "max_keep": 10,
-              "kept": 10,
-              "dropped": 0,
-              "candidates": 10
+              "candidates": 8
             },
             "kol:TTrades_edu": {
               "max_keep": 10,
@@ -5322,25 +5318,25 @@
               "dropped": 0,
               "candidates": 4
             },
-            "kol:PaulaPant": {
-              "max_keep": 10,
-              "kept": 10,
-              "dropped": 0,
-              "candidates": 10
-            },
-            "kol:MebFaber": {
-              "max_keep": 10,
-              "kept": 5,
-              "dropped": 0,
-              "candidates": 5
-            },
             "kol:financialsamurai": {
               "max_keep": 10,
               "kept": 7,
               "dropped": 0,
               "candidates": 7
             },
+            "kol:kiplinger": {
+              "max_keep": 10,
+              "kept": 10,
+              "dropped": 0,
+              "candidates": 10
+            },
             "kol:awealthofcs": {
+              "max_keep": 10,
+              "kept": 10,
+              "dropped": 0,
+              "candidates": 10
+            },
+            "kol:PaulaPant": {
               "max_keep": 10,
               "kept": 10,
               "dropped": 0,
@@ -5383,11 +5379,11 @@
               "candidates": 1
             }
           },
-          "decay_count": 45,
+          "decay_count": 46,
           "max_keep_drops": 0,
           "exempt": {
             "rsi": 0,
-            "seed": 5,
+            "seed": 1,
             "account": 22
           },
           "decay_penalties_sample": [
@@ -5396,7 +5392,7 @@
               "source_id": "kol:dollarsanddata",
               "title": "Playing the Wrong Game",
               "published_at": "2026-10-06T11:45:56.000Z",
-              "age_days": 11,
+              "age_days": 12,
               "penalty": 8,
               "score_before": 90,
               "score_after": 82
@@ -5406,7 +5402,7 @@
               "source_id": "kol:ramit",
               "title": "279. “He lost his $150k job, but I make every decision. Can we fix this?”",
               "published_at": "2026-09-22T15:26:42.000Z",
-              "age_days": 25,
+              "age_days": 26,
               "penalty": 8,
               "score_before": 78,
               "score_after": 70
@@ -5416,7 +5412,7 @@
               "source_id": "kol:dollarsanddata",
               "title": "Who Is Really Rich in America? (Hint: Main Street Millionaires)",
               "published_at": "2026-09-29T11:45:37.000Z",
-              "age_days": 18,
+              "age_days": 19,
               "penalty": 8,
               "score_before": 75,
               "score_after": 67
@@ -5426,57 +5422,17 @@
               "source_id": "kol:dollarsanddata",
               "title": "Is Startup Equity a Bad Deal?",
               "published_at": "2026-09-22T11:45:57.000Z",
-              "age_days": 25,
+              "age_days": 26,
               "penalty": 8,
               "score_before": 75,
               "score_after": 67
-            },
-            {
-              "id": "invest-post-PaulaPant-4d2a3c973cf9",
-              "source_id": "kol:PaulaPant",
-              "title": "#751: Why Self-Worth Predicts Your Income More Than Your SAT Score Does, with Ma",
-              "published_at": "2026-09-18T20:18:34.000Z",
-              "age_days": 29,
-              "penalty": 8,
-              "score_before": 72,
-              "score_after": 64
             },
             {
               "id": "invest-post-dollarsanddata-f71d07f2efd6",
               "source_id": "kol:dollarsanddata",
               "title": "What Was the Best Portfolio Over the Last 50 Years?",
               "published_at": "2026-09-15T11:45:37.000Z",
-              "age_days": 32,
-              "penalty": 20,
-              "score_before": 63,
-              "score_after": 43
-            },
-            {
-              "id": "invest-post-ramit-2be5a8740945",
-              "source_id": "kol:ramit",
-              "title": "281. “We have 4 kids and nearly $1M in debt. Are we screwed?”",
-              "published_at": "2026-10-06T10:04:04.000Z",
-              "age_days": 11,
-              "penalty": 8,
-              "score_before": 63,
-              "score_after": 55
-            },
-            {
-              "id": "invest-post-ramit-6fc320bec252",
-              "source_id": "kol:ramit",
-              "title": "280. “We have $11M in assets. Why are we still living month to month?”",
-              "published_at": "2026-09-29T10:52:20.000Z",
-              "age_days": 18,
-              "penalty": 8,
-              "score_before": 63,
-              "score_after": 55
-            },
-            {
-              "id": "invest-post-PaulaPant-80f87dfa1416",
-              "source_id": "kol:PaulaPant",
-              "title": "#750: Your “Diversified” Portfolio Might Secretly Be One Big Bet on AI, with Ale",
-              "published_at": "2026-09-15T19:05:49.000Z",
-              "age_days": 32,
+              "age_days": 33,
               "penalty": 20,
               "score_before": 63,
               "score_after": 43
@@ -5486,7 +5442,7 @@
               "source_id": "kol:MebFaber",
               "title": "What If AI Stocks Are Like The….Airlines?!",
               "published_at": "2026-10-08T20:16:16.000Z",
-              "age_days": 9,
+              "age_days": 10,
               "penalty": 8,
               "score_before": 63,
               "score_after": 55
@@ -5496,7 +5452,7 @@
               "source_id": "kol:MebFaber",
               "title": "The Bond Apocalypse",
               "published_at": "2026-10-07T18:57:57.000Z",
-              "age_days": 10,
+              "age_days": 11,
               "penalty": 8,
               "score_before": 63,
               "score_after": 55
@@ -5506,7 +5462,47 @@
               "source_id": "kol:MebFaber",
               "title": "Cheap, Hated, and Breaking Out…",
               "published_at": "2026-10-06T20:14:19.000Z",
-              "age_days": 11,
+              "age_days": 12,
+              "penalty": 8,
+              "score_before": 63,
+              "score_after": 55
+            },
+            {
+              "id": "invest-post-ramit-2be5a8740945",
+              "source_id": "kol:ramit",
+              "title": "281. “We have 4 kids and nearly $1M in debt. Are we screwed?”",
+              "published_at": "2026-10-06T10:04:04.000Z",
+              "age_days": 12,
+              "penalty": 8,
+              "score_before": 63,
+              "score_after": 55
+            },
+            {
+              "id": "invest-post-ramit-6fc320bec252",
+              "source_id": "kol:ramit",
+              "title": "280. “We have $11M in assets. Why are we still living month to month?”",
+              "published_at": "2026-09-29T10:52:20.000Z",
+              "age_days": 19,
+              "penalty": 8,
+              "score_before": 63,
+              "score_after": 55
+            },
+            {
+              "id": "invest-post-PaulaPant-80f87dfa1416",
+              "source_id": "kol:PaulaPant",
+              "title": "#750: Your “Diversified” Portfolio Might Secretly Be One Big Bet on AI, with Ale",
+              "published_at": "2026-09-15T19:05:49.000Z",
+              "age_days": 33,
+              "penalty": 20,
+              "score_before": 63,
+              "score_after": 43
+            },
+            {
+              "id": "invest-post-financialsamurai-922eb471ae1d",
+              "source_id": "kol:financialsamurai",
+              "title": "Manifesting Money When You Have None: It’s Worth A Try",
+              "published_at": "2026-10-09T11:28:00.000Z",
+              "age_days": 9,
               "penalty": 8,
               "score_before": 63,
               "score_after": 55
@@ -5516,25 +5512,25 @@
         },
         "growth": {
           "source_keep": {
-            "kol:developgoodhabits": {
-              "max_keep": 10,
-              "kept": 10,
-              "dropped": 0,
-              "candidates": 10
-            },
-            "kol:bakadesuyo": {
-              "max_keep": 10,
-              "kept": 3,
-              "dropped": 0,
-              "candidates": 3
-            },
             "kol:artofmanliness": {
               "max_keep": 10,
               "kept": 9,
               "dropped": 0,
               "candidates": 9
             },
+            "kol:developgoodhabits": {
+              "max_keep": 10,
+              "kept": 10,
+              "dropped": 0,
+              "candidates": 10
+            },
             "kol:CalNewport": {
+              "max_keep": 10,
+              "kept": 3,
+              "dropped": 0,
+              "candidates": 3
+            },
+            "kol:bakadesuyo": {
               "max_keep": 10,
               "kept": 3,
               "dropped": 0,
@@ -5571,7 +5567,7 @@
               "candidates": 1
             }
           },
-          "decay_count": 25,
+          "decay_count": 26,
           "max_keep_drops": 0,
           "exempt": {
             "rsi": 0,
@@ -5580,21 +5576,11 @@
           },
           "decay_penalties_sample": [
             {
-              "id": "growth-post-CalNewport-a37b0826d622",
-              "source_id": "kol:CalNewport",
-              "title": "It’s Time to Investigate the AI Labs",
-              "published_at": "2026-09-28T10:00:00.000Z",
-              "age_days": 19,
-              "penalty": 8,
-              "score_before": 55,
-              "score_after": 47
-            },
-            {
-              "id": "growth-post-bakadesuyo-36eabbac6877",
-              "source_id": "kol:bakadesuyo",
-              "title": "How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory",
-              "published_at": "2026-09-27T16:25:55.000Z",
-              "age_days": 20,
+              "id": "growth-post-artofmanliness-8fe98ca0136c",
+              "source_id": "kol:artofmanliness",
+              "title": "The 6 Fire Lays Every Man Should Know",
+              "published_at": "2026-10-11T17:22:28.000Z",
+              "age_days": 7,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -5604,7 +5590,7 @@
               "source_id": "kol:artofmanliness",
               "title": "Odds & Ends: October 9, 2026",
               "published_at": "2026-10-09T18:45:26.000Z",
-              "age_days": 8,
+              "age_days": 9,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -5614,7 +5600,7 @@
               "source_id": "kol:artofmanliness",
               "title": "Podcast #1,136: Silence, Solitude, Stillness — The Spiritual Disciplines We Need",
               "published_at": "2026-10-06T16:57:36.000Z",
-              "age_days": 11,
+              "age_days": 12,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -5624,7 +5610,7 @@
               "source_id": "kol:artofmanliness",
               "title": "Field-Tested Advice for Time-Crunched Dads",
               "published_at": "2026-10-05T16:54:32.000Z",
-              "age_days": 12,
+              "age_days": 13,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -5634,17 +5620,37 @@
               "source_id": "kol:artofmanliness",
               "title": "The Best Western Movies Ever Made",
               "published_at": "2026-10-04T15:12:00.000Z",
-              "age_days": 13,
+              "age_days": 14,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
             },
             {
-              "id": "growth-post-artofmanliness-cd97d7fc4f61",
-              "source_id": "kol:artofmanliness",
-              "title": "What Every Man Should Keep in His Glove Box",
-              "published_at": "2026-10-01T15:38:01.000Z",
-              "age_days": 16,
+              "id": "growth-post-CalNewport-a37b0826d622",
+              "source_id": "kol:CalNewport",
+              "title": "It’s Time to Investigate the AI Labs",
+              "published_at": "2026-09-28T10:00:00.000Z",
+              "age_days": 20,
+              "penalty": 8,
+              "score_before": 55,
+              "score_after": 47
+            },
+            {
+              "id": "growth-post-bakadesuyo-a59d5f67a2f5",
+              "source_id": "kol:bakadesuyo",
+              "title": "This Is How To Get What You Want In Life: 6 Secrets To High-Agency",
+              "published_at": "2026-10-11T14:59:53.000Z",
+              "age_days": 7,
+              "penalty": 8,
+              "score_before": 55,
+              "score_after": 47
+            },
+            {
+              "id": "growth-post-bakadesuyo-36eabbac6877",
+              "source_id": "kol:bakadesuyo",
+              "title": "How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory",
+              "published_at": "2026-09-27T16:25:55.000Z",
+              "age_days": 21,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -5654,7 +5660,7 @@
               "source_id": "kol:ScottHYoung",
               "title": "The Simple Method That Boosts Memory by 50%",
               "published_at": "2026-10-06T21:33:47.000Z",
-              "age_days": 11,
+              "age_days": 12,
               "penalty": 8,
               "score_before": 45,
               "score_after": 37
@@ -5664,7 +5670,7 @@
               "source_id": "kol:ScottHYoung",
               "title": "Reach the Top 1% of Your Field (Deliberate Practice)",
               "published_at": "2026-09-30T16:54:51.000Z",
-              "age_days": 17,
+              "age_days": 18,
               "penalty": 8,
               "score_before": 45,
               "score_after": 37
@@ -5674,7 +5680,7 @@
               "source_id": "kol:ScottHYoung",
               "title": "You Should Care Less About Practical Advice",
               "published_at": "2026-09-21T18:58:23.000Z",
-              "age_days": 26,
+              "age_days": 27,
               "penalty": 8,
               "score_before": 45,
               "score_after": 37
@@ -5684,17 +5690,7 @@
               "source_id": "kol:RyanHoliday",
               "title": "10 Lessons It Took Me 10 Years To Understand",
               "published_at": "2026-10-07T20:16:57.000Z",
-              "age_days": 10,
-              "penalty": 8,
-              "score_before": 45,
-              "score_after": 37
-            },
-            {
-              "id": "growth-post-RyanHoliday-d93f94143098",
-              "source_id": "kol:RyanHoliday",
-              "title": "Why I Ran A 50K Through Rome Alone (And What It Taught Me)",
-              "published_at": "2026-09-29T21:51:02.000Z",
-              "age_days": 18,
+              "age_days": 11,
               "penalty": 8,
               "score_before": 45,
               "score_after": 37

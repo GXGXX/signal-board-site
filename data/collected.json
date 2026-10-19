@@ -1,10 +1,10 @@
 {
   "meta": {
-    "collected_at": "2026-10-18T00:04:55.158Z",
+    "collected_at": "2026-10-19T00:09:00.518Z",
     "ok": [
       {
         "id": "hitmarker_sitemap",
-        "count": 8,
+        "count": 10,
         "scanned": 476,
         "rejected": {
           "hub_or_junk": 0,
@@ -12,7 +12,7 @@
           "noise_role": 0,
           "no_geo_low_role": 0,
           "below_threshold": 0,
-          "location_out_of_range": 198,
+          "location_out_of_range": 196,
           "page_unreadable": 0,
           "too_old": 43
         }
@@ -37,7 +37,7 @@
           "noise_role": 0,
           "no_geo_low_role": 0,
           "below_threshold": 0,
-          "intern": 15,
+          "intern": 16,
           "off_target_title": 16
         }
       },
@@ -51,9 +51,9 @@
       {
         "id": "ai-simonw-atom",
         "partition": "ai",
-        "count": 12,
+        "count": 11,
         "scanned": 24,
-        "rejected": 11
+        "rejected": 13
       },
       {
         "id": "growth-jamesclear",
@@ -72,37 +72,37 @@
       {
         "id": "ai-reddit-saas",
         "partition": "ai",
-        "count": 1,
+        "count": 4,
         "scanned": 40,
-        "rejected": 39
+        "rejected": 36
       },
       {
         "id": "ai-reddit-indiehackers",
         "partition": "ai",
-        "count": 1,
-        "scanned": 2,
-        "rejected": 1
+        "count": 0,
+        "scanned": 0,
+        "rejected": 0
       },
       {
         "id": "ai-reddit-era",
         "partition": "ai",
-        "count": 1,
-        "scanned": 16,
-        "rejected": 15
+        "count": 2,
+        "scanned": 14,
+        "rejected": 12
       },
       {
         "id": "ai-reddit-entrepreneur",
         "partition": "ai",
         "count": 0,
-        "scanned": 3,
-        "rejected": 3
+        "scanned": 4,
+        "rejected": 4
       },
       {
         "id": "ai-hn-frontpage",
         "partition": "ai",
         "count": 0,
-        "scanned": 18,
-        "rejected": 18
+        "scanned": 17,
+        "rejected": 17
       },
       {
         "id": "ai-hn-show",
@@ -115,15 +115,15 @@
         "id": "invest-reddit-debtfree",
         "partition": "invest",
         "count": 2,
-        "scanned": 71,
-        "rejected": 69
+        "scanned": 70,
+        "rejected": 68
       },
       {
         "id": "invest-reddit-ynab",
         "partition": "invest",
         "count": 1,
-        "scanned": 29,
-        "rejected": 28
+        "scanned": 30,
+        "rejected": 29
       },
       {
         "id": "kol:levelsio",
@@ -373,25 +373,33 @@
       "noise_role": 0,
       "no_geo_low_role": 0,
       "below_threshold": 5,
-      "location_out_of_range": 198,
+      "location_out_of_range": 196,
       "page_unreadable": 0,
       "too_old": 43,
-      "intern": 15,
+      "intern": 16,
       "off_target_title": 16,
       "rss_reasons": {
-        "ai_no_practice_signal": 28,
+        "ai_no_practice_signal": 30,
         "growth_no_pillar": 14,
         "fetch_fail": 1
       }
     },
     "score_threshold": 40,
-    "kept": 44,
+    "kept": 46,
     "articles_kept": {
-      "ai": 65,
-      "invest": 91,
+      "ai": 67,
+      "invest": 93,
       "growth": 59
     },
     "rss_rejects_sample": [
+      {
+        "source": "ai-levelsio-rss",
+        "partition": "ai",
+        "reason": "ai_no_practice_signal",
+        "title": "Warsaw is completely safe at 1am and there's a lot to learn from Poland",
+        "url": "https://levels.io/warsaw-safe-at-night-learn-poland",
+        "score": 0
+      },
       {
         "source": "ai-levelsio-rss",
         "partition": "ai",
@@ -521,11 +529,19 @@
         "score": 0
       },
       {
-        "source": "ai-levelsio-rss",
+        "source": "ai-simonw-atom",
         "partition": "ai",
         "reason": "ai_no_practice_signal",
-        "title": "An Apple Store in Dubai leaves Apple Watches lying freely by the open door",
-        "url": "https://levels.io/dubai-apple-store-high-trust",
+        "title": "Inline rendering with document​.currentScript",
+        "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+        "score": 0
+      },
+      {
+        "source": "ai-simonw-atom",
+        "partition": "ai",
+        "reason": "ai_no_practice_signal",
+        "title": "web-edit 0.1a2",
+        "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
         "score": 0
       },
       {
@@ -692,22 +708,6 @@
         "title": "Inside Track: September 20th – September 26th Edition",
         "url": "https://putthison.com/inside-track-september-20th-september-26th-edition-2/",
         "score": 0
-      },
-      {
-        "source": "growth-putthison",
-        "partition": "growth",
-        "reason": "growth_no_pillar",
-        "title": "Scarf Season Is Almost Upon Us!",
-        "url": "https://putthison.com/scarf-season-is-almost-upon-us/",
-        "score": 0
-      },
-      {
-        "source": "growth-putthison",
-        "partition": "growth",
-        "reason": "growth_no_pillar",
-        "title": "Inside Track: September 13th – September 19th Edition",
-        "url": "https://putthison.com/inside-track-september-13th-september-19th-edition-2/",
-        "score": 0
       }
     ],
     "plan_c": {
@@ -761,14 +761,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:46d",
-            "too_old:130d",
-            "too_old:221d",
-            "too_old:286d",
-            "too_old:336d",
-            "too_old:371d",
-            "too_old:399d",
-            "too_old:406d"
+            "too_old:47d",
+            "too_old:131d",
+            "too_old:222d",
+            "too_old:287d",
+            "too_old:337d",
+            "too_old:372d",
+            "too_old:400d",
+            "too_old:407d"
           ]
         },
         "tdinh_me": {
@@ -794,14 +794,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:49d",
-            "too_old:129d",
-            "too_old:324d",
-            "too_old:373d",
-            "too_old:489d",
-            "too_old:683d",
-            "too_old:694d",
-            "too_old:813d"
+            "too_old:50d",
+            "too_old:130d",
+            "too_old:325d",
+            "too_old:374d",
+            "too_old:490d",
+            "too_old:684d",
+            "too_old:695d",
+            "too_old:814d"
           ]
         },
         "lxfater": {
@@ -865,14 +865,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:79d",
-            "too_old:228d",
-            "too_old:250d",
-            "too_old:257d",
-            "too_old:275d",
-            "too_old:473d",
-            "too_old:505d",
-            "too_old:523d"
+            "too_old:80d",
+            "too_old:229d",
+            "too_old:251d",
+            "too_old:258d",
+            "too_old:276d",
+            "too_old:474d",
+            "too_old:506d",
+            "too_old:524d"
           ]
         },
         "charliebilello": {
@@ -898,14 +898,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:793d",
-            "too_old:800d",
-            "too_old:821d",
-            "too_old:842d",
-            "too_old:845d",
-            "too_old:851d",
-            "too_old:906d",
-            "too_old:913d"
+            "too_old:794d",
+            "too_old:801d",
+            "too_old:822d",
+            "too_old:843d",
+            "too_old:846d",
+            "too_old:852d",
+            "too_old:907d",
+            "too_old:914d"
           ]
         },
         "LynAldenContact": {
@@ -931,7 +931,7 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:902d"
+            "too_old:903d"
           ]
         },
         "VitalikButerin": {
@@ -957,14 +957,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:58d",
-            "too_old:82d",
-            "too_old:111d",
-            "too_old:153d",
-            "too_old:199d",
-            "too_old:292d",
-            "too_old:305d",
-            "too_old:327d"
+            "too_old:59d",
+            "too_old:83d",
+            "too_old:112d",
+            "too_old:154d",
+            "too_old:200d",
+            "too_old:293d",
+            "too_old:306d",
+            "too_old:328d"
           ]
         },
         "dieworkwear": {
@@ -990,14 +990,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:323d",
-            "too_old:326d",
-            "too_old:394d",
-            "too_old:501d",
-            "too_old:583d",
-            "too_old:619d",
-            "too_old:687d",
-            "too_old:701d"
+            "too_old:324d",
+            "too_old:327d",
+            "too_old:395d",
+            "too_old:502d",
+            "too_old:584d",
+            "too_old:620d",
+            "too_old:688d",
+            "too_old:702d"
           ]
         },
         "farnamstreet": {
@@ -1085,14 +1085,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:295d",
-            "too_old:302d",
-            "too_old:309d",
-            "too_old:316d",
-            "too_old:891d",
-            "too_old:952d",
-            "too_old:968d",
-            "too_old:996d"
+            "too_old:296d",
+            "too_old:303d",
+            "too_old:310d",
+            "too_old:317d",
+            "too_old:892d",
+            "too_old:953d",
+            "too_old:969d",
+            "too_old:997d"
           ]
         },
         "dannypostmaa": {
@@ -1118,7 +1118,7 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:64d"
+            "too_old:65d"
           ]
         },
         "damengchen": {
@@ -1144,10 +1144,10 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:959d",
-            "too_old:973d",
-            "too_old:977d",
-            "too_old:983d"
+            "too_old:960d",
+            "too_old:974d",
+            "too_old:978d",
+            "too_old:984d"
           ]
         },
         "morganhousel": {
@@ -1235,10 +1235,10 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:46d",
-            "too_old:53d",
-            "too_old:60d",
-            "too_old:67d"
+            "too_old:47d",
+            "too_old:54d",
+            "too_old:61d",
+            "too_old:68d"
           ]
         },
         "PutThisOn": {
@@ -1288,14 +1288,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:2476d",
-            "too_old:2559d",
-            "too_old:2762d",
-            "too_old:2826d",
-            "too_old:2833d",
-            "too_old:2840d",
-            "too_old:2847d",
-            "too_old:2921d"
+            "too_old:2477d",
+            "too_old:2560d",
+            "too_old:2763d",
+            "too_old:2827d",
+            "too_old:2834d",
+            "too_old:2841d",
+            "too_old:2848d",
+            "too_old:2922d"
           ]
         },
         "tibo_maker": {
@@ -1355,8 +1355,8 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:2142d",
-            "too_old:2316d"
+            "too_old:2143d",
+            "too_old:2317d"
           ]
         },
         "awealthofcs": {
@@ -1399,17 +1399,16 @@
               "scanned": 10
             }
           ],
-          "kept": 5,
-          "dropped": 5,
+          "kept": 6,
+          "dropped": 4,
           "fallback": false,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:46d",
-            "too_old:52d",
-            "too_old:59d",
-            "too_old:66d",
+            "too_old:47d",
+            "too_old:53d",
+            "too_old:60d",
             "too_old:67d"
           ]
         },
@@ -1437,10 +1436,10 @@
           "x_api": null,
           "drop_reasons": [
             "growth_politics_title",
-            "too_old:47d",
-            "too_old:54d",
-            "too_old:68d",
-            "too_old:82d"
+            "too_old:48d",
+            "too_old:55d",
+            "too_old:69d",
+            "too_old:83d"
           ]
         },
         "naval": {
@@ -1466,14 +1465,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:106d",
-            "too_old:138d",
-            "too_old:140d",
-            "too_old:141d",
-            "too_old:143d",
-            "too_old:159d",
-            "too_old:166d",
-            "too_old:172d"
+            "too_old:108d",
+            "too_old:139d",
+            "too_old:142d",
+            "too_old:142d",
+            "too_old:144d",
+            "too_old:160d",
+            "too_old:167d",
+            "too_old:173d"
           ]
         },
         "I_Am_The_ICT": {
@@ -1547,7 +1546,7 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:50d"
+            "too_old:51d"
           ]
         },
         "ritholtz": {
@@ -1566,7 +1565,7 @@
               "scanned": 10
             }
           ],
-          "kept": 7,
+          "kept": 8,
           "dropped": 0,
           "fallback": false,
           "used_last_good": false,
@@ -1597,11 +1596,11 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:46d",
-            "too_old:52d",
-            "too_old:59d",
-            "too_old:72d",
-            "too_old:79d"
+            "too_old:47d",
+            "too_old:53d",
+            "too_old:60d",
+            "too_old:73d",
+            "too_old:80d"
           ]
         },
         "RyanHoliday": {
@@ -1627,10 +1626,10 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:50d",
-            "too_old:58d",
-            "too_old:72d",
-            "too_old:93d"
+            "too_old:51d",
+            "too_old:59d",
+            "too_old:73d",
+            "too_old:94d"
           ]
         },
         "gregisenberg": {
@@ -1707,14 +1706,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:197d",
-            "too_old:211d",
-            "too_old:218d",
-            "too_old:246d",
-            "too_old:253d",
-            "too_old:260d",
-            "too_old:267d",
-            "too_old:274d"
+            "too_old:198d",
+            "too_old:212d",
+            "too_old:219d",
+            "too_old:247d",
+            "too_old:254d",
+            "too_old:261d",
+            "too_old:268d",
+            "too_old:275d"
           ]
         },
         "ramit": {
@@ -1764,14 +1763,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:619d",
-            "too_old:626d",
-            "too_old:634d",
-            "too_old:641d",
-            "too_old:649d",
-            "too_old:652d",
-            "too_old:656d",
-            "too_old:659d"
+            "too_old:620d",
+            "too_old:627d",
+            "too_old:635d",
+            "too_old:642d",
+            "too_old:650d",
+            "too_old:653d",
+            "too_old:657d",
+            "too_old:660d"
           ]
         },
         "PaulaPant": {
@@ -1900,21 +1899,21 @@
               "scanned": 20
             }
           ],
-          "kept": 7,
-          "dropped": 13,
+          "kept": 6,
+          "dropped": 14,
           "fallback": false,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:52d",
-            "too_old:59d",
-            "too_old:66d",
-            "too_old:73d",
-            "too_old:80d",
-            "too_old:87d",
-            "too_old:94d",
-            "too_old:101d"
+            "too_old:46d",
+            "too_old:53d",
+            "too_old:60d",
+            "too_old:67d",
+            "too_old:74d",
+            "too_old:81d",
+            "too_old:88d",
+            "too_old:95d"
           ]
         },
         "startupsfortherestofus": {
@@ -1940,14 +1939,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:46d",
-            "too_old:53d",
-            "too_old:60d",
-            "too_old:67d",
-            "too_old:74d",
-            "too_old:81d",
-            "too_old:88d",
-            "too_old:95d"
+            "too_old:47d",
+            "too_old:54d",
+            "too_old:61d",
+            "too_old:68d",
+            "too_old:75d",
+            "too_old:82d",
+            "too_old:89d",
+            "too_old:96d"
           ]
         },
         "moneyunder30": {
@@ -2021,14 +2020,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:184d",
-            "too_old:305d",
-            "too_old:375d",
-            "too_old:491d",
-            "too_old:599d",
-            "too_old:639d",
-            "too_old:734d",
-            "too_old:815d"
+            "too_old:185d",
+            "too_old:306d",
+            "too_old:376d",
+            "too_old:492d",
+            "too_old:600d",
+            "too_old:640d",
+            "too_old:735d",
+            "too_old:816d"
           ]
         },
         "askamanager": {
@@ -2078,8 +2077,8 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:48d",
-            "too_old:61d"
+            "too_old:49d",
+            "too_old:62d"
           ]
         },
         "artofmanliness": {
@@ -2498,7 +2497,7 @@
           ]
         }
       ],
-      "posts_kept": 185,
+      "posts_kept": 186,
       "posts_dropped": 219,
       "fallbacks": 17,
       "last_good_reused": 1,
@@ -2516,9 +2515,9 @@
       "sample_kept": [
         {
           "handle": "levelsio",
-          "title": "I'm scrambling to chase any remaining moats as AI companies suck up everything else",
-          "published_at": "2026-10-16T00:00:00.000Z",
-          "url": "https://levels.io/scrambling-to-chase-remaining-moats"
+          "title": "Warsaw is completely safe at 1am and there's a lot to learn from Poland",
+          "published_at": "2026-10-18T00:00:00.000Z",
+          "url": "https://levels.io/warsaw-safe-at-night-learn-poland"
         },
         {
           "handle": "marc_louvion",
@@ -2548,8 +2547,8 @@
     },
     "community_rss": {
       "enabled": true,
-      "elapsed_ms": 58587,
-      "kept": 7,
+      "elapsed_ms": 39565,
+      "kept": 10,
       "report": [
         {
           "id": "ai-reddit-saas",
@@ -2557,48 +2556,48 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 488,
+          "ms": 574,
           "scanned": 40,
-          "kept": 1,
+          "kept": 4,
           "rejects": {
-            "no_numeric_fact": 10,
-            "question": 12,
-            "no_body": 2,
+            "question": 14,
+            "no_numeric_fact": 11,
+            "no_body": 5,
+            "help_seeking": 3,
             "single_fact_kind": 1,
-            "body_too_short": 8,
-            "help_seeking": 5,
-            "spam_or_promo_body": 1
+            "body_too_short": 1,
+            "over_max_items": 1
           },
           "error": null,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
-            "reset": "56"
+            "reset": "37"
           },
           "reject_samples": [
             {
+              "reason": "question",
+              "title": "one person farmed our AI free trial with 9 apple IDs and ran up ~$1,900 in image"
+            },
+            {
               "reason": "no_numeric_fact",
-              "title": "Got fired, built a product for a year, and nobody uses it. Tell me why."
+              "title": "You are not dumb enough to succeed."
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "I Am Shutting Down adultdatalink.com (Adult Content API) After 2 Years & Open So"
             },
             {
               "reason": "question",
-              "title": "Everyone says \"talk to customers before building.\" But how do you actually find "
+              "title": "How do you validate a SaaS idea before building it?"
             },
             {
-              "reason": "no_body",
-              "title": "Yesterday my website was knocked off by 280k bots. Unique IPv6 addresses, no hea"
+              "reason": "no_numeric_fact",
+              "title": "$600+ MRR from one simple comment"
             },
             {
-              "reason": "single_fact_kind",
-              "title": "SaaS directories are a slopfest, grifty and useless"
-            },
-            {
-              "reason": "body_too_short",
-              "title": "How is your marketing?"
-            },
-            {
-              "reason": "no_body",
-              "title": "How do you all handle support for your SaaS/app?"
+              "reason": "question",
+              "title": "Are indie hacker lifetime deals scams, or just badly explained?"
             }
           ],
           "partition": "ai"
@@ -2610,19 +2609,12 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 2,
-          "kept": 1,
-          "rejects": {
-            "help_seeking": 1
-          },
+          "scanned": 0,
+          "kept": 0,
+          "rejects": {},
           "error": null,
           "shared_request": true,
-          "reject_samples": [
-            {
-              "reason": "help_seeking",
-              "title": "I’m building a free hands-on DevOps lab — looking for feedback"
-            }
-          ],
+          "reject_samples": [],
           "partition": "ai"
         },
         {
@@ -2632,41 +2624,42 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 16,
-          "kept": 1,
+          "scanned": 14,
+          "kept": 2,
           "rejects": {
-            "no_numeric_fact": 6,
-            "help_seeking": 1,
-            "question": 5,
-            "no_body": 2,
-            "body_too_short": 1
+            "help_seeking": 3,
+            "single_fact_kind": 1,
+            "question": 3,
+            "spam_or_promo_body": 1,
+            "no_numeric_fact": 3,
+            "no_body": 1
           },
           "error": null,
           "shared_request": true,
           "reject_samples": [
             {
-              "reason": "no_numeric_fact",
-              "title": "Solo founder, 6 months in: building an app for lifters with muscle imbalances. H"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Decided to make social media scheduling free for small businesses"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Small production company looking for extra income model based on podcast about b"
-            },
-            {
               "reason": "help_seeking",
-              "title": "I automated my reselling workflow & made ~$3500 in a month on 12hrs of work. Now"
+              "title": "I got 600K+ views on Reddit without ever mentioning my startup. Need help with w"
+            },
+            {
+              "reason": "single_fact_kind",
+              "title": "I built an app to save my marriage. The marriage didn't make it, the app did"
+            },
+            {
+              "reason": "question",
+              "title": "Built my first CRM with Claude. What can I do with it?"
+            },
+            {
+              "reason": "question",
+              "title": "I want to start a business but have 0 connections, or idea where to begin. Where"
+            },
+            {
+              "reason": "spam_or_promo_body",
+              "title": "5 checkout leaks I keep finding on Shopify stores doing under $20k/month"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "I built an audience before launching. 600+ people joined in 4 days."
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "I turned my habit of never launching my apps into a product"
+              "title": "Discounts"
             }
           ],
           "partition": "ai"
@@ -2678,26 +2671,31 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 3,
+          "scanned": 4,
           "kept": 0,
           "rejects": {
             "question": 2,
-            "body_too_short": 1
+            "help_seeking": 1,
+            "single_fact_kind": 1
           },
           "error": null,
           "shared_request": true,
           "reject_samples": [
             {
               "reason": "question",
-              "title": "Y'all feel like you don't make progress fast enough?"
+              "title": "Is Part-Time Consultation Worth the Time for Exposure?"
+            },
+            {
+              "reason": "help_seeking",
+              "title": "Sunday Steam: Vent It or Roast It | October 18, 2026"
+            },
+            {
+              "reason": "single_fact_kind",
+              "title": "Rate my idea: I got some scrap books from my dad, my mom passed away. I started "
             },
             {
               "reason": "question",
-              "title": "A big piece of the Industrial Revolution came out of a monthly dinner party. Wha"
-            },
-            {
-              "reason": "body_too_short",
-              "title": "Success Saturday: What's Going Right | October 17, 2026"
+              "title": "I built a CRM with Claude. What can I actually do with it?"
             }
           ],
           "partition": "ai"
@@ -2708,12 +2706,12 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 69,
-          "scanned": 18,
+          "ms": 76,
+          "scanned": 17,
           "kept": 0,
           "rejects": {
             "no_numeric_fact": 16,
-            "tech_news": 2
+            "tech_news": 1
           },
           "error": null,
           "ratelimit": {
@@ -2724,27 +2722,27 @@
           "reject_samples": [
             {
               "reason": "no_numeric_fact",
-              "title": "OpenCode Hacked: User credentials leaked"
+              "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "I Became a Citizen of Japan"
-            },
-            {
-              "reason": "tech_news",
-              "title": "Development statistics for the 7.2 kernel"
+              "title": "Free Pascal compiler now supports dynamic packages"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Gold is now the top U.S. export"
+              "title": "Florida's HOAs and condo associations are making the housing crisis worse"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Pele – Mermaid diagrams as themeable SVG"
+              "title": "Namecheap just seized and disabled all my domains"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Solar surpasses nuclear power globally for first time"
+              "title": "Someone behind the software"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Java sealed classes and exhaustive pattern matching"
             }
           ],
           "partition": "ai"
@@ -2755,12 +2753,12 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 1111,
+          "ms": 59,
           "scanned": 20,
           "kept": 1,
           "rejects": {
             "no_numeric_fact": 18,
-            "question": 1
+            "tech_news": 1
           },
           "error": null,
           "waited_ms": 7998,
@@ -2772,6 +2770,18 @@
           "reject_samples": [
             {
               "reason": "no_numeric_fact",
+              "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping"
+            },
+            {
+              "reason": "tech_news",
+              "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5"
+            },
+            {
+              "reason": "no_numeric_fact",
               "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser"
             },
             {
@@ -2781,18 +2791,6 @@
             {
               "reason": "no_numeric_fact",
               "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Show HN: rStation – A shared research lab for your AI agents"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Show HN: Gemini 4 Argon plays StarCraft"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering"
             }
           ],
           "partition": "ai"
@@ -2803,18 +2801,18 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 1004,
-          "scanned": 71,
+          "ms": 933,
+          "scanned": 70,
           "kept": 2,
           "rejects": {
-            "body_too_short": 8,
             "no_body": 1,
+            "body_too_short": 7,
             "no_concrete_method": 8,
             "country_specific": 9,
             "no_amount_in_action": 8,
             "no_first_person_action": 2,
-            "no_numeric_fact": 5,
             "question": 18,
+            "no_numeric_fact": 5,
             "no_practice_topic": 2,
             "help_seeking": 4,
             "off_profile": 1,
@@ -2822,20 +2820,20 @@
             "over_max_items": 1
           },
           "error": null,
-          "waited_ms": 47746,
+          "waited_ms": 29788,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
-            "reset": "59"
+            "reset": "58"
           },
           "reject_samples": [
             {
-              "reason": "body_too_short",
-              "title": "$99,985 in CC debt"
-            },
-            {
               "reason": "no_body",
               "title": "US families are behind on bills at rate not seen since Great Recession of 2008"
+            },
+            {
+              "reason": "body_too_short",
+              "title": "$99,985 in CC debt"
             },
             {
               "reason": "no_concrete_method",
@@ -2863,7 +2861,7 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 29,
+          "scanned": 30,
           "kept": 1,
           "rejects": {
             "no_amount_in_action": 3,
@@ -2873,7 +2871,8 @@
             "country_specific": 3,
             "no_body": 1,
             "discussion_questions": 2,
-            "no_first_person_action": 1
+            "no_first_person_action": 1,
+            "help_seeking": 1
           },
           "error": null,
           "shared_request": true,
@@ -2941,7 +2940,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 88 · 命中：数值策划、mmo、persona_transferable",
       "blurb": "数值/经济向 · Guangzhou · 分88",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 88,
       "geo_uncertain": false
     },
@@ -2959,7 +2958,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 88 · 命中：数值策划、经济系统",
       "blurb": "数值/经济向 · Guangzhou · 分88",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 88,
       "geo_uncertain": false
     },
@@ -2996,7 +2995,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、战斗数值",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 86,
       "geo_uncertain": false
     },
@@ -3015,7 +3014,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、经济投放、persona_transferable",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 86,
       "geo_uncertain": false
     },
@@ -3035,7 +3034,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、经济系统、成长曲线",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 86,
       "geo_uncertain": false
     },
@@ -3055,7 +3054,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、数值设计、战斗数值",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 86,
       "geo_uncertain": false
     },
@@ -3077,7 +3076,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、战斗数值、资深数值策划",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 86,
       "geo_uncertain": false
     },
@@ -3099,7 +3098,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、游戏数值、数值设计",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 86,
       "geo_uncertain": false
     },
@@ -3120,7 +3119,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、经济系统、战斗数值",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 86,
       "geo_uncertain": false
     },
@@ -3138,7 +3137,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、数值设计",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 86,
       "geo_uncertain": false
     },
@@ -3156,7 +3155,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：经济系统、商业化策划",
       "blurb": "商业化向 · Shenzhen · 分86",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 86,
       "geo_uncertain": false
     },
@@ -3175,7 +3174,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：系统策划、systems+monetization、资深系统策划",
       "blurb": "商业化向 · Shenzhen · 分86",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 86,
       "geo_uncertain": false
     },
@@ -3194,7 +3193,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：系统策划、systems+monetization、资深系统策划",
       "blurb": "商业化向 · Shenzhen · 分86",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 86,
       "geo_uncertain": false
     },
@@ -3213,7 +3212,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：系统策划、养成、persona_transferable",
       "blurb": "系统向 · Shenzhen · 分86",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 86,
       "geo_uncertain": false
     },
@@ -3234,7 +3233,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：系统策划、养成、资源投放",
       "blurb": "系统向 · Shenzhen · 分86",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 86,
       "geo_uncertain": false
     },
@@ -3253,7 +3252,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：系统策划、养成、persona_transferable",
       "blurb": "系统向 · Shenzhen · 分86",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 86,
       "geo_uncertain": false
     },
@@ -3290,7 +3289,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 80 · 命中：商业化策划、资源投放、persona_transferable",
       "blurb": "商业化向 · Shenzhen · 分80",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 80,
       "geo_uncertain": false
     },
@@ -3308,7 +3307,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 80 · 命中：数值策划、资深数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分80",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 80,
       "geo_uncertain": false
     },
@@ -3326,7 +3325,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 80 · 命中：数值策划、资深数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分80",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 80,
       "geo_uncertain": false
     },
@@ -3344,7 +3343,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 80 · 命中：数值策划、资深数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分80",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 80,
       "geo_uncertain": false
     },
@@ -3362,7 +3361,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 80 · 命中：数值策划、资深数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分80",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 80,
       "geo_uncertain": false
     },
@@ -3380,7 +3379,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 78 · 命中：系统策划、systems+monetization",
       "blurb": "系统向 · Shenzhen · 分78",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 78,
       "geo_uncertain": false
     },
@@ -3398,7 +3397,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 78 · 命中：系统策划、systems+monetization",
       "blurb": "系统向 · Shenzhen · 分78",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 78,
       "geo_uncertain": false
     },
@@ -3416,7 +3415,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 78 · 命中：系统策划、资深系统策划",
       "blurb": "系统向 · Guangzhou · 分78",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 78,
       "geo_uncertain": false
     },
@@ -3434,7 +3433,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 78 · 命中：系统策划、高级系统策划",
       "blurb": "系统向 · Guangzhou · 分78",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 78,
       "geo_uncertain": false
     },
@@ -3452,7 +3451,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 78 · 命中：系统策划、资深系统策划",
       "blurb": "系统向 · Guangzhou · 分78",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 78,
       "geo_uncertain": false
     },
@@ -3470,7 +3469,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 76 · 命中：系统策划、资深系统策划",
       "blurb": "系统向 · Shenzhen · 分76",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 76,
       "geo_uncertain": false
     },
@@ -3495,6 +3494,24 @@
     {
       "type": "job",
       "category": "游戏招聘",
+      "title": "Senior Game Designer / Product Builder (AI Games)",
+      "company": "UserWise Services",
+      "location": "Remote",
+      "source": "Hitmarker",
+      "url": "https://hitmarker.net/jobs/userwise-services-senior-game-designer-product-builder-ai-games-5104334",
+      "keywords": [
+        "game designer",
+        "monetization"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 72 · 命中：game designer、monetization · 地点来自岗位页：Remote",
+      "blurb": "数值相关 · Remote · 分72",
+      "posted_at": "2026-10-05",
+      "score": 72,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
       "title": "J3-UE5微恐射击-系统策划",
       "company": "腾讯招聘",
       "location": "Shenzhen",
@@ -3506,7 +3523,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 72 · 命中：系统策划、systems+monetization",
       "blurb": "系统向 · Shenzhen · 分72",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 72,
       "geo_uncertain": false
     },
@@ -3523,7 +3540,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分62",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 62,
       "geo_uncertain": false
     },
@@ -3540,7 +3557,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分62",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 62,
       "geo_uncertain": false
     },
@@ -3557,7 +3574,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分62",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 62,
       "geo_uncertain": false
     },
@@ -3574,7 +3591,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分62",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 62,
       "geo_uncertain": false
     },
@@ -3591,7 +3608,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分62",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 62,
       "geo_uncertain": false
     },
@@ -3608,7 +3625,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 60 · 命中：数值策划",
       "blurb": "数值/经济向 · Shenzhen · 分60",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 60,
       "geo_uncertain": false
     },
@@ -3625,7 +3642,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 56 · 命中：商业化策划",
       "blurb": "商业化向 · Guangzhou · 分56",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 56,
       "geo_uncertain": false
     },
@@ -3676,7 +3693,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 46 · 命中：玩法策划",
       "blurb": "数值相关 · Guangzhou · 分46",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "score": 46,
       "geo_uncertain": false
     },
@@ -3694,6 +3711,23 @@
       "note": "公开页自动采集，请以官网为准 · 相关度 44 · 命中：game designer · 地点来自岗位页：Remote",
       "blurb": "系统向 · Remote · 分44",
       "posted_at": "2026-09-24",
+      "score": 44,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Senior Game Designer",
+      "company": "Smoking Gun Interactive",
+      "location": "Remote",
+      "source": "Hitmarker",
+      "url": "https://hitmarker.net/jobs/smoking-gun-interactive-senior-game-designer-4865084",
+      "keywords": [
+        "game designer"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 44 · 命中：game designer · 地点来自岗位页：Remote",
+      "blurb": "数值相关 · Remote · 分44",
+      "posted_at": "2026-09-16",
       "score": 44,
       "geo_uncertain": false
     },
@@ -3734,40 +3768,6 @@
   ],
   "articles": {
     "ai": [
-      {
-        "id": "ai-community-ai-reddit-indiehackers-663672c4e095",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "9 months in, 107 Mac downloads, 12 Windows installs, DealFuel live. Here's what changed.",
-        "summary": "The deal went live today at $99 lifetime with $189 crossed out. In September I posted about 7 months and 101 downloads. Every install comes from a direct Reddit link. Mac App Store: 107 downloads, 139 updates, 2 paying Pro customers Windows Store: 12 installs, 0 Pro conversions",
-        "source": "r/indiehackers",
-        "source_url": "https://www.reddit.com/r/indiehackers/comments/1x85cxm/9_months_in_107_mac_downloads_12_windows_installs/",
-        "published_at": "2026-10-17T08:50:59.000Z",
-        "tags": [
-          "reddit",
-          "r/indiehackers",
-          "做法",
-          "定价",
-          "用户/流量数",
-          "获客渠道"
-        ],
-        "score": 76,
-        "why": "公开社区帖 · r/indiehackers · top/day 第1位 · 原帖含：做法、定价、用户/流量数、获客渠道",
-        "deep_link": "https://www.reddit.com/r/indiehackers/comments/1x85cxm/9_months_in_107_mac_downloads_12_windows_installs/",
-        "blurb": "The deal went live today at $99 lifetime with $189 crossed out. In September I posted about 7 months and 101 downloads. ",
-        "source_excerpt": "The deal went live today at $99 lifetime with $189 crossed out. In September I posted about 7 months and 101 downloads. Every install comes from a direct Reddit link. Mac App Store: 107 downloads, 139 updates, 2 paying Pro customers Windows Store: 12 installs, 0 Pro conversions",
-        "url": "https://www.reddit.com/r/indiehackers/comments/1x85cxm/9_months_in_107_mac_downloads_12_windows_installs/",
-        "lang": "EN",
-        "posted_at": "2026-10-17",
-        "_origin": "community_rss",
-        "_feed_type": "reddit_rss",
-        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-        "_source_id": "ai-reddit-indiehackers",
-        "_score_raw": 76,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
       {
         "id": "ai-post-levelsio-0c165450aea8",
         "partition": "ai",
@@ -3827,43 +3827,6 @@
         "blurb": "I'm scrambling to chase any remaining moats as AI companies suck up everything else",
         "url": "https://levels.io/scrambling-to-chase-remaining-moats",
         "posted_at": "2026-10-16",
-        "handle": "levelsio",
-        "name": "Pieter Levels",
-        "person_id": "levelsio",
-        "person_handle": "levelsio",
-        "person_name": "Pieter Levels",
-        "tier": "S",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:levelsio",
-        "_feed_url": "https://levels.io/rss/",
-        "_feed_type": "blog_rss",
-        "_score_raw": 76,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-post-levelsio-9c02e6bff581",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "You can get very rich helping IRL businesses transition to AI",
-        "summary": "",
-        "source": "@levelsio / Pieter Levels",
-        "source_url": "https://levels.io/rich-helping-irl-businesses-ai",
-        "published_at": "2026-10-12T00:00:00.000Z",
-        "tags": [
-          "公开营收",
-          "indie",
-          "mrr",
-          "SaaS"
-        ],
-        "score": 76,
-        "why": "独立/Agent：公开营收、indie；加分：AI建造/工具实践；策展：自有产品矩阵+公开营收，是最清晰的 AI/独立变现建造者信号。",
-        "deep_link": "https://levels.io/rich-helping-irl-businesses-ai",
-        "blurb": "You can get very rich helping IRL businesses transition to AI",
-        "url": "https://levels.io/rich-helping-irl-businesses-ai",
-        "posted_at": "2026-10-12",
         "handle": "levelsio",
         "name": "Pieter Levels",
         "person_id": "levelsio",
@@ -3953,36 +3916,106 @@
         "_decay_exempt": null
       },
       {
-        "id": "ai-community-ai-reddit-era-7ac36d3bf89c",
+        "id": "ai-community-ai-reddit-saas-f976b4f17bc2",
         "partition": "ai",
         "type": "post",
         "category": "AI变现",
-        "title": "i couldn't sell for sh*t in 2022. i still got to $200K ARR this year. here's 3 things i stuck to:",
-        "summary": "if i had to describe the formula, it'd be volume × iteration. take calls, get feedback, make adjustments, and repeat. you can learn from YouTube too, but having someone review what you're actually doing can speed things up a lot of people think taking more calls is enough to get better. volume matters, but repeating the same mistakes 100 times doesn't automatically make you better.",
+        "title": "I compared what Levels, Marc Lou, Rob Walling, Justin Welsh and Hormozi actually say about free plans. Almost all of them say skip it.",
+        "summary": "His math is that about 3% of free users upgrade, so at $10/month you need 10,000 free users to make $3,000. In his survey of nearly 700 bootstrapped SaaS, trials that required a credit card grew about twice as fast as no-card trials and had the lowest churn.",
+        "source": "r/SaaS",
+        "source_url": "https://www.reddit.com/r/SaaS/comments/1x8zpc0/i_compared_what_levels_marc_lou_rob_walling/",
+        "published_at": "2026-10-18T10:16:18.000Z",
+        "tags": [
+          "reddit",
+          "r/SaaS",
+          "用户/流量数",
+          "定价",
+          "踩坑/复盘"
+        ],
+        "score": 72,
+        "why": "公开社区帖 · r/SaaS · top/day 第5位 · 原帖含：用户/流量数、定价、踩坑/复盘",
+        "deep_link": "https://www.reddit.com/r/SaaS/comments/1x8zpc0/i_compared_what_levels_marc_lou_rob_walling/",
+        "blurb": "His math is that about 3% of free users upgrade, so at $10/month you need 10,000 free users to make $3,000. In his surve",
+        "source_excerpt": "His math is that about 3% of free users upgrade, so at $10/month you need 10,000 free users to make $3,000. In his survey of nearly 700 bootstrapped SaaS, trials that required a credit card grew about twice as fast as no-card trials and had the lowest churn.",
+        "url": "https://www.reddit.com/r/SaaS/comments/1x8zpc0/i_compared_what_levels_marc_lou_rob_walling/",
+        "lang": "EN",
+        "posted_at": "2026-10-18",
+        "_origin": "community_rss",
+        "_feed_type": "reddit_rss",
+        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+        "_source_id": "ai-reddit-saas",
+        "_score_raw": 72,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-community-ai-reddit-era-1f1fb54ca506",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "Highs, losses, and a derailed life plan, I need perspective from entrepreneurs who’ve genuinely been through hard times",
+        "summary": "During this same period, my last remaining ecommerce business took a serious hit, dropping from around $50K/year down to about $15K. Fortunately, during this low point, a previous employer reached out with an 8-month ecommerce manager project, paying $30K total. Instead, I made a major mistake, I invested most of my savings into an imported car deal and ended up losing more than half of it.",
         "source": "r/EntrepreneurRideAlong",
-        "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x8fbvu/i_couldnt_sell_for_sht_in_2022_i_still_got_to/",
-        "published_at": "2026-10-17T17:00:58.000Z",
+        "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x94qr7/highs_losses_and_a_derailed_life_plan_i_need/",
+        "published_at": "2026-10-18T14:35:43.000Z",
         "tags": [
           "reddit",
           "r/EntrepreneurRideAlong",
-          "收入",
-          "踩坑/复盘",
-          "获客渠道"
+          "定价",
+          "投入",
+          "踩坑/复盘"
         ],
-        "score": 71,
-        "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第1位 · 原帖含：收入、踩坑/复盘、获客渠道",
-        "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x8fbvu/i_couldnt_sell_for_sht_in_2022_i_still_got_to/",
-        "blurb": "if i had to describe the formula, it'd be volume × iteration. take calls, get feedback, make adjustments, and repeat. yo",
-        "source_excerpt": "if i had to describe the formula, it'd be volume × iteration. take calls, get feedback, make adjustments, and repeat. you can learn from YouTube too, but having someone review what you're actually doing can speed things up a lot of people think taking more calls is enough to get better. volume matters, but repeating the same mistakes 100 times doesn't automatically make you better.",
-        "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x8fbvu/i_couldnt_sell_for_sht_in_2022_i_still_got_to/",
+        "score": 69,
+        "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第8位 · 原帖含：定价、投入、踩坑/复盘",
+        "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x94qr7/highs_losses_and_a_derailed_life_plan_i_need/",
+        "blurb": "During this same period, my last remaining ecommerce business took a serious hit, dropping from around $50K/year down to",
+        "source_excerpt": "During this same period, my last remaining ecommerce business took a serious hit, dropping from around $50K/year down to about $15K. Fortunately, during this low point, a previous employer reached out with an 8-month ecommerce manager project, paying $30K total. Instead, I made a major mistake, I invested most of my savings into an imported car deal and ended up losing more than half of it.",
+        "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x94qr7/highs_losses_and_a_derailed_life_plan_i_need/",
         "lang": "EN",
-        "posted_at": "2026-10-17",
+        "posted_at": "2026-10-18",
         "_origin": "community_rss",
         "_feed_type": "reddit_rss",
         "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
         "_source_id": "ai-reddit-era",
-        "_score_raw": 71,
+        "_score_raw": 69,
         "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-post-levelsio-9c02e6bff581",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "You can get very rich helping IRL businesses transition to AI",
+        "summary": "",
+        "source": "@levelsio / Pieter Levels",
+        "source_url": "https://levels.io/rich-helping-irl-businesses-ai",
+        "published_at": "2026-10-12T00:00:00.000Z",
+        "tags": [
+          "公开营收",
+          "indie",
+          "mrr",
+          "SaaS"
+        ],
+        "score": 68,
+        "why": "独立/Agent：公开营收、indie；加分：AI建造/工具实践；策展：自有产品矩阵+公开营收，是最清晰的 AI/独立变现建造者信号。",
+        "deep_link": "https://levels.io/rich-helping-irl-businesses-ai",
+        "blurb": "You can get very rich helping IRL businesses transition to AI",
+        "url": "https://levels.io/rich-helping-irl-businesses-ai",
+        "posted_at": "2026-10-12",
+        "handle": "levelsio",
+        "name": "Pieter Levels",
+        "person_id": "levelsio",
+        "person_handle": "levelsio",
+        "person_name": "Pieter Levels",
+        "tier": "S",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:levelsio",
+        "_feed_url": "https://levels.io/rss/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 76,
+        "_decay_penalty": 8,
         "_decay_exempt": null
       },
       {
@@ -4097,6 +4130,43 @@
         "_decay_exempt": null
       },
       {
+        "id": "ai-post-levelsio-75d314d456bf",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "Warsaw is completely safe at 1am and there's a lot to learn from Poland",
+        "summary": "",
+        "source": "@levelsio / Pieter Levels",
+        "source_url": "https://levels.io/warsaw-safe-at-night-learn-poland",
+        "published_at": "2026-10-18T00:00:00.000Z",
+        "tags": [
+          "公开营收",
+          "indie",
+          "mrr",
+          "SaaS"
+        ],
+        "score": 68,
+        "why": "独立/Agent：公开营收、indie；策展：自有产品矩阵+公开营收，是最清晰的 AI/独立变现建造者信号。",
+        "deep_link": "https://levels.io/warsaw-safe-at-night-learn-poland",
+        "blurb": "Warsaw is completely safe at 1am and there's a lot to learn from Poland",
+        "url": "https://levels.io/warsaw-safe-at-night-learn-poland",
+        "posted_at": "2026-10-18",
+        "handle": "levelsio",
+        "name": "Pieter Levels",
+        "person_id": "levelsio",
+        "person_handle": "levelsio",
+        "person_name": "Pieter Levels",
+        "tier": "S",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:levelsio",
+        "_feed_url": "https://levels.io/rss/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 68,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
         "id": "ai-post-levelsio-7f4f13e01f32",
         "partition": "ai",
         "type": "post",
@@ -4155,43 +4225,6 @@
         "blurb": "You can run Windows XP inside a tweet",
         "url": "https://levels.io/windows-xp-inside-a-tweet",
         "posted_at": "2026-10-13",
-        "handle": "levelsio",
-        "name": "Pieter Levels",
-        "person_id": "levelsio",
-        "person_handle": "levelsio",
-        "person_name": "Pieter Levels",
-        "tier": "S",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:levelsio",
-        "_feed_url": "https://levels.io/rss/",
-        "_feed_type": "blog_rss",
-        "_score_raw": 68,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-post-levelsio-fccd2da921c0",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "I'd expand the moats left to proprietary data, network effects, distribution, hardware, capital, and regulation",
-        "summary": "",
-        "source": "@levelsio / Pieter Levels",
-        "source_url": "https://levels.io/moats-left-data-network-capital",
-        "published_at": "2026-10-12T00:00:00.000Z",
-        "tags": [
-          "公开营收",
-          "indie",
-          "mrr",
-          "SaaS"
-        ],
-        "score": 68,
-        "why": "独立/Agent：公开营收、indie；策展：自有产品矩阵+公开营收，是最清晰的 AI/独立变现建造者信号。",
-        "deep_link": "https://levels.io/moats-left-data-network-capital",
-        "blurb": "I'd expand the moats left to proprietary data, network effects, distribution, hardware, capital, and regulation",
-        "url": "https://levels.io/moats-left-data-network-capital",
-        "posted_at": "2026-10-12",
         "handle": "levelsio",
         "name": "Pieter Levels",
         "person_id": "levelsio",
@@ -4615,6 +4648,194 @@
         "_decay_exempt": null
       },
       {
+        "id": "ai-community-ai-reddit-saas-f3d66c10146d",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "I built a launch video generator SaaS and Generated over $1600+ in revenue.",
+        "summary": "\\- The problem that my creation solves This is the exact story of how I built it, what I spent, how I got my first users, what worked, what failed, and what I would do differently if I were starting again today. And here is the journey of how I made it without any initial capital and reached $1,600+ revenue till date.",
+        "source": "r/SaaS",
+        "source_url": "https://www.reddit.com/r/SaaS/comments/1x93pr1/i_built_a_launch_video_generator_saas_and/",
+        "published_at": "2026-10-18T13:50:26.000Z",
+        "tags": [
+          "reddit",
+          "r/SaaS",
+          "收入",
+          "踩坑/复盘",
+          "做法"
+        ],
+        "score": 68,
+        "why": "公开社区帖 · r/SaaS · top/day 第7位 · 原帖含：收入、踩坑/复盘、做法",
+        "deep_link": "https://www.reddit.com/r/SaaS/comments/1x93pr1/i_built_a_launch_video_generator_saas_and/",
+        "blurb": "\\- The problem that my creation solves This is the exact story of how I built it, what I spent, how I got my first users",
+        "source_excerpt": "\\- The problem that my creation solves This is the exact story of how I built it, what I spent, how I got my first users, what worked, what failed, and what I would do differently if I were starting again today. And here is the journey of how I made it without any initial capital and reached $1,600+ revenue till date.",
+        "url": "https://www.reddit.com/r/SaaS/comments/1x93pr1/i_built_a_launch_video_generator_saas_and/",
+        "lang": "EN",
+        "posted_at": "2026-10-18",
+        "_origin": "community_rss",
+        "_feed_type": "reddit_rss",
+        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+        "_source_id": "ai-reddit-saas",
+        "_score_raw": 68,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-community-ai-reddit-saas-8029fcc12100",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "Rented someone else SaaS and scaled to $3.9k MRR 😅",
+        "summary": "So I tried the opposite...found a SaaS which knows it has customer and offers whitelabeling. Put my brand on it and purely focused on marketing through Linkedin outrach and organic UGC videos (tiktok, IG, YT).",
+        "source": "r/SaaS",
+        "source_url": "https://www.reddit.com/r/SaaS/comments/1x97sm5/rented_someone_else_saas_and_scaled_to_39k_mrr/",
+        "published_at": "2026-10-18T16:41:09.000Z",
+        "tags": [
+          "reddit",
+          "r/SaaS",
+          "收入",
+          "获客渠道"
+        ],
+        "score": 67,
+        "why": "公开社区帖 · r/SaaS · top/day 第2位 · 原帖含：收入、获客渠道",
+        "deep_link": "https://www.reddit.com/r/SaaS/comments/1x97sm5/rented_someone_else_saas_and_scaled_to_39k_mrr/",
+        "blurb": "So I tried the opposite...found a SaaS which knows it has customer and offers whitelabeling. Put my brand on it and pure",
+        "source_excerpt": "So I tried the opposite...found a SaaS which knows it has customer and offers whitelabeling. Put my brand on it and purely focused on marketing through Linkedin outrach and organic UGC videos (tiktok, IG, YT).",
+        "url": "https://www.reddit.com/r/SaaS/comments/1x97sm5/rented_someone_else_saas_and_scaled_to_39k_mrr/",
+        "lang": "EN",
+        "posted_at": "2026-10-18",
+        "_origin": "community_rss",
+        "_feed_type": "reddit_rss",
+        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+        "_source_id": "ai-reddit-saas",
+        "_score_raw": 67,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-community-ai-reddit-era-e10dd1fb43c7",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "launching my first digital product with 0 users, gonna post updates here",
+        "summary": "refund shown right under the buy button where im at: launched, 0 customers. next step is finding the first 10 and seeing what they actually use it for",
+        "source": "r/EntrepreneurRideAlong",
+        "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x8v9zu/launching_my_first_digital_product_with_0_users/",
+        "published_at": "2026-10-18T05:41:35.000Z",
+        "tags": [
+          "reddit",
+          "r/EntrepreneurRideAlong",
+          "用户/流量数",
+          "踩坑/复盘"
+        ],
+        "score": 67,
+        "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第2位 · 原帖含：用户/流量数、踩坑/复盘",
+        "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x8v9zu/launching_my_first_digital_product_with_0_users/",
+        "blurb": "refund shown right under the buy button where im at: launched, 0 customers. next step is finding the first 10 and seeing",
+        "source_excerpt": "refund shown right under the buy button where im at: launched, 0 customers. next step is finding the first 10 and seeing what they actually use it for",
+        "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x8v9zu/launching_my_first_digital_product_with_0_users/",
+        "lang": "EN",
+        "posted_at": "2026-10-18",
+        "_origin": "community_rss",
+        "_feed_type": "reddit_rss",
+        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+        "_source_id": "ai-reddit-era",
+        "_score_raw": 67,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-community-ai-reddit-saas-1aa3018115ff",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "My Struggle So far With My Vivecoded APP!",
+        "summary": "Create a bunch of failed apps ( lifetime 50 - 300 installs ) between 2019-2020 and moved on to affiliate marketing and blogging full time which were doing great for me financially between 2021-2024. WEll a paid user is diffrent than a free one and its diffrent than affiliates where you succesfully refer a customer he or she convert and you cah in the commision thats all.",
+        "source": "r/SaaS",
+        "source_url": "https://www.reddit.com/r/SaaS/comments/1x96ej9/my_struggle_so_far_with_my_vivecoded_app/",
+        "published_at": "2026-10-18T15:45:29.000Z",
+        "tags": [
+          "reddit",
+          "r/SaaS",
+          "用户/流量数",
+          "踩坑/复盘",
+          "获客渠道"
+        ],
+        "score": 65,
+        "why": "公开社区帖 · r/SaaS · top/day 第33位 · 原帖含：用户/流量数、踩坑/复盘、获客渠道",
+        "deep_link": "https://www.reddit.com/r/SaaS/comments/1x96ej9/my_struggle_so_far_with_my_vivecoded_app/",
+        "blurb": "Create a bunch of failed apps ( lifetime 50 - 300 installs ) between 2019-2020 and moved on to affiliate marketing and b",
+        "source_excerpt": "Create a bunch of failed apps ( lifetime 50 - 300 installs ) between 2019-2020 and moved on to affiliate marketing and blogging full time which were doing great for me financially between 2021-2024. WEll a paid user is diffrent than a free one and its diffrent than affiliates where you succesfully refer a customer he or she convert and you cah in the commision thats all.",
+        "url": "https://www.reddit.com/r/SaaS/comments/1x96ej9/my_struggle_so_far_with_my_vivecoded_app/",
+        "lang": "EN",
+        "posted_at": "2026-10-18",
+        "_origin": "community_rss",
+        "_feed_type": "reddit_rss",
+        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+        "_source_id": "ai-reddit-saas",
+        "_score_raw": 65,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-rss-ai-simonw-atom-544e151b76a4",
+        "partition": "ai",
+        "type": "card",
+        "category": "AI变现",
+        "title": "llm-tools-datasette 0.1.1",
+        "summary": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used https without directly depending on it. llm-tools-datasette was one of those plugins",
+        "source": "@simonw / Simon Willison",
+        "source_url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+        "published_at": "2026-10-18T23:43:09.000Z",
+        "tags": [
+          "llm"
+        ],
+        "score": 64,
+        "why": "独立/Agent：llm；加分：AI建造/工具实践",
+        "deep_link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+        "blurb": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plu",
+        "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+        "posted_at": "2026-10-18",
+        "_origin": "rss",
+        "_source_id": "ai-simonw-atom",
+        "person_id": "simonw",
+        "person_handle": "simonw",
+        "person_name": "Simon Willison",
+        "handle": "simonw",
+        "_score_raw": 64,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-rss-ai-simonw-atom-0083c457120f",
+        "partition": "ai",
+        "type": "card",
+        "category": "AI变现",
+        "title": "llm-echo 0.5",
+        "summary": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the p",
+        "source": "@simonw / Simon Willison",
+        "source_url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+        "published_at": "2026-10-18T23:16:16.000Z",
+        "tags": [
+          "llm"
+        ],
+        "score": 64,
+        "why": "独立/Agent：llm；加分：AI建造/工具实践",
+        "deep_link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+        "blurb": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plu",
+        "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+        "posted_at": "2026-10-18",
+        "_origin": "rss",
+        "_source_id": "ai-simonw-atom",
+        "person_id": "simonw",
+        "person_handle": "simonw",
+        "person_name": "Simon Willison",
+        "handle": "simonw",
+        "_score_raw": 64,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
         "id": "ai-rss-ai-simonw-atom-fac34faca51b",
         "partition": "ai",
         "type": "card",
@@ -4673,96 +4894,6 @@
         "_decay_exempt": null
       },
       {
-        "id": "ai-rss-ai-simonw-atom-9bcd5ab115a9",
-        "partition": "ai",
-        "type": "card",
-        "category": "AI变现",
-        "title": "llm-gemini 0.35",
-        "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high ",
-        "source": "@simonw / Simon Willison",
-        "source_url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-        "published_at": "2026-10-13T22:28:54.000Z",
-        "tags": [
-          "llm"
-        ],
-        "score": 64,
-        "why": "独立/Agent：llm；加分：AI建造/工具实践",
-        "deep_link": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-        "blurb": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Ge",
-        "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-        "posted_at": "2026-10-13",
-        "_origin": "rss",
-        "_source_id": "ai-simonw-atom",
-        "person_id": "simonw",
-        "person_handle": "simonw",
-        "person_name": "Simon Willison",
-        "handle": "simonw",
-        "_score_raw": 64,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-rss-ai-simonw-atom-a54e42297213",
-        "partition": "ai",
-        "type": "card",
-        "category": "AI变现",
-        "title": "llm-meta-ai 0.2",
-        "summary": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores Muse Wonder (Max) as ",
-        "source": "@simonw / Simon Willison",
-        "source_url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-        "published_at": "2026-10-12T23:58:46.000Z",
-        "tags": [
-          "llm"
-        ],
-        "score": 64,
-        "why": "独立/Agent：llm；加分：AI建造/工具实践",
-        "deep_link": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-        "blurb": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look",
-        "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-        "posted_at": "2026-10-12",
-        "_origin": "rss",
-        "_source_id": "ai-simonw-atom",
-        "person_id": "simonw",
-        "person_handle": "simonw",
-        "person_name": "Simon Willison",
-        "handle": "simonw",
-        "_score_raw": 64,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-community-ai-reddit-saas-1954e381a33b",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "Anonymous Slop SaaS",
-        "summary": "Why the heck would I pay $300 a month to someone when I don't even know where they operate from? I see them everywhere, from Reddit ads to mail spam.",
-        "source": "r/SaaS",
-        "source_url": "https://www.reddit.com/r/SaaS/comments/1x82fhb/anonymous_slop_saas/",
-        "published_at": "2026-10-17T05:50:37.000Z",
-        "tags": [
-          "reddit",
-          "r/SaaS",
-          "定价",
-          "获客渠道"
-        ],
-        "score": 64,
-        "why": "公开社区帖 · r/SaaS · top/day 第6位 · 原帖含：定价、获客渠道",
-        "deep_link": "https://www.reddit.com/r/SaaS/comments/1x82fhb/anonymous_slop_saas/",
-        "blurb": "Why the heck would I pay $300 a month to someone when I don't even know where they operate from? I see them everywhere, ",
-        "source_excerpt": "Why the heck would I pay $300 a month to someone when I don't even know where they operate from? I see them everywhere, from Reddit ads to mail spam.",
-        "url": "https://www.reddit.com/r/SaaS/comments/1x82fhb/anonymous_slop_saas/",
-        "lang": "EN",
-        "posted_at": "2026-10-17",
-        "_origin": "community_rss",
-        "_feed_type": "reddit_rss",
-        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-        "_source_id": "ai-reddit-saas",
-        "_score_raw": 64,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
         "id": "ai-community-ai-hn-show-6bfaaf873eeb",
         "partition": "ai",
         "type": "post",
@@ -4779,7 +4910,7 @@
           "踩坑/复盘"
         ],
         "score": 61,
-        "why": "公开社区帖 · Show HN 第14位 · 原帖含：定价、踩坑/复盘",
+        "why": "公开社区帖 · Show HN 第19位 · 原帖含：定价、踩坑/复盘",
         "deep_link": "https://pulseos.finance",
         "blurb": "An optional Connected mode (Sync Pass, $29/year) syncs US banks through Plaid; transactions pass through our server's me",
         "source_excerpt": "An optional Connected mode (Sync Pass, $29/year) syncs US banks through Plaid; transactions pass through our server's memory and are not stored. The write-up covers how we test, the designs that failed, and the limits of the claim: The tuned weights are on Hugging Face (PulseOS/pulse-local-qwen3-0.6b).",
@@ -4797,15 +4928,15 @@
         "_decay_exempt": null
       },
       {
-        "id": "ai-post-levelsio-787e2c0e038e",
+        "id": "ai-post-levelsio-fccd2da921c0",
         "partition": "ai",
         "type": "post",
         "category": "AI变现",
-        "title": "Software is dead and it's now the era of personal software",
+        "title": "I'd expand the moats left to proprietary data, network effects, distribution, hardware, capital, and regulation",
         "summary": "",
         "source": "@levelsio / Pieter Levels",
-        "source_url": "https://levels.io/era-of-personal-software",
-        "published_at": "2026-10-11T00:00:00.000Z",
+        "source_url": "https://levels.io/moats-left-data-network-capital",
+        "published_at": "2026-10-12T00:00:00.000Z",
         "tags": [
           "公开营收",
           "indie",
@@ -4814,10 +4945,10 @@
         ],
         "score": 60,
         "why": "独立/Agent：公开营收、indie；策展：自有产品矩阵+公开营收，是最清晰的 AI/独立变现建造者信号。",
-        "deep_link": "https://levels.io/era-of-personal-software",
-        "blurb": "Software is dead and it's now the era of personal software",
-        "url": "https://levels.io/era-of-personal-software",
-        "posted_at": "2026-10-11",
+        "deep_link": "https://levels.io/moats-left-data-network-capital",
+        "blurb": "I'd expand the moats left to proprietary data, network effects, distribution, hardware, capital, and regulation",
+        "url": "https://levels.io/moats-left-data-network-capital",
+        "posted_at": "2026-10-12",
         "handle": "levelsio",
         "name": "Pieter Levels",
         "person_id": "levelsio",
@@ -5928,43 +6059,6 @@
         "_decay_exempt": null
       },
       {
-        "id": "ai-post-nichepursuits-9170836b95c3",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "How John Muscarello Built a $25K–$30K/Month Amazon Influencer Business",
-        "summary": "In this week's episode of the Niche Pursuits Podcast, John Muscarello and I discuss how he built an Amazon Influencer business generating roughly $25,000 to $30,000 per month. His journey started with a commitment to publish 500 videos before judging… The post How John Muscarello",
-        "source": "@nichepursuits / Niche Pursuits",
-        "source_url": "https://www.nichepursuits.com/john-muscarello/",
-        "published_at": "2026-09-02T14:02:49.000Z",
-        "tags": [
-          "公开营收",
-          "indie",
-          "saas",
-          "SaaS"
-        ],
-        "score": 48,
-        "why": "独立/Agent：公开营收、indie；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
-        "deep_link": "https://www.nichepursuits.com/john-muscarello/",
-        "blurb": "In this week's episode of the Niche Pursuits Podcast, John Muscarello and I discuss how he built an Amazon Influencer bu",
-        "url": "https://www.nichepursuits.com/john-muscarello/",
-        "posted_at": "2026-09-02",
-        "handle": "nichepursuits",
-        "name": "Niche Pursuits",
-        "person_id": "nichepursuits",
-        "person_handle": "nichepursuits",
-        "person_name": "Niche Pursuits",
-        "tier": "A",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:nichepursuits",
-        "_feed_url": "https://www.nichepursuits.com/feed/",
-        "_feed_type": "blog_rss",
-        "_score_raw": 68,
-        "_decay_penalty": 20,
-        "_decay_exempt": null
-      },
-      {
         "id": "ai-post-startupsfortherestofus-dea4dc523f30",
         "partition": "ai",
         "type": "post",
@@ -6055,7 +6149,7 @@
           "llm",
           "SaaS"
         ],
-        "score": 12,
+        "score": 4,
         "why": "独立/Agent：公开营收、indie；策展：长期发布带营收数字的真实创业案例（做了什么、卖给谁、怎么赚钱）。",
         "deep_link": "https://x.com/thepatwalls/status/2102384016661844445",
         "extra": {},
@@ -6082,7 +6176,7 @@
         "person_name": "Pat Walls",
         "_feed_type": "x_api",
         "_feed_url": "x://api/users/thepatwalls/tweets",
-        "_score_raw": 20,
+        "_score_raw": 12,
         "_decay_penalty": 8,
         "_decay_exempt": null,
         "_ai_business": true,
@@ -6105,6 +6199,49 @@
       }
     ],
     "invest": [
+      {
+        "id": "invest-post-MebFaber-4ea25adc433d",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "T-Bills and STILL Chillin’",
+        "summary": "The strategy outlined in this paper, only buying risky bonds when the yield spread warrants it, would have had you 100% in T-bills at the time. What would the system have you in today? 100% in T-bills. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5271353 The post T-Bills a",
+        "source": "@MebFaber / Meb Faber",
+        "source_url": "https://mebfaber.com/2026/10/18/t-bills-and-still-chillin/",
+        "published_at": "2026-10-18T20:22:38.000Z",
+        "tags": [
+          "观察",
+          "arr",
+          "资产配置",
+          "稳健",
+          "配置"
+        ],
+        "score": 98,
+        "why": "独立/Agent：arr；工薪教育：资产配置；宏观观察：yield；策展：全球资产配置/定量框架教育，利于工薪理解组合结构，非带单信号群。",
+        "deep_link": "https://mebfaber.com/2026/10/18/t-bills-and-still-chillin/",
+        "blurb": "The strategy outlined in this paper, only buying risky bonds when the yield spread warrants it, would have had you 100% ",
+        "url": "https://mebfaber.com/2026/10/18/t-bills-and-still-chillin/",
+        "posted_at": "2026-10-18",
+        "handle": "MebFaber",
+        "name": "Meb Faber",
+        "person_id": "MebFaber",
+        "person_handle": "MebFaber",
+        "person_name": "Meb Faber",
+        "tier": "A",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:MebFaber",
+        "_feed_url": "https://mebfaber.com/feed/",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 98,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
       {
         "id": "invest-post-dollarsanddata-a34e5198645c",
         "partition": "invest",
@@ -6227,90 +6364,6 @@
         "_origin": "kol_rss",
         "_source_id": "kol:ritholtz",
         "_feed_url": "https://ritholtz.com/feed/",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 86,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-kiplinger-bc3a5136c518",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "How to Prepare Yourself and Your Family for Long-Term Care",
-        "summary": "Long-term care involves dealing with doctors, managing medications, arranging transportation and finding a facility. How should you and your family prepare?",
-        "source": "@kiplinger / Kiplinger",
-        "source_url": "https://www.kiplinger.com/retirement/long-term-care/how-to-prepare-for-long-term-care",
-        "published_at": "2026-10-17T12:00:00.000Z",
-        "tags": [
-          "观察",
-          "arr",
-          "应急金",
-          "稳健"
-        ],
-        "score": 86,
-        "why": "独立/Agent：arr；工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
-        "deep_link": "https://www.kiplinger.com/retirement/long-term-care/how-to-prepare-for-long-term-care",
-        "blurb": "Long-term care involves dealing with doctors, managing medications, arranging transportation and finding a facility. How",
-        "url": "https://www.kiplinger.com/retirement/long-term-care/how-to-prepare-for-long-term-care",
-        "posted_at": "2026-10-17",
-        "handle": "kiplinger",
-        "name": "Kiplinger",
-        "person_id": "kiplinger",
-        "person_handle": "kiplinger",
-        "person_name": "Kiplinger",
-        "tier": "B",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:kiplinger",
-        "_feed_url": "https://www.kiplinger.com/feed/all",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 86,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-kiplinger-8493269c2c32",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "Where to Find Financial Advice Without the Sales Pitch",
-        "summary": "The Garrett Planning Network of financial professionals aims to break down the barriers stopping ordinary Americans from getting the unbiased guidance they need.",
-        "source": "@kiplinger / Kiplinger",
-        "source_url": "https://www.kiplinger.com/investing/wealth-management/financial-advice-for-everyone-not-just-the-wealthy",
-        "published_at": "2026-10-16T14:00:00.000Z",
-        "tags": [
-          "观察",
-          "arr",
-          "应急金",
-          "稳健"
-        ],
-        "score": 86,
-        "why": "独立/Agent：arr；工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
-        "deep_link": "https://www.kiplinger.com/investing/wealth-management/financial-advice-for-everyone-not-just-the-wealthy",
-        "blurb": "The Garrett Planning Network of financial professionals aims to break down the barriers stopping ordinary Americans from",
-        "url": "https://www.kiplinger.com/investing/wealth-management/financial-advice-for-everyone-not-just-the-wealthy",
-        "posted_at": "2026-10-16",
-        "handle": "kiplinger",
-        "name": "Kiplinger",
-        "person_id": "kiplinger",
-        "person_handle": "kiplinger",
-        "person_name": "Kiplinger",
-        "tier": "B",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:kiplinger",
-        "_feed_url": "https://www.kiplinger.com/feed/all",
         "_feed_type": "blog_rss",
         "extra": {
           "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
@@ -6704,45 +6757,130 @@
         "_decay_exempt": null
       },
       {
-        "id": "invest-post-PaulaPant-4d2a3c973cf9",
+        "id": "invest-post-MebFaber-742fc4cadbd8",
         "partition": "invest",
         "type": "post",
         "category": "投资观察",
-        "title": "#751: Why Self-Worth Predicts Your Income More Than Your SAT Score Does, with Marisa Franco",
-        "summary": "Marisa Franco built her career studying friendship and belonging. Her latest research pulled her somewhere unexpected: the connection between self-worth and net worth. In her data, people with high self-worth and high SAT scores earned close to double the income of people with lo",
-        "source": "@PaulaPant / Paula Pant",
-        "source_url": "https://affordanything.com/self-worth-and-net-worth/",
-        "published_at": "2026-09-18T20:18:34.000Z",
+        "title": "Your IPO Is So Fat…",
+        "summary": "The @SpaceX IPO was so massive it instantly became a top 10 market cap stock. Since 1950, only one other company has that honor…any guesses? (And if you go back to 1900 I can only find one more – US Steel). The Answer? The post Your IPO Is So Fat… appeared first on Meb Faber Rese",
+        "source": "@MebFaber / Meb Faber",
+        "source_url": "https://mebfaber.com/2026/10/15/your-ipo-is-so-fat/",
+        "published_at": "2026-10-15T20:19:46.000Z",
         "tags": [
           "观察",
-          "ship",
+          "资产配置",
           "稳健",
-          "实操"
+          "配置"
         ],
-        "score": 72,
-        "why": "独立/Agent：ship；宏观观察：data；策展：面向工薪族的具体理财决策与真实听众案例（储蓄/指数/负债），不荐个股、不喊单。",
-        "deep_link": "https://affordanything.com/self-worth-and-net-worth/",
-        "blurb": "Marisa Franco built her career studying friendship and belonging. Her latest research pulled her somewhere unexpected: t",
-        "url": "https://affordanything.com/self-worth-and-net-worth/",
-        "posted_at": "2026-09-18",
-        "handle": "PaulaPant",
-        "name": "Paula Pant",
-        "person_id": "PaulaPant",
-        "person_handle": "PaulaPant",
-        "person_name": "Paula Pant",
+        "score": 71,
+        "why": "工薪教育：资产配置；策展：全球资产配置/定量框架教育，利于工薪理解组合结构，非带单信号群。",
+        "deep_link": "https://mebfaber.com/2026/10/15/your-ipo-is-so-fat/",
+        "blurb": "The @SpaceX IPO was so massive it instantly became a top 10 market cap stock. Since 1950, only one other company has tha",
+        "url": "https://mebfaber.com/2026/10/15/your-ipo-is-so-fat/",
+        "posted_at": "2026-10-15",
+        "handle": "MebFaber",
+        "name": "Meb Faber",
+        "person_id": "MebFaber",
+        "person_handle": "MebFaber",
+        "person_name": "Meb Faber",
         "tier": "A",
         "lang": "EN",
         "risk": "stable",
         "_origin": "kol_rss",
-        "_source_id": "kol:PaulaPant",
-        "_feed_url": "https://affordanything.com/feed",
+        "_source_id": "kol:MebFaber",
+        "_feed_url": "https://mebfaber.com/feed/",
         "_feed_type": "blog_rss",
         "extra": {
           "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
           "bucket": "稳健"
         },
-        "_score_raw": 80,
-        "_decay_penalty": 8,
+        "_score_raw": 71,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-MebFaber-c6457f83cfd6",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "Out of Sample Value Returns…in the 1800s?",
+        "summary": "Imagine being a value bro from 1866 to 1926…worked even better! Via @paradoxinvestor https://theideafarm.com/portfolio-management/the-cross-section-of-stock-returns-before-crsp-2/ The post Out of Sample Value Returns…in the 1800s? appeared first on Meb Faber Research - Stock Mark",
+        "source": "@MebFaber / Meb Faber",
+        "source_url": "https://mebfaber.com/2026/10/12/out-of-sample-value-returns-in-the-1800s/",
+        "published_at": "2026-10-12T20:18:41.000Z",
+        "tags": [
+          "观察",
+          "资产配置",
+          "稳健",
+          "配置"
+        ],
+        "score": 71,
+        "why": "工薪教育：资产配置；策展：全球资产配置/定量框架教育，利于工薪理解组合结构，非带单信号群。",
+        "deep_link": "https://mebfaber.com/2026/10/12/out-of-sample-value-returns-in-the-1800s/",
+        "blurb": "Imagine being a value bro from 1866 to 1926…worked even better! Via @paradoxinvestor https://theideafarm.com/portfolio-m",
+        "url": "https://mebfaber.com/2026/10/12/out-of-sample-value-returns-in-the-1800s/",
+        "posted_at": "2026-10-12",
+        "handle": "MebFaber",
+        "name": "Meb Faber",
+        "person_id": "MebFaber",
+        "person_handle": "MebFaber",
+        "person_name": "Meb Faber",
+        "tier": "A",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:MebFaber",
+        "_feed_url": "https://mebfaber.com/feed/",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-ritholtz-8328fd8917b1",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "10 Sunday Reads",
+        "summary": "Avert your eyes! My Sunday morning look at incompetence, corruption, and policy failures: • TheDirtySecretBehindtheFarmedFishYouEat. Our appetite for seafood is growing. In the last 60 years, the global consumption of fish has more than doubled. As demand has increased, so have d",
+        "source": "@ritholtz / Barry Ritholtz",
+        "source_url": "https://ritholtz.com/2026/10/10-sunday-reads-250/",
+        "published_at": "2026-10-18T10:30:50.000Z",
+        "tags": [
+          "观察",
+          "资产配置",
+          "工薪",
+          "稳健",
+          "配置"
+        ],
+        "score": 71,
+        "why": "工薪教育：资产配置、工薪；策展：长期配置/行为金融教育框架清晰，无喊单带单；与 Housel/Carlson 同属 fin-edu 圈。",
+        "deep_link": "https://ritholtz.com/2026/10/10-sunday-reads-250/",
+        "blurb": "Avert your eyes! My Sunday morning look at incompetence, corruption, and policy failures: • TheDirtySecretBehindtheFarme",
+        "url": "https://ritholtz.com/2026/10/10-sunday-reads-250/",
+        "posted_at": "2026-10-18",
+        "handle": "ritholtz",
+        "name": "Barry Ritholtz",
+        "person_id": "ritholtz",
+        "person_handle": "ritholtz",
+        "person_name": "Barry Ritholtz",
+        "tier": "A",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:ritholtz",
+        "_feed_url": "https://ritholtz.com/feed/",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 0,
         "_decay_exempt": null
       },
       {
@@ -6961,418 +7099,6 @@
         "_decay_exempt": null
       },
       {
-        "id": "invest-post-kiplinger-e7d9944705d6",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "5 International Destinations That Cost Less Than a New iPhone",
-        "summary": "Will you look back and regret not buying the new iPhone Duo, or the memories you could have had traveling to one of these cheap, safe and culturally rich countries on five different continents?",
-        "source": "@kiplinger / Kiplinger",
-        "source_url": "https://www.kiplinger.com/personal-finance/travel/international-destinations-that-cost-less-than-a-new-iphone",
-        "published_at": "2026-10-17T16:00:00.000Z",
-        "tags": [
-          "观察",
-          "应急金",
-          "稳健"
-        ],
-        "score": 71,
-        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
-        "deep_link": "https://www.kiplinger.com/personal-finance/travel/international-destinations-that-cost-less-than-a-new-iphone",
-        "blurb": "Will you look back and regret not buying the new iPhone Duo, or the memories you could have had traveling to one of thes",
-        "url": "https://www.kiplinger.com/personal-finance/travel/international-destinations-that-cost-less-than-a-new-iphone",
-        "posted_at": "2026-10-17",
-        "handle": "kiplinger",
-        "name": "Kiplinger",
-        "person_id": "kiplinger",
-        "person_handle": "kiplinger",
-        "person_name": "Kiplinger",
-        "tier": "B",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:kiplinger",
-        "_feed_url": "https://www.kiplinger.com/feed/all",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 71,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-kiplinger-10fe3a568129",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "My First $1 Million: Graphic Designer, 63, Avon Lake, Ohio",
-        "summary": "\"This money brings me security. I don't wake up in the middle of the night, wondering how I'm going to live.\"",
-        "source": "@kiplinger / Kiplinger",
-        "source_url": "https://www.kiplinger.com/personal-finance/my-first-million-75-retired-graphic-designer-avon-lake-ohio",
-        "published_at": "2026-10-17T15:00:00.000Z",
-        "tags": [
-          "观察",
-          "应急金",
-          "稳健"
-        ],
-        "score": 71,
-        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
-        "deep_link": "https://www.kiplinger.com/personal-finance/my-first-million-75-retired-graphic-designer-avon-lake-ohio",
-        "blurb": "\"This money brings me security. I don't wake up in the middle of the night, wondering how I'm going to live.\"",
-        "url": "https://www.kiplinger.com/personal-finance/my-first-million-75-retired-graphic-designer-avon-lake-ohio",
-        "posted_at": "2026-10-17",
-        "handle": "kiplinger",
-        "name": "Kiplinger",
-        "person_id": "kiplinger",
-        "person_handle": "kiplinger",
-        "person_name": "Kiplinger",
-        "tier": "B",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:kiplinger",
-        "_feed_url": "https://www.kiplinger.com/feed/all",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 71,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-kiplinger-6d0d3ea80706",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "Tax Strategies for 4 Types of Real Estate Investors",
-        "summary": "Not every real estate investor needs the same playbook. Here's how to match your situation to the right tax-advantaged real estate strategy.",
-        "source": "@kiplinger / Kiplinger",
-        "source_url": "https://www.kiplinger.com/real-estate/real-estate-investing/real-estate-investor-tax-strategies",
-        "published_at": "2026-10-17T14:00:00.000Z",
-        "tags": [
-          "观察",
-          "应急金",
-          "稳健"
-        ],
-        "score": 71,
-        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
-        "deep_link": "https://www.kiplinger.com/real-estate/real-estate-investing/real-estate-investor-tax-strategies",
-        "blurb": "Not every real estate investor needs the same playbook. Here's how to match your situation to the right tax-advantaged r",
-        "url": "https://www.kiplinger.com/real-estate/real-estate-investing/real-estate-investor-tax-strategies",
-        "posted_at": "2026-10-17",
-        "handle": "kiplinger",
-        "name": "Kiplinger",
-        "person_id": "kiplinger",
-        "person_handle": "kiplinger",
-        "person_name": "Kiplinger",
-        "tier": "B",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:kiplinger",
-        "_feed_url": "https://www.kiplinger.com/feed/all",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 71,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-kiplinger-4bcd0feec7fc",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "How to Build a 'Launch Fund' for Your Kids or Grandkids",
-        "summary": "From 529 rollovers to custodial accounts, financial experts explain how to set young adults up for true financial independence.",
-        "source": "@kiplinger / Kiplinger",
-        "source_url": "https://www.kiplinger.com/retirement/retirement-planning/how-to-build-a-launch-fund-for-your-kids-or-grandkids",
-        "published_at": "2026-10-17T12:30:00.000Z",
-        "tags": [
-          "观察",
-          "应急金",
-          "稳健"
-        ],
-        "score": 71,
-        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
-        "deep_link": "https://www.kiplinger.com/retirement/retirement-planning/how-to-build-a-launch-fund-for-your-kids-or-grandkids",
-        "blurb": "From 529 rollovers to custodial accounts, financial experts explain how to set young adults up for true financial indepe",
-        "url": "https://www.kiplinger.com/retirement/retirement-planning/how-to-build-a-launch-fund-for-your-kids-or-grandkids",
-        "posted_at": "2026-10-17",
-        "handle": "kiplinger",
-        "name": "Kiplinger",
-        "person_id": "kiplinger",
-        "person_handle": "kiplinger",
-        "person_name": "Kiplinger",
-        "tier": "B",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:kiplinger",
-        "_feed_url": "https://www.kiplinger.com/feed/all",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 71,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-kiplinger-06d000d8ced5",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "Nasdaq Buckles on Fear This Boom Is an AI Bubble: Stock Market Today",
-        "summary": "Fed Chair Kevin Warsh spoke up for the benefits of an AI boom, but markets are still showing more concern about an AI bubble.",
-        "source": "@kiplinger / Kiplinger",
-        "source_url": "https://www.kiplinger.com/investing/stocks/nasdaq-buckles-on-fear-this-boom-is-an-ai-bubble-stock-market-today",
-        "published_at": "2026-10-16T20:14:11.000Z",
-        "tags": [
-          "观察",
-          "应急金",
-          "稳健"
-        ],
-        "score": 71,
-        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
-        "deep_link": "https://www.kiplinger.com/investing/stocks/nasdaq-buckles-on-fear-this-boom-is-an-ai-bubble-stock-market-today",
-        "blurb": "Fed Chair Kevin Warsh spoke up for the benefits of an AI boom, but markets are still showing more concern about an AI bu",
-        "url": "https://www.kiplinger.com/investing/stocks/nasdaq-buckles-on-fear-this-boom-is-an-ai-bubble-stock-market-today",
-        "posted_at": "2026-10-16",
-        "handle": "kiplinger",
-        "name": "Kiplinger",
-        "person_id": "kiplinger",
-        "person_handle": "kiplinger",
-        "person_name": "Kiplinger",
-        "tier": "B",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:kiplinger",
-        "_feed_url": "https://www.kiplinger.com/feed/all",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 71,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-kiplinger-52d539e97a4d",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "How Advisers Can Focus on Existing Clients for Growth",
-        "summary": "Growth for financial advisers isn't just about new prospects — it's about deepening trust with existing clients so you earn the right to guide their next move.",
-        "source": "@kiplinger / Kiplinger",
-        "source_url": "https://www.kiplinger.com/business/small-business/financial-adviser-growth-opportunity",
-        "published_at": "2026-10-16T12:00:00.000Z",
-        "tags": [
-          "观察",
-          "应急金",
-          "稳健"
-        ],
-        "score": 71,
-        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
-        "deep_link": "https://www.kiplinger.com/business/small-business/financial-adviser-growth-opportunity",
-        "blurb": "Growth for financial advisers isn't just about new prospects — it's about deepening trust with existing clients so you e",
-        "url": "https://www.kiplinger.com/business/small-business/financial-adviser-growth-opportunity",
-        "posted_at": "2026-10-16",
-        "handle": "kiplinger",
-        "name": "Kiplinger",
-        "person_id": "kiplinger",
-        "person_handle": "kiplinger",
-        "person_name": "Kiplinger",
-        "tier": "B",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:kiplinger",
-        "_feed_url": "https://www.kiplinger.com/feed/all",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 71,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-kiplinger-fe99e17d3a0d",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "Ask the Tax Editor: Questions on Vehicle Expenses",
-        "summary": "Kiplinger editor Joy Taylor answers readers' questions about deducting vehicle expenses, including the standard mileage allowance.",
-        "source": "@kiplinger / Kiplinger",
-        "source_url": "https://www.kiplinger.com/taxes/tax-deductions/ask-the-editor-october-16-deducting-business-mileage-and-more",
-        "published_at": "2026-10-16T11:00:00.000Z",
-        "tags": [
-          "观察",
-          "应急金",
-          "稳健"
-        ],
-        "score": 71,
-        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
-        "deep_link": "https://www.kiplinger.com/taxes/tax-deductions/ask-the-editor-october-16-deducting-business-mileage-and-more",
-        "blurb": "Kiplinger editor Joy Taylor answers readers' questions about deducting vehicle expenses, including the standard mileage ",
-        "url": "https://www.kiplinger.com/taxes/tax-deductions/ask-the-editor-october-16-deducting-business-mileage-and-more",
-        "posted_at": "2026-10-16",
-        "handle": "kiplinger",
-        "name": "Kiplinger",
-        "person_id": "kiplinger",
-        "person_handle": "kiplinger",
-        "person_name": "Kiplinger",
-        "tier": "B",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:kiplinger",
-        "_feed_url": "https://www.kiplinger.com/feed/all",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 71,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-kiplinger-6ea2d5676908",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "Tax-Efficient Retirement Income Strategies",
-        "summary": "Protecting clients' retirement income requires proactive tax management, optimized Social Security timing and flexible withdrawal strategies.",
-        "source": "@kiplinger / Kiplinger",
-        "source_url": "https://www.kiplinger.com/taxes/tax-planning/proactive-tax-planning-to-protect-retirement-income",
-        "published_at": "2026-10-16T10:00:00.000Z",
-        "tags": [
-          "观察",
-          "应急金",
-          "稳健"
-        ],
-        "score": 71,
-        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
-        "deep_link": "https://www.kiplinger.com/taxes/tax-planning/proactive-tax-planning-to-protect-retirement-income",
-        "blurb": "Protecting clients' retirement income requires proactive tax management, optimized Social Security timing and flexible w",
-        "url": "https://www.kiplinger.com/taxes/tax-planning/proactive-tax-planning-to-protect-retirement-income",
-        "posted_at": "2026-10-16",
-        "handle": "kiplinger",
-        "name": "Kiplinger",
-        "person_id": "kiplinger",
-        "person_handle": "kiplinger",
-        "person_name": "Kiplinger",
-        "tier": "B",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:kiplinger",
-        "_feed_url": "https://www.kiplinger.com/feed/all",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 71,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-MebFaber-742fc4cadbd8",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "Your IPO Is So Fat…",
-        "summary": "The @SpaceX IPO was so massive it instantly became a top 10 market cap stock. Since 1950, only one other company has that honor…any guesses? (And if you go back to 1900 I can only find one more – US Steel). The Answer? The post Your IPO Is So Fat… appeared first on Meb Faber Rese",
-        "source": "@MebFaber / Meb Faber",
-        "source_url": "https://mebfaber.com/2026/10/15/your-ipo-is-so-fat/",
-        "published_at": "2026-10-15T20:19:46.000Z",
-        "tags": [
-          "观察",
-          "资产配置",
-          "稳健",
-          "配置"
-        ],
-        "score": 71,
-        "why": "工薪教育：资产配置；策展：全球资产配置/定量框架教育，利于工薪理解组合结构，非带单信号群。",
-        "deep_link": "https://mebfaber.com/2026/10/15/your-ipo-is-so-fat/",
-        "blurb": "The @SpaceX IPO was so massive it instantly became a top 10 market cap stock. Since 1950, only one other company has tha",
-        "url": "https://mebfaber.com/2026/10/15/your-ipo-is-so-fat/",
-        "posted_at": "2026-10-15",
-        "handle": "MebFaber",
-        "name": "Meb Faber",
-        "person_id": "MebFaber",
-        "person_handle": "MebFaber",
-        "person_name": "Meb Faber",
-        "tier": "A",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:MebFaber",
-        "_feed_url": "https://mebfaber.com/feed/",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 71,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-MebFaber-c6457f83cfd6",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "Out of Sample Value Returns…in the 1800s?",
-        "summary": "Imagine being a value bro from 1866 to 1926…worked even better! Via @paradoxinvestor https://theideafarm.com/portfolio-management/the-cross-section-of-stock-returns-before-crsp-2/ The post Out of Sample Value Returns…in the 1800s? appeared first on Meb Faber Research - Stock Mark",
-        "source": "@MebFaber / Meb Faber",
-        "source_url": "https://mebfaber.com/2026/10/12/out-of-sample-value-returns-in-the-1800s/",
-        "published_at": "2026-10-12T20:18:41.000Z",
-        "tags": [
-          "观察",
-          "资产配置",
-          "稳健",
-          "配置"
-        ],
-        "score": 71,
-        "why": "工薪教育：资产配置；策展：全球资产配置/定量框架教育，利于工薪理解组合结构，非带单信号群。",
-        "deep_link": "https://mebfaber.com/2026/10/12/out-of-sample-value-returns-in-the-1800s/",
-        "blurb": "Imagine being a value bro from 1866 to 1926…worked even better! Via @paradoxinvestor https://theideafarm.com/portfolio-m",
-        "url": "https://mebfaber.com/2026/10/12/out-of-sample-value-returns-in-the-1800s/",
-        "posted_at": "2026-10-12",
-        "handle": "MebFaber",
-        "name": "Meb Faber",
-        "person_id": "MebFaber",
-        "person_handle": "MebFaber",
-        "person_name": "Meb Faber",
-        "tier": "A",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:MebFaber",
-        "_feed_url": "https://mebfaber.com/feed/",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 71,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
         "id": "invest-post-financialsamurai-cf924cbdaf4e",
         "partition": "invest",
         "type": "post",
@@ -7489,6 +7215,416 @@
         "_origin": "kol_rss",
         "_source_id": "kol:financialsamurai",
         "_feed_url": "https://www.financialsamurai.com/feed/",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-kiplinger-0817a8e71ec1",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "Tech Stocks Hold This Baron Emerging Markets Fund Back",
+        "summary": "The Baron Emerging Markets Fund has generated an impressive return so far this year, but a rough patch for tech shares has capped its performance.",
+        "source": "@kiplinger / Kiplinger",
+        "source_url": "https://www.kiplinger.com/investing/mutual-funds/tech-stocks-hold-this-baron-emerging-markets-fund-back",
+        "published_at": "2026-10-18T14:05:00.000Z",
+        "tags": [
+          "观察",
+          "应急金",
+          "稳健"
+        ],
+        "score": 71,
+        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
+        "deep_link": "https://www.kiplinger.com/investing/mutual-funds/tech-stocks-hold-this-baron-emerging-markets-fund-back",
+        "blurb": "The Baron Emerging Markets Fund has generated an impressive return so far this year, but a rough patch for tech shares h",
+        "url": "https://www.kiplinger.com/investing/mutual-funds/tech-stocks-hold-this-baron-emerging-markets-fund-back",
+        "posted_at": "2026-10-18",
+        "handle": "kiplinger",
+        "name": "Kiplinger",
+        "person_id": "kiplinger",
+        "person_handle": "kiplinger",
+        "person_name": "Kiplinger",
+        "tier": "B",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:kiplinger",
+        "_feed_url": "https://www.kiplinger.com/feed/all",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-kiplinger-3e22f7997f35",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "3 Smart Ways to Delay or Defer Taxes on Your RMDs",
+        "summary": "If you don't need or want to take your required minimum distributions (RMDs), you can consider these strategies to help lower your tax bill.",
+        "source": "@kiplinger / Kiplinger",
+        "source_url": "https://www.kiplinger.com/taxes/tax-planning/how-to-delay-or-defer-taxes-on-your-rmds",
+        "published_at": "2026-10-18T14:00:00.000Z",
+        "tags": [
+          "观察",
+          "应急金",
+          "稳健"
+        ],
+        "score": 71,
+        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
+        "deep_link": "https://www.kiplinger.com/taxes/tax-planning/how-to-delay-or-defer-taxes-on-your-rmds",
+        "blurb": "If you don't need or want to take your required minimum distributions (RMDs), you can consider these strategies to help ",
+        "url": "https://www.kiplinger.com/taxes/tax-planning/how-to-delay-or-defer-taxes-on-your-rmds",
+        "posted_at": "2026-10-18",
+        "handle": "kiplinger",
+        "name": "Kiplinger",
+        "person_id": "kiplinger",
+        "person_handle": "kiplinger",
+        "person_name": "Kiplinger",
+        "tier": "B",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:kiplinger",
+        "_feed_url": "https://www.kiplinger.com/feed/all",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-kiplinger-57e2c33da4d6",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "A Dividend Strategy Shines for This Top iShares ETF",
+        "summary": "Big dividend payouts and stock buybacks are a winning combination for the iShares Core Dividend ETF, one of Kiplinger's favorite exchange-traded funds.",
+        "source": "@kiplinger / Kiplinger",
+        "source_url": "https://www.kiplinger.com/investing/etfs/a-dividend-strategy-shines-for-this-top-ishares-etf",
+        "published_at": "2026-10-18T12:30:00.000Z",
+        "tags": [
+          "观察",
+          "应急金",
+          "稳健"
+        ],
+        "score": 71,
+        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
+        "deep_link": "https://www.kiplinger.com/investing/etfs/a-dividend-strategy-shines-for-this-top-ishares-etf",
+        "blurb": "Big dividend payouts and stock buybacks are a winning combination for the iShares Core Dividend ETF, one of Kiplinger's ",
+        "url": "https://www.kiplinger.com/investing/etfs/a-dividend-strategy-shines-for-this-top-ishares-etf",
+        "posted_at": "2026-10-18",
+        "handle": "kiplinger",
+        "name": "Kiplinger",
+        "person_id": "kiplinger",
+        "person_handle": "kiplinger",
+        "person_name": "Kiplinger",
+        "tier": "B",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:kiplinger",
+        "_feed_url": "https://www.kiplinger.com/feed/all",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-kiplinger-eca8139b7823",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "Created Your Will? Why Your Heirs Could Still Face Major Delays",
+        "summary": "A will alone doesn’t mean your heirs can easily or quickly access your estate. If you want to leave funds for a funeral, here’s what to do instead.",
+        "source": "@kiplinger / Kiplinger",
+        "source_url": "https://www.kiplinger.com/retirement/estate-planning/what-can-delay-an-inheritance",
+        "published_at": "2026-10-18T12:15:00.000Z",
+        "tags": [
+          "观察",
+          "应急金",
+          "稳健"
+        ],
+        "score": 71,
+        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
+        "deep_link": "https://www.kiplinger.com/retirement/estate-planning/what-can-delay-an-inheritance",
+        "blurb": "A will alone doesn’t mean your heirs can easily or quickly access your estate. If you want to leave funds for a funeral,",
+        "url": "https://www.kiplinger.com/retirement/estate-planning/what-can-delay-an-inheritance",
+        "posted_at": "2026-10-18",
+        "handle": "kiplinger",
+        "name": "Kiplinger",
+        "person_id": "kiplinger",
+        "person_handle": "kiplinger",
+        "person_name": "Kiplinger",
+        "tier": "B",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:kiplinger",
+        "_feed_url": "https://www.kiplinger.com/feed/all",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-kiplinger-02d52bc7f763",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "Finding Purpose In Retirement: Why Hobbies Aren't Enough",
+        "summary": "A fulfilling retirement isn't just about filling your days with hobbies, but finding purposeful engagement that offers challenge, growth and accountability.",
+        "source": "@kiplinger / Kiplinger",
+        "source_url": "https://www.kiplinger.com/retirement/happy-retirement/why-hobbies-arent-enough-in-retirement",
+        "published_at": "2026-10-18T12:00:00.000Z",
+        "tags": [
+          "观察",
+          "应急金",
+          "稳健"
+        ],
+        "score": 71,
+        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
+        "deep_link": "https://www.kiplinger.com/retirement/happy-retirement/why-hobbies-arent-enough-in-retirement",
+        "blurb": "A fulfilling retirement isn't just about filling your days with hobbies, but finding purposeful engagement that offers c",
+        "url": "https://www.kiplinger.com/retirement/happy-retirement/why-hobbies-arent-enough-in-retirement",
+        "posted_at": "2026-10-18",
+        "handle": "kiplinger",
+        "name": "Kiplinger",
+        "person_id": "kiplinger",
+        "person_handle": "kiplinger",
+        "person_name": "Kiplinger",
+        "tier": "B",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:kiplinger",
+        "_feed_url": "https://www.kiplinger.com/feed/all",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-kiplinger-18ec3eb68364",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "4 Unique Winter Getaways That Won't Break the Bank",
+        "summary": "From soaking in hot springs under the northern lights to gliding over the snow on a dogsled, these expeditions make the most of the cold.",
+        "source": "@kiplinger / Kiplinger",
+        "source_url": "https://www.kiplinger.com/personal-finance/travel/winter-weather-getaways",
+        "published_at": "2026-10-18T11:45:00.000Z",
+        "tags": [
+          "观察",
+          "应急金",
+          "稳健"
+        ],
+        "score": 71,
+        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
+        "deep_link": "https://www.kiplinger.com/personal-finance/travel/winter-weather-getaways",
+        "blurb": "From soaking in hot springs under the northern lights to gliding over the snow on a dogsled, these expeditions make the ",
+        "url": "https://www.kiplinger.com/personal-finance/travel/winter-weather-getaways",
+        "posted_at": "2026-10-18",
+        "handle": "kiplinger",
+        "name": "Kiplinger",
+        "person_id": "kiplinger",
+        "person_handle": "kiplinger",
+        "person_name": "Kiplinger",
+        "tier": "B",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:kiplinger",
+        "_feed_url": "https://www.kiplinger.com/feed/all",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-kiplinger-7df128f992a3",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "Why a Retirement ‘Magic Number’ May Be the Wrong Target",
+        "summary": "Is your retirement goal a \"magic number\" you think you need to be comfortable? You need a plan based on your own life, not someone else's arbitrary benchmark.",
+        "source": "@kiplinger / Kiplinger",
+        "source_url": "https://www.kiplinger.com/retirement/retirement-planning/your-retirement-magic-number-may-be-the-wrong-target",
+        "published_at": "2026-10-18T10:00:00.000Z",
+        "tags": [
+          "观察",
+          "应急金",
+          "稳健"
+        ],
+        "score": 71,
+        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
+        "deep_link": "https://www.kiplinger.com/retirement/retirement-planning/your-retirement-magic-number-may-be-the-wrong-target",
+        "blurb": "Is your retirement goal a \"magic number\" you think you need to be comfortable? You need a plan based on your own life, n",
+        "url": "https://www.kiplinger.com/retirement/retirement-planning/your-retirement-magic-number-may-be-the-wrong-target",
+        "posted_at": "2026-10-18",
+        "handle": "kiplinger",
+        "name": "Kiplinger",
+        "person_id": "kiplinger",
+        "person_handle": "kiplinger",
+        "person_name": "Kiplinger",
+        "tier": "B",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:kiplinger",
+        "_feed_url": "https://www.kiplinger.com/feed/all",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-kiplinger-e7d9944705d6",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "5 International Destinations That Cost Less Than a New iPhone",
+        "summary": "Will you look back and regret not buying the new iPhone Duo, or the memories you could have had traveling to one of these cheap, safe and culturally rich countries on five different continents?",
+        "source": "@kiplinger / Kiplinger",
+        "source_url": "https://www.kiplinger.com/personal-finance/travel/international-destinations-that-cost-less-than-a-new-iphone",
+        "published_at": "2026-10-17T16:00:00.000Z",
+        "tags": [
+          "观察",
+          "应急金",
+          "稳健"
+        ],
+        "score": 71,
+        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
+        "deep_link": "https://www.kiplinger.com/personal-finance/travel/international-destinations-that-cost-less-than-a-new-iphone",
+        "blurb": "Will you look back and regret not buying the new iPhone Duo, or the memories you could have had traveling to one of thes",
+        "url": "https://www.kiplinger.com/personal-finance/travel/international-destinations-that-cost-less-than-a-new-iphone",
+        "posted_at": "2026-10-17",
+        "handle": "kiplinger",
+        "name": "Kiplinger",
+        "person_id": "kiplinger",
+        "person_handle": "kiplinger",
+        "person_name": "Kiplinger",
+        "tier": "B",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:kiplinger",
+        "_feed_url": "https://www.kiplinger.com/feed/all",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-kiplinger-10fe3a568129",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "My First $1 Million: Graphic Designer, 63, Avon Lake, Ohio",
+        "summary": "\"This money brings me security. I don't wake up in the middle of the night, wondering how I'm going to live.\"",
+        "source": "@kiplinger / Kiplinger",
+        "source_url": "https://www.kiplinger.com/personal-finance/my-first-million-75-retired-graphic-designer-avon-lake-ohio",
+        "published_at": "2026-10-17T15:00:00.000Z",
+        "tags": [
+          "观察",
+          "应急金",
+          "稳健"
+        ],
+        "score": 71,
+        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
+        "deep_link": "https://www.kiplinger.com/personal-finance/my-first-million-75-retired-graphic-designer-avon-lake-ohio",
+        "blurb": "\"This money brings me security. I don't wake up in the middle of the night, wondering how I'm going to live.\"",
+        "url": "https://www.kiplinger.com/personal-finance/my-first-million-75-retired-graphic-designer-avon-lake-ohio",
+        "posted_at": "2026-10-17",
+        "handle": "kiplinger",
+        "name": "Kiplinger",
+        "person_id": "kiplinger",
+        "person_handle": "kiplinger",
+        "person_name": "Kiplinger",
+        "tier": "B",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:kiplinger",
+        "_feed_url": "https://www.kiplinger.com/feed/all",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-kiplinger-6d0d3ea80706",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "Tax Strategies for 4 Types of Real Estate Investors",
+        "summary": "Not every real estate investor needs the same playbook. Here's how to match your situation to the right tax-advantaged real estate strategy.",
+        "source": "@kiplinger / Kiplinger",
+        "source_url": "https://www.kiplinger.com/real-estate/real-estate-investing/real-estate-investor-tax-strategies",
+        "published_at": "2026-10-17T14:00:00.000Z",
+        "tags": [
+          "观察",
+          "应急金",
+          "稳健"
+        ],
+        "score": 71,
+        "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
+        "deep_link": "https://www.kiplinger.com/real-estate/real-estate-investing/real-estate-investor-tax-strategies",
+        "blurb": "Not every real estate investor needs the same playbook. Here's how to match your situation to the right tax-advantaged r",
+        "url": "https://www.kiplinger.com/real-estate/real-estate-investing/real-estate-investor-tax-strategies",
+        "posted_at": "2026-10-17",
+        "handle": "kiplinger",
+        "name": "Kiplinger",
+        "person_id": "kiplinger",
+        "person_handle": "kiplinger",
+        "person_name": "Kiplinger",
+        "tier": "B",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:kiplinger",
+        "_feed_url": "https://www.kiplinger.com/feed/all",
         "_feed_type": "blog_rss",
         "extra": {
           "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
@@ -7623,6 +7759,132 @@
         "_decay_exempt": null
       },
       {
+        "id": "invest-post-MebFaber-a11883a9e6bc",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "What If AI Stocks Are Like The….Airlines?!",
+        "summary": "Best analogy I’ve heard recently for the bear case on AI (via @unpopularvc) – AI firms are like the airlines. Amazing invention Changed the world Everyone uses them Trillion dollar biz …..but…. Extremely competitive High capital requirements Absolute garbage investment The post W",
+        "source": "@MebFaber / Meb Faber",
+        "source_url": "https://mebfaber.com/2026/10/08/what-if-ai-stocks-are-like-the-airlines/",
+        "published_at": "2026-10-08T20:16:16.000Z",
+        "tags": [
+          "观察",
+          "资产配置",
+          "稳健",
+          "配置"
+        ],
+        "score": 63,
+        "why": "工薪教育：资产配置；策展：全球资产配置/定量框架教育，利于工薪理解组合结构，非带单信号群。",
+        "deep_link": "https://mebfaber.com/2026/10/08/what-if-ai-stocks-are-like-the-airlines/",
+        "blurb": "Best analogy I’ve heard recently for the bear case on AI (via @unpopularvc) – AI firms are like the airlines. Amazing in",
+        "url": "https://mebfaber.com/2026/10/08/what-if-ai-stocks-are-like-the-airlines/",
+        "posted_at": "2026-10-08",
+        "handle": "MebFaber",
+        "name": "Meb Faber",
+        "person_id": "MebFaber",
+        "person_handle": "MebFaber",
+        "person_name": "Meb Faber",
+        "tier": "A",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:MebFaber",
+        "_feed_url": "https://mebfaber.com/feed/",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 8,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-MebFaber-8280e656bc4f",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "The Bond Apocalypse",
+        "summary": "Fixed income returns have been atrocious, but most have not noticed. The #1 Best fund on this recent Morningstar list has zero real returns for…. …squints…. …20 years. Real current drawdowns in fixed income: T-bills 20% TIPS (TIP) 21% Aggregate (AGG) 27% Corporates (LQD) 29% 10-Y",
+        "source": "@MebFaber / Meb Faber",
+        "source_url": "https://mebfaber.com/2026/10/07/the-bond-apocalypse/",
+        "published_at": "2026-10-07T18:57:57.000Z",
+        "tags": [
+          "观察",
+          "资产配置",
+          "稳健",
+          "配置"
+        ],
+        "score": 63,
+        "why": "工薪教育：资产配置；策展：全球资产配置/定量框架教育，利于工薪理解组合结构，非带单信号群。",
+        "deep_link": "https://mebfaber.com/2026/10/07/the-bond-apocalypse/",
+        "blurb": "Fixed income returns have been atrocious, but most have not noticed. The #1 Best fund on this recent Morningstar list ha",
+        "url": "https://mebfaber.com/2026/10/07/the-bond-apocalypse/",
+        "posted_at": "2026-10-07",
+        "handle": "MebFaber",
+        "name": "Meb Faber",
+        "person_id": "MebFaber",
+        "person_handle": "MebFaber",
+        "person_name": "Meb Faber",
+        "tier": "A",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:MebFaber",
+        "_feed_url": "https://mebfaber.com/feed/",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 8,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-MebFaber-46992f533d08",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "Cheap, Hated, and Breaking Out…",
+        "summary": "🇧🇷 Brazilian stocks were up 14% yesterday. 🇧🇷 Brazil was the world’s 2nd cheapest stock market at the end of Q3. The media assumes the performance is due to the election results, but really, when a stock market is trading at rock bottom valuations it’s like a bunch of dry kin",
+        "source": "@MebFaber / Meb Faber",
+        "source_url": "https://mebfaber.com/2026/10/06/cheap-hated-and-breaking-out/",
+        "published_at": "2026-10-06T20:14:19.000Z",
+        "tags": [
+          "观察",
+          "资产配置",
+          "稳健",
+          "配置"
+        ],
+        "score": 63,
+        "why": "工薪教育：资产配置；策展：全球资产配置/定量框架教育，利于工薪理解组合结构，非带单信号群。",
+        "deep_link": "https://mebfaber.com/2026/10/06/cheap-hated-and-breaking-out/",
+        "blurb": "🇧🇷 Brazilian stocks were up 14% yesterday. 🇧🇷 Brazil was the world’s 2nd cheapest stock market at the end of Q3. The",
+        "url": "https://mebfaber.com/2026/10/06/cheap-hated-and-breaking-out/",
+        "posted_at": "2026-10-06",
+        "handle": "MebFaber",
+        "name": "Meb Faber",
+        "person_id": "MebFaber",
+        "person_handle": "MebFaber",
+        "person_name": "Meb Faber",
+        "tier": "A",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:MebFaber",
+        "_feed_url": "https://mebfaber.com/feed/",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 71,
+        "_decay_penalty": 8,
+        "_decay_exempt": null
+      },
+      {
         "id": "invest-post-ramit-2be5a8740945",
         "partition": "invest",
         "type": "post",
@@ -7748,132 +8010,6 @@
         },
         "_score_raw": 83,
         "_decay_penalty": 20,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-MebFaber-a11883a9e6bc",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "What If AI Stocks Are Like The….Airlines?!",
-        "summary": "Best analogy I’ve heard recently for the bear case on AI (via @unpopularvc) – AI firms are like the airlines. Amazing invention Changed the world Everyone uses them Trillion dollar biz …..but…. Extremely competitive High capital requirements Absolute garbage investment The post W",
-        "source": "@MebFaber / Meb Faber",
-        "source_url": "https://mebfaber.com/2026/10/08/what-if-ai-stocks-are-like-the-airlines/",
-        "published_at": "2026-10-08T20:16:16.000Z",
-        "tags": [
-          "观察",
-          "资产配置",
-          "稳健",
-          "配置"
-        ],
-        "score": 63,
-        "why": "工薪教育：资产配置；策展：全球资产配置/定量框架教育，利于工薪理解组合结构，非带单信号群。",
-        "deep_link": "https://mebfaber.com/2026/10/08/what-if-ai-stocks-are-like-the-airlines/",
-        "blurb": "Best analogy I’ve heard recently for the bear case on AI (via @unpopularvc) – AI firms are like the airlines. Amazing in",
-        "url": "https://mebfaber.com/2026/10/08/what-if-ai-stocks-are-like-the-airlines/",
-        "posted_at": "2026-10-08",
-        "handle": "MebFaber",
-        "name": "Meb Faber",
-        "person_id": "MebFaber",
-        "person_handle": "MebFaber",
-        "person_name": "Meb Faber",
-        "tier": "A",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:MebFaber",
-        "_feed_url": "https://mebfaber.com/feed/",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 71,
-        "_decay_penalty": 8,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-MebFaber-8280e656bc4f",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "The Bond Apocalypse",
-        "summary": "Fixed income returns have been atrocious, but most have not noticed. The #1 Best fund on this recent Morningstar list has zero real returns for…. …squints…. …20 years. Real current drawdowns in fixed income: T-bills 20% TIPS (TIP) 21% Aggregate (AGG) 27% Corporates (LQD) 29% 10-Y",
-        "source": "@MebFaber / Meb Faber",
-        "source_url": "https://mebfaber.com/2026/10/07/the-bond-apocalypse/",
-        "published_at": "2026-10-07T18:57:57.000Z",
-        "tags": [
-          "观察",
-          "资产配置",
-          "稳健",
-          "配置"
-        ],
-        "score": 63,
-        "why": "工薪教育：资产配置；策展：全球资产配置/定量框架教育，利于工薪理解组合结构，非带单信号群。",
-        "deep_link": "https://mebfaber.com/2026/10/07/the-bond-apocalypse/",
-        "blurb": "Fixed income returns have been atrocious, but most have not noticed. The #1 Best fund on this recent Morningstar list ha",
-        "url": "https://mebfaber.com/2026/10/07/the-bond-apocalypse/",
-        "posted_at": "2026-10-07",
-        "handle": "MebFaber",
-        "name": "Meb Faber",
-        "person_id": "MebFaber",
-        "person_handle": "MebFaber",
-        "person_name": "Meb Faber",
-        "tier": "A",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:MebFaber",
-        "_feed_url": "https://mebfaber.com/feed/",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 71,
-        "_decay_penalty": 8,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-MebFaber-46992f533d08",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "Cheap, Hated, and Breaking Out…",
-        "summary": "🇧🇷 Brazilian stocks were up 14% yesterday. 🇧🇷 Brazil was the world’s 2nd cheapest stock market at the end of Q3. The media assumes the performance is due to the election results, but really, when a stock market is trading at rock bottom valuations it’s like a bunch of dry kin",
-        "source": "@MebFaber / Meb Faber",
-        "source_url": "https://mebfaber.com/2026/10/06/cheap-hated-and-breaking-out/",
-        "published_at": "2026-10-06T20:14:19.000Z",
-        "tags": [
-          "观察",
-          "资产配置",
-          "稳健",
-          "配置"
-        ],
-        "score": 63,
-        "why": "工薪教育：资产配置；策展：全球资产配置/定量框架教育，利于工薪理解组合结构，非带单信号群。",
-        "deep_link": "https://mebfaber.com/2026/10/06/cheap-hated-and-breaking-out/",
-        "blurb": "🇧🇷 Brazilian stocks were up 14% yesterday. 🇧🇷 Brazil was the world’s 2nd cheapest stock market at the end of Q3. The",
-        "url": "https://mebfaber.com/2026/10/06/cheap-hated-and-breaking-out/",
-        "posted_at": "2026-10-06",
-        "handle": "MebFaber",
-        "name": "Meb Faber",
-        "person_id": "MebFaber",
-        "person_handle": "MebFaber",
-        "person_name": "Meb Faber",
-        "tier": "A",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:MebFaber",
-        "_feed_url": "https://mebfaber.com/feed/",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 71,
-        "_decay_penalty": 8,
         "_decay_exempt": null
       },
       {
@@ -8062,7 +8198,7 @@
           "比例"
         ],
         "score": 62,
-        "why": "公开社区帖 · r/DebtFree · top/month 第43位 · 原帖含：负债偿还、金额、比例（数字均为发帖人自述，未经核实）",
+        "why": "公开社区帖 · r/DebtFree · top/month 第41位 · 原帖含：负债偿还、金额、比例（数字均为发帖人自述，未经核实）",
         "deep_link": "https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/",
         "blurb": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k ",
         "source_excerpt": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month - Care Credit Dental Im 33M in MA I make $92,145 per year after taxes(Including All sources of income into my bank account even non income that regulary comes in)",
@@ -8076,6 +8212,48 @@
         "_source_id": "invest-reddit-debtfree",
         "_score_raw": 62,
         "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-PaulaPant-4d2a3c973cf9",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "#751: Why Self-Worth Predicts Your Income More Than Your SAT Score Does, with Marisa Franco",
+        "summary": "Marisa Franco built her career studying friendship and belonging. Her latest research pulled her somewhere unexpected: the connection between self-worth and net worth. In her data, people with high self-worth and high SAT scores earned close to double the income of people with lo",
+        "source": "@PaulaPant / Paula Pant",
+        "source_url": "https://affordanything.com/self-worth-and-net-worth/",
+        "published_at": "2026-09-18T20:18:34.000Z",
+        "tags": [
+          "观察",
+          "ship",
+          "稳健",
+          "实操"
+        ],
+        "score": 60,
+        "why": "独立/Agent：ship；宏观观察：data；策展：面向工薪族的具体理财决策与真实听众案例（储蓄/指数/负债），不荐个股、不喊单。",
+        "deep_link": "https://affordanything.com/self-worth-and-net-worth/",
+        "blurb": "Marisa Franco built her career studying friendship and belonging. Her latest research pulled her somewhere unexpected: t",
+        "url": "https://affordanything.com/self-worth-and-net-worth/",
+        "posted_at": "2026-09-18",
+        "handle": "PaulaPant",
+        "name": "Paula Pant",
+        "person_id": "PaulaPant",
+        "person_handle": "PaulaPant",
+        "person_name": "Paula Pant",
+        "tier": "A",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:PaulaPant",
+        "_feed_url": "https://affordanything.com/feed",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 80,
+        "_decay_penalty": 20,
         "_decay_exempt": null
       },
       {
@@ -8452,6 +8630,40 @@
         "_decay_exempt": null
       },
       {
+        "id": "invest-community-invest-reddit-ynab-d8e120b5c12a",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "Small win that’s actually a big win",
+        "summary": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money ps: Debt when I started was -$36k and today it’s at -$23k 💪 This week I visited family in a different state and didn’t once stress about my budget because I planned ahead.",
+        "source": "r/YNAB",
+        "source_url": "https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/",
+        "published_at": "2026-09-26T03:02:16.000Z",
+        "tags": [
+          "reddit",
+          "r/YNAB",
+          "金额",
+          "周期",
+          "预算/储蓄率"
+        ],
+        "score": 57,
+        "why": "公开社区帖 · r/YNAB · top/month 第10位 · 原帖含：金额、周期、预算/储蓄率（数字均为发帖人自述，未经核实）",
+        "deep_link": "https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/",
+        "blurb": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putt",
+        "source_excerpt": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money ps: Debt when I started was -$36k and today it’s at -$23k 💪 This week I visited family in a different state and didn’t once stress about my budget because I planned ahead.",
+        "url": "https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/",
+        "lang": "EN",
+        "posted_at": "2026-09-26",
+        "_origin": "community_rss",
+        "_community_mode": "finance",
+        "_feed_type": "reddit_rss",
+        "_feed_url": "https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100",
+        "_source_id": "invest-reddit-ynab",
+        "_score_raw": 65,
+        "_decay_penalty": 8,
+        "_decay_exempt": null
+      },
+      {
         "id": "invest-community-invest-reddit-debtfree-f9a84849d6c9",
         "partition": "invest",
         "type": "post",
@@ -8629,40 +8841,6 @@
         "_score_raw": 55,
         "_decay_penalty": 0,
         "_decay_exempt": "profile_fallback"
-      },
-      {
-        "id": "invest-community-invest-reddit-ynab-d8e120b5c12a",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "Small win that’s actually a big win",
-        "summary": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money ps: Debt when I started was -$36k and today it’s at -$23k 💪 This week I visited family in a different state and didn’t once stress about my budget because I planned ahead.",
-        "source": "r/YNAB",
-        "source_url": "https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/",
-        "published_at": "2026-09-26T03:02:16.000Z",
-        "tags": [
-          "reddit",
-          "r/YNAB",
-          "金额",
-          "周期",
-          "预算/储蓄率"
-        ],
-        "score": 54,
-        "why": "公开社区帖 · r/YNAB · top/month 第11位 · 原帖含：金额、周期、预算/储蓄率（数字均为发帖人自述，未经核实）",
-        "deep_link": "https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/",
-        "blurb": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putt",
-        "source_excerpt": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money ps: Debt when I started was -$36k and today it’s at -$23k 💪 This week I visited family in a different state and didn’t once stress about my budget because I planned ahead.",
-        "url": "https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/",
-        "lang": "EN",
-        "posted_at": "2026-09-26",
-        "_origin": "community_rss",
-        "_community_mode": "finance",
-        "_feed_type": "reddit_rss",
-        "_feed_url": "https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100",
-        "_source_id": "invest-reddit-ynab",
-        "_score_raw": 62,
-        "_decay_penalty": 8,
-        "_decay_exempt": null
       },
       {
         "id": "invest-post-moneyunder30-be21052f4285",
@@ -8850,47 +9028,6 @@
         "blurb": "Today’s Talk Your Book is brought to you by JP Morgan: To learn more about the JPMorgan Strategic Income Opportunities F",
         "url": "https://awealthofcommonsense.com/2026/10/talk-your-book-will-ai-debt-cause-a-recession/",
         "posted_at": "2026-10-12",
-        "handle": "awealthofcs",
-        "name": "Ben Carlson",
-        "person_id": "awealthofcs",
-        "person_handle": "awealthofcs",
-        "person_name": "Ben Carlson",
-        "tier": "A",
-        "lang": "EN",
-        "risk": "stable",
-        "_origin": "kol_rss",
-        "_source_id": "kol:awealthofcs",
-        "_feed_url": "https://awealthofcommonsense.com/feed/",
-        "_feed_type": "blog_rss",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "稳健"
-        },
-        "_score_raw": 45,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-awealthofcs-9ff327c1da7b",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "Betting on Hope",
-        "summary": "Why people make longshot bets. The post Betting on Hope appeared first on A Wealth of Common Sense. ...",
-        "source": "@awealthofcs / Ben Carlson",
-        "source_url": "https://awealthofcommonsense.com/2026/10/betting-on-hope/",
-        "published_at": "2026-10-11T16:00:56.000Z",
-        "tags": [
-          "观察",
-          "稳健",
-          "配置"
-        ],
-        "score": 45,
-        "why": "策展：长期配置/行为常识教育，服务工薪低波动认知，无喊单带单。",
-        "deep_link": "https://awealthofcommonsense.com/2026/10/betting-on-hope/",
-        "blurb": "Why people make longshot bets. The post Betting on Hope appeared first on A Wealth of Common Sense. ...",
-        "url": "https://awealthofcommonsense.com/2026/10/betting-on-hope/",
-        "posted_at": "2026-10-11",
         "handle": "awealthofcs",
         "name": "Ben Carlson",
         "person_id": "awealthofcs",
@@ -9316,6 +9453,47 @@
         "_origin": "kol_rss",
         "_source_id": "kol:PaulaPant",
         "_feed_url": "https://affordanything.com/feed",
+        "_feed_type": "blog_rss",
+        "extra": {
+          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+          "bucket": "稳健"
+        },
+        "_score_raw": 45,
+        "_decay_penalty": 8,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-post-awealthofcs-9ff327c1da7b",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "Betting on Hope",
+        "summary": "Why people make longshot bets. The post Betting on Hope appeared first on A Wealth of Common Sense. ...",
+        "source": "@awealthofcs / Ben Carlson",
+        "source_url": "https://awealthofcommonsense.com/2026/10/betting-on-hope/",
+        "published_at": "2026-10-11T16:00:56.000Z",
+        "tags": [
+          "观察",
+          "稳健",
+          "配置"
+        ],
+        "score": 37,
+        "why": "策展：长期配置/行为常识教育，服务工薪低波动认知，无喊单带单。",
+        "deep_link": "https://awealthofcommonsense.com/2026/10/betting-on-hope/",
+        "blurb": "Why people make longshot bets. The post Betting on Hope appeared first on A Wealth of Common Sense. ...",
+        "url": "https://awealthofcommonsense.com/2026/10/betting-on-hope/",
+        "posted_at": "2026-10-11",
+        "handle": "awealthofcs",
+        "name": "Ben Carlson",
+        "person_id": "awealthofcs",
+        "person_handle": "awealthofcs",
+        "person_name": "Ben Carlson",
+        "tier": "A",
+        "lang": "EN",
+        "risk": "stable",
+        "_origin": "kol_rss",
+        "_source_id": "kol:awealthofcs",
+        "_feed_url": "https://awealthofcommonsense.com/feed/",
         "_feed_type": "blog_rss",
         "extra": {
           "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
@@ -9861,6 +10039,42 @@
     ],
     "growth": [
       {
+        "id": "growth-post-artofmanliness-92a8fe17c118",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "Carry the Fire",
+        "summary": "We’re going to be okay, arent we Papa? Yes. We are. And nothing bad is going to happen to us. That’s right. Because we’re carrying the fire. Yes. Because we’re carrying the fire. Once a year I read The Road by Cormac McCarthy. The yearly reading has become almost a religious rite",
+        "source": "@artofmanliness / The Art of Manliness",
+        "source_url": "https://www.artofmanliness.com/social/fatherhood/carry-the-fire/",
+        "published_at": "2026-10-18T13:21:50.000Z",
+        "tags": [
+          "arr",
+          "习惯",
+          "学习"
+        ],
+        "score": 78,
+        "why": "独立/Agent：arr；成长栏目：习惯；策展：习惯/效率/学习方法的实操长文，常给具体步骤。",
+        "deep_link": "https://www.artofmanliness.com/social/fatherhood/carry-the-fire/",
+        "blurb": "We’re going to be okay, arent we Papa? Yes. We are. And nothing bad is going to happen to us. That’s right. Because we’r",
+        "url": "https://www.artofmanliness.com/social/fatherhood/carry-the-fire/",
+        "posted_at": "2026-10-18",
+        "handle": "artofmanliness",
+        "name": "The Art of Manliness",
+        "person_id": "artofmanliness",
+        "person_handle": "artofmanliness",
+        "person_name": "The Art of Manliness",
+        "tier": "B",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:artofmanliness",
+        "_feed_url": "https://www.artofmanliness.com/feed/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 78,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
         "id": "growth-post-developgoodhabits-eaac9697b246",
         "partition": "growth",
         "type": "post",
@@ -9929,6 +10143,113 @@
         "_feed_url": "https://www.developgoodhabits.com/feed/",
         "_feed_type": "blog_rss",
         "_score_raw": 78,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-artofmanliness-7da27697f8a8",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "3 Great-Looking Watches That Cost Under $100",
+        "summary": "I’ve worn an Apple Watch for all but a few months here and there for the last decade. I can’t say I love it, but it’s dang convenient, and every time I try to give it up, I end up putting it back on after a few weeks. That said, there’s still a place in […] This article was origi",
+        "source": "@artofmanliness / The Art of Manliness",
+        "source_url": "https://www.artofmanliness.com/style/3-great-looking-watches-that-cost-under-100/",
+        "published_at": "2026-10-15T13:58:13.000Z",
+        "tags": [
+          "习惯",
+          "学习"
+        ],
+        "score": 63,
+        "why": "成长栏目：习惯；策展：习惯/效率/学习方法的实操长文，常给具体步骤。",
+        "deep_link": "https://www.artofmanliness.com/style/3-great-looking-watches-that-cost-under-100/",
+        "blurb": "I’ve worn an Apple Watch for all but a few months here and there for the last decade. I can’t say I love it, but it’s da",
+        "url": "https://www.artofmanliness.com/style/3-great-looking-watches-that-cost-under-100/",
+        "posted_at": "2026-10-15",
+        "handle": "artofmanliness",
+        "name": "The Art of Manliness",
+        "person_id": "artofmanliness",
+        "person_handle": "artofmanliness",
+        "person_name": "The Art of Manliness",
+        "tier": "B",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:artofmanliness",
+        "_feed_url": "https://www.artofmanliness.com/feed/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 63,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-artofmanliness-864aae246a11",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "Podcast #1,137: Brandon Flowers, Frontman of the Killers, on Family, Faith, and Becoming a Thrasher",
+        "summary": "If you’ve been following the Art of Manliness for a while, you know that I typically interview the authors of books on this podcast. But, if you’ve been following the Art of Manliness for a while, you’ll know why I had to make an exception for today’s guest. Brandon Flowers is my",
+        "source": "@artofmanliness / The Art of Manliness",
+        "source_url": "https://www.artofmanliness.com/culture/entertainment/brandon-flowers-interview/",
+        "published_at": "2026-10-13T12:29:52.000Z",
+        "tags": [
+          "习惯",
+          "学习"
+        ],
+        "score": 63,
+        "why": "成长栏目：习惯；策展：习惯/效率/学习方法的实操长文，常给具体步骤。",
+        "deep_link": "https://www.artofmanliness.com/culture/entertainment/brandon-flowers-interview/",
+        "blurb": "If you’ve been following the Art of Manliness for a while, you know that I typically interview the authors of books on t",
+        "url": "https://www.artofmanliness.com/culture/entertainment/brandon-flowers-interview/",
+        "posted_at": "2026-10-13",
+        "handle": "artofmanliness",
+        "name": "The Art of Manliness",
+        "person_id": "artofmanliness",
+        "person_handle": "artofmanliness",
+        "person_name": "The Art of Manliness",
+        "tier": "B",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:artofmanliness",
+        "_feed_url": "https://www.artofmanliness.com/feed/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 63,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-artofmanliness-a4556c49ba53",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "26 New Rules of Digital Etiquette",
+        "summary": "Back in 2013, we published a set of propaganda-style posters on cell phone etiquette. Some of the rules hold up, but a lot of them focused on talking over the phone, while everyone pretty much just texts these days. “Don’t choose a cheesy, obnoxious, or vulgar ringtone” feels alm",
+        "source": "@artofmanliness / The Art of Manliness",
+        "source_url": "https://www.artofmanliness.com/social/etiquette/26-new-rules-of-digital-etiquette/",
+        "published_at": "2026-10-12T19:49:18.000Z",
+        "tags": [
+          "穿搭",
+          "style",
+          "习惯",
+          "学习"
+        ],
+        "score": 63,
+        "why": "成长栏目：穿搭；策展：习惯/效率/学习方法的实操长文，常给具体步骤。",
+        "deep_link": "https://www.artofmanliness.com/social/etiquette/26-new-rules-of-digital-etiquette/",
+        "blurb": "Back in 2013, we published a set of propaganda-style posters on cell phone etiquette. Some of the rules hold up, but a l",
+        "url": "https://www.artofmanliness.com/social/etiquette/26-new-rules-of-digital-etiquette/",
+        "posted_at": "2026-10-12",
+        "handle": "artofmanliness",
+        "name": "The Art of Manliness",
+        "person_id": "artofmanliness",
+        "person_handle": "artofmanliness",
+        "person_name": "The Art of Manliness",
+        "tier": "B",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:artofmanliness",
+        "_feed_url": "https://www.artofmanliness.com/feed/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 63,
         "_decay_penalty": 0,
         "_decay_exempt": null
       },
@@ -10215,183 +10536,6 @@
         "_decay_exempt": null
       },
       {
-        "id": "growth-post-bakadesuyo-a59d5f67a2f5",
-        "partition": "growth",
-        "type": "post",
-        "category": "个人提升",
-        "title": "This Is How To Get What You Want In Life: 6 Secrets To High-Agency",
-        "summary": "We’d all like to think we’re deliberately steering our lives. Yet a heck of a lot of adulthood consists of continuing whatever we were already doing because stopping would require change. You took a job because you needed money, stayed because you knew where the toilets were, and",
-        "source": "@bakadesuyo / Eric Barker (Barking Up The Wrong Tree)",
-        "source_url": "https://bakadesuyo.com/2026/10/agency/?utm_source=rss&utm_medium=rss&utm_campaign=agency",
-        "published_at": "2026-10-11T14:59:53.000Z",
-        "tags": [
-          "习惯",
-          "决策"
-        ],
-        "score": 63,
-        "why": "成长栏目：习惯；策展：每篇把学术研究整理成 N 条可执行要点，标题即写明数量。",
-        "deep_link": "https://bakadesuyo.com/2026/10/agency/?utm_source=rss&utm_medium=rss&utm_campaign=agency",
-        "blurb": "We’d all like to think we’re deliberately steering our lives. Yet a heck of a lot of adulthood consists of continuing wh",
-        "url": "https://bakadesuyo.com/2026/10/agency/?utm_source=rss&utm_medium=rss&utm_campaign=agency",
-        "posted_at": "2026-10-11",
-        "handle": "bakadesuyo",
-        "name": "Eric Barker (Barking Up The Wrong Tree)",
-        "person_id": "bakadesuyo",
-        "person_handle": "bakadesuyo",
-        "person_name": "Eric Barker (Barking Up The Wrong Tree)",
-        "tier": "A",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:bakadesuyo",
-        "_feed_url": "https://www.bakadesuyo.com/feed/",
-        "_feed_type": "blog_rss",
-        "_score_raw": 63,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "growth-post-artofmanliness-7da27697f8a8",
-        "partition": "growth",
-        "type": "post",
-        "category": "个人提升",
-        "title": "3 Great-Looking Watches That Cost Under $100",
-        "summary": "I’ve worn an Apple Watch for all but a few months here and there for the last decade. I can’t say I love it, but it’s dang convenient, and every time I try to give it up, I end up putting it back on after a few weeks. That said, there’s still a place in […] This article was origi",
-        "source": "@artofmanliness / The Art of Manliness",
-        "source_url": "https://www.artofmanliness.com/style/3-great-looking-watches-that-cost-under-100/",
-        "published_at": "2026-10-15T13:58:13.000Z",
-        "tags": [
-          "习惯",
-          "学习"
-        ],
-        "score": 63,
-        "why": "成长栏目：习惯；策展：习惯/效率/学习方法的实操长文，常给具体步骤。",
-        "deep_link": "https://www.artofmanliness.com/style/3-great-looking-watches-that-cost-under-100/",
-        "blurb": "I’ve worn an Apple Watch for all but a few months here and there for the last decade. I can’t say I love it, but it’s da",
-        "url": "https://www.artofmanliness.com/style/3-great-looking-watches-that-cost-under-100/",
-        "posted_at": "2026-10-15",
-        "handle": "artofmanliness",
-        "name": "The Art of Manliness",
-        "person_id": "artofmanliness",
-        "person_handle": "artofmanliness",
-        "person_name": "The Art of Manliness",
-        "tier": "B",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:artofmanliness",
-        "_feed_url": "https://www.artofmanliness.com/feed/",
-        "_feed_type": "blog_rss",
-        "_score_raw": 63,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "growth-post-artofmanliness-864aae246a11",
-        "partition": "growth",
-        "type": "post",
-        "category": "个人提升",
-        "title": "Podcast #1,137: Brandon Flowers, Frontman of the Killers, on Family, Faith, and Becoming a Thrasher",
-        "summary": "If you’ve been following the Art of Manliness for a while, you know that I typically interview the authors of books on this podcast. But, if you’ve been following the Art of Manliness for a while, you’ll know why I had to make an exception for today’s guest. Brandon Flowers is my",
-        "source": "@artofmanliness / The Art of Manliness",
-        "source_url": "https://www.artofmanliness.com/culture/entertainment/brandon-flowers-interview/",
-        "published_at": "2026-10-13T12:29:52.000Z",
-        "tags": [
-          "习惯",
-          "学习"
-        ],
-        "score": 63,
-        "why": "成长栏目：习惯；策展：习惯/效率/学习方法的实操长文，常给具体步骤。",
-        "deep_link": "https://www.artofmanliness.com/culture/entertainment/brandon-flowers-interview/",
-        "blurb": "If you’ve been following the Art of Manliness for a while, you know that I typically interview the authors of books on t",
-        "url": "https://www.artofmanliness.com/culture/entertainment/brandon-flowers-interview/",
-        "posted_at": "2026-10-13",
-        "handle": "artofmanliness",
-        "name": "The Art of Manliness",
-        "person_id": "artofmanliness",
-        "person_handle": "artofmanliness",
-        "person_name": "The Art of Manliness",
-        "tier": "B",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:artofmanliness",
-        "_feed_url": "https://www.artofmanliness.com/feed/",
-        "_feed_type": "blog_rss",
-        "_score_raw": 63,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "growth-post-artofmanliness-a4556c49ba53",
-        "partition": "growth",
-        "type": "post",
-        "category": "个人提升",
-        "title": "26 New Rules of Digital Etiquette",
-        "summary": "Back in 2013, we published a set of propaganda-style posters on cell phone etiquette. Some of the rules hold up, but a lot of them focused on talking over the phone, while everyone pretty much just texts these days. “Don’t choose a cheesy, obnoxious, or vulgar ringtone” feels alm",
-        "source": "@artofmanliness / The Art of Manliness",
-        "source_url": "https://www.artofmanliness.com/social/etiquette/26-new-rules-of-digital-etiquette/",
-        "published_at": "2026-10-12T19:49:18.000Z",
-        "tags": [
-          "穿搭",
-          "style",
-          "习惯",
-          "学习"
-        ],
-        "score": 63,
-        "why": "成长栏目：穿搭；策展：习惯/效率/学习方法的实操长文，常给具体步骤。",
-        "deep_link": "https://www.artofmanliness.com/social/etiquette/26-new-rules-of-digital-etiquette/",
-        "blurb": "Back in 2013, we published a set of propaganda-style posters on cell phone etiquette. Some of the rules hold up, but a l",
-        "url": "https://www.artofmanliness.com/social/etiquette/26-new-rules-of-digital-etiquette/",
-        "posted_at": "2026-10-12",
-        "handle": "artofmanliness",
-        "name": "The Art of Manliness",
-        "person_id": "artofmanliness",
-        "person_handle": "artofmanliness",
-        "person_name": "The Art of Manliness",
-        "tier": "B",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:artofmanliness",
-        "_feed_url": "https://www.artofmanliness.com/feed/",
-        "_feed_type": "blog_rss",
-        "_score_raw": 63,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "growth-post-artofmanliness-8fe98ca0136c",
-        "partition": "growth",
-        "type": "post",
-        "category": "个人提升",
-        "title": "The 6 Fire Lays Every Man Should Know",
-        "summary": "Building a fire is one of the 100 skills every man should know. But every outdoor situation requires different types of campfire lays (set-ups in the firewood), so it’s imperative to know how to make more than one kind. Here we highlight six of the most common and useful fire lay",
-        "source": "@artofmanliness / The Art of Manliness",
-        "source_url": "https://www.artofmanliness.com/skills/outdoors/the-6-fire-lays-every-man-should-know/",
-        "published_at": "2026-10-11T17:22:28.000Z",
-        "tags": [
-          "习惯",
-          "学习"
-        ],
-        "score": 63,
-        "why": "成长栏目：习惯；策展：习惯/效率/学习方法的实操长文，常给具体步骤。",
-        "deep_link": "https://www.artofmanliness.com/skills/outdoors/the-6-fire-lays-every-man-should-know/",
-        "blurb": "Building a fire is one of the 100 skills every man should know. But every outdoor situation requires different types of ",
-        "url": "https://www.artofmanliness.com/skills/outdoors/the-6-fire-lays-every-man-should-know/",
-        "posted_at": "2026-10-11",
-        "handle": "artofmanliness",
-        "name": "The Art of Manliness",
-        "person_id": "artofmanliness",
-        "person_handle": "artofmanliness",
-        "person_name": "The Art of Manliness",
-        "tier": "B",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:artofmanliness",
-        "_feed_url": "https://www.artofmanliness.com/feed/",
-        "_feed_type": "blog_rss",
-        "_score_raw": 63,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
         "id": "growth-profile-dieworkwear",
         "partition": "growth",
         "type": "post",
@@ -10604,70 +10748,35 @@
         "_decay_exempt": "profile_fallback"
       },
       {
-        "id": "growth-post-CalNewport-a37b0826d622",
+        "id": "growth-post-artofmanliness-8fe98ca0136c",
         "partition": "growth",
         "type": "post",
         "category": "个人提升",
-        "title": "It’s Time to Investigate the AI Labs",
-        "summary": "Over the last several months, the two leading frontier AI labs have shown some brazen behavior. It started with a series of​ carefully planned announcements​ ... Read more The post It’s Time to Investigate the AI Labs appeared first on Cal Newport .",
-        "source": "@CalNewport / Cal Newport",
-        "source_url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-        "published_at": "2026-09-28T10:00:00.000Z",
+        "title": "The 6 Fire Lays Every Man Should Know",
+        "summary": "Building a fire is one of the 100 skills every man should know. But every outdoor situation requires different types of campfire lays (set-ups in the firewood), so it’s imperative to know how to make more than one kind. Here we highlight six of the most common and useful fire lay",
+        "source": "@artofmanliness / The Art of Manliness",
+        "source_url": "https://www.artofmanliness.com/skills/outdoors/the-6-fire-lays-every-man-should-know/",
+        "published_at": "2026-10-11T17:22:28.000Z",
         "tags": [
           "习惯",
-          "认知"
+          "学习"
         ],
         "score": 55,
-        "why": "成长栏目：习惯；策展：深度工作/注意力系统可复用，对齐认知与执行，非鸡汤。",
-        "deep_link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-        "blurb": "Over the last several months, the two leading frontier AI labs have shown some brazen behavior. It started with a series",
-        "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-        "posted_at": "2026-09-28",
-        "handle": "CalNewport",
-        "name": "Cal Newport",
-        "person_id": "CalNewport",
-        "person_handle": "CalNewport",
-        "person_name": "Cal Newport",
-        "tier": "S",
+        "why": "成长栏目：习惯；策展：习惯/效率/学习方法的实操长文，常给具体步骤。",
+        "deep_link": "https://www.artofmanliness.com/skills/outdoors/the-6-fire-lays-every-man-should-know/",
+        "blurb": "Building a fire is one of the 100 skills every man should know. But every outdoor situation requires different types of ",
+        "url": "https://www.artofmanliness.com/skills/outdoors/the-6-fire-lays-every-man-should-know/",
+        "posted_at": "2026-10-11",
+        "handle": "artofmanliness",
+        "name": "The Art of Manliness",
+        "person_id": "artofmanliness",
+        "person_handle": "artofmanliness",
+        "person_name": "The Art of Manliness",
+        "tier": "B",
         "lang": "EN",
         "_origin": "kol_rss",
-        "_source_id": "kol:CalNewport",
-        "_feed_url": "https://calnewport.com/feed/",
-        "_feed_type": "blog_rss",
-        "_score_raw": 63,
-        "_decay_penalty": 8,
-        "_decay_exempt": null
-      },
-      {
-        "id": "growth-post-bakadesuyo-36eabbac6877",
-        "partition": "growth",
-        "type": "post",
-        "category": "个人提升",
-        "title": "How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory",
-        "summary": "You show up to the negotiation wanting to be reasonable. You’ve prepared several ways to demonstrate this, all of which involve receiving less. To make it worse, you’re dealing with the kind of person who’d happily disconnect an orphan’s ventilator to charge his phone. He asks fo",
-        "source": "@bakadesuyo / Eric Barker (Barking Up The Wrong Tree)",
-        "source_url": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
-        "published_at": "2026-09-27T16:25:55.000Z",
-        "tags": [
-          "习惯",
-          "决策"
-        ],
-        "score": 55,
-        "why": "成长栏目：习惯；策展：每篇把学术研究整理成 N 条可执行要点，标题即写明数量。",
-        "deep_link": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
-        "blurb": "You show up to the negotiation wanting to be reasonable. You’ve prepared several ways to demonstrate this, all of which ",
-        "url": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
-        "posted_at": "2026-09-27",
-        "handle": "bakadesuyo",
-        "name": "Eric Barker (Barking Up The Wrong Tree)",
-        "person_id": "bakadesuyo",
-        "person_handle": "bakadesuyo",
-        "person_name": "Eric Barker (Barking Up The Wrong Tree)",
-        "tier": "A",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:bakadesuyo",
-        "_feed_url": "https://www.bakadesuyo.com/feed/",
+        "_source_id": "kol:artofmanliness",
+        "_feed_url": "https://www.artofmanliness.com/feed/",
         "_feed_type": "blog_rss",
         "_score_raw": 63,
         "_decay_penalty": 8,
@@ -10816,35 +10925,105 @@
         "_decay_exempt": null
       },
       {
-        "id": "growth-post-artofmanliness-cd97d7fc4f61",
+        "id": "growth-post-CalNewport-a37b0826d622",
         "partition": "growth",
         "type": "post",
         "category": "个人提升",
-        "title": "What Every Man Should Keep in His Glove Box",
-        "summary": "The glove box is basically your car’s junk drawer, accumulating this and that odd document or condiment packet over the course of months and even years. That’s not necessarily a problem . . . until the day comes when you actually need something from inside. Keeping it tidy and or",
-        "source": "@artofmanliness / The Art of Manliness",
-        "source_url": "https://www.artofmanliness.com/skills/cars/what-every-man-should-keep-in-his-glove-box/",
-        "published_at": "2026-10-01T15:38:01.000Z",
+        "title": "It’s Time to Investigate the AI Labs",
+        "summary": "Over the last several months, the two leading frontier AI labs have shown some brazen behavior. It started with a series of​ carefully planned announcements​ ... Read more The post It’s Time to Investigate the AI Labs appeared first on Cal Newport .",
+        "source": "@CalNewport / Cal Newport",
+        "source_url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+        "published_at": "2026-09-28T10:00:00.000Z",
         "tags": [
           "习惯",
-          "学习"
+          "认知"
         ],
         "score": 55,
-        "why": "成长栏目：习惯；策展：习惯/效率/学习方法的实操长文，常给具体步骤。",
-        "deep_link": "https://www.artofmanliness.com/skills/cars/what-every-man-should-keep-in-his-glove-box/",
-        "blurb": "The glove box is basically your car’s junk drawer, accumulating this and that odd document or condiment packet over the ",
-        "url": "https://www.artofmanliness.com/skills/cars/what-every-man-should-keep-in-his-glove-box/",
-        "posted_at": "2026-10-01",
-        "handle": "artofmanliness",
-        "name": "The Art of Manliness",
-        "person_id": "artofmanliness",
-        "person_handle": "artofmanliness",
-        "person_name": "The Art of Manliness",
-        "tier": "B",
+        "why": "成长栏目：习惯；策展：深度工作/注意力系统可复用，对齐认知与执行，非鸡汤。",
+        "deep_link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+        "blurb": "Over the last several months, the two leading frontier AI labs have shown some brazen behavior. It started with a series",
+        "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+        "posted_at": "2026-09-28",
+        "handle": "CalNewport",
+        "name": "Cal Newport",
+        "person_id": "CalNewport",
+        "person_handle": "CalNewport",
+        "person_name": "Cal Newport",
+        "tier": "S",
         "lang": "EN",
         "_origin": "kol_rss",
-        "_source_id": "kol:artofmanliness",
-        "_feed_url": "https://www.artofmanliness.com/feed/",
+        "_source_id": "kol:CalNewport",
+        "_feed_url": "https://calnewport.com/feed/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 63,
+        "_decay_penalty": 8,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-bakadesuyo-a59d5f67a2f5",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "This Is How To Get What You Want In Life: 6 Secrets To High-Agency",
+        "summary": "We’d all like to think we’re deliberately steering our lives. Yet a heck of a lot of adulthood consists of continuing whatever we were already doing because stopping would require change. You took a job because you needed money, stayed because you knew where the toilets were, and",
+        "source": "@bakadesuyo / Eric Barker (Barking Up The Wrong Tree)",
+        "source_url": "https://bakadesuyo.com/2026/10/agency/?utm_source=rss&utm_medium=rss&utm_campaign=agency",
+        "published_at": "2026-10-11T14:59:53.000Z",
+        "tags": [
+          "习惯",
+          "决策"
+        ],
+        "score": 55,
+        "why": "成长栏目：习惯；策展：每篇把学术研究整理成 N 条可执行要点，标题即写明数量。",
+        "deep_link": "https://bakadesuyo.com/2026/10/agency/?utm_source=rss&utm_medium=rss&utm_campaign=agency",
+        "blurb": "We’d all like to think we’re deliberately steering our lives. Yet a heck of a lot of adulthood consists of continuing wh",
+        "url": "https://bakadesuyo.com/2026/10/agency/?utm_source=rss&utm_medium=rss&utm_campaign=agency",
+        "posted_at": "2026-10-11",
+        "handle": "bakadesuyo",
+        "name": "Eric Barker (Barking Up The Wrong Tree)",
+        "person_id": "bakadesuyo",
+        "person_handle": "bakadesuyo",
+        "person_name": "Eric Barker (Barking Up The Wrong Tree)",
+        "tier": "A",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:bakadesuyo",
+        "_feed_url": "https://www.bakadesuyo.com/feed/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 63,
+        "_decay_penalty": 8,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-bakadesuyo-36eabbac6877",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory",
+        "summary": "You show up to the negotiation wanting to be reasonable. You’ve prepared several ways to demonstrate this, all of which involve receiving less. To make it worse, you’re dealing with the kind of person who’d happily disconnect an orphan’s ventilator to charge his phone. He asks fo",
+        "source": "@bakadesuyo / Eric Barker (Barking Up The Wrong Tree)",
+        "source_url": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
+        "published_at": "2026-09-27T16:25:55.000Z",
+        "tags": [
+          "习惯",
+          "决策"
+        ],
+        "score": 55,
+        "why": "成长栏目：习惯；策展：每篇把学术研究整理成 N 条可执行要点，标题即写明数量。",
+        "deep_link": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
+        "blurb": "You show up to the negotiation wanting to be reasonable. You’ve prepared several ways to demonstrate this, all of which ",
+        "url": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
+        "posted_at": "2026-09-27",
+        "handle": "bakadesuyo",
+        "name": "Eric Barker (Barking Up The Wrong Tree)",
+        "person_id": "bakadesuyo",
+        "person_handle": "bakadesuyo",
+        "person_name": "Eric Barker (Barking Up The Wrong Tree)",
+        "tier": "A",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:bakadesuyo",
+        "_feed_url": "https://www.bakadesuyo.com/feed/",
         "_feed_type": "blog_rss",
         "_score_raw": 63,
         "_decay_penalty": 8,

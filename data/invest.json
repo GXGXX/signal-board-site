@@ -1,1 +1,999 @@
-{"partition":"invest","generated_at":"2026-10-18T00:04:58.045Z","next_update_at":"2026-10-18T01:00:00.000Z","cap":30,"cards":[{"id":"crypto-market-2026-10-18","partition":"invest","type":"card","category":"投资观察","title":"大盘 · BTC $81,342（24h -0.23%）· ETH $2,397（-0.93%）","title_orig":"大盘 · BTC $81,342（24h -0.23%）· ETH $2,397（-0.93%）","source":"CoinGecko 公开 API（/global + /coins/markets）","source_url":"https://www.coingecko.com/","url":"https://www.coingecko.com/","published_at":"2026-10-18T00:02:51.000Z","tags":["加密","高风险","大盘"],"score":95,"risk":"high","lang":"zh","_origin":"crypto","_crypto_kind":"大盘","extra":{"disclaimer":"非投资建议；加密高风险"},"reader":{"verdict":"worth","verdict_label":"币圈观察","use":"今日币圈整体横盘；总市值 $2.75T（24h -0.43%），BTC 占比 59.5%，先看大盘再看单币异动","title":"大盘 · BTC $81,342（24h -0.23%）· ETH $2,397（-0.93%）","lines":{"value":"BTC 7d -1.94%；ETH 7d -4.27%","note":"非投资建议；加密高风险；只作趋势感知，不是买卖信号"},"evidence":["bitcoin current_price: 81342, price_change_percentage_24h: -0.23","ethereum current_price: 2397.16, price_change_percentage_24h: -0.93","total_market_cap.usd: 2745055827614, market_cap_percentage.btc: 59.5 (24h 变化取前100币 market_cap_change_percentage_24h 按市值加权 = -0.43)"],"point":"币圈：今日币圈整体横盘；总市值 $2.75T（24h -0.43%），BTC 占比 59.5%，先看大盘再看单币异动"}},{"id":"crypto-etf-btc-16Oct2026","partition":"invest","type":"card","category":"投资观察","title":"BTC 现货 ETF · 16 Oct 2026 净流出 $82.4M","title_orig":"BTC 现货 ETF · 16 Oct 2026 净流出 $82.4M","source":"Farside Investors 公开 BTC ETF 日流表（单位：百万美元）","source_url":"https://farside.co.uk/btc/","url":"https://farside.co.uk/btc/","published_at":"2026-10-16T23:59:00.000Z","tags":["加密","高风险","ETF流向"],"score":92,"risk":"high","lang":"zh","_origin":"crypto","_crypto_kind":"ETF流向","extra":{"disclaimer":"非投资建议；加密高风险","numbers":{"total_net_flow_m_usd":-82.4,"as_of":"16 Oct 2026","streak_days":1,"sum_5d_m_usd":-228.4}},"reader":{"verdict":"worth","verdict_label":"币圈观察","use":"机构资金方向：已连续 1 个交易日净流出，近5日合计 −$228.4M","title":"BTC 现货 ETF · 16 Oct 2026 净流出 $82.4M","lines":{"value":"前5日合计（百万美元）：21.1 / -65.4 / 175.7 / -261.4 / 5.1","note":"非投资建议；加密高风险；只作趋势感知，不是买卖信号"},"evidence":["16 Oct 2026 (71.8) (10.6) 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 (82.4)"],"point":"币圈：机构资金方向：已连续 1 个交易日净流出，近5日合计 −$228.4M"}},{"id":"crypto-etf-eth-16Oct2026","partition":"invest","type":"card","category":"投资观察","title":"ETH 现货 ETF · 16 Oct 2026 净流出 $69.7M","title_orig":"ETH 现货 ETF · 16 Oct 2026 净流出 $69.7M","source":"Farside Investors 公开 ETH ETF 日流表（单位：百万美元）","source_url":"https://farside.co.uk/eth/","url":"https://farside.co.uk/eth/","published_at":"2026-10-16T23:59:00.000Z","tags":["加密","高风险","ETF流向"],"score":92,"risk":"high","lang":"zh","_origin":"crypto","_crypto_kind":"ETF流向","extra":{"disclaimer":"非投资建议；加密高风险","numbers":{"total_net_flow_m_usd":-69.7,"as_of":"16 Oct 2026","streak_days":3,"sum_5d_m_usd":-320.1}},"reader":{"verdict":"worth","verdict_label":"币圈观察","use":"机构资金方向：已连续 3 个交易日净流出，近5日合计 −$320.1M","title":"ETH 现货 ETF · 16 Oct 2026 净流出 $69.7M","lines":{"value":"前5日合计（百万美元）：-56.1 / -85.4 / 24.8 / -129.5 / -60.3","note":"非投资建议；加密高风险；只作趋势感知，不是买卖信号"},"evidence":["16 Oct 2026 (69.7) 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 (69.7)"],"point":"币圈：机构资金方向：已连续 3 个交易日净流出，近5日合计 −$320.1M"}},{"id":"crypto-movers-涨-2026-10-18","partition":"invest","type":"card","category":"投资观察","title":"前100市值涨幅榜 · BTW +26.19% / XMR +2.54% / HBAR +2.01%（24h）","title_orig":"前100市值涨幅榜 · BTW +26.19% / XMR +2.54% / HBAR +2.01%（24h）","source":"CoinGecko 公开 API（/coins/markets 前100）","source_url":"https://www.coingecko.com/en/crypto-gainers-losers","url":"https://www.coingecko.com/en/crypto-gainers-losers","published_at":"2026-10-18T00:02:51.000Z","tags":["加密","高风险","异动"],"score":88,"risk":"high","lang":"zh","_origin":"crypto","_crypto_kind":"异动","extra":{"disclaimer":"非投资建议；加密高风险"},"reader":{"verdict":"worth","verdict_label":"币圈观察","use":"大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐","title":"前100市值涨幅榜 · BTW +26.19% / XMR +2.54% / HBAR +2.01%（24h）","lines":{"value":"Bitway $2.430，24h 成交 $42.5M，市值排名 #33（流通仅占总量 15%，低流通盘易暴涨暴跌）；Monero $571，24h 成交 $111.3M，市值排名 #13；Hedera $0.08520，24h 成交 $76.3M，市值排名 #32","note":"非投资建议；加密高风险；只作趋势感知，不是买卖信号"},"evidence":["bitway current_price: 2.43, price_change_percentage_24h: 26.19, total_volume: 42473586, circulating_supply: 1505787514, total_supply: 10000000000","monero current_price: 570.63, price_change_percentage_24h: 2.54, total_volume: 111324812, circulating_supply: 18818951, total_supply: 18818968","hedera-hashgraph current_price: 0.085204, price_change_percentage_24h: 2.01, total_volume: 76281310, circulating_supply: 44027157644, total_supply: 50000000000"],"point":"币圈：大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐"}},{"id":"crypto-movers-跌-2026-10-18","partition":"invest","type":"card","category":"投资观察","title":"前100市值跌幅榜 · ZRO -8.86% / FIL -7.74% / APT -6.17%（24h）","title_orig":"前100市值跌幅榜 · ZRO -8.86% / FIL -7.74% / APT -6.17%（24h）","source":"CoinGecko 公开 API（/coins/markets 前100）","source_url":"https://www.coingecko.com/en/crypto-gainers-losers","url":"https://www.coingecko.com/en/crypto-gainers-losers","published_at":"2026-10-18T00:02:51.000Z","tags":["加密","高风险","异动"],"score":88,"risk":"high","lang":"zh","_origin":"crypto","_crypto_kind":"异动","extra":{"disclaimer":"非投资建议；加密高风险"},"reader":{"verdict":"worth","verdict_label":"币圈观察","use":"大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接","title":"前100市值跌幅榜 · ZRO -8.86% / FIL -7.74% / APT -6.17%（24h）","lines":{"value":"LayerZero $1.870，24h 成交 $80.4M，市值排名 #90；Filecoin $1.062，24h 成交 $178.9M，市值排名 #83；Aptos $0.7944，24h 成交 $74.5M，市值排名 #91","note":"非投资建议；加密高风险；只作趋势感知，不是买卖信号"},"evidence":["layerzero current_price: 1.87, price_change_percentage_24h: -8.86, total_volume: 80433853, circulating_supply: 399976128, total_supply: 1000000000","filecoin current_price: 1.062, price_change_percentage_24h: -7.74, total_volume: 178942646, circulating_supply: 835464544, total_supply: 1956979946","aptos current_price: 0.794368, price_change_percentage_24h: -6.17, total_volume: 74463252, circulating_supply: 883104070, total_supply: 1210234650"],"point":"币圈：大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接"}},{"id":"crypto-trending-2026-10-18","partition":"invest","type":"card","category":"投资观察","title":"CoinGecko 热搜 · SOL -0.92% / NEAR -4.05% / Q +114.08% / PENGU -1.49%","title_orig":"CoinGecko 热搜 · SOL -0.92% / NEAR -4.05% / Q +114.08% / PENGU -1.49%","source":"CoinGecko 公开 API（/search/trending）","source_url":"https://www.coingecko.com/en/highlights/trending-crypto","url":"https://www.coingecko.com/en/highlights/trending-crypto","published_at":"2026-10-18T00:04:55.820Z","tags":["加密","高风险","热度"],"score":80,"risk":"high","lang":"zh","_origin":"crypto","_crypto_kind":"热度","extra":{"disclaimer":"非投资建议；加密高风险"},"reader":{"verdict":"worth","verdict_label":"币圈观察","use":"散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 SOL、NEAR、Q、PENGU","title":"CoinGecko 热搜 · SOL -0.92% / NEAR -4.05% / Q +114.08% / PENGU -1.49%","lines":{"value":"Solana（市值排名 #7）、NEAR Protocol（市值排名 #20）、Quack AI（市值排名 #106）、Pudgy Penguins（市值排名 #120）、Canton（市值排名 #28）、Ondo（市值排名 #48）、Injective（市值排名 #84）、XRP（市值排名 #5）、Hyperliquid（市值排名 #11）、Zcash（市值排名 #10）、Quant（市值排名 #40）、Pearl（市值排名 #101）、Bitcoin（市值排名 #1）、Ethereum（市值排名 #2）、Pump.fun（市值排名 #49）","note":"非投资建议；加密高风险；只作趋势感知，不是买卖信号"},"evidence":["solana market_cap_rank: 7, price_change_percentage_24h.usd: -0.92","near market_cap_rank: 20, price_change_percentage_24h.usd: -4.05","quack-ai market_cap_rank: 106, price_change_percentage_24h.usd: 114.08","pudgy-penguins market_cap_rank: 120, price_change_percentage_24h.usd: -1.49"],"point":"币圈：散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 SOL、NEAR、Q、PENGU"}},{"id":"crypto-stables-2026-10-17","partition":"invest","type":"card","category":"投资观察","title":"稳定币总量 $304.85B · 7日 -0.37% · 30日 +0.62%","title_orig":"稳定币总量 $304.85B · 7日 -0.37% · 30日 +0.62%","source":"DefiLlama 公开 API（stablecoincharts/all）","source_url":"https://defillama.com/stablecoins","url":"https://defillama.com/stablecoins","published_at":"2026-10-17T00:00:00.000Z","tags":["加密","高风险","链上"],"score":78,"risk":"high","lang":"zh","_origin":"crypto","_crypto_kind":"链上","extra":{"disclaimer":"非投资建议；加密高风险"},"reader":{"verdict":"worth","verdict_label":"币圈观察","use":"稳定币在收缩：场内资金流出，反弹持续性要打折扣","title":"稳定币总量 $304.85B · 7日 -0.37% · 30日 +0.62%","lines":{"value":"7日变化 $-1.12B（数据日 2026-10-17）","note":"非投资建议；加密高风险；只作趋势感知，不是买卖信号"},"evidence":["date: 1792195200 (2026-10-17), totalCirculatingUSD.peggedUSD: 304853895898","7 days earlier totalCirculatingUSD.peggedUSD: 305978052114"],"point":"币圈：稳定币在收缩：场内资金流出，反弹持续性要打折扣"}},{"id":"crypto-revenue-2026-10-18","partition":"invest","type":"card","category":"投资观察","title":"协议收入异动 · Hyperliquid Perps $2.3M/日（较7日前 +40.18%） / Polymarket International $898,813/日（较7日前 +57.64%）","title_orig":"协议收入异动 · Hyperliquid Perps $2.3M/日（较7日前 +40.18%） / Polymarket International $898,813/日（较7日前 +57.64%）","source":"DefiLlama 公开 API（overview/fees, dailyRevenue）","source_url":"https://defillama.com/revenue","url":"https://defillama.com/revenue","published_at":"2026-10-18T00:04:55.820Z","tags":["加密","高风险","链上"],"score":76,"risk":"high","lang":"zh","_origin":"crypto","_crypto_kind":"链上","extra":{"disclaimer":"非投资建议；加密高风险"},"reader":{"verdict":"worth","verdict_label":"币圈观察","use":"真实使用量变化：收入暴增的协议/链通常是当下资金和话题在的地方，收入下滑说明热度退潮","title":"协议收入异动 · Hyperliquid Perps $2.3M/日（较7日前 +40.18%） / Polymarket International $898,813/日（较7日前 +57.64%）","lines":{"value":"Hyperliquid Perps（Derivatives）、Polymarket International（Prediction Market）","note":"非投资建议；加密高风险；只作趋势感知，不是买卖信号"},"evidence":["Hyperliquid Perps total24h: 2341040, change_7d: 40.18","Polymarket International total24h: 898813, change_7d: 57.64"],"point":"币圈：真实使用量变化：收入暴增的协议/链通常是当下资金和话题在的地方，收入下滑说明热度退潮"}},{"id":"invest-post-ramit-5dec535e812b","partition":"invest","type":"post","category":"投资观察","title":"282. “We spend 154% of what we make. Will we ever stop drowning?”","summary":"Ramit digs into how years of overspending, money avoidance, and relying on future income have left a couple with more than $428,000 in debt, no savings…","source":"@ramit / Ramit Sethi","source_url":"https://www.iwillteachyoutoberich.com/282-we-spend-154-of-what-we-make-will-we-ever-stop-drowning/","published_at":"2026-10-13T10:11:51.000Z","tags":["观察","应急金","定投","稳健","实操"],"score":91,"why":"工薪教育：应急金、定投；策展：具体可执行的工薪理财步骤（自动化、指数基金、应急金），不荐个股、不喊单。","deep_link":"https://www.iwillteachyoutoberich.com/282-we-spend-154-of-what-we-make-will-we-ever-stop-drowning/","extra":{"disclaimer":"仅供观察，非投资建议；不构成任何买卖建议","bucket":"稳健"},"blurb":"Ramit digs into how years of overspending, money avoidance, and relying on future income have left a couple with more than $428,000 in debt, no savings…","url":"https://www.iwillteachyoutoberich.com/282-we-spend-154-of-what-we-make-will-we-ever-stop-drowning/","handle":"ramit","name":"Ramit Sethi","risk":"stable","lang":"EN","posted_at":"2026-10-13","tier":"A","evidence_missing":false,"_origin":"kol_rss","_source_id":"kol:ramit","title_orig":"282. “We spend 154% of what we make. Will we ever stop drowning?”","source_excerpt":"Ramit digs into how years of overspending, money avoidance, and relying on future income have left a couple with more than $428,000 in debt, no savings, and a […] The post 282. “We spend 154% of what we make. Will we ever stop drowning?” first appeared on I Will Teach You To Be R","person_id":"ramit","person_handle":"ramit","person_name":"Ramit Sethi","_feed_type":"blog_rss","_feed_url":"https://www.iwillteachyoutoberich.com/feed","_score_raw":71,"_decay_penalty":0,"_decay_exempt":null,"_practical":true,"_practical_delta":20,"summary_zh":"Ramit digs into how years of overspending, money avoidance, and relying on future income have left a couple with more than $428,000 in debt, no savings…","highlights":["来源：Ramit Sethi"],"summary_source":"fallback","reader":{"verdict":"worth","use":"月光、存不下钱时看：花得比赚得多怎么止住","lines":{"scenario":"月光、存不下钱时","problem":"花得比赚得多怎么止住","step":"先止住超支，再谈存钱投资","value":"原文算例：154% of what we make"},"evidence":["spend 154% of what we make","154% of what we make"],"point":"理财：月光、存不下钱，看花得比赚得多怎么止住","verdict_label":"值得看","title":""}},{"id":"invest-post-ramit-c69835cd3171","partition":"invest","type":"post","category":"投资观察","title":"279. “He lost his $150k job, but I make every decision. Can we fix this?”","summary":"Ramit unpacks how to manage money as a couple after a job loss and what happens when one partner carries most of the financial responsibility…","source":"@ramit / Ramit Sethi","source_url":"https://www.iwillteachyoutoberich.com/2-2/","published_at":"2026-09-22T15:26:42.000Z","tags":["观察","arr","应急金","定投","稳健","实操"],"score":90,"why":"独立/Agent：arr；工薪教育：应急金、定投；策展：具体可执行的工薪理财步骤（自动化、指数基金、应急金），不荐个股、不喊单。","deep_link":"https://www.iwillteachyoutoberich.com/2-2/","extra":{"disclaimer":"仅供观察，非投资建议；不构成任何买卖建议","bucket":"稳健"},"blurb":"Ramit unpacks how to manage money as a couple after a job loss and what happens when one partner carries most of the financial responsibility…","url":"https://www.iwillteachyoutoberich.com/2-2/","handle":"ramit","name":"Ramit Sethi","risk":"stable","lang":"EN","posted_at":"2026-09-22","tier":"A","evidence_missing":false,"_origin":"kol_rss","_source_id":"kol:ramit","title_orig":"279. “He lost his $150k job, but I make every decision. Can we fix this?”","source_excerpt":"Ramit unpacks how to manage money as a couple after a job loss and what happens when one partner carries most of the financial responsibility while the […] The post 279. “He lost his $150k job, but I make every decision. Can we fix this?” first appeared on I Will Teach You To Be","person_id":"ramit","person_handle":"ramit","person_name":"Ramit Sethi","_feed_type":"blog_rss","_feed_url":"https://www.iwillteachyoutoberich.com/feed","_score_raw":78,"_decay_penalty":8,"_decay_exempt":null,"_practical":true,"_practical_delta":20,"summary_zh":"Ramit unpacks how to manage money as a couple after a job loss and what happens when one partner carries most of the financial responsibility…","highlights":["来源：Ramit Sethi"],"summary_source":"fallback","reader":{"verdict":"worth","use":"求职空窗、收入中断时看：失业后怎么管钱（夫妻案例）","lines":{"scenario":"求职空窗、收入中断时","problem":"失业后怎么管钱","not_for":"单身、没有共同财务的人参考价值低"},"evidence":["lost his $150k job","as a couple"],"point":"理财：求职空窗、收入中断，看失业后怎么管钱","concrete":[{"kind":"money","quote":"$150k"}],"verdict_label":"值得看","title":""}},{"id":"invest-post-dollarsanddata-61ec1eae87c6","partition":"invest","type":"post","category":"投资观察","title":"Is Startup Equity a Bad Deal?","summary":"Imagine joining a startup as employee number 10.","source":"@dollarsanddata / Nick Maggiulli","source_url":"https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/","published_at":"2026-09-22T11:45:57.000Z","tags":["观察","资产配置","稳健","数据"],"score":87,"why":"工薪教育：资产配置；宏观观察：data；策展：数据图表服务长期配置认知，非带单；常见于与 Housel/Bilello 并列的 fin-edu 名单。","deep_link":"https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/","extra":{"disclaimer":"仅供观察，非投资建议；不构成任何买卖建议","bucket":"稳健"},"blurb":"Imagine joining a startup as employee number 10.","url":"https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/","handle":"dollarsanddata","name":"Nick Maggiulli","risk":"stable","lang":"EN","posted_at":"2026-09-22","tier":"A","evidence_missing":false,"_origin":"kol_rss","_source_id":"kol:dollarsanddata","title_orig":"Is Startup Equity a Bad Deal?","source_excerpt":"Imagine joining a startup as employee number 10. Your salary is a bit below what the market pays for your role, but, in exchange, you get equity. How much? 0.25% of the company to be exact. You do the math in your head—if the company sells for $100M in a few years, you'll make $2","person_id":"dollarsanddata","person_handle":"dollarsanddata","person_name":"Nick Maggiulli","_feed_type":"blog_rss","_feed_url":"https://ofdollarsanddata.com/feed/","_score_raw":75,"_decay_penalty":8,"_decay_exempt":null,"_practical":true,"_practical_delta":20,"summary_zh":"Imagine joining a startup as employee number 10.","highlights":["Your salary is a bit below what the market pays for your…","0.25% of the company to be exact.","You do the math in your head—if the company sells for $100M…"],"summary_source":"fallback","reader":{"verdict":"worth","use":"去初创公司谈 offer 时看：用股权换低一点的薪水值不值","lines":{"scenario":"去初创公司谈 offer 时","problem":"用股权换低一点的薪水值不值","step":"谈 offer 时算清股权实际能值多少","value":"原文算例：0.25% of the company"},"evidence":["Startup Equity","0.25% of the company"],"point":"理财：去初创公司谈 offer，看用股权换低一点的薪水值不值","concrete":[{"kind":"money","quote":"$100M"},{"kind":"percent","quote":"0.25%"}],"verdict_label":"值得看","title":""}},{"id":"invest-community-invest-reddit-debtfree-26187d112b86","partition":"invest","type":"post","category":"投资观察","title":"Hopefully I can be debt free before 2030","summary":"My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month…","source":"r/DebtFree","source_url":"https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/","published_at":"2026-10-13T23:20:36.000Z","tags":["reddit","r/DebtFree","负债偿还","金额","比例"],"score":82,"why":"公开社区帖 · r/DebtFree · top/month 第43位 · 原帖含：负债偿还、金额、比例（数字均为发帖人自述，未经核实）","deep_link":"https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/","extra":{},"blurb":"My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month…","url":"https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/","name":"Hopefully I can be debt free before 2030","lang":"EN","posted_at":"2026-10-13","evidence_missing":false,"_origin":"community_rss","_source_id":"invest-reddit-debtfree","title_orig":"Hopefully I can be debt free before 2030","source_excerpt":"My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month - Care Credit Dental Im 33M in MA I make $92,145 per year after taxes(Including All sources of income into my bank account even non income that regulary comes in)","_feed_type":"reddit_rss","_feed_url":"https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100","_score_raw":62,"_decay_penalty":0,"_decay_exempt":null,"_practical":true,"_practical_delta":20,"summary_zh":"My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month…","highlights":[],"summary_source":"fallback","reader":{"verdict":"worth","use":"有负债、想还债时看：发帖人自述 $1227，9.30%（未经核实）","lines":{"value":"数字（发帖人自述）「$1227」「9.30%」；涉及：还债；做法原话：「My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month - Care Credit Dental Im 33M in MA I make $92,145 per year after」","note":"数字均为发帖人自述，未经核实；账户/税制按各国不同，只参考做法思路"},"evidence":["$1227","9.30%","debt free","My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month - Care Credit Dental Im 33M in MA I make $92,145 per year after"],"point":"理财：还债，发帖人自述 $1227","verdict_label":"值得看","title":""}},{"id":"invest-community-invest-reddit-ynab-d8e120b5c12a","partition":"invest","type":"post","category":"投资观察","title":"Small win that’s actually a big win","summary":"I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money…","source":"r/YNAB","source_url":"https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/","published_at":"2026-09-26T03:02:16.000Z","tags":["reddit","r/YNAB","金额","周期","预算/储蓄率"],"score":66,"why":"公开社区帖 · r/YNAB · top/month 第11位 · 原帖含：金额、周期、预算/储蓄率（数字均为发帖人自述，未经核实）","deep_link":"https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/","extra":{},"blurb":"I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money…","url":"https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/","name":"Small win that’s actually a big win","lang":"EN","posted_at":"2026-09-26","evidence_missing":false,"_origin":"community_rss","_source_id":"invest-reddit-ynab","title_orig":"Small win that’s actually a big win","source_excerpt":"I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money ps: Debt when I started was -$36k and today it’s at -$23k 💪 This week I visited family in a different state and didn’t once stress about my budget because I planned ahead.","_feed_type":"reddit_rss","_feed_url":"https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100","_score_raw":54,"_decay_penalty":8,"_decay_exempt":null,"_practical":true,"_practical_delta":20,"summary_zh":"I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money…","highlights":["Debt when I started was -$36k and today it’s at -$23k 💪…"],"summary_source":"fallback","reader":{"verdict":"worth","use":"想做预算、提高储蓄率时看：发帖人自述 $36k，for about 5 months（未经核实）","lines":{"value":"数字（发帖人自述）「$36k」「for about 5 months」；涉及：预算/储蓄率；做法原话：「the shame spiral around money ps: Debt when I started was -$36k and today it’s at -$23k 💪 This week I visited family in a different state and didn’t once stress about my budget because I planned ahead」","note":"数字均为发帖人自述，未经核实；账户/税制按各国不同，只参考做法思路"},"evidence":["$36k","for about 5 months","budget","the shame spiral around money ps: Debt when I started was -$36k and today it’s at -$23k 💪 This week I visited family in a different state and didn’t once stress about my budget because I planned ahead"],"point":"理财：预算/储蓄率，发帖人自述 $36k","verdict_label":"值得看","title":""}},{"id":"invest-community-invest-reddit-debtfree-f9a84849d6c9","partition":"invest","type":"post","category":"投资观察","title":"The things I cut out to save money and pay off debt quicker","summary":"my yearly car detail (did it myself, it’s not as good as a professional but I’m happy with it and I saved $200)","source":"r/DebtFree","source_url":"https://www.reddit.com/r/debtfree/comments/1wkiw8i/the_things_i_cut_out_to_save_money_and_pay_off/","published_at":"2026-09-19T10:41:26.000Z","tags":["reddit","r/DebtFree","负债偿还","金额"],"score":68,"why":"公开社区帖 · r/DebtFree · top/month 第3位 · 原帖含：负债偿还、金额（数字均为发帖人自述，未经核实）","deep_link":"https://www.reddit.com/r/debtfree/comments/1wkiw8i/the_things_i_cut_out_to_save_money_and_pay_off/","extra":{},"blurb":"my yearly car detail (did it myself, it’s not as good as a professional but I’m happy with it and I saved $200)","url":"https://www.reddit.com/r/debtfree/comments/1wkiw8i/the_things_i_cut_out_to_save_money_and_pay_off/","name":"The things I cut out to save money and pay off debt quicker","lang":"EN","posted_at":"2026-09-19","evidence_missing":false,"_origin":"community_rss","_source_id":"invest-reddit-debtfree","title_orig":"The things I cut out to save money and pay off debt quicker","source_excerpt":"-my yearly car detail (did it myself, it’s not as good as a professional but I’m happy with it and I saved $200) -I got a nespresso machine for my bday last year and my coffee average went from $40 a week to $7 a week just from making it at home only and never buying coffee out","_feed_type":"reddit_rss","_feed_url":"https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100","_score_raw":56,"_decay_penalty":8,"_decay_exempt":null,"_practical":true,"_practical_delta":20,"summary_zh":"my yearly car detail (did it myself, it’s not as good as a professional but I’m happy with it and I saved $200)","highlights":["I got a nespresso machine for my bday last year and my…"],"summary_source":"fallback","reader":{"verdict":"save","use":"有负债、想还债时看：发帖人自述 $200（未经核实）","lines":{"value":"数字（发帖人自述）「$200」；涉及：还债；做法原话：「-my yearly car detail (did it myself, it’s not as good as a professional but I’m happy with it and I saved $200) -I got a nespresso machine for my bday last year and my coffee average went from $40 a week to $7 a week just from」","note":"数字均为发帖人自述，未经核实；账户/税制按各国不同，只参考做法思路"},"evidence":["$200","pay off","-my yearly car detail (did it myself, it’s not as good as a professional but I’m happy with it and I saved $200) -I got a nespresso machine for my bday last year and my coffee average went from $40 a week to $7 a week just from"],"point":"理财：还债，发帖人自述 $200","verdict_label":"收藏","title":""}},{"id":"invest-post-PaulaPant-80f87dfa1416","partition":"invest","type":"post","category":"投资观察","title":"#750: Your “Diversified” Portfolio Might Secretly Be One Big Bet on AI, with Alec Litowitz","summary":"AI集中投资可能让你的S&P 500基金看起来多样化，但Alec Litowitz说这只是个隐藏的大赌注。","source":"@PaulaPant / Paula Pant","source_url":"https://affordanything.com/adaptability-quotient-alec-litowitz/","published_at":"2026-09-15T19:05:49.000Z","tags":["观察","index fund","稳健","实操"],"score":63,"why":"工薪教育：index fund；宏观观察：index；策展：面向工薪族的具体理财决策与真实听众案例（储蓄/指数/负债），不荐个股、不喊单。","deep_link":"https://affordanything.com/adaptability-quotient-alec-litowitz/","extra":{"disclaimer":"仅供观察，非投资建议；不构成任何买卖建议","bucket":"稳健"},"blurb":"AI集中投资可能让你的S&P 500基金看起来多样化，但Alec Litowitz说这只是个隐藏的大赌注。","url":"https://affordanything.com/adaptability-quotient-alec-litowitz/","handle":"PaulaPant","name":"Paula Pant","risk":"stable","lang":"EN","posted_at":"2026-09-15","tier":"A","evidence_missing":false,"_origin":"kol_rss","_source_id":"kol:PaulaPant","title_orig":"#750: Your “Diversified” Portfolio Might Secretly Be One Big Bet on AI, with Alec Litowitz","source_excerpt":"Your S&P 500 index fund looks diversified — but Alec Litowitz says its concentration in AI stocks makes it one giant bet in disguise. Alec Litowitz joined a hedge fund with $100 million in assets and six employees. He had never made a trade in his life. That fund was Citadel, in","person_id":"PaulaPant","person_handle":"PaulaPant","person_name":"Paula Pant","_feed_type":"blog_rss","_feed_url":"https://affordanything.com/feed","_score_raw":63,"_decay_penalty":20,"_decay_exempt":null,"_practical":true,"_practical_delta":20,"summary_zh":"AI集中投资可能让你的S&P 500基金看起来多样化，但Alec Litowitz说这只是个隐藏的大赌注。","highlights":["AI集中投资","Citadel hedge fund"],"summary_source":"local_llm","reader":{"verdict":"save","use":"手里主要是指数基金、以为已经分散时看：看似分散的组合可能其实集中押了同一个方向","lines":{"scenario":"手里主要是指数基金、以为已经分散时","problem":"看似分散的组合可能其实集中押了同一个方向"},"evidence":["Diversified” Portfolio Might Secretly Be One Big Bet"],"point":"理财：看似分散的组合可能其实集中押了同一个方向","verdict_label":"收藏","title":""}},{"id":"invest-post-dollarsanddata-f71d07f2efd6","partition":"invest","type":"post","category":"投资观察","title":"What Was the Best Portfolio Over the Last 50 Years?","summary":"最佳50年投资组合：U.S. 股票、国际股票、REITs、公司债、10年期国债。","source":"@dollarsanddata / Nick Maggiulli","source_url":"https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/","published_at":"2026-09-15T11:45:37.000Z","tags":["观察","资产配置","稳健","数据"],"score":63,"why":"工薪教育：资产配置；宏观观察：treasury、data；策展：数据图表服务长期配置认知，非带单；常见于与 Housel/Bilello 并列的 fin-edu 名单。","deep_link":"https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/","extra":{"disclaimer":"仅供观察，非投资建议；不构成任何买卖建议","bucket":"稳健"},"blurb":"最佳50年投资组合：U.S. 股票、国际股票、REITs、公司债、10年期国债。","url":"https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/","handle":"dollarsanddata","name":"Nick Maggiulli","risk":"stable","lang":"EN","posted_at":"2026-09-15","tier":"A","evidence_missing":false,"_origin":"kol_rss","_source_id":"kol:dollarsanddata","title_orig":"What Was the Best Portfolio Over the Last 50 Years?","source_excerpt":"A few months ago, I analyzed U.S. stock returns over the last century . Today, I'm going to determine the best portfolio over the last 50 years among the following asset classes: U.S. Stocks International Stocks Real Estate Investment Trusts (REITs) U.S. Corporate Bonds 10-Year T","person_id":"dollarsanddata","person_handle":"dollarsanddata","person_name":"Nick Maggiulli","_feed_type":"blog_rss","_feed_url":"https://ofdollarsanddata.com/feed/","_score_raw":63,"_decay_penalty":20,"_decay_exempt":null,"_practical":true,"_practical_delta":20,"summary_zh":"最佳50年投资组合：U.S. 股票、国际股票、REITs、公司债、10年期国债。","highlights":["A few months ago, I analyzed U","stock returns over the last century","Today, I'm going to determine the best …"],"summary_source":"local_llm","title_zh":"过去50年最佳投资组合是什么？","reader":{"verdict":"save","use":"准备长期定投、选资产配置时看：不同资产组合长期表现差多少","lines":{"scenario":"准备长期定投、选资产配置时","problem":"不同资产组合长期表现差多少","step":"用长期历史数据决定股债比例","value":"过去 50 年的真实回报对比","not_for":"数据来自美国市场，A股/港股不能直接套用"},"evidence":["Best Portfolio","Over the Last 50 Years","U.S. stock returns"],"point":"理财：准备长期定投、选资产配置，看不同资产组合长期表现差多少","concrete":[{"kind":"quantity","quote":"Over the Last 50 Years"}],"verdict_label":"收藏","title":"过去50年最佳投资组合是什么？"}},{"id":"invest-post-PaulaPant-74a87066cfb5","partition":"invest","type":"post","category":"投资观察","title":"#752: Q&A: I’m Tired of Managing My Rental Property. Should I Sell It?","summary":"卖房还是继续管理？Nieves的纠结。","source":"@PaulaPant / Paula Pant","source_url":"https://affordanything.com/sell-rental-property/","published_at":"2026-09-22T22:00:15.000Z","tags":["观察","稳健","实操"],"score":29,"why":"策展：面向工薪族的具体理财决策与真实听众案例（储蓄/指数/负债），不荐个股、不喊单。","deep_link":"https://affordanything.com/sell-rental-property/","extra":{"disclaimer":"仅供观察，非投资建议；不构成任何买卖建议","bucket":"稳健"},"blurb":"卖房还是继续管理？Nieves的纠结。","url":"https://affordanything.com/sell-rental-property/","handle":"PaulaPant","name":"Paula Pant","risk":"stable","lang":"EN","posted_at":"2026-09-22","tier":"A","evidence_missing":false,"_origin":"kol_rss","_source_id":"kol:PaulaPant","title_orig":"#752: Q&A: I’m Tired of Managing My Rental Property. Should I Sell It?","source_excerpt":"“Sometimes you might make the ‘right’ decision for the wrong reason.” That’s what I told Nieves, a listener who’s deciding whether to sell rental property she bought back in 2021, a St. Louis duplex that’s gotten a lot harder to manage since she moved to Madrid for her MBA. Her t","person_id":"PaulaPant","person_handle":"PaulaPant","person_name":"Paula Pant","_feed_type":"blog_rss","_feed_url":"https://affordanything.com/feed","_score_raw":37,"_decay_penalty":8,"_decay_exempt":null,"summary_zh":"卖房还是继续管理？Nieves的纠结。","highlights":["Nieves在西班牙管理一栋2021年从美国搬到马德里的复式公寓，感到压力山大。"],"summary_source":"local_llm","title_zh":"#752: Q&A: 我厌倦了管理我的出租房产。我应该卖掉它吗？","reader":{"verdict":"watch","use":"将来考虑买房出租时看：当房东的真实麻烦和取舍","lines":{"scenario":"将来考虑买房出租时","problem":"当房东的真实麻烦和取舍","not_for":"美国房产案例，国内不能照搬"},"evidence":["Rental Property","St. Louis"],"point":"","verdict_label":"观望","title":"#752: Q&A: 我厌倦了管理我的出租房产。我应该卖掉它吗？"}}]}
+{
+  "partition": "invest",
+  "generated_at": "2026-10-19T00:09:05.111Z",
+  "next_update_at": "2026-10-19T01:00:00.000Z",
+  "cap": 30,
+  "cards": [
+    {
+      "id": "crypto-market-2026-10-19",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "大盘 · BTC $82,002（24h +0.81%）· ETH $2,408（+0.46%）",
+      "title_orig": "大盘 · BTC $82,002（24h +0.81%）· ETH $2,408（+0.46%）",
+      "source": "CoinGecko 公开 API（/global + /coins/markets）",
+      "source_url": "https://www.coingecko.com/",
+      "url": "https://www.coingecko.com/",
+      "published_at": "2026-10-19T00:03:50.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "大盘"
+      ],
+      "score": 95,
+      "risk": "high",
+      "lang": "zh",
+      "_origin": "crypto",
+      "_crypto_kind": "大盘",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "今日币圈整体横盘；总市值 $2.74T（24h +0.70%），BTC 占比 60.1%，先看大盘再看单币异动",
+        "title": "大盘 · BTC $82,002（24h +0.81%）· ETH $2,408（+0.46%）",
+        "lines": {
+          "value": "BTC 7d -1.83%；ETH 7d -4.85%",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "bitcoin current_price: 82002, price_change_percentage_24h: 0.81",
+          "ethereum current_price: 2408.34, price_change_percentage_24h: 0.46",
+          "total_market_cap.usd: 2740800735438, market_cap_percentage.btc: 60.1 (24h 变化取前100币 market_cap_change_percentage_24h 按市值加权 = 0.70)"
+        ],
+        "point": "币圈：今日币圈整体横盘；总市值 $2.74T（24h +0.70%），BTC 占比 60.1%，先看大盘再看单币异动"
+      }
+    },
+    {
+      "id": "crypto-etf-btc-16Oct2026",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "BTC 现货 ETF · 16 Oct 2026 净流出 $82.4M",
+      "title_orig": "BTC 现货 ETF · 16 Oct 2026 净流出 $82.4M",
+      "source": "Farside Investors 公开 BTC ETF 日流表（单位：百万美元）",
+      "source_url": "https://farside.co.uk/btc/",
+      "url": "https://farside.co.uk/btc/",
+      "published_at": "2026-10-16T23:59:00.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "ETF流向"
+      ],
+      "score": 92,
+      "risk": "high",
+      "lang": "zh",
+      "_origin": "crypto",
+      "_crypto_kind": "ETF流向",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险",
+        "numbers": {
+          "total_net_flow_m_usd": -82.4,
+          "as_of": "16 Oct 2026",
+          "streak_days": 1,
+          "sum_5d_m_usd": -228.4
+        }
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "机构资金方向：已连续 1 个交易日净流出，近5日合计 −$228.4M",
+        "title": "BTC 现货 ETF · 16 Oct 2026 净流出 $82.4M",
+        "lines": {
+          "value": "前5日合计（百万美元）：21.1 / -65.4 / 175.7 / -261.4 / 5.1",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "16 Oct 2026 (71.8) (10.6) 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 (82.4)"
+        ],
+        "point": "币圈：机构资金方向：已连续 1 个交易日净流出，近5日合计 −$228.4M"
+      }
+    },
+    {
+      "id": "crypto-etf-eth-16Oct2026",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "ETH 现货 ETF · 16 Oct 2026 净流出 $69.7M",
+      "title_orig": "ETH 现货 ETF · 16 Oct 2026 净流出 $69.7M",
+      "source": "Farside Investors 公开 ETH ETF 日流表（单位：百万美元）",
+      "source_url": "https://farside.co.uk/eth/",
+      "url": "https://farside.co.uk/eth/",
+      "published_at": "2026-10-16T23:59:00.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "ETF流向"
+      ],
+      "score": 92,
+      "risk": "high",
+      "lang": "zh",
+      "_origin": "crypto",
+      "_crypto_kind": "ETF流向",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险",
+        "numbers": {
+          "total_net_flow_m_usd": -69.7,
+          "as_of": "16 Oct 2026",
+          "streak_days": 3,
+          "sum_5d_m_usd": -320.1
+        }
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "机构资金方向：已连续 3 个交易日净流出，近5日合计 −$320.1M",
+        "title": "ETH 现货 ETF · 16 Oct 2026 净流出 $69.7M",
+        "lines": {
+          "value": "前5日合计（百万美元）：-56.1 / -85.4 / 24.8 / -129.5 / -60.3",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "16 Oct 2026 (69.7) 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 (69.7)"
+        ],
+        "point": "币圈：机构资金方向：已连续 3 个交易日净流出，近5日合计 −$320.1M"
+      }
+    },
+    {
+      "id": "crypto-movers-跌-2026-10-19",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "前100市值跌幅榜 · AERO -5.19% / PUMP -3.66% / STX -3.58%（24h）",
+      "title_orig": "前100市值跌幅榜 · AERO -5.19% / PUMP -3.66% / STX -3.58%（24h）",
+      "source": "CoinGecko 公开 API（/coins/markets 前100）",
+      "source_url": "https://www.coingecko.com/en/crypto-gainers-losers",
+      "url": "https://www.coingecko.com/en/crypto-gainers-losers",
+      "published_at": "2026-10-19T00:03:50.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "异动"
+      ],
+      "score": 88,
+      "risk": "high",
+      "lang": "zh",
+      "_origin": "crypto",
+      "_crypto_kind": "异动",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接",
+        "title": "前100市值跌幅榜 · AERO -5.19% / PUMP -3.66% / STX -3.58%（24h）",
+        "lines": {
+          "value": "Aerodrome Finance $0.7978，24h 成交 $46.6M，市值排名 #88；Pump.fun $0.004171，24h 成交 $149.2M，市值排名 #49；Stacks $0.3550，24h 成交 $21.2M，市值排名 #95",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "aerodrome-finance current_price: 0.797819, price_change_percentage_24h: -5.19, total_volume: 46571359, circulating_supply: 1003849608, total_supply: 2002379494",
+          "pump-fun current_price: 0.00417072, price_change_percentage_24h: -3.66, total_volume: 149174859, circulating_supply: 462374957683, total_supply: 827261779054",
+          "blockstack current_price: 0.355014, price_change_percentage_24h: -3.58, total_volume: 21211688, circulating_supply: 1875739468, total_supply: 1875782128"
+        ],
+        "point": "币圈：大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接"
+      }
+    },
+    {
+      "id": "crypto-trending-2026-10-19",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "CoinGecko 热搜 · COVENANT +134.60% / DOPE +9.95%",
+      "title_orig": "CoinGecko 热搜 · COVENANT +134.60% / DOPE +9.95%",
+      "source": "CoinGecko 公开 API（/search/trending）",
+      "source_url": "https://www.coingecko.com/en/highlights/trending-crypto",
+      "url": "https://www.coingecko.com/en/highlights/trending-crypto",
+      "published_at": "2026-10-19T00:05:56.593Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "热度"
+      ],
+      "score": 80,
+      "risk": "high",
+      "lang": "zh",
+      "_origin": "crypto",
+      "_crypto_kind": "热度",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "散户注意力在往哪转：热搜≠值得买，热搜多是小盘币，波动和流动性风险大",
+        "title": "CoinGecko 热搜 · COVENANT +134.60% / DOPE +9.95%",
+        "lines": {
+          "value": "Covenant x402（市值排名 #614）、Doge Pepe（市值排名 #654）、Tetsuo Super Intelligence（市值排名 #875）、Claudia（市值排名 #799）、Boomer（市值排名 #868）、hi（市值排名 #811）、Bitcoin（市值排名 #1）、Pearl（市值排名 #97）、Ethereum（市值排名 #2）、Quantus（市值排名 #651）、Pudgy Penguins（市值排名 #119）、Starknet（市值排名 #120）、Aerodrome Finance（市值排名 #88）、Monad（市值排名 #159）、Stacks（市值排名 #95）",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "covenant-x402 market_cap_rank: 614, price_change_percentage_24h.usd: 134.60",
+          "doge-pepe-3 market_cap_rank: 654, price_change_percentage_24h.usd: 9.95"
+        ],
+        "point": "币圈：散户注意力在往哪转：热搜≠值得买，热搜多是小盘币，波动和流动性风险大"
+      }
+    },
+    {
+      "id": "crypto-stables-2026-10-18",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "稳定币总量 $304.64B · 7日 -0.47% · 30日 +0.55%",
+      "title_orig": "稳定币总量 $304.64B · 7日 -0.47% · 30日 +0.55%",
+      "source": "DefiLlama 公开 API（stablecoincharts/all）",
+      "source_url": "https://defillama.com/stablecoins",
+      "url": "https://defillama.com/stablecoins",
+      "published_at": "2026-10-18T00:00:00.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "链上"
+      ],
+      "score": 78,
+      "risk": "high",
+      "lang": "zh",
+      "_origin": "crypto",
+      "_crypto_kind": "链上",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "稳定币在收缩：场内资金流出，反弹持续性要打折扣",
+        "title": "稳定币总量 $304.64B · 7日 -0.47% · 30日 +0.55%",
+        "lines": {
+          "value": "7日变化 $-1.43B（数据日 2026-10-18）",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "date: 1792281600 (2026-10-18), totalCirculatingUSD.peggedUSD: 304638199532",
+          "7 days earlier totalCirculatingUSD.peggedUSD: 306072407520"
+        ],
+        "point": "币圈：稳定币在收缩：场内资金流出，反弹持续性要打折扣"
+      }
+    },
+    {
+      "id": "crypto-news-LWhhY2tlbi1zYXlz",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "title_orig": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+      "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+      "published_at": "2026-10-18T13:00:00.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "新闻"
+      ],
+      "score": 74,
+      "risk": "high",
+      "lang": "en",
+      "_origin": "crypto",
+      "_crypto_kind": "新闻",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "钱包/协议安全：审计不等于安全，Q3 损失多来自供应链被攻破和修复延迟，持仓涉及的协议先查近期安全通报",
+        "title": "",
+        "lines": {
+          "value": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+          "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews."
+        ],
+        "point": "币圈：安全事件：涉事协议/代币短线有抛压，相关仓位先查是否受影响"
+      }
+    },
+    {
+      "id": "crypto-news-b3Vkcy1vdXRsb29r",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+      "title_orig": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+      "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+      "published_at": "2026-10-18T13:00:00.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "新闻"
+      ],
+      "score": 73,
+      "risk": "high",
+      "lang": "en",
+      "_origin": "crypto",
+      "_crypto_kind": "新闻",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "宏观联动：利率/美元变化正在传导到币价",
+        "title": "",
+        "lines": {
+          "value": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+          "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market."
+        ],
+        "point": "币圈：宏观联动：利率/美元变化正在传导到币价"
+      }
+    },
+    {
+      "id": "crypto-news-11cHRvYmVyLXJlZA",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+      "title_orig": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+      "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+      "published_at": "2026-10-18T15:01:04.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "新闻"
+      ],
+      "score": 72,
+      "risk": "high",
+      "lang": "en",
+      "_origin": "crypto",
+      "_crypto_kind": "新闻",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "机构资金流向：ETF 资金方向会影响 BTC/ETH 短线承接力",
+        "title": "",
+        "lines": {
+          "value": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+          "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red."
+        ],
+        "point": "币圈：机构资金流向：ETF 资金方向会影响 BTC/ETH 短线承接力"
+      }
+    },
+    {
+      "id": "invest-post-ramit-5dec535e812b",
+      "partition": "invest",
+      "type": "post",
+      "category": "投资观察",
+      "title": "282. “We spend 154% of what we make. Will we ever stop drowning?”",
+      "summary": "Ramit digs into how years of overspending, money avoidance, and relying on future income have left a couple with more than $428,000 in debt, no savings…",
+      "source": "@ramit / Ramit Sethi",
+      "source_url": "https://www.iwillteachyoutoberich.com/282-we-spend-154-of-what-we-make-will-we-ever-stop-drowning/",
+      "published_at": "2026-10-13T10:11:51.000Z",
+      "tags": [
+        "观察",
+        "应急金",
+        "定投",
+        "稳健",
+        "实操"
+      ],
+      "score": 91,
+      "why": "工薪教育：应急金、定投；策展：具体可执行的工薪理财步骤（自动化、指数基金、应急金），不荐个股、不喊单。",
+      "deep_link": "https://www.iwillteachyoutoberich.com/282-we-spend-154-of-what-we-make-will-we-ever-stop-drowning/",
+      "extra": {
+        "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+        "bucket": "稳健"
+      },
+      "blurb": "Ramit digs into how years of overspending, money avoidance, and relying on future income have left a couple with more than $428,000 in debt, no savings…",
+      "url": "https://www.iwillteachyoutoberich.com/282-we-spend-154-of-what-we-make-will-we-ever-stop-drowning/",
+      "handle": "ramit",
+      "name": "Ramit Sethi",
+      "risk": "stable",
+      "lang": "EN",
+      "posted_at": "2026-10-13",
+      "tier": "A",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:ramit",
+      "title_orig": "282. “We spend 154% of what we make. Will we ever stop drowning?”",
+      "source_excerpt": "Ramit digs into how years of overspending, money avoidance, and relying on future income have left a couple with more than $428,000 in debt, no savings, and a […] The post 282. “We spend 154% of what we make. Will we ever stop drowning?” first appeared on I Will Teach You To Be R",
+      "person_id": "ramit",
+      "person_handle": "ramit",
+      "person_name": "Ramit Sethi",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://www.iwillteachyoutoberich.com/feed",
+      "_score_raw": 71,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_practical": true,
+      "_practical_delta": 20,
+      "summary_zh": "Ramit digs into how years of overspending, money avoidance, and relying on future income have left a couple with more than $428,000 in debt, no savings…",
+      "highlights": [
+        "来源：Ramit Sethi"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "worth",
+        "use": "月光、存不下钱时看：花得比赚得多怎么止住",
+        "lines": {
+          "scenario": "月光、存不下钱时",
+          "problem": "花得比赚得多怎么止住",
+          "step": "先止住超支，再谈存钱投资",
+          "value": "原文算例：154% of what we make"
+        },
+        "evidence": [
+          "spend 154% of what we make",
+          "154% of what we make"
+        ],
+        "point": "理财：月光、存不下钱，看花得比赚得多怎么止住",
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    },
+    {
+      "id": "invest-post-ramit-c69835cd3171",
+      "partition": "invest",
+      "type": "post",
+      "category": "投资观察",
+      "title": "279. “He lost his $150k job, but I make every decision. Can we fix this?”",
+      "summary": "Ramit unpacks how to manage money as a couple after a job loss and what happens when one partner carries most of the financial responsibility…",
+      "source": "@ramit / Ramit Sethi",
+      "source_url": "https://www.iwillteachyoutoberich.com/2-2/",
+      "published_at": "2026-09-22T15:26:42.000Z",
+      "tags": [
+        "观察",
+        "arr",
+        "应急金",
+        "定投",
+        "稳健",
+        "实操"
+      ],
+      "score": 90,
+      "why": "独立/Agent：arr；工薪教育：应急金、定投；策展：具体可执行的工薪理财步骤（自动化、指数基金、应急金），不荐个股、不喊单。",
+      "deep_link": "https://www.iwillteachyoutoberich.com/2-2/",
+      "extra": {
+        "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+        "bucket": "稳健"
+      },
+      "blurb": "Ramit unpacks how to manage money as a couple after a job loss and what happens when one partner carries most of the financial responsibility…",
+      "url": "https://www.iwillteachyoutoberich.com/2-2/",
+      "handle": "ramit",
+      "name": "Ramit Sethi",
+      "risk": "stable",
+      "lang": "EN",
+      "posted_at": "2026-09-22",
+      "tier": "A",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:ramit",
+      "title_orig": "279. “He lost his $150k job, but I make every decision. Can we fix this?”",
+      "source_excerpt": "Ramit unpacks how to manage money as a couple after a job loss and what happens when one partner carries most of the financial responsibility while the […] The post 279. “He lost his $150k job, but I make every decision. Can we fix this?” first appeared on I Will Teach You To Be",
+      "person_id": "ramit",
+      "person_handle": "ramit",
+      "person_name": "Ramit Sethi",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://www.iwillteachyoutoberich.com/feed",
+      "_score_raw": 78,
+      "_decay_penalty": 8,
+      "_decay_exempt": null,
+      "_practical": true,
+      "_practical_delta": 20,
+      "summary_zh": "Ramit unpacks how to manage money as a couple after a job loss and what happens when one partner carries most of the financial responsibility…",
+      "highlights": [
+        "来源：Ramit Sethi"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "worth",
+        "use": "求职空窗、收入中断时看：失业后怎么管钱（夫妻案例）",
+        "lines": {
+          "scenario": "求职空窗、收入中断时",
+          "problem": "失业后怎么管钱",
+          "not_for": "单身、没有共同财务的人参考价值低"
+        },
+        "evidence": [
+          "lost his $150k job",
+          "as a couple"
+        ],
+        "point": "理财：求职空窗、收入中断，看失业后怎么管钱",
+        "concrete": [
+          {
+            "kind": "money",
+            "quote": "$150k"
+          }
+        ],
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    },
+    {
+      "id": "invest-post-dollarsanddata-61ec1eae87c6",
+      "partition": "invest",
+      "type": "post",
+      "category": "投资观察",
+      "title": "Is Startup Equity a Bad Deal?",
+      "summary": "Imagine joining a startup as employee number 10.",
+      "source": "@dollarsanddata / Nick Maggiulli",
+      "source_url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
+      "published_at": "2026-09-22T11:45:57.000Z",
+      "tags": [
+        "观察",
+        "资产配置",
+        "稳健",
+        "数据"
+      ],
+      "score": 87,
+      "why": "工薪教育：资产配置；宏观观察：data；策展：数据图表服务长期配置认知，非带单；常见于与 Housel/Bilello 并列的 fin-edu 名单。",
+      "deep_link": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
+      "extra": {
+        "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+        "bucket": "稳健"
+      },
+      "blurb": "Imagine joining a startup as employee number 10.",
+      "url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
+      "handle": "dollarsanddata",
+      "name": "Nick Maggiulli",
+      "risk": "stable",
+      "lang": "EN",
+      "posted_at": "2026-09-22",
+      "tier": "A",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:dollarsanddata",
+      "title_orig": "Is Startup Equity a Bad Deal?",
+      "source_excerpt": "Imagine joining a startup as employee number 10. Your salary is a bit below what the market pays for your role, but, in exchange, you get equity. How much? 0.25% of the company to be exact. You do the math in your head—if the company sells for $100M in a few years, you'll make $2",
+      "person_id": "dollarsanddata",
+      "person_handle": "dollarsanddata",
+      "person_name": "Nick Maggiulli",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://ofdollarsanddata.com/feed/",
+      "_score_raw": 75,
+      "_decay_penalty": 8,
+      "_decay_exempt": null,
+      "_practical": true,
+      "_practical_delta": 20,
+      "summary_zh": "Imagine joining a startup as employee number 10.",
+      "highlights": [
+        "Your salary is a bit below what the market pays for your…",
+        "0.25% of the company to be exact.",
+        "You do the math in your head—if the company sells for $100M…"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "worth",
+        "use": "去初创公司谈 offer 时看：用股权换低一点的薪水值不值",
+        "lines": {
+          "scenario": "去初创公司谈 offer 时",
+          "problem": "用股权换低一点的薪水值不值",
+          "step": "谈 offer 时算清股权实际能值多少",
+          "value": "原文算例：0.25% of the company"
+        },
+        "evidence": [
+          "Startup Equity",
+          "0.25% of the company"
+        ],
+        "point": "理财：去初创公司谈 offer，看用股权换低一点的薪水值不值",
+        "concrete": [
+          {
+            "kind": "money",
+            "quote": "$100M"
+          },
+          {
+            "kind": "percent",
+            "quote": "0.25%"
+          }
+        ],
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    },
+    {
+      "id": "invest-community-invest-reddit-debtfree-26187d112b86",
+      "partition": "invest",
+      "type": "post",
+      "category": "投资观察",
+      "title": "Hopefully I can be debt free before 2030",
+      "summary": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month…",
+      "source": "r/DebtFree",
+      "source_url": "https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/",
+      "published_at": "2026-10-13T23:20:36.000Z",
+      "tags": [
+        "reddit",
+        "r/DebtFree",
+        "负债偿还",
+        "金额",
+        "比例"
+      ],
+      "score": 82,
+      "why": "公开社区帖 · r/DebtFree · top/month 第41位 · 原帖含：负债偿还、金额、比例（数字均为发帖人自述，未经核实）",
+      "deep_link": "https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/",
+      "extra": {},
+      "blurb": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month…",
+      "url": "https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/",
+      "name": "Hopefully I can be debt free before 2030",
+      "lang": "EN",
+      "posted_at": "2026-10-13",
+      "evidence_missing": false,
+      "_origin": "community_rss",
+      "_source_id": "invest-reddit-debtfree",
+      "title_orig": "Hopefully I can be debt free before 2030",
+      "source_excerpt": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month - Care Credit Dental Im 33M in MA I make $92,145 per year after taxes(Including All sources of income into my bank account even non income that regulary comes in)",
+      "_feed_type": "reddit_rss",
+      "_feed_url": "https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100",
+      "_score_raw": 62,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_practical": true,
+      "_practical_delta": 20,
+      "summary_zh": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month…",
+      "highlights": [],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "worth",
+        "use": "有负债、想还债时看：发帖人自述 $1227，9.30%（未经核实）",
+        "lines": {
+          "value": "数字（发帖人自述）「$1227」「9.30%」；涉及：还债；做法原话：「My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month - Care Credit Dental Im 33M in MA I make $92,145 per year after」",
+          "note": "数字均为发帖人自述，未经核实；账户/税制按各国不同，只参考做法思路"
+        },
+        "evidence": [
+          "$1227",
+          "9.30%",
+          "debt free",
+          "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month - Care Credit Dental Im 33M in MA I make $92,145 per year after"
+        ],
+        "point": "理财：还债，发帖人自述 $1227",
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    },
+    {
+      "id": "invest-community-invest-reddit-ynab-d8e120b5c12a",
+      "partition": "invest",
+      "type": "post",
+      "category": "投资观察",
+      "title": "Small win that’s actually a big win",
+      "summary": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money…",
+      "source": "r/YNAB",
+      "source_url": "https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/",
+      "published_at": "2026-09-26T03:02:16.000Z",
+      "tags": [
+        "reddit",
+        "r/YNAB",
+        "金额",
+        "周期",
+        "预算/储蓄率"
+      ],
+      "score": 69,
+      "why": "公开社区帖 · r/YNAB · top/month 第10位 · 原帖含：金额、周期、预算/储蓄率（数字均为发帖人自述，未经核实）",
+      "deep_link": "https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/",
+      "extra": {},
+      "blurb": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money…",
+      "url": "https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/",
+      "name": "Small win that’s actually a big win",
+      "lang": "EN",
+      "posted_at": "2026-09-26",
+      "evidence_missing": false,
+      "_origin": "community_rss",
+      "_source_id": "invest-reddit-ynab",
+      "title_orig": "Small win that’s actually a big win",
+      "source_excerpt": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money ps: Debt when I started was -$36k and today it’s at -$23k 💪 This week I visited family in a different state and didn’t once stress about my budget because I planned ahead.",
+      "_feed_type": "reddit_rss",
+      "_feed_url": "https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100",
+      "_score_raw": 57,
+      "_decay_penalty": 8,
+      "_decay_exempt": null,
+      "_practical": true,
+      "_practical_delta": 20,
+      "summary_zh": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money…",
+      "highlights": [
+        "Debt when I started was -$36k and today it’s at -$23k 💪…"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "worth",
+        "use": "想做预算、提高储蓄率时看：发帖人自述 $36k，for about 5 months（未经核实）",
+        "lines": {
+          "value": "数字（发帖人自述）「$36k」「for about 5 months」；涉及：预算/储蓄率；做法原话：「the shame spiral around money ps: Debt when I started was -$36k and today it’s at -$23k 💪 This week I visited family in a different state and didn’t once stress about my budget because I planned ahead」",
+          "note": "数字均为发帖人自述，未经核实；账户/税制按各国不同，只参考做法思路"
+        },
+        "evidence": [
+          "$36k",
+          "for about 5 months",
+          "budget",
+          "the shame spiral around money ps: Debt when I started was -$36k and today it’s at -$23k 💪 This week I visited family in a different state and didn’t once stress about my budget because I planned ahead"
+        ],
+        "point": "理财：预算/储蓄率，发帖人自述 $36k",
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    },
+    {
+      "id": "invest-community-invest-reddit-debtfree-f9a84849d6c9",
+      "partition": "invest",
+      "type": "post",
+      "category": "投资观察",
+      "title": "The things I cut out to save money and pay off debt quicker",
+      "summary": "my yearly car detail (did it myself, it’s not as good as a professional but I’m happy with it and I saved $200)",
+      "source": "r/DebtFree",
+      "source_url": "https://www.reddit.com/r/debtfree/comments/1wkiw8i/the_things_i_cut_out_to_save_money_and_pay_off/",
+      "published_at": "2026-09-19T10:41:26.000Z",
+      "tags": [
+        "reddit",
+        "r/DebtFree",
+        "负债偿还",
+        "金额"
+      ],
+      "score": 68,
+      "why": "公开社区帖 · r/DebtFree · top/month 第3位 · 原帖含：负债偿还、金额（数字均为发帖人自述，未经核实）",
+      "deep_link": "https://www.reddit.com/r/debtfree/comments/1wkiw8i/the_things_i_cut_out_to_save_money_and_pay_off/",
+      "extra": {},
+      "blurb": "my yearly car detail (did it myself, it’s not as good as a professional but I’m happy with it and I saved $200)",
+      "url": "https://www.reddit.com/r/debtfree/comments/1wkiw8i/the_things_i_cut_out_to_save_money_and_pay_off/",
+      "name": "The things I cut out to save money and pay off debt quicker",
+      "lang": "EN",
+      "posted_at": "2026-09-19",
+      "evidence_missing": false,
+      "_origin": "community_rss",
+      "_source_id": "invest-reddit-debtfree",
+      "title_orig": "The things I cut out to save money and pay off debt quicker",
+      "source_excerpt": "-my yearly car detail (did it myself, it’s not as good as a professional but I’m happy with it and I saved $200) -I got a nespresso machine for my bday last year and my coffee average went from $40 a week to $7 a week just from making it at home only and never buying coffee out",
+      "_feed_type": "reddit_rss",
+      "_feed_url": "https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100",
+      "_score_raw": 56,
+      "_decay_penalty": 8,
+      "_decay_exempt": null,
+      "_practical": true,
+      "_practical_delta": 20,
+      "summary_zh": "my yearly car detail (did it myself, it’s not as good as a professional but I’m happy with it and I saved $200)",
+      "highlights": [
+        "I got a nespresso machine for my bday last year and my…"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "save",
+        "use": "有负债、想还债时看：发帖人自述 $200（未经核实）",
+        "lines": {
+          "value": "数字（发帖人自述）「$200」；涉及：还债；做法原话：「-my yearly car detail (did it myself, it’s not as good as a professional but I’m happy with it and I saved $200) -I got a nespresso machine for my bday last year and my coffee average went from $40 a week to $7 a week just from」",
+          "note": "数字均为发帖人自述，未经核实；账户/税制按各国不同，只参考做法思路"
+        },
+        "evidence": [
+          "$200",
+          "pay off",
+          "-my yearly car detail (did it myself, it’s not as good as a professional but I’m happy with it and I saved $200) -I got a nespresso machine for my bday last year and my coffee average went from $40 a week to $7 a week just from"
+        ],
+        "point": "理财：还债，发帖人自述 $200",
+        "verdict_label": "收藏",
+        "title": ""
+      }
+    },
+    {
+      "id": "invest-post-PaulaPant-80f87dfa1416",
+      "partition": "invest",
+      "type": "post",
+      "category": "投资观察",
+      "title": "#750: Your “Diversified” Portfolio Might Secretly Be One Big Bet on AI, with Alec Litowitz",
+      "summary": "AI集中投资可能让你的S&P 500基金看起来多样化，但Alec Litowitz说这只是个隐藏的大赌注。",
+      "source": "@PaulaPant / Paula Pant",
+      "source_url": "https://affordanything.com/adaptability-quotient-alec-litowitz/",
+      "published_at": "2026-09-15T19:05:49.000Z",
+      "tags": [
+        "观察",
+        "index fund",
+        "稳健",
+        "实操"
+      ],
+      "score": 63,
+      "why": "工薪教育：index fund；宏观观察：index；策展：面向工薪族的具体理财决策与真实听众案例（储蓄/指数/负债），不荐个股、不喊单。",
+      "deep_link": "https://affordanything.com/adaptability-quotient-alec-litowitz/",
+      "extra": {
+        "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+        "bucket": "稳健"
+      },
+      "blurb": "AI集中投资可能让你的S&P 500基金看起来多样化，但Alec Litowitz说这只是个隐藏的大赌注。",
+      "url": "https://affordanything.com/adaptability-quotient-alec-litowitz/",
+      "handle": "PaulaPant",
+      "name": "Paula Pant",
+      "risk": "stable",
+      "lang": "EN",
+      "posted_at": "2026-09-15",
+      "tier": "A",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:PaulaPant",
+      "title_orig": "#750: Your “Diversified” Portfolio Might Secretly Be One Big Bet on AI, with Alec Litowitz",
+      "source_excerpt": "Your S&P 500 index fund looks diversified — but Alec Litowitz says its concentration in AI stocks makes it one giant bet in disguise. Alec Litowitz joined a hedge fund with $100 million in assets and six employees. He had never made a trade in his life. That fund was Citadel, in",
+      "person_id": "PaulaPant",
+      "person_handle": "PaulaPant",
+      "person_name": "Paula Pant",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://affordanything.com/feed",
+      "_score_raw": 63,
+      "_decay_penalty": 20,
+      "_decay_exempt": null,
+      "_practical": true,
+      "_practical_delta": 20,
+      "summary_zh": "AI集中投资可能让你的S&P 500基金看起来多样化，但Alec Litowitz说这只是个隐藏的大赌注。",
+      "highlights": [
+        "AI集中投资",
+        "Citadel hedge fund"
+      ],
+      "summary_source": "local_llm",
+      "reader": {
+        "verdict": "save",
+        "use": "手里主要是指数基金、以为已经分散时看：看似分散的组合可能其实集中押了同一个方向",
+        "lines": {
+          "scenario": "手里主要是指数基金、以为已经分散时",
+          "problem": "看似分散的组合可能其实集中押了同一个方向"
+        },
+        "evidence": [
+          "Diversified” Portfolio Might Secretly Be One Big Bet"
+        ],
+        "point": "理财：看似分散的组合可能其实集中押了同一个方向",
+        "verdict_label": "收藏",
+        "title": ""
+      }
+    },
+    {
+      "id": "invest-post-dollarsanddata-f71d07f2efd6",
+      "partition": "invest",
+      "type": "post",
+      "category": "投资观察",
+      "title": "What Was the Best Portfolio Over the Last 50 Years?",
+      "summary": "最佳50年投资组合：U.S. 股票、国际股票、REITs、公司债、10年期国债。",
+      "source": "@dollarsanddata / Nick Maggiulli",
+      "source_url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
+      "published_at": "2026-09-15T11:45:37.000Z",
+      "tags": [
+        "观察",
+        "资产配置",
+        "稳健",
+        "数据"
+      ],
+      "score": 63,
+      "why": "工薪教育：资产配置；宏观观察：treasury、data；策展：数据图表服务长期配置认知，非带单；常见于与 Housel/Bilello 并列的 fin-edu 名单。",
+      "deep_link": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
+      "extra": {
+        "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+        "bucket": "稳健"
+      },
+      "blurb": "最佳50年投资组合：U.S. 股票、国际股票、REITs、公司债、10年期国债。",
+      "url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
+      "handle": "dollarsanddata",
+      "name": "Nick Maggiulli",
+      "risk": "stable",
+      "lang": "EN",
+      "posted_at": "2026-09-15",
+      "tier": "A",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:dollarsanddata",
+      "title_orig": "What Was the Best Portfolio Over the Last 50 Years?",
+      "source_excerpt": "A few months ago, I analyzed U.S. stock returns over the last century . Today, I'm going to determine the best portfolio over the last 50 years among the following asset classes: U.S. Stocks International Stocks Real Estate Investment Trusts (REITs) U.S. Corporate Bonds 10-Year T",
+      "person_id": "dollarsanddata",
+      "person_handle": "dollarsanddata",
+      "person_name": "Nick Maggiulli",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://ofdollarsanddata.com/feed/",
+      "_score_raw": 63,
+      "_decay_penalty": 20,
+      "_decay_exempt": null,
+      "_practical": true,
+      "_practical_delta": 20,
+      "summary_zh": "最佳50年投资组合：U.S. 股票、国际股票、REITs、公司债、10年期国债。",
+      "highlights": [
+        "A few months ago, I analyzed U",
+        "stock returns over the last century",
+        "Today, I'm going to determine the best …"
+      ],
+      "summary_source": "local_llm",
+      "title_zh": "过去50年最佳投资组合是什么？",
+      "reader": {
+        "verdict": "save",
+        "use": "准备长期定投、选资产配置时看：不同资产组合长期表现差多少",
+        "lines": {
+          "scenario": "准备长期定投、选资产配置时",
+          "problem": "不同资产组合长期表现差多少",
+          "step": "用长期历史数据决定股债比例",
+          "value": "过去 50 年的真实回报对比",
+          "not_for": "数据来自美国市场，A股/港股不能直接套用"
+        },
+        "evidence": [
+          "Best Portfolio",
+          "Over the Last 50 Years",
+          "U.S. stock returns"
+        ],
+        "point": "理财：准备长期定投、选资产配置，看不同资产组合长期表现差多少",
+        "concrete": [
+          {
+            "kind": "quantity",
+            "quote": "Over the Last 50 Years"
+          }
+        ],
+        "verdict_label": "收藏",
+        "title": "过去50年最佳投资组合是什么？"
+      }
+    },
+    {
+      "id": "invest-post-PaulaPant-74a87066cfb5",
+      "partition": "invest",
+      "type": "post",
+      "category": "投资观察",
+      "title": "#752: Q&A: I’m Tired of Managing My Rental Property. Should I Sell It?",
+      "summary": "卖房还是继续管理？Nieves的纠结。",
+      "source": "@PaulaPant / Paula Pant",
+      "source_url": "https://affordanything.com/sell-rental-property/",
+      "published_at": "2026-09-22T22:00:15.000Z",
+      "tags": [
+        "观察",
+        "稳健",
+        "实操"
+      ],
+      "score": 29,
+      "why": "策展：面向工薪族的具体理财决策与真实听众案例（储蓄/指数/负债），不荐个股、不喊单。",
+      "deep_link": "https://affordanything.com/sell-rental-property/",
+      "extra": {
+        "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
+        "bucket": "稳健"
+      },
+      "blurb": "卖房还是继续管理？Nieves的纠结。",
+      "url": "https://affordanything.com/sell-rental-property/",
+      "handle": "PaulaPant",
+      "name": "Paula Pant",
+      "risk": "stable",
+      "lang": "EN",
+      "posted_at": "2026-09-22",
+      "tier": "A",
+      "evidence_missing": false,
+      "_origin": "kol_rss",
+      "_source_id": "kol:PaulaPant",
+      "title_orig": "#752: Q&A: I’m Tired of Managing My Rental Property. Should I Sell It?",
+      "source_excerpt": "“Sometimes you might make the ‘right’ decision for the wrong reason.” That’s what I told Nieves, a listener who’s deciding whether to sell rental property she bought back in 2021, a St. Louis duplex that’s gotten a lot harder to manage since she moved to Madrid for her MBA. Her t",
+      "person_id": "PaulaPant",
+      "person_handle": "PaulaPant",
+      "person_name": "Paula Pant",
+      "_feed_type": "blog_rss",
+      "_feed_url": "https://affordanything.com/feed",
+      "_score_raw": 37,
+      "_decay_penalty": 8,
+      "_decay_exempt": null,
+      "summary_zh": "卖房还是继续管理？Nieves的纠结。",
+      "highlights": [
+        "Nieves在西班牙管理一栋2021年从美国搬到马德里的复式公寓，感到压力山大。"
+      ],
+      "summary_source": "local_llm",
+      "title_zh": "#752: Q&A: 我厌倦了管理我的出租房产。我应该卖掉它吗？",
+      "reader": {
+        "verdict": "watch",
+        "use": "将来考虑买房出租时看：当房东的真实麻烦和取舍",
+        "lines": {
+          "scenario": "将来考虑买房出租时",
+          "problem": "当房东的真实麻烦和取舍",
+          "not_for": "美国房产案例，国内不能照搬"
+        },
+        "evidence": [
+          "Rental Property",
+          "St. Louis"
+        ],
+        "point": "",
+        "verdict_label": "观望",
+        "title": "#752: Q&A: 我厌倦了管理我的出租房产。我应该卖掉它吗？"
+      }
+    }
+  ]
+}
