@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T04:08:00.305Z",
+  "updated_at": "2026-10-20T06:41:03.179Z",
   "note": "摘要/用途行数字核对：生成的中文里出现的数字、金额、比例、周期必须能在原文（标题+摘要+正文）找到；找不到的该行被拦下，改用规则摘要（原文原句）。stage: llm_output=模型刚生成即被拒；final_pass=缓存或其它路径的摘要被兜底拦下；reader=用途行/要点行。",
   "last_run_blocked": 6,
   "entries": [
@@ -15,8 +15,8 @@
       ],
       "replacement": null,
       "first_seen": "2026-10-20T04:07:59.517Z",
-      "last_seen": "2026-10-20T04:08:00.305Z",
-      "seen_count": 2
+      "last_seen": "2026-10-20T06:41:03.179Z",
+      "seen_count": 15
     },
     {
       "stage": "final_pass",
@@ -30,8 +30,8 @@
       ],
       "replacement": null,
       "first_seen": "2026-10-20T04:07:59.517Z",
-      "last_seen": "2026-10-20T04:08:00.305Z",
-      "seen_count": 2
+      "last_seen": "2026-10-20T06:41:03.179Z",
+      "seen_count": 15
     },
     {
       "stage": "final_pass",
@@ -45,8 +45,8 @@
       ],
       "replacement": null,
       "first_seen": "2026-10-20T04:07:59.517Z",
-      "last_seen": "2026-10-20T04:08:00.305Z",
-      "seen_count": 2
+      "last_seen": "2026-10-20T06:41:03.179Z",
+      "seen_count": 15
     },
     {
       "stage": "final_pass",
@@ -60,8 +60,8 @@
       ],
       "replacement": null,
       "first_seen": "2026-10-20T04:07:59.517Z",
-      "last_seen": "2026-10-20T04:08:00.305Z",
-      "seen_count": 2
+      "last_seen": "2026-10-20T06:41:03.179Z",
+      "seen_count": 15
     },
     {
       "stage": "final_pass",
@@ -75,8 +75,8 @@
       ],
       "replacement": null,
       "first_seen": "2026-10-20T04:07:59.517Z",
-      "last_seen": "2026-10-20T04:08:00.305Z",
-      "seen_count": 2
+      "last_seen": "2026-10-20T06:41:03.179Z",
+      "seen_count": 15
     },
     {
       "stage": "final_pass",
@@ -90,8 +90,80 @@
       ],
       "replacement": null,
       "first_seen": "2026-10-20T04:07:59.517Z",
-      "last_seen": "2026-10-20T04:08:00.305Z",
-      "seen_count": 2
+      "last_seen": "2026-10-20T06:41:03.179Z",
+      "seen_count": 15
+    },
+    {
+      "stage": "cached_summary",
+      "partition": "ai",
+      "url": "https://www.huxiu.com/article/4898901.html?f=rss",
+      "title": "AI公司员工眼中的2030年，与普通人完全不同",
+      "field": "summary_zh",
+      "rejected": "三个主要发现值得先说明：其一，两组人对AI当前能力的判断大体一致，但Anthro Anthropic员工平均预计，2030年AI可以完成自己目前75%的工作时间对应的任务，而美国在职人士的平均预期只有28%。",
+      "unsupported": [
+        "三"
+      ],
+      "first_seen": "2026-10-20T06:36:58.898Z",
+      "last_seen": "2026-10-20T06:36:58.898Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "cached_summary",
+      "partition": "ai",
+      "url": "https://www.tmtpost.com/8172565.html",
+      "title": "Werner Vogels谈亚马逊的AI理念：在做与不做之间",
+      "field": "summary_zh",
+      "rejected": "2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3 “他们并不会因为此刻没有使用AI，就立即倒闭。”",
+      "unsupported": [
+        "3"
+      ],
+      "first_seen": "2026-10-20T06:32:02.053Z",
+      "last_seen": "2026-10-20T06:32:02.053Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "cached_summary",
+      "partition": "ai",
+      "url": "https://www.tmtpost.com/8173933.html",
+      "title": "AI大厂的数据中心，正在撞上一堵比芯片更硬的墙",
+      "field": "summary_zh",
+      "rejected": "2026年全球AI数据中心的电力需求预计达到30GW左右，仅北美就接近19GW。",
+      "unsupported": [
+        "30",
+        "19"
+      ],
+      "first_seen": "2026-10-20T06:32:02.053Z",
+      "last_seen": "2026-10-20T06:32:02.053Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "cached_summary",
+      "partition": "ai",
+      "url": "http://www.geekpark.net/news/372458",
+      "title": "苹果和 Meta 和好了，是 AI 逼的",
+      "field": "summary_zh",
+      "rejected": "月之暗面的 Kimi K2、蚂蚁的 Ling-1T，早在 2025 年就把开源模型推到了万亿参数级别 。",
+      "unsupported": [
+        "1",
+        "2025 年"
+      ],
+      "first_seen": "2026-10-20T06:32:02.053Z",
+      "last_seen": "2026-10-20T06:32:02.053Z",
+      "seen_count": 1
+    },
+    {
+      "stage": "cached_summary",
+      "partition": "ai",
+      "url": "https://www.tmtpost.com/8168146.html",
+      "title": "机器人进厂第一课：不当人",
+      "field": "summary_zh",
+      "rejected": "这一代机器人干得了活，可靠性还到不了100%，需要有一个错了能兜住的地方。",
+      "unsupported": [
+        "100%"
+      ],
+      "first_seen": "2026-10-20T06:32:02.053Z",
+      "last_seen": "2026-10-20T06:32:02.053Z",
+      "seen_count": 1
     },
     {
       "stage": "llm_output",

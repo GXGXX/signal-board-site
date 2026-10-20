@@ -2,7 +2,7 @@
   "name": "信号台",
   "disclaimer": "非投资建议；加密高风险",
   "today": "2026-10-20",
-  "generated_at": "2026-10-20T04:08:00.305Z",
+  "generated_at": "2026-10-20T06:41:03.179Z",
   "next_update_at": "2026-10-20T13:00:00.000Z",
   "schedule": {
     "timezone": "Asia/Shanghai",
@@ -13,12 +13,12 @@
     "note": "下次更新于 = 下一个 09:00 或 21:00 Asia/Shanghai"
   },
   "collect": {
-    "collected_at": "2026-10-20T04:07:59.205Z",
+    "collected_at": "2026-10-20T06:41:01.425Z",
     "ok": [
       {
         "id": "hitmarker_sitemap",
         "count": 10,
-        "scanned": 478,
+        "scanned": 480,
         "rejected": {
           "hub_or_junk": 0,
           "no_role_signal": 10,
@@ -57,9 +57,9 @@
       {
         "id": "riot_gh",
         "count": 4,
-        "scanned": 176,
+        "scanned": 177,
         "rejected": {
-          "off_role": 172
+          "off_role": 173
         }
       },
       {
@@ -179,16 +179,16 @@
       {
         "id": "zh-36kr",
         "partition": "ai",
-        "count": 0,
+        "count": 3,
         "scanned": 30,
-        "rejected": 30
+        "rejected": 27
       },
       {
         "id": "zh-huxiu",
         "partition": "ai",
-        "count": 2,
-        "scanned": 58,
-        "rejected": 56
+        "count": 5,
+        "scanned": 77,
+        "rejected": 69
       },
       {
         "id": "zh-ifanr",
@@ -200,23 +200,23 @@
       {
         "id": "zh-woshipm",
         "partition": "ai",
-        "count": 0,
+        "count": 4,
         "scanned": 15,
-        "rejected": 15
+        "rejected": 11
       },
       {
         "id": "zh-geekpark",
         "partition": "ai",
-        "count": 0,
+        "count": 1,
         "scanned": 30,
-        "rejected": 30
+        "rejected": 29
       },
       {
         "id": "zh-leiphone",
         "partition": "ai",
-        "count": 0,
+        "count": 1,
         "scanned": 20,
-        "rejected": 20
+        "rejected": 19
       },
       {
         "id": "zh-v2ex-create",
@@ -228,9 +228,9 @@
       {
         "id": "zh-tmtpost",
         "partition": "ai",
-        "count": 3,
+        "count": 4,
         "scanned": 20,
-        "rejected": 17
+        "rejected": 14
       },
       {
         "id": "zh-infoq",
@@ -242,16 +242,16 @@
       {
         "id": "zh-wscn-live",
         "partition": "invest",
-        "count": 5,
-        "scanned": 25,
-        "rejected": 20
+        "count": 7,
+        "scanned": 30,
+        "rejected": 23
       },
       {
         "id": "zh-panews",
         "partition": "invest",
         "count": 6,
         "scanned": 100,
-        "rejected": 85
+        "rejected": 86
       },
       {
         "id": "zh-v2ex-invest",
@@ -277,9 +277,9 @@
       {
         "id": "ai-reddit-era",
         "partition": "ai",
-        "count": 0,
-        "scanned": 14,
-        "rejected": 14
+        "count": 2,
+        "scanned": 15,
+        "rejected": 13
       },
       {
         "id": "ai-reddit-entrepreneur",
@@ -292,8 +292,8 @@
         "id": "ai-hn-frontpage",
         "partition": "ai",
         "count": 0,
-        "scanned": 13,
-        "rejected": 13
+        "scanned": 19,
+        "rejected": 19
       },
       {
         "id": "ai-hn-show",
@@ -514,11 +514,11 @@
       },
       {
         "id": "kol:charliebilello",
-        "error": "HTTP 500;HTTP 404;HTTP 404;HTTP 404;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha"
+        "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha"
       },
       {
         "id": "kol:LynAldenContact",
-        "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha"
+        "error": "HTTP 404;HTTP 404;HTTP 500;HTTP 404;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha"
       },
       {
         "id": "kol:farnamstreet",
@@ -526,7 +526,7 @@
       },
       {
         "id": "kol:dannypostmaa",
-        "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked"
+        "error": "HTTP 404;HTTP 500;HTTP 404;HTTP 404;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked"
       },
       {
         "id": "kol:damengchen",
@@ -538,7 +538,7 @@
       },
       {
         "id": "kol:TTrades_edu",
-        "error": "HTTP 404;HTTP 500;HTTP 404;HTTP 404"
+        "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404"
       },
       {
         "id": "kol:gregisenberg",
@@ -574,8 +574,8 @@
     "score_threshold": 40,
     "kept": 84,
     "articles_kept": {
-      "ai": 71,
-      "invest": 104,
+      "ai": 86,
+      "invest": 106,
       "growth": 60
     },
     "rss_rejects_sample": [
@@ -984,10 +984,10 @@
             "too_old:52d",
             "too_old:132d",
             "too_old:327d",
-            "too_old:375d",
+            "too_old:376d",
             "too_old:491d",
             "too_old:685d",
-            "too_old:696d",
+            "too_old:697d",
             "too_old:816d"
           ]
         },
@@ -1071,7 +1071,7 @@
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
               "type": "youtube_rss",
               "ok": false,
-              "error": "HTTP 500"
+              "error": "HTTP 404"
             },
             {
               "url": "https://youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
@@ -1169,7 +1169,7 @@
               "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
               "type": "youtube_rss",
               "ok": false,
-              "error": "HTTP 404"
+              "error": "HTTP 500"
             },
             {
               "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
@@ -1385,14 +1385,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:297d",
-            "too_old:304d",
-            "too_old:311d",
-            "too_old:318d",
+            "too_old:298d",
+            "too_old:305d",
+            "too_old:312d",
+            "too_old:319d",
             "too_old:894d",
-            "too_old:954d",
-            "too_old:970d",
-            "too_old:998d"
+            "too_old:955d",
+            "too_old:971d",
+            "too_old:999d"
           ]
         },
         "dannypostmaa": {
@@ -1410,7 +1410,7 @@
               "url": "https://youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
               "type": "youtube_rss",
               "ok": false,
-              "error": "HTTP 404"
+              "error": "HTTP 500"
             },
             {
               "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
@@ -1882,7 +1882,7 @@
               "url": "https://youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
               "type": "youtube_rss",
               "ok": false,
-              "error": "HTTP 500"
+              "error": "HTTP 404"
             },
             {
               "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
@@ -2056,10 +2056,10 @@
               "error": "HTTP 404"
             }
           ],
-          "kept": 1,
+          "kept": 0,
           "dropped": 0,
-          "fallback": false,
-          "used_last_good": true,
+          "fallback": true,
+          "used_last_good": false,
           "html_list": null,
           "x_api": null,
           "drop_reasons": []
@@ -2796,7 +2796,7 @@
         {
           "handle": "charliebilello",
           "errors": [
-            "HTTP 500",
+            "HTTP 404",
             "HTTP 404",
             "HTTP 404",
             "HTTP 404",
@@ -2815,7 +2815,7 @@
           "errors": [
             "HTTP 404",
             "HTTP 404",
-            "HTTP 404",
+            "HTTP 500",
             "HTTP 404",
             "HTTP 202 captcha",
             "HTTP 202 captcha",
@@ -2844,7 +2844,7 @@
           "handle": "dannypostmaa",
           "errors": [
             "HTTP 404",
-            "HTTP 404",
+            "HTTP 500",
             "HTTP 404",
             "HTTP 404",
             "html_list_empty_or_blocked",
@@ -2883,7 +2883,7 @@
           "handle": "TTrades_edu",
           "errors": [
             "HTTP 404",
-            "HTTP 500",
+            "HTTP 404",
             "HTTP 404",
             "HTTP 404"
           ]
@@ -2917,10 +2917,10 @@
           ]
         }
       ],
-      "posts_kept": 185,
+      "posts_kept": 184,
       "posts_dropped": 197,
-      "fallbacks": 19,
-      "last_good_reused": 1,
+      "fallbacks": 20,
+      "last_good_reused": 0,
       "html_list_ok": [
         {
           "handle": "tibo_maker",
@@ -2969,31 +2969,31 @@
     },
     "community_rss": {
       "enabled": true,
-      "elapsed_ms": 85149,
-      "kept": 8,
+      "elapsed_ms": 71365,
+      "kept": 10,
       "report": [
         {
           "id": "ai-reddit-saas",
           "url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
           "ok": true,
           "status": 200,
-          "attempts": 1,
-          "ms": 608,
+          "attempts": 2,
+          "ms": 12290,
           "scanned": 40,
           "kept": 4,
           "rejects": {
             "body_too_short": 6,
-            "question": 16,
+            "question": 17,
             "no_body": 2,
-            "single_fact_kind": 2,
             "help_seeking": 2,
-            "no_numeric_fact": 8
+            "no_numeric_fact": 6,
+            "over_max_items": 3
           },
           "error": null,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
-            "reset": "23"
+            "reset": "55"
           },
           "reject_samples": [
             {
@@ -3017,8 +3017,8 @@
               "title": "How did you get your first 10 paying customers?"
             },
             {
-              "reason": "single_fact_kind",
-              "title": "Context.dev: bootstrapped to YC and a $9M seed round"
+              "reason": "question",
+              "title": "Spent 6 months building, been a month since launch. What's wrong ?"
             }
           ],
           "partition": "ai"
@@ -3052,25 +3052,24 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 14,
-          "kept": 0,
+          "scanned": 15,
+          "kept": 2,
           "rejects": {
-            "no_numeric_fact": 8,
+            "no_numeric_fact": 6,
             "question": 2,
             "help_seeking": 1,
-            "spam_or_promo_body": 2,
-            "single_fact_kind": 1
+            "spam_or_promo_body": 4
           },
           "error": null,
           "shared_request": true,
           "reject_samples": [
             {
               "reason": "no_numeric_fact",
-              "title": "Selling my business."
+              "title": "Launching a controversial startup (which deals with Resurrection. Yes) I've enco"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Launching a controversial startup (which deals with Resurrection. Yes) I've enco"
+              "title": "Software engineer with a 9-5, building small AI tools as side income. Week 2: a "
             },
             {
               "reason": "question",
@@ -3081,12 +3080,12 @@
               "title": "i need help figuring out how to set up sales tax so i can start selling online"
             },
             {
-              "reason": "question",
-              "title": "Would you watch a live consulting call with one of my clients?"
+              "reason": "no_numeric_fact",
+              "title": "I guested on two webinars in one week. Both times people ignored the topic and a"
             },
             {
-              "reason": "no_numeric_fact",
-              "title": "Registered my one-person business in June. First purchase came 6 weeks later, fi"
+              "reason": "question",
+              "title": "Would you watch a live consulting call with one of my clients?"
             }
           ],
           "partition": "ai"
@@ -3102,8 +3101,8 @@
           "kept": 1,
           "rejects": {
             "question": 4,
-            "body_too_short": 1,
-            "no_numeric_fact": 1
+            "no_numeric_fact": 1,
+            "body_too_short": 1
           },
           "error": null,
           "shared_request": true,
@@ -3117,12 +3116,12 @@
               "title": "How do you handle a new manager who’s hurting morale when the team is performing"
             },
             {
-              "reason": "body_too_short",
-              "title": "Monday mentorship: ask anything | October 19, 2026"
-            },
-            {
               "reason": "no_numeric_fact",
               "title": "I don’t know anymore"
+            },
+            {
+              "reason": "body_too_short",
+              "title": "Monday mentorship: ask anything | October 19, 2026"
             },
             {
               "reason": "question",
@@ -3141,12 +3140,13 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 99,
-          "scanned": 13,
+          "ms": 1150,
+          "scanned": 19,
           "kept": 0,
           "rejects": {
-            "tech_news": 1,
-            "no_numeric_fact": 11,
+            "tech_news": 2,
+            "no_numeric_fact": 15,
+            "help_seeking": 1,
             "question": 1
           },
           "error": null,
@@ -3158,27 +3158,27 @@
           "reject_samples": [
             {
               "reason": "tech_news",
+              "title": "OpenBSD 8.0"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "France's supermarket fridges were vulnerable online for months"
+            },
+            {
+              "reason": "help_seeking",
+              "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "An ad-free Android TV"
+            },
+            {
+              "reason": "tech_news",
               "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18"
             },
             {
               "reason": "no_numeric_fact",
               "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Android apps running native on macOS"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "MiniMax M3.1 Flash"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Ukraine claims first drone evacuation of wounded soldier"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Wine ported to OpenBSD"
             }
           ],
           "partition": "ai"
@@ -3188,8 +3188,8 @@
           "url": "https://hnrss.org/show?points=50",
           "ok": true,
           "status": 200,
-          "attempts": 2,
-          "ms": 23295,
+          "attempts": 1,
+          "ms": 54,
           "scanned": 20,
           "kept": 0,
           "rejects": {
@@ -3236,8 +3236,8 @@
           "url": "https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100",
           "ok": true,
           "status": 200,
-          "attempts": 2,
-          "ms": 53026,
+          "attempts": 1,
+          "ms": 3016,
           "scanned": 72,
           "kept": 2,
           "rejects": {
@@ -3255,10 +3255,11 @@
             "discussion_questions": 2
           },
           "error": null,
+          "waited_ms": 46724,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
-            "reset": "59"
+            "reset": "58"
           },
           "reject_samples": [
             {
@@ -3386,30 +3387,29 @@
         "shown": 47
       },
       "ai": {
-        "total": 14,
-        "with_use": 14,
+        "total": 35,
+        "with_use": 35,
         "verdicts": {
-          "worth": 8,
-          "save": 5,
-          "watch": 1
+          "save": 31,
+          "worth": 4
         },
         "ungrounded": 0,
         "dropped_no_use": 0,
-        "useful_before_display_cap": 14,
-        "shown": 14
+        "useful_before_display_cap": 35,
+        "shown": 35
       },
       "invest": {
-        "total": 22,
-        "with_use": 22,
+        "total": 24,
+        "with_use": 24,
         "verdicts": {
           "worth": 7,
-          "save": 13,
+          "save": 15,
           "watch": 2
         },
         "ungrounded": 0,
         "dropped_no_use": 0,
-        "useful_before_display_cap": 22,
-        "shown": 22
+        "useful_before_display_cap": 24,
+        "shown": 24
       },
       "growth": {
         "total": 2,
@@ -3425,7 +3425,7 @@
     },
     "title_model": "qwen2.5:1.5b",
     "title_budget_exhausted": false,
-    "title_zh_attempted": 34,
+    "title_zh_attempted": 57,
     "title_phase_s": 0
   },
   "today_points": [
@@ -3445,9 +3445,9 @@
     },
     {
       "part": "ai",
-      "text": "双十一，谁能靠AI获得大结果？",
-      "id": "ai-zh-3d933d481067",
-      "url": "https://www.tmtpost.com/8173901.html",
+      "text": "AI副业：自述收入 $500 in revenue，渠道 TikTok",
+      "id": "ai-community-ai-reddit-saas-7e5c0ba8b262",
+      "url": "https://www.reddit.com/r/SaaS/comments/1x9ylom/almost_500_in_revenue_this_month/",
       "verdict": "worth"
     },
     {
@@ -3462,18 +3462,18 @@
     "model": "qwen2.5:1.5b",
     "ollama_ok": false,
     "local_llm": 0,
-    "fallback": 95,
+    "fallback": 118,
     "distinct_fix": 0,
     "unfaithful_reject": 0,
     "number_check": {
-      "zh_summaries_checked": 24,
+      "zh_summaries_checked": 39,
       "blocked_this_run": 6
     }
   },
   "partitions": {
     "jobs": 57,
-    "ai": 14,
-    "invest": 30,
+    "ai": 35,
+    "invest": 32,
     "growth": 2
   },
   "caps": {
@@ -3571,10 +3571,10 @@
           "too_old:52d",
           "too_old:132d",
           "too_old:327d",
-          "too_old:375d",
+          "too_old:376d",
           "too_old:491d",
           "too_old:685d",
-          "too_old:696d",
+          "too_old:697d",
           "too_old:816d"
         ]
       },
@@ -3658,7 +3658,7 @@
             "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
             "type": "youtube_rss",
             "ok": false,
-            "error": "HTTP 500"
+            "error": "HTTP 404"
           },
           {
             "url": "https://youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
@@ -3756,7 +3756,7 @@
             "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
             "type": "youtube_rss",
             "ok": false,
-            "error": "HTTP 404"
+            "error": "HTTP 500"
           },
           {
             "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
@@ -3972,14 +3972,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:297d",
-          "too_old:304d",
-          "too_old:311d",
-          "too_old:318d",
+          "too_old:298d",
+          "too_old:305d",
+          "too_old:312d",
+          "too_old:319d",
           "too_old:894d",
-          "too_old:954d",
-          "too_old:970d",
-          "too_old:998d"
+          "too_old:955d",
+          "too_old:971d",
+          "too_old:999d"
         ]
       },
       "dannypostmaa": {
@@ -3997,7 +3997,7 @@
             "url": "https://youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
             "type": "youtube_rss",
             "ok": false,
-            "error": "HTTP 404"
+            "error": "HTTP 500"
           },
           {
             "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
@@ -4469,7 +4469,7 @@
             "url": "https://youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
             "type": "youtube_rss",
             "ok": false,
-            "error": "HTTP 500"
+            "error": "HTTP 404"
           },
           {
             "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
@@ -4643,10 +4643,10 @@
             "error": "HTTP 404"
           }
         ],
-        "kept": 1,
+        "kept": 0,
         "dropped": 0,
-        "fallback": false,
-        "used_last_good": true,
+        "fallback": true,
+        "used_last_good": false,
         "html_list": null,
         "x_api": null,
         "drop_reasons": []
@@ -5383,7 +5383,7 @@
       {
         "handle": "charliebilello",
         "errors": [
-          "HTTP 500",
+          "HTTP 404",
           "HTTP 404",
           "HTTP 404",
           "HTTP 404",
@@ -5402,7 +5402,7 @@
         "errors": [
           "HTTP 404",
           "HTTP 404",
-          "HTTP 404",
+          "HTTP 500",
           "HTTP 404",
           "HTTP 202 captcha",
           "HTTP 202 captcha",
@@ -5431,7 +5431,7 @@
         "handle": "dannypostmaa",
         "errors": [
           "HTTP 404",
-          "HTTP 404",
+          "HTTP 500",
           "HTTP 404",
           "HTTP 404",
           "html_list_empty_or_blocked",
@@ -5470,7 +5470,7 @@
         "handle": "TTrades_edu",
         "errors": [
           "HTTP 404",
-          "HTTP 500",
+          "HTTP 404",
           "HTTP 404",
           "HTTP 404"
         ]
@@ -5504,10 +5504,10 @@
         ]
       }
     ],
-    "posts_kept": 185,
+    "posts_kept": 184,
     "posts_dropped": 197,
-    "fallbacks": 19,
-    "last_good_reused": 1,
+    "fallbacks": 20,
+    "last_good_reused": 0,
     "html_list_ok": [
       {
         "handle": "tibo_maker",
@@ -5572,13 +5572,13 @@
   },
   "quality": {
     "articles_in": {
-      "ai": 71,
-      "invest": 104,
+      "ai": 87,
+      "invest": 106,
       "growth": 60
     },
     "posts_in": {
-      "ai": 66,
-      "invest": 104,
+      "ai": 82,
+      "invest": 106,
       "growth": 59
     },
     "near_dup_drops": {
@@ -5592,9 +5592,10 @@
         "dropped_technical": [],
         "practical_boost": 0,
         "theory_demote": 0,
-        "business_boost": 14,
+        "business_boost": 27,
         "x_bonus": 0,
-        "frames": 4
+        "frames": 7,
+        "no_business_demote": 5
       },
       "invest": {
         "dropped_technical": [],
@@ -5774,15 +5775,15 @@
           "source_keep": {
             "zh-huxiu": {
               "max_keep": 10,
-              "kept": 2,
+              "kept": 5,
               "dropped": 0,
-              "candidates": 2
+              "candidates": 5
             },
             "zh-tmtpost": {
               "max_keep": 10,
-              "kept": 3,
+              "kept": 4,
               "dropped": 0,
-              "candidates": 3
+              "candidates": 4
             },
             "ai-reddit-saas": {
               "max_keep": 4,
@@ -5814,6 +5815,12 @@
               "dropped": 0,
               "candidates": 10
             },
+            "zh-woshipm": {
+              "max_keep": 10,
+              "kept": 4,
+              "dropped": 0,
+              "candidates": 4
+            },
             "kol:tibo_maker": {
               "max_keep": 10,
               "kept": 6,
@@ -5832,11 +5839,35 @@
               "dropped": 0,
               "candidates": 6
             },
+            "ai-reddit-era": {
+              "max_keep": 3,
+              "kept": 2,
+              "dropped": 0,
+              "candidates": 2
+            },
             "ai-simonw-atom": {
               "max_keep": 4,
               "kept": 4,
               "dropped": 0,
               "candidates": 4
+            },
+            "zh-36kr": {
+              "max_keep": 10,
+              "kept": 3,
+              "dropped": 0,
+              "candidates": 3
+            },
+            "zh-geekpark": {
+              "max_keep": 10,
+              "kept": 1,
+              "dropped": 0,
+              "candidates": 1
+            },
+            "zh-leiphone": {
+              "max_keep": 10,
+              "kept": 1,
+              "dropped": 0,
+              "candidates": 1
             },
             "ai-levelsio-rss": {
               "max_keep": 2,
@@ -5849,20 +5880,14 @@
               "kept": 1,
               "dropped": 0,
               "candidates": 1
-            },
-            "kol:thepatwalls": {
-              "max_keep": 10,
-              "kept": 1,
-              "dropped": 0,
-              "candidates": 1
             }
           },
-          "decay_count": 38,
+          "decay_count": 37,
           "max_keep_drops": 0,
           "exempt": {
             "rsi": 0,
             "seed": 2,
-            "account": 24
+            "account": 25
           },
           "decay_penalties_sample": [
             {
@@ -6040,9 +6065,9 @@
             },
             "zh-wscn-live": {
               "max_keep": 10,
-              "kept": 5,
+              "kept": 7,
               "dropped": 0,
-              "candidates": 5
+              "candidates": 7
             },
             "kol:awealthofcs": {
               "max_keep": 10,
