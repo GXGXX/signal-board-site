@@ -1,6 +1,6 @@
 {
   "partition": "invest",
-  "generated_at": "2026-10-20T06:41:03.179Z",
+  "generated_at": "2026-10-20T07:18:19.726Z",
   "next_update_at": "2026-10-20T13:00:00.000Z",
   "cap": 60,
   "cards": [
@@ -9,12 +9,12 @@
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "大盘 · BTC $81,691（24h -0.41%）· ETH $2,399（-0.25%）",
-      "title_orig": "大盘 · BTC $81,691（24h -0.41%）· ETH $2,399（-0.25%）",
+      "title": "大盘 · BTC $81,684（24h -1.37%）· ETH $2,394（-1.58%）",
+      "title_orig": "大盘 · BTC $81,684（24h -1.37%）· ETH $2,394（-1.58%）",
       "source": "CoinGecko 公开 API（/global + /coins/markets）",
       "source_url": "https://www.coingecko.com/",
       "url": "https://www.coingecko.com/",
-      "published_at": "2026-10-20T00:17:53.000Z",
+      "published_at": "2026-10-20T07:16:48.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -25,37 +25,85 @@
       "lang": "zh",
       "_origin": "crypto",
       "_crypto_kind": "大盘",
+      "_market": "crypto",
       "extra": {
         "disclaimer": "非投资建议；加密高风险"
       },
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "今日币圈整体横盘；总市值 $2.75T（24h -2.13%），BTC 占比 59.6%，先看大盘再看单币异动",
-        "title": "大盘 · BTC $81,691（24h -0.41%）· ETH $2,399（-0.25%）",
+        "use": "今日币圈整体偏弱；总市值 $2.75T（24h -2.95%），BTC 占比 59.6%，先看大盘再看单币异动",
+        "title": "大盘 · BTC $81,684（24h -1.37%）· ETH $2,394（-1.58%）",
         "lines": {
-          "value": "BTC 7d -0.32%；ETH 7d -2.56%",
+          "value": "BTC 7d -2.23%；ETH 7d -5.27%",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "bitcoin current_price: 81691, price_change_percentage_24h: -0.41",
-          "ethereum current_price: 2398.63, price_change_percentage_24h: -0.25",
-          "total_market_cap.usd: 2752088037013, market_cap_percentage.btc: 59.6, market_cap_change_percentage_24h_usd: -2.13"
+          "bitcoin current_price: 81684, price_change_percentage_24h: -1.37",
+          "ethereum current_price: 2394.43, price_change_percentage_24h: -1.58",
+          "total_market_cap.usd: 2752756303656, market_cap_percentage.btc: 59.6, market_cap_change_percentage_24h_usd: -2.95"
         ],
-        "point": "币圈：今日币圈整体横盘；总市值 $2.75T（24h -2.13%），BTC 占比 59.6%，先看大盘再看单币异动"
-      }
+        "point": "币圈：今日币圈整体偏弱；总市值 $2.75T（24h -2.95%），BTC 占比 59.6%，先看大盘再看单币异动"
+      },
+      "why": "今日币圈整体偏弱；总市值 $2.75T（24h -2.95%），BTC 占比 59.6%，先看大盘再看单币异动"
     },
     {
-      "id": "crypto-etf-btc-16Oct2026",
+      "id": "crypto-us-index-2026-10-19",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "BTC 现货 ETF · 16 Oct 2026 净流出 $82.4M",
-      "title_orig": "BTC 现货 ETF · 16 Oct 2026 净流出 $82.4M",
+      "title": "美股收盘（2026-10-19）· 标普500 +0.41% · 纳指 +1.11% · 费城半导体 +1.61%",
+      "title_orig": "美股收盘（2026-10-19）· 标普500 +0.41% · 纳指 +1.11% · 费城半导体 +1.61%",
+      "source": "Yahoo Finance 公开 chart 接口（日线收盘）",
+      "source_url": "https://finance.yahoo.com/markets/",
+      "url": "https://finance.yahoo.com/markets/",
+      "published_at": "2026-10-20T00:00:00.000Z",
+      "tags": [
+        "美股",
+        "美股大盘"
+      ],
+      "score": 94,
+      "risk": "medium",
+      "lang": "zh",
+      "_origin": "crypto",
+      "_crypto_kind": "美股大盘",
+      "_market": "us",
+      "extra": {
+        "disclaimer": "非投资建议"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "美股观察",
+        "use": "美股+宏观一屏看：科技股走强，风险偏好回升，BTC 常同向（助手解读，非原文）",
+        "title": "美股收盘（2026-10-19）· 标普500 +0.41% · 纳指 +1.11% · 费城半导体 +1.61%",
+        "lines": {
+          "fact": "原文数据：标普500 +0.41%；纳指 +1.11%；费城半导体 +1.61%；VIX 18.44；10年期美债 5.14%；美元指数 -0.18%",
+          "impact": "科技股走强，风险偏好回升，BTC 常同向",
+          "note": "非投资建议；只作趋势感知，不荐个股"
+        },
+        "evidence": [
+          "^GSPC close: 7,690.730, previous close: 7,659.440",
+          "^IXIC close: 26,430.891, previous close: 26,140.029",
+          "^SOX close: 11,316.340, previous close: 11,137.290",
+          "^VIX close: 18.440, previous close: 19.990",
+          "^TNX close: 5.136, previous close: 5.098",
+          "DX-Y.NYB close: 101.793, previous close: 101.980"
+        ],
+        "point": "美股：美股+宏观一屏看：科技股走强，风险偏好回升，BTC 常同向（助手解读，非原文）"
+      },
+      "why": "美股+宏观一屏看：科技股走强，风险偏好回升，BTC 常同向（助手解读，非原文）"
+    },
+    {
+      "id": "crypto-etf-btc-19Oct2026",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "BTC 现货 ETF · 19 Oct 2026 净流入 $526.7M",
+      "title_orig": "BTC 现货 ETF · 19 Oct 2026 净流入 $526.7M",
       "source": "Farside Investors 公开 BTC ETF 日流表（单位：百万美元）",
       "source_url": "https://farside.co.uk/btc/",
       "url": "https://farside.co.uk/btc/",
-      "published_at": "2026-10-16T23:59:00.000Z",
+      "published_at": "2026-10-19T23:59:00.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -66,86 +114,177 @@
       "lang": "zh",
       "_origin": "crypto",
       "_crypto_kind": "ETF流向",
+      "_market": "crypto",
       "extra": {
         "disclaimer": "非投资建议；加密高风险",
         "numbers": {
-          "total_net_flow_m_usd": -82.4,
-          "as_of": "16 Oct 2026",
+          "total_net_flow_m_usd": 526.7,
+          "as_of": "19 Oct 2026",
           "streak_days": 1,
-          "sum_5d_m_usd": -228.4
+          "sum_5d_m_usd": 363.7
         }
       },
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "机构资金方向：已连续 1 个交易日净流出，近5日合计 −$228.4M",
-        "title": "BTC 现货 ETF · 16 Oct 2026 净流出 $82.4M",
+        "use": "机构资金方向：已连续 1 个交易日净流入，近5日合计 +$363.7M",
+        "title": "BTC 现货 ETF · 19 Oct 2026 净流入 $526.7M",
         "lines": {
-          "value": "前5日合计（百万美元）：21.1 / -65.4 / 175.7 / -261.4 / 5.1",
+          "value": "前5日合计（百万美元）：-65.4 / 175.7 / -261.4 / 5.1 / -82.4",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "16 Oct 2026 (71.8) (10.6) 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 (82.4)"
+          "19 Oct 2026 665.2 (83.6) 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 (54.9) 0.0 526.7"
         ],
-        "point": "币圈：机构资金方向：已连续 1 个交易日净流出，近5日合计 −$228.4M"
-      }
+        "point": "币圈：机构资金方向：已连续 1 个交易日净流入，近5日合计 +$363.7M"
+      },
+      "why": "机构资金方向：已连续 1 个交易日净流入，近5日合计 +$363.7M"
     },
     {
-      "id": "crypto-etf-eth-16Oct2026",
+      "id": "crypto-us-ai-chip-2026-10-19",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "ETH 现货 ETF · 16 Oct 2026 净流出 $69.7M",
-      "title_orig": "ETH 现货 ETF · 16 Oct 2026 净流出 $69.7M",
+      "title": "AI/芯片龙头（2026-10-19）· AMZN +4.98% / PLTR +4.36% / TSLA +3.76% / MU +2.97% / TSM +1.84%",
+      "title_orig": "AI/芯片龙头（2026-10-19）· AMZN +4.98% / PLTR +4.36% / TSLA +3.76% / MU +2.97% / TSM +1.84%",
+      "source": "Yahoo Finance 公开 chart 接口（日线收盘）",
+      "source_url": "https://finance.yahoo.com/sectors/technology/semiconductors/",
+      "url": "https://finance.yahoo.com/sectors/technology/semiconductors/",
+      "published_at": "2026-10-20T00:00:00.000Z",
+      "tags": [
+        "美股",
+        "AI/芯片龙头"
+      ],
+      "score": 91,
+      "risk": "medium",
+      "lang": "zh",
+      "_origin": "crypto",
+      "_crypto_kind": "AI/芯片龙头",
+      "_market": "us",
+      "extra": {
+        "disclaimer": "非投资建议"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "美股观察",
+        "use": "AI 主线温度计：15 只龙头里 13 涨 2 跌，波动最大的是 AMZN（+4.98%）；AI 交易冷热也会传导到 AI 概念币（助手解读，非原文）",
+        "title": "AI/芯片龙头（2026-10-19）· AMZN +4.98% / PLTR +4.36% / TSLA +3.76% / MU +2.97% / TSM +1.84%",
+        "lines": {
+          "fact": "原文数据：AMZN +4.98%，PLTR +4.36%，TSLA +3.76%，MU +2.97%，TSM +1.84%，AVGO +1.78%，AMD +1.76%，NVDA +1.38%，ORCL +1.06%，GOOGL +1.05%，MSFT +0.84%，META -0.55%，ASML +0.34%，AAPL -0.15%，ARM +0.11%",
+          "note": "非投资建议；只作趋势感知，不荐个股"
+        },
+        "evidence": [
+          "AMZN close: 262.45, previous close: 250.00",
+          "PLTR close: 194.15, previous close: 186.03",
+          "TSLA close: 368.06, previous close: 354.72",
+          "MU close: 904.90, previous close: 878.84",
+          "TSM close: 420.22, previous close: 412.61"
+        ],
+        "point": "美股：AI 主线温度计：15 只龙头里 13 涨 2 跌，波动最大的是 AMZN（+4.98%）；AI 交易冷热也会传导到 AI 概念币（助手解读，非原文）"
+      },
+      "why": "AI 主线温度计：15 只龙头里 13 涨 2 跌，波动最大的是 AMZN（+4.98%）；AI 交易冷热也会传导到 AI 概念币（助手解读，非原文）"
+    },
+    {
+      "id": "crypto-etf-eth-19Oct2026",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "ETH 现货 ETF · 19 Oct 2026 净流出 $103.3M",
+      "title_orig": "ETH 现货 ETF · 19 Oct 2026 净流出 $103.3M",
       "source": "Farside Investors 公开 ETH ETF 日流表（单位：百万美元）",
       "source_url": "https://farside.co.uk/eth/",
       "url": "https://farside.co.uk/eth/",
-      "published_at": "2026-10-16T23:59:00.000Z",
+      "published_at": "2026-10-19T23:59:00.000Z",
       "tags": [
         "加密",
         "高风险",
         "ETF流向"
       ],
-      "score": 92,
+      "score": 90,
       "risk": "high",
       "lang": "zh",
       "_origin": "crypto",
       "_crypto_kind": "ETF流向",
+      "_market": "crypto",
       "extra": {
         "disclaimer": "非投资建议；加密高风险",
         "numbers": {
-          "total_net_flow_m_usd": -69.7,
-          "as_of": "16 Oct 2026",
-          "streak_days": 3,
-          "sum_5d_m_usd": -320.1
+          "total_net_flow_m_usd": -103.3,
+          "as_of": "19 Oct 2026",
+          "streak_days": 4,
+          "sum_5d_m_usd": -338
         }
       },
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "机构资金方向：已连续 3 个交易日净流出，近5日合计 −$320.1M",
-        "title": "ETH 现货 ETF · 16 Oct 2026 净流出 $69.7M",
+        "use": "机构资金方向：已连续 4 个交易日净流出，近5日合计 −$338.0M",
+        "title": "ETH 现货 ETF · 19 Oct 2026 净流出 $103.3M",
         "lines": {
-          "value": "前5日合计（百万美元）：-56.1 / -85.4 / 24.8 / -129.5 / -60.3",
+          "value": "前5日合计（百万美元）：-85.4 / 24.8 / -129.5 / -60.3 / -69.7",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "16 Oct 2026 (69.7) 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 (69.7)"
+          "19 Oct 2026 (95.4) 0.0 (6.0) 0.0 0.0 0.0 0.0 0.0 0.0 (1.9) 0.0 (103.3)"
         ],
-        "point": "币圈：机构资金方向：已连续 3 个交易日净流出，近5日合计 −$320.1M"
-      }
+        "point": "币圈：机构资金方向：已连续 4 个交易日净流出，近5日合计 −$338.0M"
+      },
+      "why": "机构资金方向：已连续 4 个交易日净流出，近5日合计 −$338.0M"
+    },
+    {
+      "id": "crypto-us-movers-涨-2026-10-19",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "美股大市值涨幅榜（2026-10-19，市值≥$200亿）· WDC +6.09% / SNDK +5.53% / DDOG +5.36% / TWLO +5.29%",
+      "title_orig": "美股大市值涨幅榜（2026-10-19，市值≥$200亿）· WDC +6.09% / SNDK +5.53% / DDOG +5.36% / TWLO +5.29%",
+      "source": "Yahoo Finance 公开 screener（day_gainers）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/gainers/",
+      "url": "https://finance.yahoo.com/markets/stocks/gainers/",
+      "published_at": "2026-10-19T20:00:01.000Z",
+      "tags": [
+        "美股",
+        "美股异动"
+      ],
+      "score": 89,
+      "risk": "medium",
+      "lang": "zh",
+      "_origin": "crypto",
+      "_crypto_kind": "美股异动",
+      "_market": "us",
+      "extra": {
+        "disclaimer": "非投资建议"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "美股观察",
+        "use": "大票单日涨 6.1% 以上通常有消息（财报/指引/评级/监管），先查原因，不追高（助手解读，非原文）",
+        "title": "美股大市值涨幅榜（2026-10-19，市值≥$200亿）· WDC +6.09% / SNDK +5.53% / DDOG +5.36% / TWLO +5.29%",
+        "lines": {
+          "fact": "原文数据：Western Digital Corporation（WDC）+6.09%，市值 $131.84B；Sandisk Corporation（SNDK）+5.53%，市值 $198.16B；Datadog, Inc.（DDOG）+5.36%，市值 $93.49B；Twilio Inc.（TWLO）+5.29%，市值 $39.51B",
+          "note": "非投资建议；只作趋势感知，不荐个股"
+        },
+        "evidence": [
+          "WDC regularMarketChangePercent: 6.09, marketCap: 131840393216",
+          "SNDK regularMarketChangePercent: 5.53, marketCap: 198164643840",
+          "DDOG regularMarketChangePercent: 5.36, marketCap: 93488766976",
+          "TWLO regularMarketChangePercent: 5.29, marketCap: 39513370624"
+        ],
+        "point": "美股：大票单日涨 6.1% 以上通常有消息（财报/指引/评级/监管），先查原因，不追高（助手解读，非原文）"
+      },
+      "why": "大票单日涨 6.1% 以上通常有消息（财报/指引/评级/监管），先查原因，不追高（助手解读，非原文）"
     },
     {
       "id": "crypto-movers-涨-2026-10-20",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "前100市值涨幅榜 · WLD +8.80% / VVV +7.20% / PUMP +6.75%（24h）",
-      "title_orig": "前100市值涨幅榜 · WLD +8.80% / VVV +7.20% / PUMP +6.75%（24h）",
+      "title": "前100市值涨幅榜 · WLD +8.07% / VVV +2.75% / DASH +1.96%（24h）",
+      "title_orig": "前100市值涨幅榜 · WLD +8.07% / VVV +2.75% / DASH +1.96%（24h）",
       "source": "CoinGecko 公开 API（/coins/markets 前100）",
       "source_url": "https://www.coingecko.com/en/crypto-gainers-losers",
       "url": "https://www.coingecko.com/en/crypto-gainers-losers",
-      "published_at": "2026-10-20T00:17:53.000Z",
+      "published_at": "2026-10-20T07:16:48.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -156,6 +295,7 @@
       "lang": "zh",
       "_origin": "crypto",
       "_crypto_kind": "异动",
+      "_market": "crypto",
       "extra": {
         "disclaimer": "非投资建议；加密高风险"
       },
@@ -163,30 +303,31 @@
         "verdict": "worth",
         "verdict_label": "币圈观察",
         "use": "大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐",
-        "title": "前100市值涨幅榜 · WLD +8.80% / VVV +7.20% / PUMP +6.75%（24h）",
+        "title": "前100市值涨幅榜 · WLD +8.07% / VVV +2.75% / DASH +1.96%（24h）",
         "lines": {
-          "value": "Worldcoin $0.5308，24h 成交 $290.8M，市值排名 #50；Venice Token $24.26，24h 成交 $38.3M，市值排名 #71；Pump.fun $0.004442，24h 成交 $216.3M，市值排名 #49",
+          "value": "Worldcoin $0.5419，24h 成交 $386.0M，市值排名 #49；Venice Token $24.50，24h 成交 $34.8M，市值排名 #71；Dash $50.06，24h 成交 $51.4M，市值排名 #100",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "worldcoin-wld current_price: 0.530808, price_change_percentage_24h: 8.80, total_volume: 290804590, circulating_supply: 3815616705, total_supply: 10000000000",
-          "venice-token current_price: 24.26, price_change_percentage_24h: 7.20, total_volume: 38335210, circulating_supply: 48557319, total_supply: 81152038",
-          "pump-fun current_price: 0.00444234, price_change_percentage_24h: 6.75, total_volume: 216277057, circulating_supply: 462157197889, total_supply: 827044019261"
+          "worldcoin-wld current_price: 0.541903, price_change_percentage_24h: 8.07, total_volume: 385973863, circulating_supply: 3817014932, total_supply: 10000000000",
+          "venice-token current_price: 24.5, price_change_percentage_24h: 2.75, total_volume: 34844129, circulating_supply: 48558451, total_supply: 81153478",
+          "dash current_price: 50.06, price_change_percentage_24h: 1.96, total_volume: 51392565, circulating_supply: 12867154, total_supply: 12867138"
         ],
         "point": "币圈：大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐"
-      }
+      },
+      "why": "大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐"
     },
     {
       "id": "crypto-movers-跌-2026-10-20",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "前100市值跌幅榜 · BTW -15.61% / WLFI -5.00% / FIL -2.69%（24h）",
-      "title_orig": "前100市值跌幅榜 · BTW -15.61% / WLFI -5.00% / FIL -2.69%（24h）",
+      "title": "前100市值跌幅榜 · BTW -24.01% / NEAR -5.79% / WLFI -5.42%（24h）",
+      "title_orig": "前100市值跌幅榜 · BTW -24.01% / NEAR -5.79% / WLFI -5.42%（24h）",
       "source": "CoinGecko 公开 API（/coins/markets 前100）",
       "source_url": "https://www.coingecko.com/en/crypto-gainers-losers",
       "url": "https://www.coingecko.com/en/crypto-gainers-losers",
-      "published_at": "2026-10-20T00:17:53.000Z",
+      "published_at": "2026-10-20T07:16:48.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -197,6 +338,7 @@
       "lang": "zh",
       "_origin": "crypto",
       "_crypto_kind": "异动",
+      "_market": "crypto",
       "extra": {
         "disclaimer": "非投资建议；加密高风险"
       },
@@ -204,30 +346,413 @@
         "verdict": "worth",
         "verdict_label": "币圈观察",
         "use": "大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接",
-        "title": "前100市值跌幅榜 · BTW -15.61% / WLFI -5.00% / FIL -2.69%（24h）",
+        "title": "前100市值跌幅榜 · BTW -24.01% / NEAR -5.79% / WLFI -5.42%（24h）",
         "lines": {
-          "value": "Bitway $1.990，24h 成交 $43.4M，市值排名 #36（流通仅占总量 15%，低流通盘易暴涨暴跌）；World Liberty Financial $0.05413，24h 成交 $45.9M，市值排名 #59；Filecoin $1.013，24h 成交 $119.0M，市值排名 #84",
+          "value": "Bitway $1.710，24h 成交 $37.5M，市值排名 #40（流通仅占总量 15%，低流通盘易暴涨暴跌）；NEAR Protocol $4.780，24h 成交 $678.2M，市值排名 #19；World Liberty Financial $0.05390，24h 成交 $51.5M，市值排名 #60",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "bitway current_price: 1.99, price_change_percentage_24h: -15.61, total_volume: 43443533, circulating_supply: 1505787514, total_supply: 10000000000",
-          "world-liberty-financial current_price: 0.054133, price_change_percentage_24h: -5.00, total_volume: 45918346, circulating_supply: 31779546603, total_supply: 100000000000",
-          "filecoin current_price: 1.013, price_change_percentage_24h: -2.69, total_volume: 118978127, circulating_supply: 835816294, total_supply: 1956962120"
+          "bitway current_price: 1.71, price_change_percentage_24h: -24.01, total_volume: 37502470, circulating_supply: 1505787514, total_supply: 10000000000",
+          "near current_price: 4.78, price_change_percentage_24h: -5.79, total_volume: 678228717, circulating_supply: 1309428490, total_supply: 1309428502",
+          "world-liberty-financial current_price: 0.0539, price_change_percentage_24h: -5.42, total_volume: 51500186, circulating_supply: 31779550645, total_supply: 100000000000"
         ],
         "point": "币圈：大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接"
-      }
+      },
+      "why": "大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接"
+    },
+    {
+      "id": "crypto-us-movers-跌-2026-10-19",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "美股大市值跌幅榜（2026-10-19，市值≥$200亿）· SE -5.65% / CBRS -5.15% / NRG -4.21% / AMP -4.07%",
+      "title_orig": "美股大市值跌幅榜（2026-10-19，市值≥$200亿）· SE -5.65% / CBRS -5.15% / NRG -4.21% / AMP -4.07%",
+      "source": "Yahoo Finance 公开 screener（day_losers）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/losers/",
+      "url": "https://finance.yahoo.com/markets/stocks/losers/",
+      "published_at": "2026-10-19T20:00:03.000Z",
+      "tags": [
+        "美股",
+        "美股异动"
+      ],
+      "score": 88,
+      "risk": "medium",
+      "lang": "zh",
+      "_origin": "crypto",
+      "_crypto_kind": "美股异动",
+      "_market": "us",
+      "extra": {
+        "disclaimer": "非投资建议"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "美股观察",
+        "use": "大票单日跌 5.7% 以上通常有消息（财报/指引/评级/监管），先分清个股利空还是板块退潮，不急着抄底（助手解读，非原文）",
+        "title": "美股大市值跌幅榜（2026-10-19，市值≥$200亿）· SE -5.65% / CBRS -5.15% / NRG -4.21% / AMP -4.07%",
+        "lines": {
+          "fact": "原文数据：Sea Limited（SE）-5.65%，市值 $54.19B；Cerebras Systems Inc.（CBRS）-5.15%，市值 $28.66B；NRG Energy, Inc.（NRG）-4.21%，市值 $20.89B；Ameriprise Financial, Inc.（AMP）-4.07%，市值 $42.44B",
+          "note": "非投资建议；只作趋势感知，不荐个股"
+        },
+        "evidence": [
+          "SE regularMarketChangePercent: -5.65, marketCap: 54186508288",
+          "CBRS regularMarketChangePercent: -5.15, marketCap: 28664479744",
+          "NRG regularMarketChangePercent: -4.21, marketCap: 20890716160",
+          "AMP regularMarketChangePercent: -4.07, marketCap: 42436161536"
+        ],
+        "point": "美股：大票单日跌 5.7% 以上通常有消息（财报/指引/评级/监管），先分清个股利空还是板块退潮，不急着抄底（助手解读，非原文）"
+      },
+      "why": "大票单日跌 5.7% 以上通常有消息（财报/指引/评级/监管），先分清个股利空还是板块退潮，不急着抄底（助手解读，非原文）"
+    },
+    {
+      "id": "crypto-macro-us_yield-2026-10-20",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "10年期美债收益率涨超7个基点，投资者注意力从AI抛售转向美国原油上涨",
+      "title_orig": "10年期美债收益率涨超7个基点，投资者注意力从AI抛售转向美国原油上涨",
+      "source": "华尔街见闻 7x24",
+      "source_url": "https://wallstreetcn.com/livenews/3181399",
+      "url": "https://wallstreetcn.com/livenews/3181399",
+      "published_at": "2026-10-19T19:48:28.000Z",
+      "tags": [
+        "宏观",
+        "宏观"
+      ],
+      "score": 87,
+      "risk": "medium",
+      "lang": "en",
+      "_origin": "crypto",
+      "_crypto_kind": "宏观",
+      "_market": "macro",
+      "extra": {
+        "disclaimer": "非投资建议"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "宏观",
+        "use": "美债收益率：美债收益率上行压制高估值科技股，BTC 也常同步走弱；回落则给风险资产松绑（助手解读，非原文）",
+        "title": "",
+        "lines": {
+          "fact": "原文数据：周一（10月19日）纽约尾盘，美国10年期国债收益率涨7.53个基点，报5.1481%，亚太盘初以来大致持平——窄幅震荡于5.07%附近，北京时间20:00开始持续上涨。",
+          "impact": "美债收益率上行压制高估值科技股，BTC 也常同步走弱；回落则给风险资产松绑",
+          "note": "非投资建议"
+        },
+        "evidence": [
+          "10年期美债收益率涨超7个基点，投资者注意力从AI抛售转向美国原油上涨",
+          "周一（10月19日）纽约尾盘，美国10年期国债收益率涨7.53个基点，报5.1481%，亚太盘初以来大致持平——窄幅震荡于5.07%附近，北京时间20:00开始持续上涨。"
+        ],
+        "point": "宏观：美债收益率：美债收益率上行压制高估值科技股，BTC 也常同步走弱；回落则给风险资产松绑（助手解读，非原文）"
+      },
+      "why": "美债收益率：美债收益率上行压制高估值科技股，BTC 也常同步走弱；回落则给风险资产松绑（助手解读，非原文）"
+    },
+    {
+      "id": "crypto-funding-2026-10-20",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "永续资金费率（OKX）· BTC +0.0076% / ETH +0.0054% / SOL +0.0063%",
+      "title_orig": "永续资金费率（OKX）· BTC +0.0076% / ETH +0.0054% / SOL +0.0063%",
+      "source": "OKX 公开 API（public/funding-rate + open-interest）",
+      "source_url": "https://www.okx.com/trade-market/funding/swap",
+      "url": "https://www.okx.com/trade-market/funding/swap",
+      "published_at": "2026-10-20T08:00:00.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "合约情绪"
+      ],
+      "score": 86,
+      "risk": "high",
+      "lang": "zh",
+      "_origin": "crypto",
+      "_crypto_kind": "合约情绪",
+      "_market": "crypto",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "合约情绪：费率都在常态区间（<0.03%/8h），合约市场没有明显一边倒（助手解读，非原文；只看情绪，不建议开合约）",
+        "title": "永续资金费率（OKX）· BTC +0.0076% / ETH +0.0054% / SOL +0.0063%",
+        "lines": {
+          "value": "BTC 永续持仓 $2.46B；ETH 永续持仓 $1.44B；SOL 永续持仓 $314.4M",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "BTC-USDT-SWAP fundingRate: 0.0000760836960625, oiUsd: 2456296136",
+          "ETH-USDT-SWAP fundingRate: 0.0000539769148798, oiUsd: 1440594237",
+          "SOL-USDT-SWAP fundingRate: 0.0000625946546127, oiUsd: 314431894"
+        ],
+        "point": "币圈：合约情绪：费率都在常态区间（<0.03%/8h），合约市场没有明显一边倒（助手解读，非原文；只看情绪，不建议开合约）"
+      },
+      "why": "合约情绪：费率都在常态区间（<0.03%/8h），合约市场没有明显一边倒（助手解读，非原文；只看情绪，不建议开合约）"
+    },
+    {
+      "id": "crypto-etf-sol-19Oct2026",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "SOL 现货 ETF · 19 Oct 2026 净流出 $6.7M",
+      "title_orig": "SOL 现货 ETF · 19 Oct 2026 净流出 $6.7M",
+      "source": "Farside Investors 公开 SOL ETF 日流表（单位：百万美元）",
+      "source_url": "https://farside.co.uk/sol/",
+      "url": "https://farside.co.uk/sol/",
+      "published_at": "2026-10-19T23:59:00.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "ETF流向"
+      ],
+      "score": 84,
+      "risk": "high",
+      "lang": "zh",
+      "_origin": "crypto",
+      "_crypto_kind": "ETF流向",
+      "_market": "crypto",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险",
+        "numbers": {
+          "total_net_flow_m_usd": -6.7,
+          "as_of": "19 Oct 2026",
+          "streak_days": 11,
+          "sum_5d_m_usd": -31.5
+        }
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "机构资金方向：已连续 11 个交易日净流出，近5日合计 −$31.5M",
+        "title": "SOL 现货 ETF · 19 Oct 2026 净流出 $6.7M",
+        "lines": {
+          "value": "前5日合计（百万美元）：-0.7 / -1.0 / -1.3 / -9.8 / -12.7",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "19 Oct 2026 (4.9) 0.0 (1.8) 0.0 0.0 0.0 0.0 (6.7)"
+        ],
+        "point": "币圈：机构资金方向：已连续 11 个交易日净流出，近5日合计 −$31.5M"
+      },
+      "why": "机构资金方向：已连续 11 个交易日净流出，近5日合计 −$31.5M"
+    },
+    {
+      "id": "crypto-earn-hcm5pbmdzLmh0bWw",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "title_orig": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "source": "CNBC Earnings",
+      "source_url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "published_at": "2026-10-14T20:22:09.000Z",
+      "tags": [
+        "美股",
+        "财报"
+      ],
+      "score": 84,
+      "risk": "medium",
+      "lang": "en",
+      "_origin": "crypto",
+      "_crypto_kind": "财报",
+      "_market": "us",
+      "extra": {
+        "disclaimer": "非投资建议"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "美股观察",
+        "use": "10/15 Morgan Stanley 财报超预期（$909 million）：说明银行股需求仍在，板块情绪偏正面（助手解读，非原文）",
+        "title": "",
+        "lines": {
+          "fact": "原文数据：Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+          "impact": "超预期/上调指引说明需求仍在，同板块情绪偏正面",
+          "note": "非投资建议；只作趋势感知，不荐个股"
+        },
+        "evidence": [
+          "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million"
+        ],
+        "point": "美股：10/15 Morgan Stanley 财报超预期（$909 million）：说明银行股需求仍在，板块情绪偏正面（助手解读，非原文）"
+      },
+      "why": "10/15 Morgan Stanley 财报超预期（$909 million）：说明银行股需求仍在，板块情绪偏正面（助手解读，非原文）"
+    },
+    {
+      "id": "crypto-earn-FybmluZ3MuaHRtbA",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+      "title_orig": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+      "source": "CNBC Earnings",
+      "source_url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "published_at": "2026-10-14T20:20:46.000Z",
+      "tags": [
+        "美股",
+        "财报"
+      ],
+      "score": 83,
+      "risk": "medium",
+      "lang": "en",
+      "_origin": "crypto",
+      "_crypto_kind": "财报",
+      "_market": "us",
+      "extra": {
+        "disclaimer": "非投资建议"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "美股观察",
+        "use": "10/15 Bank of America 财报不及预期：银行股情绪可能被拖累，先看指引和盘后反应（助手解读，非原文）",
+        "title": "",
+        "lines": {
+          "fact": "原文数据：Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+          "impact": "不及预期常拖累同板块情绪",
+          "note": "非投资建议；只作趋势感知，不荐个股"
+        },
+        "evidence": [
+          "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine."
+        ],
+        "point": "美股：10/15 Bank of America 财报不及预期：银行股情绪可能被拖累，先看指引和盘后反应（助手解读，非原文）"
+      },
+      "why": "10/15 Bank of America 财报不及预期：银行股情绪可能被拖累，先看指引和盘后反应（助手解读，非原文）"
+    },
+    {
+      "id": "crypto-earn-EzLTIwMjYuaHRtbA",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
+      "title_orig": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
+      "source": "CNBC Earnings",
+      "source_url": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html",
+      "url": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html",
+      "published_at": "2026-10-13T15:04:35.000Z",
+      "tags": [
+        "美股",
+        "财报"
+      ],
+      "score": 82,
+      "risk": "medium",
+      "lang": "en",
+      "_origin": "crypto",
+      "_crypto_kind": "财报",
+      "_market": "us",
+      "extra": {
+        "disclaimer": "非投资建议"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "美股观察",
+        "use": "10/13 UnitedHealth Group 财报超预期并上调指引（$20.50 per share）：说明同行业需求仍在，板块情绪偏正面（助手解读，非原文）",
+        "title": "",
+        "lines": {
+          "fact": "原文数据：UnitedHealth Group said it expects 2026 adjusted earnings of at least $20.50 per share, up from a previous outlook of $19.50 to $20.00 per share.",
+          "impact": "超预期/上调指引说明需求仍在，同板块情绪偏正面",
+          "note": "非投资建议；只作趋势感知，不荐个股"
+        },
+        "evidence": [
+          "UnitedHealth Group said it expects 2026 adjusted earnings of at least $20.50 per share, up from a previous outlook of $19.50 to $20.00 per share."
+        ],
+        "point": "美股：10/13 UnitedHealth Group 财报超预期并上调指引（$20.50 per share）：说明同行业需求仍在，板块情绪偏正面（助手解读，非原文）"
+      },
+      "why": "10/13 UnitedHealth Group 财报超预期并上调指引（$20.50 per share）：说明同行业需求仍在，板块情绪偏正面（助手解读，非原文）"
+    },
+    {
+      "id": "crypto-zh-0YzlhNTJkMGZjOWM",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "安全机构：Aztec Connect 黑客将 1,255.8 枚 ETH 存入 Tornado Cash",
+      "title_orig": "安全机构：Aztec Connect 黑客将 1,255.8 枚 ETH 存入 Tornado Cash",
+      "source": "PANews",
+      "source_url": "https://www.panewslab.com/zh/articles/01a15699-cd0e-72b1-b3b2-4c9a52d0fc9c",
+      "url": "https://www.panewslab.com/zh/articles/01a15699-cd0e-72b1-b3b2-4c9a52d0fc9c",
+      "published_at": "2026-10-19T23:58:02.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "钱包/安全事件"
+      ],
+      "score": 82,
+      "risk": "high",
+      "lang": "en",
+      "_origin": "crypto",
+      "_crypto_kind": "钱包/安全事件",
+      "_market": "crypto",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "钱包/安全事件：安全机构：Aztec Connect 黑客将 1,255.8 枚 ETH 存入…——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）",
+        "title": "",
+        "lines": {
+          "fact": "原文数据：据区块链安全机构 Salus 监测，Aztec Connect 黑客于 10 月 19 日分 30 笔交易，向 Tornado Cash 存入 1,255.8 枚 ETH（约 301 万美元）。",
+          "impact": "先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "安全机构：Aztec Connect 黑客将 1,255.8 枚 ETH 存入 Tornado Cash",
+          "据区块链安全机构 Salus 监测，Aztec Connect 黑客于 10 月 19 日分 30 笔交易，向 Tornado Cash 存入 1,255.8 枚 ETH（约 301 万美元）。"
+        ],
+        "point": "币圈：钱包/安全事件：安全机构：Aztec Connect 黑客将 1,255.8 枚 ETH 存入…——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）"
+      },
+      "why": "钱包/安全事件：安全机构：Aztec Connect 黑客将 1,255.8 枚 ETH 存入…——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）"
+    },
+    {
+      "id": "crypto-zh-xNDE3ZTM5YjJmNjU",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "高盛：对冲基金以2016年以来最快速度减持科技股，半导体遭集中抛售",
+      "title_orig": "高盛：对冲基金以2016年以来最快速度减持科技股，半导体遭集中抛售",
+      "source": "PANews",
+      "source_url": "https://www.panewslab.com/zh/articles/01a157f1-e768-7605-a354-1417e39b2f65",
+      "url": "https://www.panewslab.com/zh/articles/01a157f1-e768-7605-a354-1417e39b2f65",
+      "published_at": "2026-10-20T06:13:53.000Z",
+      "tags": [
+        "美股",
+        "美股动向"
+      ],
+      "score": 81,
+      "risk": "medium",
+      "lang": "en",
+      "_origin": "crypto",
+      "_crypto_kind": "美股动向",
+      "_market": "us",
+      "extra": {
+        "disclaimer": "非投资建议"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "美股观察",
+        "use": "美股动向：高盛：对冲基金以2016年以来最快速度减持科技股，半导体遭集中抛售——影响美股科技/芯片板块情绪，也常传导到币圈风险偏好（助手解读，非原文）",
+        "title": "",
+        "lines": {
+          "fact": "原文数据：半导体及半导体设备板块贡献美国科技股净卖出金额的57%。",
+          "impact": "影响美股科技/芯片板块情绪，也常传导到币圈风险偏好",
+          "note": "非投资建议；只作趋势感知，不荐个股"
+        },
+        "evidence": [
+          "半导体及半导体设备板块贡献美国科技股净卖出金额的57%。"
+        ],
+        "point": "美股：美股动向：高盛：对冲基金以2016年以来最快速度减持科技股，半导体遭集中抛售——影响美股科技/芯片板块情绪，也常传导到币圈风险偏好（助手解读，非原文）"
+      },
+      "why": "美股动向：高盛：对冲基金以2016年以来最快速度减持科技股，半导体遭集中抛售——影响美股科技/芯片板块情绪，也常传导到币圈风险偏好（助手解读，非原文）"
     },
     {
       "id": "crypto-trending-2026-10-20",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "CoinGecko 热搜 · STARTUPSI +0.00% / QTC -9.23% / PRL +5.28% / BP +3.95%",
-      "title_orig": "CoinGecko 热搜 · STARTUPSI +0.00% / QTC -9.23% / PRL +5.28% / BP +3.95%",
+      "title": "CoinGecko 热搜 · CARDS +18.22% / PHA +26.22% / BTC -1.33% / QTC -12.03%",
+      "title_orig": "CoinGecko 热搜 · CARDS +18.22% / PHA +26.22% / BTC -1.33% / QTC -12.03%",
       "source": "CoinGecko 公开 API（/search/trending）",
       "source_url": "https://www.coingecko.com/en/highlights/trending-crypto",
       "url": "https://www.coingecko.com/en/highlights/trending-crypto",
-      "published_at": "2026-10-20T00:20:11.300Z",
+      "published_at": "2026-10-20T07:17:42.170Z",
       "tags": [
         "加密",
         "高风险",
@@ -238,38 +763,125 @@
       "lang": "zh",
       "_origin": "crypto",
       "_crypto_kind": "热度",
+      "_market": "crypto",
       "extra": {
         "disclaimer": "非投资建议；加密高风险"
       },
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PRL、BP",
-        "title": "CoinGecko 热搜 · STARTUPSI +0.00% / QTC -9.23% / PRL +5.28% / BP +3.95%",
+        "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 CARDS、BTC",
+        "title": "CoinGecko 热搜 · CARDS +18.22% / PHA +26.22% / BTC -1.33% / QTC -12.03%",
         "lines": {
-          "value": "startupSI（市值排名 #764）、Quantus（市值排名 #690）、Pearl（市值排名 #91）、Backpack（市值排名 #150）、Pudgy Penguins（市值排名 #118）、Bitcoin（市值排名 #1）、Aerodrome Finance（市值排名 #87）、Cardano（市值排名 #18）、Bittensor（市值排名 #35）、Sei（市值排名 #125）、Quack AI（市值排名 #101）、NEAR Protocol（市值排名 #19）、XRP（市值排名 #5）、Ethereum（市值排名 #2）",
+          "value": "Collector Crypt（市值排名 #141）、PHALA（市值排名 #412）、Bitcoin（市值排名 #1）、Quantus（市值排名 #704）、NEAR Protocol（市值排名 #19）、Pudgy Penguins（市值排名 #118）、Pump.fun（市值排名 #50）、GRVT Token（市值排名 #664）、Pearl（市值排名 #93）、Zcash（市值排名 #10）、Bittensor（市值排名 #35）、Arbitrum（市值排名 #66）、Starknet（市值排名 #124）、AltLayer（市值排名 #330）",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "startupsi market_cap_rank: 764, price_change_percentage_24h.usd: 0.00",
-          "quantus market_cap_rank: 690, price_change_percentage_24h.usd: -9.23",
-          "pearl-2 market_cap_rank: 91, price_change_percentage_24h.usd: 5.28",
-          "backpack market_cap_rank: 150, price_change_percentage_24h.usd: 3.95"
+          "collector-crypt market_cap_rank: 141, price_change_percentage_24h.usd: 18.22",
+          "pha market_cap_rank: 412, price_change_percentage_24h.usd: 26.22",
+          "bitcoin market_cap_rank: 1, price_change_percentage_24h.usd: -1.33",
+          "quantus market_cap_rank: 704, price_change_percentage_24h.usd: -12.03"
         ],
-        "point": "币圈：散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PRL、BP"
-      }
+        "point": "币圈：散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 CARDS、BTC"
+      },
+      "why": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 CARDS、BTC"
     },
     {
-      "id": "crypto-stables-2026-10-19",
+      "id": "crypto-zh-1NjQ4ZDFhMGU3NTg",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "稳定币总量 $304.61B · 7日 -0.55% · 30日 +0.35%",
-      "title_orig": "稳定币总量 $304.61B · 7日 -0.55% · 30日 +0.35%",
+      "title": "IOSG：Papertrade 日收入仅次于 Tether，一家把九成抽水退给输家的赌场",
+      "title_orig": "IOSG：Papertrade 日收入仅次于 Tether，一家把九成抽水退给输家的赌场",
+      "source": "PANews",
+      "source_url": "https://www.panewslab.com/zh/articles/01a15484-a8ba-7218-b236-5648d1a0e758",
+      "url": "https://www.panewslab.com/zh/articles/01a15484-a8ba-7218-b236-5648d1a0e758",
+      "published_at": "2026-10-20T03:14:00.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "热点叙事"
+      ],
+      "score": 80,
+      "risk": "high",
+      "lang": "en",
+      "_origin": "crypto",
+      "_crypto_kind": "热点叙事",
+      "_market": "crypto",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "热点叙事：IOSG：Papertrade 日收入仅次于 Tether，一家把九成抽水退给…——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）",
+        "title": "",
+        "lines": {
+          "fact": "原文数据：Papertrade日收入仅次于Tether，把九成抽水退给输家的合成永续协议，上线九天成交1.36万亿美元，交易者净亏6320万，PAPER代币价格翻倍。",
+          "impact": "资金和话题正在往这里走，热点轮动快，看热度不等于值得买",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "Papertrade日收入仅次于Tether，把九成抽水退给输家的合成永续协议，上线九天成交1.36万亿美元，交易者净亏6320万，PAPER代币价格翻倍。"
+        ],
+        "point": "币圈：热点叙事：IOSG：Papertrade 日收入仅次于 Tether，一家把九成抽水退给…——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）"
+      },
+      "why": "热点叙事：IOSG：Papertrade 日收入仅次于 Tether，一家把九成抽水退给…——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）"
+    },
+    {
+      "id": "crypto-zh-mOWIwZTEzZmQ1ZTk",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "Bitdeer 9月挖出1355枚BTC，AI云业务预期合同收入增至约29亿美元",
+      "title_orig": "Bitdeer 9月挖出1355枚BTC，AI云业务预期合同收入增至约29亿美元",
+      "source": "PANews",
+      "source_url": "https://www.panewslab.com/zh/articles/01a156c7-2e42-71aa-86bc-f9b0e13fd5e9",
+      "url": "https://www.panewslab.com/zh/articles/01a156c7-2e42-71aa-86bc-f9b0e13fd5e9",
+      "published_at": "2026-10-20T00:47:36.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "热点叙事"
+      ],
+      "score": 79,
+      "risk": "high",
+      "lang": "en",
+      "_origin": "crypto",
+      "_crypto_kind": "热点叙事",
+      "_market": "crypto",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "热点叙事：Bitdeer 9月挖出1355枚BTC，AI云业务预期合同收入增至约29亿美元——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）",
+        "title": "",
+        "lines": {
+          "fact": "原文数据：据Bitdeer向美国SEC提交的9月运营更新，该公司当月挖出1355枚比特币，同比增长200%，自营挖矿算力达82.3 EH/s。",
+          "impact": "资金和话题正在往这里走，热点轮动快，看热度不等于值得买",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "Bitdeer 9月挖出1355枚BTC，AI云业务预期合同收入增至约29亿美元",
+          "据Bitdeer向美国SEC提交的9月运营更新，该公司当月挖出1355枚比特币，同比增长200%，自营挖矿算力达82.3 EH/s。"
+        ],
+        "point": "币圈：热点叙事：Bitdeer 9月挖出1355枚BTC，AI云业务预期合同收入增至约29亿美元——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）"
+      },
+      "why": "热点叙事：Bitdeer 9月挖出1355枚BTC，AI云业务预期合同收入增至约29亿美元——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）"
+    },
+    {
+      "id": "crypto-stables-2026-10-20",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "稳定币总量 $303.74B · 7日 -0.77% · 30日 +0.07%",
+      "title_orig": "稳定币总量 $303.74B · 7日 -0.77% · 30日 +0.07%",
       "source": "DefiLlama 公开 API（stablecoincharts/all）",
       "source_url": "https://defillama.com/stablecoins",
       "url": "https://defillama.com/stablecoins",
-      "published_at": "2026-10-19T00:00:00.000Z",
+      "published_at": "2026-10-20T00:00:00.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -280,6 +892,7 @@
       "lang": "zh",
       "_origin": "crypto",
       "_crypto_kind": "链上",
+      "_market": "crypto",
       "extra": {
         "disclaimer": "非投资建议；加密高风险"
       },
@@ -287,17 +900,102 @@
         "verdict": "worth",
         "verdict_label": "币圈观察",
         "use": "稳定币在收缩：场内资金流出，反弹持续性要打折扣",
-        "title": "稳定币总量 $304.61B · 7日 -0.55% · 30日 +0.35%",
+        "title": "稳定币总量 $303.74B · 7日 -0.77% · 30日 +0.07%",
         "lines": {
-          "value": "7日变化 $-1.69B（数据日 2026-10-19）",
+          "value": "7日变化 $-2.36B（数据日 2026-10-20）",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "date: 1792368000 (2026-10-19), totalCirculatingUSD.peggedUSD: 304605307038",
-          "7 days earlier totalCirculatingUSD.peggedUSD: 306291928561"
+          "date: 1792454400 (2026-10-20), totalCirculatingUSD.peggedUSD: 303741950359",
+          "7 days earlier totalCirculatingUSD.peggedUSD: 306105855529"
         ],
         "point": "币圈：稳定币在收缩：场内资金流出，反弹持续性要打折扣"
-      }
+      },
+      "why": "稳定币在收缩：场内资金流出，反弹持续性要打折扣"
+    },
+    {
+      "id": "crypto-zh-0MjU2ZjhhZTFkNDY",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "Hyperliquid政策中心支持SEC加密资产规则提案，提出五项修改建议",
+      "title_orig": "Hyperliquid政策中心支持SEC加密资产规则提案，提出五项修改建议",
+      "source": "PANews",
+      "source_url": "https://www.panewslab.com/zh/articles/01a1575f-8a65-737f-a14b-4256f8ae1d46",
+      "url": "https://www.panewslab.com/zh/articles/01a1575f-8a65-737f-a14b-4256f8ae1d46",
+      "published_at": "2026-10-20T03:34:01.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "监管"
+      ],
+      "score": 78,
+      "risk": "high",
+      "lang": "en",
+      "_origin": "crypto",
+      "_crypto_kind": "监管",
+      "_market": "crypto",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "监管：Hyperliquid政策中心支持SEC加密资产规则提案，提出五项修改建议——影响机构入场预期和相关代币情绪，落地前多是预期博弈（助手解读，非原文）",
+        "title": "",
+        "lines": {
+          "fact": "原文数据：该提案拟允许初创项目四年内发行不超过500万美元的代币，并另设每12个月最高7500万美元的融资豁免。",
+          "impact": "影响机构入场预期和相关代币情绪，落地前多是预期博弈",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "该提案拟允许初创项目四年内发行不超过500万美元的代币，并另设每12个月最高7500万美元的融资豁免。"
+        ],
+        "point": "币圈：监管：Hyperliquid政策中心支持SEC加密资产规则提案，提出五项修改建议——影响机构入场预期和相关代币情绪，落地前多是预期博弈（助手解读，非原文）"
+      },
+      "why": "监管：Hyperliquid政策中心支持SEC加密资产规则提案，提出五项修改建议——影响机构入场预期和相关代币情绪，落地前多是预期博弈（助手解读，非原文）"
+    },
+    {
+      "id": "crypto-revenue-2026-10-20",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "协议收入异动 · Papertrade $2.5M/日（较7日前 -36.33%） / Collector Crypt $1.3M/日（较7日前 +371.87%）",
+      "title_orig": "协议收入异动 · Papertrade $2.5M/日（较7日前 -36.33%） / Collector Crypt $1.3M/日（较7日前 +371.87%）",
+      "source": "DefiLlama 公开 API（overview/fees, dailyRevenue）",
+      "source_url": "https://defillama.com/revenue",
+      "url": "https://defillama.com/revenue",
+      "published_at": "2026-10-20T07:17:42.170Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "链上"
+      ],
+      "score": 76,
+      "risk": "high",
+      "lang": "zh",
+      "_origin": "crypto",
+      "_crypto_kind": "链上",
+      "_market": "crypto",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "真实使用量变化：收入暴增的协议/链通常是当下资金和话题在的地方，收入下滑说明热度退潮",
+        "title": "协议收入异动 · Papertrade $2.5M/日（较7日前 -36.33%） / Collector Crypt $1.3M/日（较7日前 +371.87%）",
+        "lines": {
+          "value": "Papertrade（Derivatives）、Collector Crypt（Physical TCG）",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "Papertrade total24h: 2502076, change_7d: -36.33",
+          "Collector Crypt total24h: 1306492, change_7d: 371.87"
+        ],
+        "point": "币圈：真实使用量变化：收入暴增的协议/链通常是当下资金和话题在的地方，收入下滑说明热度退潮"
+      },
+      "why": "真实使用量变化：收入暴增的协议/链通常是当下资金和话题在的地方，收入下滑说明热度退潮"
     },
     {
       "id": "crypto-news-0Y29pbi00MTg4OTU",
@@ -320,13 +1018,14 @@
       "lang": "en",
       "_origin": "crypto",
       "_crypto_kind": "新闻",
+      "_market": "crypto",
       "extra": {
         "disclaimer": "非投资建议；加密高风险"
       },
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考",
+        "use": "真实买入/持仓（267 bitcoin / $22 million）：公司或大户实际落地买卖，短线情绪与跟风参考",
         "title": "",
         "lines": {
           "value": "‘We found room for more orange’: Michael Saylor’s Strategy buys another 267 bitcoin for $22 million",
@@ -336,8 +1035,9 @@
           "‘We found room for more orange’: Michael Saylor’s Strategy buys another 267 bitcoin for $22 million",
           "Strategy's BTC holdings account for around 4% of the total bitcoin supply, with $5.9 billion in paper gains."
         ],
-        "point": "币圈：真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考"
-      }
+        "point": "币圈：真实买入/持仓（267 bitcoin / $22 million）：公司或大户实际落地买卖，短线情绪与跟风参考"
+      },
+      "why": "真实买入/持仓（267 bitcoin / $22 million）：公司或大户实际落地买卖，短线情绪与跟风参考"
     },
     {
       "id": "crypto-news-9rZW5zLTQyMTAxOA",
@@ -360,13 +1060,14 @@
       "lang": "en",
       "_origin": "crypto",
       "_crypto_kind": "新闻",
+      "_market": "crypto",
       "extra": {
         "disclaimer": "非投资建议；加密高风险"
       },
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考",
+        "use": "真实买入/持仓（Bitmine · 12,535 ETH / 6.04 million）：公司或大户实际落地买卖，短线情绪与跟风参考",
         "title": "",
         "lines": {
           "value": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
@@ -376,8 +1077,9 @@
           "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
           "Bitmine bought 12,535 ETH last week, lifting its treasury to 6.04 million tokens and total investment holdings to $15.1 billion."
         ],
-        "point": "币圈：真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考"
-      }
+        "point": "币圈：真实买入/持仓（Bitmine · 12,535 ETH / 6.04 million）：公司或大户实际落地买卖，短线情绪与跟风参考"
+      },
+      "why": "真实买入/持仓（Bitmine · 12,535 ETH / 6.04 million）：公司或大户实际落地买卖，短线情绪与跟风参考"
     },
     {
       "id": "crypto-news-RuZXJfaW5ib3VuZA",
@@ -400,13 +1102,14 @@
       "lang": "en",
       "_origin": "crypto",
       "_crypto_kind": "新闻",
+      "_market": "crypto",
       "extra": {
         "disclaimer": "非投资建议；加密高风险"
       },
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考",
+        "use": "真实买入/持仓（Strive · $335M / 36,818 BTC）：公司或大户实际落地买卖，短线情绪与跟风参考",
         "title": "",
         "lines": {
           "value": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
@@ -416,8 +1119,9 @@
           "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
           "The Bitcoin treasury company added another 1,223 BTC after an earlier purchase pushed it past MARA Holdings, while continuing to expand its reserves through equity financing."
         ],
-        "point": "币圈：真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考"
-      }
+        "point": "币圈：真实买入/持仓（Strive · $335M / 36,818 BTC）：公司或大户实际落地买卖，短线情绪与跟风参考"
+      },
+      "why": "真实买入/持仓（Strive · $335M / 36,818 BTC）：公司或大户实际落地买卖，短线情绪与跟风参考"
     },
     {
       "id": "crypto-news-dG5lcl9pbmJvdW5k",
@@ -440,13 +1144,14 @@
       "lang": "en",
       "_origin": "crypto",
       "_crypto_kind": "新闻",
+      "_market": "crypto",
       "extra": {
         "disclaimer": "非投资建议；加密高风险"
       },
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考",
+        "use": "真实买入/持仓（Metaplanet · 93.7% / 2,100 BTC）：公司或大户实际落地买卖，短线情绪与跟风参考",
         "title": "",
         "lines": {
           "value": "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal",
@@ -455,20 +1160,21 @@
         "evidence": [
           "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal"
         ],
-        "point": "币圈：真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考"
-      }
+        "point": "币圈：真实买入/持仓（Metaplanet · 93.7% / 2,100 BTC）：公司或大户实际落地买卖，短线情绪与跟风参考"
+      },
+      "why": "真实买入/持仓（Metaplanet · 93.7% / 2,100 BTC）：公司或大户实际落地买卖，短线情绪与跟风参考"
     },
     {
-      "id": "crypto-news-VkLWF0LXVzZDEzMQ",
+      "id": "crypto-news-cy0zMy1taWxsaW9u",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-      "title_orig": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
-      "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
-      "published_at": "2026-10-19T06:23:16.000Z",
+      "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
+      "title_orig": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million",
+      "url": "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million",
+      "published_at": "2026-10-19T16:46:05.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -479,1355 +1185,68 @@
       "lang": "en",
       "_origin": "crypto",
       "_crypto_kind": "新闻",
+      "_market": "crypto",
       "extra": {
         "disclaimer": "非投资建议；加密高风险"
       },
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "大户/融资动向：资金方向变化，作背景了解",
+        "use": "大户/巨鲸转账（Abandoned Bitcoin · $33 Million）：沉睡或大额地址动钱，可能是抛压前兆也可能只是换钱包，作情绪参考",
         "title": "",
         "lines": {
-          "value": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+          "value": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-          "A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million."
+          "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
+          "A Bitcoin address dormant since 2013 moved 411.45 BTC worth about $33.4 million, according to Galaxy Research, and it’s among the wallets named in the “Noah Doe” lawsuit."
         ],
-        "point": "币圈：大户/融资动向：资金方向变化，作背景了解"
-      }
-    },
-    {
-      "id": "invest-post-kiplinger-00f18af8ea6e",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "5 Ways AI Can Help Manage Your Personal Finances",
-      "summary": "AI can take some of the strain out of handling everyday finances, from disciplined saving to avoiding scams, paying off debt and reaching your money goals.",
-      "source": "@kiplinger / Kiplinger",
-      "source_url": "https://www.kiplinger.com/personal-finance/personal-finances-ai-can-manage",
-      "published_at": "2026-10-19T12:00:00.000Z",
-      "tags": [
-        "观察",
-        "应急金",
-        "稳健"
-      ],
-      "score": 91,
-      "why": "工薪教育：应急金；策展：老牌个人理财媒体，应急金/预算/低成本基金类文章；不喊单。",
-      "deep_link": "https://www.kiplinger.com/personal-finance/personal-finances-ai-can-manage",
-      "extra": {
-        "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-        "bucket": "稳健"
+        "point": "币圈：大户/巨鲸转账（Abandoned Bitcoin · $33 Million）：沉睡或大额地址动钱，可能是抛压前兆也可能只是换钱包，作情绪参考"
       },
-      "blurb": "AI can take some of the strain out of handling everyday finances, from disciplined saving to avoiding scams, paying off debt and reaching your money goals.",
-      "url": "https://www.kiplinger.com/personal-finance/personal-finances-ai-can-manage",
-      "handle": "kiplinger",
-      "name": "Kiplinger",
-      "risk": "stable",
-      "lang": "EN",
-      "posted_at": "2026-10-19",
-      "tier": "B",
-      "evidence_missing": false,
-      "_origin": "kol_rss",
-      "_source_id": "kol:kiplinger",
-      "title_orig": "5 Ways AI Can Help Manage Your Personal Finances",
-      "source_excerpt": "AI can take some of the strain out of handling everyday finances, from disciplined saving to avoiding scams, paying off debt and reaching your money goals.",
-      "person_id": "kiplinger",
-      "person_handle": "kiplinger",
-      "person_name": "Kiplinger",
-      "_feed_type": "blog_rss",
-      "_feed_url": "https://www.kiplinger.com/feed/all",
-      "_score_raw": 71,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "_practical": true,
-      "_practical_delta": 20,
-      "summary_zh": "AI can take some of the strain out of handling everyday finances, from disciplined saving to avoiding scams, paying off debt and reaching your money goals.",
-      "highlights": [
-        "来源：Kiplinger"
-      ],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "worth",
-        "use": "自己或伴侣带着负债、要做财务决定时看：带着债务怎么面对和安排",
-        "lines": {
-          "scenario": "自己或伴侣带着负债、要做财务决定时",
-          "problem": "带着债务怎么面对和安排"
-        },
-        "evidence": [
-          "paying off debt"
-        ],
-        "point": "理财：自己或伴侣带着负债、要做财务决定，看带着债务怎么面对和安排",
-        "verdict_label": "值得看",
-        "title": ""
-      }
+      "why": "大户/巨鲸转账（Abandoned Bitcoin · $33 Million）：沉睡或大额地址动钱，可能是抛压前兆也可能只是换钱包，作情绪参考"
     },
     {
-      "id": "invest-post-ramit-5dec535e812b",
+      "id": "crypto-news-sdGNvaW4tZ2FpbnM",
       "partition": "invest",
-      "type": "post",
+      "type": "card",
       "category": "投资观察",
-      "title": "282. “We spend 154% of what we make. Will we ever stop drowning?”",
-      "summary": "Ramit digs into how years of overspending, money avoidance, and relying on future income have left a couple with more than $428,000 in debt, no savings…",
-      "source": "@ramit / Ramit Sethi",
-      "source_url": "https://www.iwillteachyoutoberich.com/282-we-spend-154-of-what-we-make-will-we-ever-stop-drowning/",
-      "published_at": "2026-10-13T10:11:51.000Z",
+      "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+      "title_orig": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
+      "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
+      "published_at": "2026-10-19T10:26:33.000Z",
       "tags": [
-        "观察",
-        "应急金",
-        "定投",
-        "稳健",
-        "实操"
-      ],
-      "score": 91,
-      "why": "工薪教育：应急金、定投；策展：具体可执行的工薪理财步骤（自动化、指数基金、应急金），不荐个股、不喊单。",
-      "deep_link": "https://www.iwillteachyoutoberich.com/282-we-spend-154-of-what-we-make-will-we-ever-stop-drowning/",
-      "extra": {
-        "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-        "bucket": "稳健"
-      },
-      "blurb": "Ramit digs into how years of overspending, money avoidance, and relying on future income have left a couple with more than $428,000 in debt, no savings…",
-      "url": "https://www.iwillteachyoutoberich.com/282-we-spend-154-of-what-we-make-will-we-ever-stop-drowning/",
-      "handle": "ramit",
-      "name": "Ramit Sethi",
-      "risk": "stable",
-      "lang": "EN",
-      "posted_at": "2026-10-13",
-      "tier": "A",
-      "evidence_missing": false,
-      "_origin": "kol_rss",
-      "_source_id": "kol:ramit",
-      "title_orig": "282. “We spend 154% of what we make. Will we ever stop drowning?”",
-      "source_excerpt": "Ramit digs into how years of overspending, money avoidance, and relying on future income have left a couple with more than $428,000 in debt, no savings, and a […] The post 282. “We spend 154% of what we make. Will we ever stop drowning?” first appeared on I Will Teach You To Be R",
-      "person_id": "ramit",
-      "person_handle": "ramit",
-      "person_name": "Ramit Sethi",
-      "_feed_type": "blog_rss",
-      "_feed_url": "https://www.iwillteachyoutoberich.com/feed",
-      "_score_raw": 71,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "_practical": true,
-      "_practical_delta": 20,
-      "summary_zh": "Ramit digs into how years of overspending, money avoidance, and relying on future income have left a couple with more than $428,000 in debt, no savings…",
-      "highlights": [
-        "来源：Ramit Sethi"
-      ],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "worth",
-        "use": "月光、存不下钱时看：花得比赚得多怎么止住",
-        "lines": {
-          "scenario": "月光、存不下钱时",
-          "problem": "花得比赚得多怎么止住",
-          "step": "先止住超支，再谈存钱投资",
-          "value": "原文算例：154% of what we make"
-        },
-        "evidence": [
-          "spend 154% of what we make",
-          "154% of what we make"
-        ],
-        "point": "理财：月光、存不下钱，看花得比赚得多怎么止住",
-        "verdict_label": "值得看",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-post-ramit-c69835cd3171",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "279. “He lost his $150k job, but I make every decision. Can we fix this?”",
-      "summary": "Ramit unpacks how to manage money as a couple after a job loss and what happens when one partner carries most of the financial responsibility…",
-      "source": "@ramit / Ramit Sethi",
-      "source_url": "https://www.iwillteachyoutoberich.com/2-2/",
-      "published_at": "2026-09-22T15:26:42.000Z",
-      "tags": [
-        "观察",
-        "arr",
-        "应急金",
-        "定投",
-        "稳健",
-        "实操"
-      ],
-      "score": 90,
-      "why": "独立/Agent：arr；工薪教育：应急金、定投；策展：具体可执行的工薪理财步骤（自动化、指数基金、应急金），不荐个股、不喊单。",
-      "deep_link": "https://www.iwillteachyoutoberich.com/2-2/",
-      "extra": {
-        "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-        "bucket": "稳健"
-      },
-      "blurb": "Ramit unpacks how to manage money as a couple after a job loss and what happens when one partner carries most of the financial responsibility…",
-      "url": "https://www.iwillteachyoutoberich.com/2-2/",
-      "handle": "ramit",
-      "name": "Ramit Sethi",
-      "risk": "stable",
-      "lang": "EN",
-      "posted_at": "2026-09-22",
-      "tier": "A",
-      "evidence_missing": false,
-      "_origin": "kol_rss",
-      "_source_id": "kol:ramit",
-      "title_orig": "279. “He lost his $150k job, but I make every decision. Can we fix this?”",
-      "source_excerpt": "Ramit unpacks how to manage money as a couple after a job loss and what happens when one partner carries most of the financial responsibility while the […] The post 279. “He lost his $150k job, but I make every decision. Can we fix this?” first appeared on I Will Teach You To Be",
-      "person_id": "ramit",
-      "person_handle": "ramit",
-      "person_name": "Ramit Sethi",
-      "_feed_type": "blog_rss",
-      "_feed_url": "https://www.iwillteachyoutoberich.com/feed",
-      "_score_raw": 78,
-      "_decay_penalty": 8,
-      "_decay_exempt": null,
-      "_practical": true,
-      "_practical_delta": 20,
-      "summary_zh": "Ramit unpacks how to manage money as a couple after a job loss and what happens when one partner carries most of the financial responsibility…",
-      "highlights": [
-        "来源：Ramit Sethi"
-      ],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "worth",
-        "use": "求职空窗、收入中断时看：失业后怎么管钱（夫妻案例）",
-        "lines": {
-          "scenario": "求职空窗、收入中断时",
-          "problem": "失业后怎么管钱",
-          "not_for": "单身、没有共同财务的人参考价值低"
-        },
-        "evidence": [
-          "lost his $150k job",
-          "as a couple"
-        ],
-        "point": "理财：求职空窗、收入中断，看失业后怎么管钱",
-        "concrete": [
-          {
-            "kind": "money",
-            "quote": "$150k"
-          }
-        ],
-        "verdict_label": "值得看",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-post-dollarsanddata-61ec1eae87c6",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "Is Startup Equity a Bad Deal?",
-      "summary": "Imagine joining a startup as employee number 10.",
-      "source": "@dollarsanddata / Nick Maggiulli",
-      "source_url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
-      "published_at": "2026-09-22T11:45:57.000Z",
-      "tags": [
-        "观察",
-        "资产配置",
-        "稳健",
-        "数据"
-      ],
-      "score": 87,
-      "why": "工薪教育：资产配置；宏观观察：data；策展：数据图表服务长期配置认知，非带单；常见于与 Housel/Bilello 并列的 fin-edu 名单。",
-      "deep_link": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
-      "extra": {
-        "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-        "bucket": "稳健"
-      },
-      "blurb": "Imagine joining a startup as employee number 10.",
-      "url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
-      "handle": "dollarsanddata",
-      "name": "Nick Maggiulli",
-      "risk": "stable",
-      "lang": "EN",
-      "posted_at": "2026-09-22",
-      "tier": "A",
-      "evidence_missing": false,
-      "_origin": "kol_rss",
-      "_source_id": "kol:dollarsanddata",
-      "title_orig": "Is Startup Equity a Bad Deal?",
-      "source_excerpt": "Imagine joining a startup as employee number 10. Your salary is a bit below what the market pays for your role, but, in exchange, you get equity. How much? 0.25% of the company to be exact. You do the math in your head—if the company sells for $100M in a few years, you'll make $2",
-      "person_id": "dollarsanddata",
-      "person_handle": "dollarsanddata",
-      "person_name": "Nick Maggiulli",
-      "_feed_type": "blog_rss",
-      "_feed_url": "https://ofdollarsanddata.com/feed/",
-      "_score_raw": 75,
-      "_decay_penalty": 8,
-      "_decay_exempt": null,
-      "_practical": true,
-      "_practical_delta": 20,
-      "summary_zh": "Imagine joining a startup as employee number 10.",
-      "highlights": [
-        "Your salary is a bit below what the market pays for your…",
-        "0.25% of the company to be exact.",
-        "You do the math in your head—if the company sells for $100M…"
-      ],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "worth",
-        "use": "去初创公司谈 offer 时看：用股权换低一点的薪水值不值",
-        "lines": {
-          "scenario": "去初创公司谈 offer 时",
-          "problem": "用股权换低一点的薪水值不值",
-          "step": "谈 offer 时算清股权实际能值多少",
-          "value": "原文算例：0.25% of the company"
-        },
-        "evidence": [
-          "Startup Equity",
-          "0.25% of the company"
-        ],
-        "point": "理财：去初创公司谈 offer，看用股权换低一点的薪水值不值",
-        "concrete": [
-          {
-            "kind": "money",
-            "quote": "$100M"
-          },
-          {
-            "kind": "percent",
-            "quote": "0.25%"
-          }
-        ],
-        "verdict_label": "值得看",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-community-invest-reddit-debtfree-26187d112b86",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "Hopefully I can be debt free before 2030",
-      "summary": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month…",
-      "source": "r/DebtFree",
-      "source_url": "https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/",
-      "published_at": "2026-10-13T23:20:36.000Z",
-      "tags": [
-        "reddit",
-        "r/DebtFree",
-        "负债偿还",
-        "金额",
-        "比例"
-      ],
-      "score": 82,
-      "why": "公开社区帖 · r/DebtFree · top/month 第42位 · 原帖含：负债偿还、金额、比例（数字均为发帖人自述，未经核实）",
-      "deep_link": "https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/",
-      "extra": {},
-      "blurb": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month…",
-      "url": "https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/",
-      "name": "Hopefully I can be debt free before 2030",
-      "lang": "EN",
-      "posted_at": "2026-10-13",
-      "evidence_missing": false,
-      "_origin": "community_rss",
-      "_source_id": "invest-reddit-debtfree",
-      "title_orig": "Hopefully I can be debt free before 2030",
-      "source_excerpt": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month - Care Credit Dental Im 33M in MA I make $92,145 per year after taxes(Including All sources of income into my bank account even non income that regulary comes in)",
-      "_feed_type": "reddit_rss",
-      "_feed_url": "https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100",
-      "_score_raw": 62,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "_practical": true,
-      "_practical_delta": 20,
-      "summary_zh": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month…",
-      "highlights": [],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "worth",
-        "use": "有负债、想还债时看：发帖人自述 $1227，9.30%（未经核实）",
-        "lines": {
-          "value": "数字（发帖人自述）「$1227」「9.30%」；涉及：还债；做法原话：「My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month - Care Credit Dental Im 33M in MA I make $92,145 per year after」",
-          "note": "数字均为发帖人自述，未经核实；账户/税制按各国不同，只参考做法思路"
-        },
-        "evidence": [
-          "$1227",
-          "9.30%",
-          "debt free",
-          "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month - Care Credit Dental Im 33M in MA I make $92,145 per year after"
-        ],
-        "point": "理财：还债，发帖人自述 $1227",
-        "verdict_label": "值得看",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-zh-8903cd079285",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
-      "summary": "图是 20 年来 家乐福 的物价变化, 按照年化计算大概是 4%.",
-      "source": "V2EX 投资",
-      "source_url": "https://www.v2ex.com/t/1249855#reply41",
-      "published_at": "2026-10-19T00:07:02Z",
-      "tags": [
-        "中文",
-        "V2EX 投资"
-      ],
-      "score": 76,
-      "why": "中文源 · V2EX 投资 · 实操参考：20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
-      "deep_link": "https://www.v2ex.com/t/1249855#reply41",
-      "extra": {},
-      "blurb": "图是 20 年来 家乐福 的物价变化, 按照年化计算大概是 4%.",
-      "url": "https://www.v2ex.com/t/1249855#reply41",
-      "name": "20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
-      "risk": "stable",
-      "lang": "zh",
-      "posted_at": "2026-10-19",
-      "evidence_missing": false,
-      "_origin": "zh_media",
-      "_source_id": "zh-v2ex-invest",
-      "zh_reader": {
-        "verdict": "worth",
-        "use": "实操参考：20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
-        "lines": {
-          "fact": "原文数据：20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
-          "4.06%"
-        ],
-        "point": "20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?"
-      },
-      "title_orig": "20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
-      "source_excerpt": "20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗? 图是 20 年来 家乐福 的物价变化, 按照年化计算大概是 4%. 也就是年化要超过 4%, 才跑得赢物价涨幅. 大家的理财跑赢了吗?",
-      "_score_raw": 76,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "summary_zh": "图是 20 年来 家乐福 的物价变化, 按照年化计算大概是 4%.",
-      "highlights": [
-        "也就是年化要超过 4%, 才跑得赢物价涨幅."
-      ],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "worth",
-        "use": "实操参考：20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
-        "lines": {
-          "fact": "原文数据：20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
-          "4.06%"
-        ],
-        "point": "20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
-        "verdict_label": "值得看",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-community-invest-reddit-ynab-d8e120b5c12a",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "Small win that’s actually a big win",
-      "summary": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money…",
-      "source": "r/YNAB",
-      "source_url": "https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/",
-      "published_at": "2026-09-26T03:02:16.000Z",
-      "tags": [
-        "reddit",
-        "r/YNAB",
-        "金额",
-        "周期",
-        "预算/储蓄率"
+        "加密",
+        "高风险",
+        "新闻"
       ],
       "score": 69,
-      "why": "公开社区帖 · r/YNAB · top/month 第10位 · 原帖含：金额、周期、预算/储蓄率（数字均为发帖人自述，未经核实）",
-      "deep_link": "https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/",
-      "extra": {},
-      "blurb": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money…",
-      "url": "https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/",
-      "name": "Small win that’s actually a big win",
-      "lang": "EN",
-      "posted_at": "2026-09-26",
-      "evidence_missing": false,
-      "_origin": "community_rss",
-      "_source_id": "invest-reddit-ynab",
-      "title_orig": "Small win that’s actually a big win",
-      "source_excerpt": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money ps: Debt when I started was -$36k and today it’s at -$23k 💪 This week I visited family in a different state and didn’t once stress about my budget because I planned ahead.",
-      "_feed_type": "reddit_rss",
-      "_feed_url": "https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100",
-      "_score_raw": 57,
-      "_decay_penalty": 8,
-      "_decay_exempt": null,
-      "_practical": true,
-      "_practical_delta": 20,
-      "summary_zh": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money…",
-      "highlights": [
-        "Debt when I started was -$36k and today it’s at -$23k 💪…"
-      ],
-      "summary_source": "fallback",
+      "risk": "high",
+      "lang": "en",
+      "_origin": "crypto",
+      "_crypto_kind": "新闻",
+      "_market": "crypto",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
       "reader": {
         "verdict": "worth",
-        "use": "想做预算、提高储蓄率时看：发帖人自述 $36k，for about 5 months（未经核实）",
+        "verdict_label": "币圈观察",
+        "use": "价格走强（Bitcoin · $82,000）：看成交是否放大来判断能否延续，不追高",
+        "title": "",
         "lines": {
-          "value": "数字（发帖人自述）「$36k」「for about 5 months」；涉及：预算/储蓄率；做法原话：「the shame spiral around money ps: Debt when I started was -$36k and today it’s at -$23k 💪 This week I visited family in a different state and didn’t once stress about my budget because I planned ahead」",
-          "note": "数字均为发帖人自述，未经核实；账户/税制按各国不同，只参考做法思路"
+          "value": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "$36k",
-          "for about 5 months",
-          "budget",
-          "the shame spiral around money ps: Debt when I started was -$36k and today it’s at -$23k 💪 This week I visited family in a different state and didn’t once stress about my budget because I planned ahead"
+          "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+          "Bitcoin rose 0.8% to around $82,700 as China’s GDP beat estimates and Nasdaq futures rebounded, while the CoinDesk 80 gained 1.3% and DeFi led gains."
         ],
-        "point": "理财：预算/储蓄率，发帖人自述 $36k",
-        "verdict_label": "值得看",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-zh-6353b6865683",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "英国8月三个月ILO失业率 4.7%，预期 4.9%，前值 4.9%。",
-      "summary": "英国8月三个月ILO就业人数变动 10.2万人，预期 0.5万人，前值 6.6万人。",
-      "source": "华尔街见闻 7x24",
-      "source_url": "https://wallstreetcn.com/livenews/3181613",
-      "published_at": "2026-10-20T06:02:20.000Z",
-      "tags": [
-        "中文",
-        "华尔街见闻 7x24"
-      ],
-      "score": 66,
-      "why": "中文源 · 华尔街见闻 7x24 · 数据：英国8月三个月ILO失业率 4.7%，预期 4.9%，前值 4.9%。",
-      "deep_link": "https://wallstreetcn.com/livenews/3181613",
-      "extra": {},
-      "blurb": "英国8月三个月ILO就业人数变动 10.2万人，预期 0.5万人，前值 6.6万人。",
-      "url": "https://wallstreetcn.com/livenews/3181613",
-      "name": "英国8月三个月ILO失业率 4.7%，预期 4.9%，前值 4.9%。",
-      "risk": "macro",
-      "lang": "zh",
-      "posted_at": "2026-10-20",
-      "evidence_missing": false,
-      "_origin": "zh_media",
-      "_source_id": "zh-wscn-live",
-      "zh_reader": {
-        "verdict": "save",
-        "use": "数据：英国8月三个月ILO失业率 4.7%，预期 4.9%，前值 4.9%。",
-        "lines": {
-          "fact": "原文数据：英国8月三个月ILO失业率 4.7%，预期 4.9%，前值 4.9%。",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "英国8月三个月ILO失业率 4.7%，预期 4.9%，前值 4.9%。",
-          "4.7%"
-        ],
-        "point": "英国8月三个月ILO失业率 4.7%，预期 4.9%，前值 4.9%。"
+        "point": "币圈：价格走强（Bitcoin · $82,000）：看成交是否放大来判断能否延续，不追高"
       },
-      "title_orig": "英国8月三个月ILO失业率 4.7%，预期 4.9%，前值 4.9%。",
-      "source_excerpt": "英国8月三个月ILO失业率 4.7%，预期 4.9%，前值 4.9%。 英国8月三个月ILO失业率 4.7%，预期 4.9%，前值 4.9%。 英国8月三个月ILO就业人数变动 10.2万人，预期 0.5万人，前值 6.6万人。 英国8月三个月不包括红利的平均工资同比 3.7%，预期 3.6%，前值由 3.5%修正为 3.6%。 英国8月三个月包括红利的平均工资同比 3.7%，预期 3.8%，前值 3.9%。",
-      "_score_raw": 66,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "summary_zh": "英国8月三个月ILO就业人数变动 10.2万人，预期 0.5万人，前值 6.6万人。",
-      "highlights": [
-        "英国8月三个月不包括红利的平均工资同比 3.7%，预期 3.6%，前值由 3.5%修正为 3.6%。",
-        "英国8月三个月包括红利的平均工资同比 3.7%，预期 3.8%，前值 3.9%。"
-      ],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "save",
-        "use": "数据：英国8月三个月ILO失业率 4.7%，预期 4.9%，前值 4.9%。",
-        "lines": {
-          "fact": "原文数据：英国8月三个月ILO失业率 4.7%，预期 4.9%，前值 4.9%。",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "英国8月三个月ILO失业率 4.7%，预期 4.9%，前值 4.9%。",
-          "4.7%"
-        ],
-        "point": "英国8月三个月ILO失业率 4.7%，预期 4.9%，前值 4.9%。",
-        "verdict_label": "收藏",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-zh-c694f0c1d454",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "早间要闻汇总",
-      "summary": "北证50指数半日涨超4%，机器人概念股集体爆发。",
-      "source": "华尔街见闻 7x24",
-      "source_url": "https://wallstreetcn.com/livenews/3181585",
-      "published_at": "2026-10-20T04:30:52.000Z",
-      "tags": [
-        "中文",
-        "华尔街见闻 7x24"
-      ],
-      "score": 66,
-      "why": "中文源 · 华尔街见闻 7x24 · 数据：北证50指数半日涨超4%，机器人概念股集体爆发。",
-      "deep_link": "https://wallstreetcn.com/livenews/3181585",
-      "extra": {},
-      "blurb": "北证50指数半日涨超4%，机器人概念股集体爆发。",
-      "url": "https://wallstreetcn.com/livenews/3181585",
-      "name": "早间要闻汇总",
-      "risk": "macro",
-      "lang": "zh",
-      "posted_at": "2026-10-20",
-      "evidence_missing": false,
-      "_origin": "zh_media",
-      "_source_id": "zh-wscn-live",
-      "zh_reader": {
-        "verdict": "save",
-        "use": "数据：北证50指数半日涨超4%，机器人概念股集体爆发。",
-        "lines": {
-          "fact": "原文数据：北证50指数半日涨超4%，机器人概念股集体爆发。",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "北证50指数半日涨超4%，机器人概念股集体爆发。",
-          "4%"
-        ],
-        "point": "早间要闻汇总"
-      },
-      "title_orig": "早间要闻汇总",
-      "source_excerpt": "北证50指数半日涨超4%，机器人概念股集体爆发。 北证50指数半日涨超4%，机器人概念股集体爆发。 恒指半日跌0.95%，恒生科技指数跌1.21%，联想集团跌超7%。 连续第17个月维持不变！10月LPR报价出炉：5年期以上3.5%，1年期3%。 中国央行将在10月21日至11月2日开展隔夜逆回购操作，每日操作量不超过10000亿元。 中国央行：境外央行类机构回购工具的操作对象纳入外资人民币业务清算行。 国家发改委：正在研究制定扩大内需战略实施方案。 证监会法制司司长程合红：研究推进将《证券法》修改纳入下一届全国人大的立法规划。 日本20年期国债拍卖认购倍数创历史新高。 报道：OpenAI计划在Anthropic上市前加快融资步伐。",
-      "_score_raw": 66,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "summary_zh": "北证50指数半日涨超4%，机器人概念股集体爆发。",
-      "highlights": [
-        "恒指半日跌0.95%，恒生科技指数跌1.21%，联想集团跌超7%。",
-        "中国央行将在10月21日至11月2日开展隔夜逆回购操作，每日操作量不超过10000亿元。",
-        "中国央行：境外央行类机构回购工具的操作对象纳入外资人民币业务清算行。"
-      ],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "save",
-        "use": "数据：北证50指数半日涨超4%，机器人概念股集体爆发。",
-        "lines": {
-          "fact": "原文数据：北证50指数半日涨超4%，机器人概念股集体爆发。",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "北证50指数半日涨超4%，机器人概念股集体爆发。",
-          "4%"
-        ],
-        "point": "早间要闻汇总",
-        "verdict_label": "收藏",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-zh-4ba734b876f2",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "日本20年期国债拍卖认购倍数创历史新高",
-      "summary": "日本20年期国债收益率日内下行6个基点至3.71%。",
-      "source": "华尔街见闻 7x24",
-      "source_url": "https://wallstreetcn.com/livenews/3181579",
-      "published_at": "2026-10-20T03:37:41.000Z",
-      "tags": [
-        "中文",
-        "华尔街见闻 7x24"
-      ],
-      "score": 66,
-      "why": "中文源 · 华尔街见闻 7x24 · 数据：日本20年期国债收益率日内下行6个基点至3.71%。",
-      "deep_link": "https://wallstreetcn.com/livenews/3181579",
-      "extra": {},
-      "blurb": "日本20年期国债收益率日内下行6个基点至3.71%。",
-      "url": "https://wallstreetcn.com/livenews/3181579",
-      "name": "日本20年期国债拍卖认购倍数创历史新高",
-      "risk": "macro",
-      "lang": "zh",
-      "posted_at": "2026-10-20",
-      "evidence_missing": false,
-      "_origin": "zh_media",
-      "_source_id": "zh-wscn-live",
-      "zh_reader": {
-        "verdict": "save",
-        "use": "数据：日本20年期国债收益率日内下行6个基点至3.71%。",
-        "lines": {
-          "fact": "原文数据：日本20年期国债收益率日内下行6个基点至3.71%。",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "日本20年期国债收益率日内下行6个基点至3.71%。",
-          "3.71%"
-        ],
-        "point": "日本20年期国债拍卖认购倍数创历史新高"
-      },
-      "title_orig": "日本20年期国债拍卖认购倍数创历史新高",
-      "source_excerpt": "日本20年期国债收益率日内下行6个基点至3.71%。 日本20年期国债拍卖认购倍数创历史新高，为5.84，过去12个月均值3.73。 受此影响，日本国债期货收窄跌幅。 日本20年期国债收益率日内下行6个基点至3.71%。",
-      "_score_raw": 66,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "summary_zh": "日本20年期国债收益率日内下行6个基点至3.71%。",
-      "highlights": [
-        "日本20年期国债拍卖认购倍数创历史新高，为5.84，过去12个月均值3.73。",
-        "受此影响，日本国债期货收窄跌幅。"
-      ],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "save",
-        "use": "数据：日本20年期国债收益率日内下行6个基点至3.71%。",
-        "lines": {
-          "fact": "原文数据：日本20年期国债收益率日内下行6个基点至3.71%。",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "日本20年期国债收益率日内下行6个基点至3.71%。",
-          "3.71%"
-        ],
-        "point": "日本20年期国债拍卖认购倍数创历史新高",
-        "verdict_label": "收藏",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-zh-c67474dd1c61",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量",
-      "summary": "中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
-      "source": "华尔街见闻 7x24",
-      "source_url": "https://wallstreetcn.com/livenews/3181527",
-      "published_at": "2026-10-20T02:01:39.000Z",
-      "tags": [
-        "中文",
-        "华尔街见闻 7x24"
-      ],
-      "score": 66,
-      "why": "中文源 · 华尔街见闻 7x24 · 数据：中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
-      "deep_link": "https://wallstreetcn.com/livenews/3181527",
-      "extra": {},
-      "blurb": "中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
-      "url": "https://wallstreetcn.com/livenews/3181527",
-      "name": "中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量",
-      "risk": "macro",
-      "lang": "zh",
-      "posted_at": "2026-10-20",
-      "evidence_missing": false,
-      "_origin": "zh_media",
-      "_source_id": "zh-wscn-live",
-      "zh_reader": {
-        "verdict": "save",
-        "use": "数据：中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
-        "lines": {
-          "fact": "原文数据：中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
-          "10000亿元"
-        ],
-        "point": "中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量"
-      },
-      "title_orig": "中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量",
-      "source_excerpt": "中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。 中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
-      "_score_raw": 66,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "summary_zh": "中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
-      "highlights": [],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "save",
-        "use": "数据：中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
-        "lines": {
-          "fact": "原文数据：中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
-          "10000亿元"
-        ],
-        "point": "中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量",
-        "verdict_label": "收藏",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-zh-e4214a812b33",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
-      "summary": "中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
-      "source": "华尔街见闻 7x24",
-      "source_url": "https://wallstreetcn.com/livenews/3181501",
-      "published_at": "2026-10-20T01:22:46.000Z",
-      "tags": [
-        "中文",
-        "华尔街见闻 7x24"
-      ],
-      "score": 66,
-      "why": "中文源 · 华尔街见闻 7x24 · 数据：中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
-      "deep_link": "https://wallstreetcn.com/livenews/3181501",
-      "extra": {},
-      "blurb": "中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
-      "url": "https://wallstreetcn.com/livenews/3181501",
-      "name": "中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
-      "risk": "macro",
-      "lang": "zh",
-      "posted_at": "2026-10-20",
-      "evidence_missing": false,
-      "_origin": "zh_media",
-      "_source_id": "zh-wscn-live",
-      "zh_reader": {
-        "verdict": "save",
-        "use": "数据：中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
-        "lines": {
-          "fact": "原文数据：中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
-          "650亿元"
-        ],
-        "point": "中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。"
-      },
-      "title_orig": "中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
-      "source_excerpt": "中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。 中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
-      "_score_raw": 66,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "summary_zh": "中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
-      "highlights": [],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "save",
-        "use": "数据：中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
-        "lines": {
-          "fact": "原文数据：中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
-          "650亿元"
-        ],
-        "point": "中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
-        "verdict_label": "收藏",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-zh-4f4490c4f797",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续",
-      "summary": "中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续",
-      "source": "华尔街见闻 7x24",
-      "source_url": "https://wallstreetcn.com/livenews/3181490",
-      "published_at": "2026-10-20T01:00:55.000Z",
-      "tags": [
-        "中文",
-        "华尔街见闻 7x24"
-      ],
-      "score": 66,
-      "why": "中文源 · 华尔街见闻 7x24 · 数据：中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。",
-      "deep_link": "https://wallstreetcn.com/livenews/3181490",
-      "extra": {},
-      "blurb": "中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续",
-      "url": "https://wallstreetcn.com/livenews/3181490",
-      "name": "中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续",
-      "risk": "macro",
-      "lang": "zh",
-      "posted_at": "2026-10-20",
-      "evidence_missing": false,
-      "_origin": "zh_media",
-      "_source_id": "zh-wscn-live",
-      "zh_reader": {
-        "verdict": "save",
-        "use": "数据：中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。",
-        "lines": {
-          "fact": "原文数据：中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。",
-          "3.00%"
-        ],
-        "point": "中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续"
-      },
-      "title_orig": "中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续",
-      "source_excerpt": "中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。 中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。",
-      "_score_raw": 66,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "summary_zh": "中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续",
-      "highlights": [],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "save",
-        "use": "数据：中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。",
-        "lines": {
-          "fact": "原文数据：中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。",
-          "3.00%"
-        ],
-        "point": "中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续",
-        "verdict_label": "收藏",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-post-PaulaPant-80f87dfa1416",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "#750: Your “Diversified” Portfolio Might Secretly Be One Big Bet on AI, with Alec Litowitz",
-      "summary": "AI集中投资可能让你的S&P 500基金看起来多样化，但Alec Litowitz说这只是个隐藏的大赌注。",
-      "source": "@PaulaPant / Paula Pant",
-      "source_url": "https://affordanything.com/adaptability-quotient-alec-litowitz/",
-      "published_at": "2026-09-15T19:05:49.000Z",
-      "tags": [
-        "观察",
-        "index fund",
-        "稳健",
-        "实操"
-      ],
-      "score": 63,
-      "why": "工薪教育：index fund；宏观观察：index；策展：面向工薪族的具体理财决策与真实听众案例（储蓄/指数/负债），不荐个股、不喊单。",
-      "deep_link": "https://affordanything.com/adaptability-quotient-alec-litowitz/",
-      "extra": {
-        "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-        "bucket": "稳健"
-      },
-      "blurb": "AI集中投资可能让你的S&P 500基金看起来多样化，但Alec Litowitz说这只是个隐藏的大赌注。",
-      "url": "https://affordanything.com/adaptability-quotient-alec-litowitz/",
-      "handle": "PaulaPant",
-      "name": "Paula Pant",
-      "risk": "stable",
-      "lang": "EN",
-      "posted_at": "2026-09-15",
-      "tier": "A",
-      "evidence_missing": false,
-      "_origin": "kol_rss",
-      "_source_id": "kol:PaulaPant",
-      "title_orig": "#750: Your “Diversified” Portfolio Might Secretly Be One Big Bet on AI, with Alec Litowitz",
-      "source_excerpt": "Your S&P 500 index fund looks diversified — but Alec Litowitz says its concentration in AI stocks makes it one giant bet in disguise. Alec Litowitz joined a hedge fund with $100 million in assets and six employees. He had never made a trade in his life. That fund was Citadel, in",
-      "person_id": "PaulaPant",
-      "person_handle": "PaulaPant",
-      "person_name": "Paula Pant",
-      "_feed_type": "blog_rss",
-      "_feed_url": "https://affordanything.com/feed",
-      "_score_raw": 63,
-      "_decay_penalty": 20,
-      "_decay_exempt": null,
-      "_practical": true,
-      "_practical_delta": 20,
-      "summary_zh": "AI集中投资可能让你的S&P 500基金看起来多样化，但Alec Litowitz说这只是个隐藏的大赌注。",
-      "highlights": [
-        "AI集中投资",
-        "Citadel hedge fund"
-      ],
-      "summary_source": "local_llm",
-      "reader": {
-        "verdict": "save",
-        "use": "手里主要是指数基金、以为已经分散时看：看似分散的组合可能其实集中押了同一个方向",
-        "lines": {
-          "scenario": "手里主要是指数基金、以为已经分散时",
-          "problem": "看似分散的组合可能其实集中押了同一个方向"
-        },
-        "evidence": [
-          "Diversified” Portfolio Might Secretly Be One Big Bet"
-        ],
-        "point": "理财：看似分散的组合可能其实集中押了同一个方向",
-        "verdict_label": "收藏",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-post-dollarsanddata-f71d07f2efd6",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "What Was the Best Portfolio Over the Last 50 Years?",
-      "summary": "最佳50年投资组合：U.S. 股票、国际股票、REITs、公司债、10年期国债。",
-      "source": "@dollarsanddata / Nick Maggiulli",
-      "source_url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
-      "published_at": "2026-09-15T11:45:37.000Z",
-      "tags": [
-        "观察",
-        "资产配置",
-        "稳健",
-        "数据"
-      ],
-      "score": 63,
-      "why": "工薪教育：资产配置；宏观观察：treasury、data；策展：数据图表服务长期配置认知，非带单；常见于与 Housel/Bilello 并列的 fin-edu 名单。",
-      "deep_link": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
-      "extra": {
-        "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-        "bucket": "稳健"
-      },
-      "blurb": "最佳50年投资组合：U.S. 股票、国际股票、REITs、公司债、10年期国债。",
-      "url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
-      "handle": "dollarsanddata",
-      "name": "Nick Maggiulli",
-      "risk": "stable",
-      "lang": "EN",
-      "posted_at": "2026-09-15",
-      "tier": "A",
-      "evidence_missing": false,
-      "_origin": "kol_rss",
-      "_source_id": "kol:dollarsanddata",
-      "title_orig": "What Was the Best Portfolio Over the Last 50 Years?",
-      "source_excerpt": "A few months ago, I analyzed U.S. stock returns over the last century . Today, I'm going to determine the best portfolio over the last 50 years among the following asset classes: U.S. Stocks International Stocks Real Estate Investment Trusts (REITs) U.S. Corporate Bonds 10-Year T",
-      "person_id": "dollarsanddata",
-      "person_handle": "dollarsanddata",
-      "person_name": "Nick Maggiulli",
-      "_feed_type": "blog_rss",
-      "_feed_url": "https://ofdollarsanddata.com/feed/",
-      "_score_raw": 63,
-      "_decay_penalty": 20,
-      "_decay_exempt": null,
-      "_practical": true,
-      "_practical_delta": 20,
-      "summary_zh": "最佳50年投资组合：U.S. 股票、国际股票、REITs、公司债、10年期国债。",
-      "highlights": [
-        "A few months ago, I analyzed U",
-        "stock returns over the last century",
-        "Today, I'm going to determine the best …"
-      ],
-      "summary_source": "local_llm",
-      "title_zh": "过去50年最佳投资组合是什么？",
-      "reader": {
-        "verdict": "save",
-        "use": "准备长期定投、选资产配置时看：不同资产组合长期表现差多少",
-        "lines": {
-          "scenario": "准备长期定投、选资产配置时",
-          "problem": "不同资产组合长期表现差多少",
-          "step": "用长期历史数据决定股债比例",
-          "value": "过去 50 年的真实回报对比",
-          "not_for": "数据来自美国市场，A股/港股不能直接套用"
-        },
-        "evidence": [
-          "Best Portfolio",
-          "Over the Last 50 Years",
-          "U.S. stock returns"
-        ],
-        "point": "理财：准备长期定投、选资产配置，看不同资产组合长期表现差多少",
-        "concrete": [
-          {
-            "kind": "quantity",
-            "quote": "Over the Last 50 Years"
-          }
-        ],
-        "verdict_label": "收藏",
-        "title": "过去50年最佳投资组合是什么？"
-      }
-    },
-    {
-      "id": "invest-zh-3278a9a631d9",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL",
-      "summary": "PANews 10月20日消息，据 Arkham 称，摩根士丹利旗下 SOL 产品 MSOL 过去 20 天累计流入 180 万美元，期间没有一天出现资金流出。",
-      "source": "PANews",
-      "source_url": "https://www.panewslab.com/zh/articles/01a15764-4f09-70cb-907a-e77ce666c57c",
-      "published_at": "Tue, 20 Oct 2026 03:39:14 GMT",
-      "tags": [
-        "中文",
-        "PANews"
-      ],
-      "score": 62,
-      "why": "中文源 · PANews · 数据：摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL。",
-      "deep_link": "https://www.panewslab.com/zh/articles/01a15764-4f09-70cb-907a-e77ce666c57c",
-      "extra": {},
-      "blurb": "PANews 10月20日消息，据 Arkham 称，摩根士丹利旗下 SOL 产品 MSOL 过去 20 天累计流入 180 万美元，期间没有一天出现资金流出。",
-      "url": "https://www.panewslab.com/zh/articles/01a15764-4f09-70cb-907a-e77ce666c57c",
-      "name": "摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL",
-      "risk": "crypto",
-      "lang": "zh",
-      "posted_at": "Tue, 20 Oc",
-      "evidence_missing": false,
-      "_origin": "zh_media",
-      "_source_id": "zh-panews",
-      "zh_reader": {
-        "verdict": "save",
-        "use": "数据：摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL。",
-        "lines": {
-          "fact": "原文数据：摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL。",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL。",
-          "180 万美元"
-        ],
-        "point": "摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单…"
-      },
-      "title_orig": "摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL",
-      "source_excerpt": "摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL。 PANews 10月20日消息，据 Arkham 称，摩根士丹利旗下 SOL 产品 MSOL 过去 20 天累计流入 180 万美元，期间没有一天出现资金流出。富达旗下 FSOL 昨日单日卖出价值 180 万美元的 SOL。SOL 目前报 105 美元。",
-      "_score_raw": 62,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "summary_zh": "PANews 10月20日消息，据 Arkham 称，摩根士丹利旗下 SOL 产品 MSOL 过去 20 天累计流入 180 万美元，期间没有一天出现资金流出。",
-      "highlights": [],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "save",
-        "use": "数据：摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL。",
-        "lines": {
-          "fact": "原文数据：摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL。",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL。",
-          "180 万美元"
-        ],
-        "point": "摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单…",
-        "verdict_label": "收藏",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-zh-3486b456a87a",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "10月LPR报价出炉：1年期和5年期以上利率均保持不变",
-      "summary": "PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%； PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；5年期以上LPR为3.5%，上月为3.5%。",
-      "source": "PANews",
-      "source_url": "https://www.panewslab.com/zh/articles/01a156d4-d7f2-75fa-91fa-5b1219b0c12a",
-      "published_at": "Tue, 20 Oct 2026 01:02:31 GMT",
-      "tags": [
-        "中文",
-        "PANews"
-      ],
-      "score": 62,
-      "why": "中文源 · PANews · 数据：PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；",
-      "deep_link": "https://www.panewslab.com/zh/articles/01a156d4-d7f2-75fa-91fa-5b1219b0c12a",
-      "extra": {},
-      "blurb": "PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%； PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；5年期以上LPR为3.5%，上月为3.5%。",
-      "url": "https://www.panewslab.com/zh/articles/01a156d4-d7f2-75fa-91fa-5b1219b0c12a",
-      "name": "10月LPR报价出炉：1年期和5年期以上利率均保持不变",
-      "risk": "crypto",
-      "lang": "zh",
-      "posted_at": "Tue, 20 Oc",
-      "evidence_missing": false,
-      "_origin": "zh_media",
-      "_source_id": "zh-panews",
-      "zh_reader": {
-        "verdict": "save",
-        "use": "数据：PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；",
-        "lines": {
-          "fact": "原文数据：PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；",
-          "3%"
-        ],
-        "point": "10月LPR报价出炉：1年期和5年期以上利率均保持不变"
-      },
-      "title_orig": "10月LPR报价出炉：1年期和5年期以上利率均保持不变",
-      "source_excerpt": "PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%； PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；5年期以上LPR为3.5%，上月为3.5%。",
-      "_score_raw": 62,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "summary_zh": "PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%； PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；5年期以上LPR为3.5%，上月为3.5%。",
-      "highlights": [],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "save",
-        "use": "数据：PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；",
-        "lines": {
-          "fact": "原文数据：PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；",
-          "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
-        },
-        "evidence": [
-          "PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；",
-          "3%"
-        ],
-        "point": "10月LPR报价出炉：1年期和5年期以上利率均保持不变",
-        "verdict_label": "收藏",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-community-invest-reddit-debtfree-aad96c8cc748",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "I’m paying off £500 a month on a credit card (down to £1800) it feels so slow!",
-      "summary": "I then have £4400 from a loan ( also paying £220 a month on this) and then owe my dad £3,000.",
-      "source": "r/DebtFree",
-      "source_url": "https://www.reddit.com/r/debtfree/comments/1x3iike/im_paying_off_500_a_month_on_a_credit_card_down/",
-      "published_at": "2026-10-11T20:24:23.000Z",
-      "tags": [
-        "reddit",
-        "r/DebtFree",
-        "金额",
-        "负债偿还"
-      ],
-      "score": 42,
-      "why": "公开社区帖 · r/DebtFree · top/month 第52位 · 原帖含：金额、负债偿还（数字均为发帖人自述，未经核实）",
-      "deep_link": "https://www.reddit.com/r/debtfree/comments/1x3iike/im_paying_off_500_a_month_on_a_credit_card_down/",
-      "extra": {},
-      "blurb": "I then have £4400 from a loan ( also paying £220 a month on this) and then owe my dad £3,000.",
-      "url": "https://www.reddit.com/r/debtfree/comments/1x3iike/im_paying_off_500_a_month_on_a_credit_card_down/",
-      "name": "I’m paying off £500 a month on a credit card (down to £1800) it feels so slow!",
-      "lang": "EN",
-      "posted_at": "2026-10-11",
-      "evidence_missing": false,
-      "_origin": "community_rss",
-      "_source_id": "invest-reddit-debtfree",
-      "title_orig": "I’m paying off £500 a month on a credit card (down to £1800) it feels so slow!",
-      "source_excerpt": "I then have £4400 from a loan ( also paying £220 a month on this) and then owe my dad £3,000.",
-      "_feed_type": "reddit_rss",
-      "_feed_url": "https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100",
-      "_score_raw": 50,
-      "_decay_penalty": 8,
-      "_decay_exempt": null,
-      "summary_zh": "I then have £4400 from a loan ( also paying £220 a month on this) and then owe my dad £3,000.",
-      "highlights": [],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "save",
-        "use": "有负债、想还债时看：发帖人自述 £500（未经核实）",
-        "lines": {
-          "value": "数字（发帖人自述）「£500」；涉及：还债；做法原话：「I’m paying off £500 a month on a credit card (down to £1800) it feels so slow」",
-          "note": "数字均为发帖人自述，未经核实；账户/税制按各国不同，只参考做法思路"
-        },
-        "evidence": [
-          "£500",
-          "paying off",
-          "I’m paying off £500 a month on a credit card (down to £1800) it feels so slow"
-        ],
-        "point": "理财：还债，发帖人自述 £500",
-        "verdict_label": "收藏",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-post-PaulaPant-c4e10f9a6bab",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "#759: My Bank Account Hit Zero … Then I Got Rich — with Jaspreet Singh of Minority Mindset",
-      "summary": "Jaspreet Singh bought his first rental property at 19: a foreclosed condo in metro Detroit, listed for $8,400, that had originally sold for $150,000.",
-      "source": "@PaulaPant / Paula Pant",
-      "source_url": "https://affordanything.com/how-to-build-wealth-jaspreet-singh/",
-      "published_at": "2026-10-19T17:56:14.000Z",
-      "tags": [
-        "观察",
-        "稳健",
-        "实操"
-      ],
-      "score": 45,
-      "why": "策展：面向工薪族的具体理财决策与真实听众案例（储蓄/指数/负债），不荐个股、不喊单。",
-      "deep_link": "https://affordanything.com/how-to-build-wealth-jaspreet-singh/",
-      "extra": {
-        "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-        "bucket": "稳健"
-      },
-      "blurb": "Jaspreet Singh bought his first rental property at 19: a foreclosed condo in metro Detroit, listed for $8,400, that had originally sold for $150,000.",
-      "url": "https://affordanything.com/how-to-build-wealth-jaspreet-singh/",
-      "handle": "PaulaPant",
-      "name": "Paula Pant",
-      "risk": "stable",
-      "lang": "EN",
-      "posted_at": "2026-10-19",
-      "tier": "A",
-      "evidence_missing": false,
-      "_origin": "kol_rss",
-      "_source_id": "kol:PaulaPant",
-      "title_orig": "#759: My Bank Account Hit Zero … Then I Got Rich — with Jaspreet Singh of Minority Mindset",
-      "source_excerpt": "Jaspreet Singh bought his first rental property at 19: a foreclosed condo in metro Detroit, listed for $8,400, that had originally sold for $150,000. He was a college student who had read that wealthy people own real estate, and that was about all he knew about how to build wealt",
-      "person_id": "PaulaPant",
-      "person_handle": "PaulaPant",
-      "person_name": "Paula Pant",
-      "_feed_type": "blog_rss",
-      "_feed_url": "https://affordanything.com/feed",
-      "_score_raw": 45,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "summary_zh": "Jaspreet Singh bought his first rental property at 19: a foreclosed condo in metro Detroit, listed for $8,400, that had originally sold for $150,000.",
-      "highlights": [
-        "He was a college student who had read that wealthy people…"
-      ],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "watch",
-        "use": "将来考虑买房出租时看：当房东的真实麻烦和取舍",
-        "lines": {
-          "scenario": "将来考虑买房出租时",
-          "problem": "当房东的真实麻烦和取舍"
-        },
-        "evidence": [
-          "rental property"
-        ],
-        "point": "",
-        "verdict_label": "观望",
-        "title": ""
-      }
-    },
-    {
-      "id": "invest-post-PaulaPant-74a87066cfb5",
-      "partition": "invest",
-      "type": "post",
-      "category": "投资观察",
-      "title": "#752: Q&A: I’m Tired of Managing My Rental Property. Should I Sell It?",
-      "summary": "卖房还是继续管理？Nieves的纠结。",
-      "source": "@PaulaPant / Paula Pant",
-      "source_url": "https://affordanything.com/sell-rental-property/",
-      "published_at": "2026-09-22T22:00:15.000Z",
-      "tags": [
-        "观察",
-        "稳健",
-        "实操"
-      ],
-      "score": 29,
-      "why": "策展：面向工薪族的具体理财决策与真实听众案例（储蓄/指数/负债），不荐个股、不喊单。",
-      "deep_link": "https://affordanything.com/sell-rental-property/",
-      "extra": {
-        "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-        "bucket": "稳健"
-      },
-      "blurb": "卖房还是继续管理？Nieves的纠结。",
-      "url": "https://affordanything.com/sell-rental-property/",
-      "handle": "PaulaPant",
-      "name": "Paula Pant",
-      "risk": "stable",
-      "lang": "EN",
-      "posted_at": "2026-09-22",
-      "tier": "A",
-      "evidence_missing": false,
-      "_origin": "kol_rss",
-      "_source_id": "kol:PaulaPant",
-      "title_orig": "#752: Q&A: I’m Tired of Managing My Rental Property. Should I Sell It?",
-      "source_excerpt": "“Sometimes you might make the ‘right’ decision for the wrong reason.” That’s what I told Nieves, a listener who’s deciding whether to sell rental property she bought back in 2021, a St. Louis duplex that’s gotten a lot harder to manage since she moved to Madrid for her MBA. Her t",
-      "person_id": "PaulaPant",
-      "person_handle": "PaulaPant",
-      "person_name": "Paula Pant",
-      "_feed_type": "blog_rss",
-      "_feed_url": "https://affordanything.com/feed",
-      "_score_raw": 37,
-      "_decay_penalty": 8,
-      "_decay_exempt": null,
-      "summary_zh": "卖房还是继续管理？Nieves的纠结。",
-      "highlights": [
-        "Nieves在西班牙管理一栋2021年从美国搬到马德里的复式公寓，感到压力山大。"
-      ],
-      "summary_source": "local_llm",
-      "title_zh": "#752: Q&A: 我厌倦了管理我的出租房产。我应该卖掉它吗？",
-      "reader": {
-        "verdict": "watch",
-        "use": "将来考虑买房出租时看：当房东的真实麻烦和取舍",
-        "lines": {
-          "scenario": "将来考虑买房出租时",
-          "problem": "当房东的真实麻烦和取舍",
-          "not_for": "美国房产案例，国内不能照搬"
-        },
-        "evidence": [
-          "Rental Property",
-          "St. Louis"
-        ],
-        "point": "",
-        "verdict_label": "观望",
-        "title": "#752: Q&A: 我厌倦了管理我的出租房产。我应该卖掉它吗？"
-      }
+      "why": "价格走强（Bitcoin · $82,000）：看成交是否放大来判断能否延续，不追高"
     }
   ]
 }
