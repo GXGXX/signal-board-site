@@ -1,7 +1,7 @@
 {
   "partition": "growth",
-  "generated_at": "2026-10-19T00:09:05.111Z",
-  "next_update_at": "2026-10-19T01:00:00.000Z",
+  "generated_at": "2026-10-20T00:11:49.555Z",
+  "next_update_at": "2026-10-20T01:00:00.000Z",
   "cap": 30,
   "cards": [
     {
@@ -115,15 +115,15 @@
       "title_zh": "如何防止读过的东西忘掉",
       "reader": {
         "verdict": "worth",
-        "use": "读书读完就忘时看：讲具体方法",
+        "use": "读书读完就忘时看：作者用 AHAB 法读完 105 本书；建议先读教科书/入门综述打底，别为记笔记拖慢阅读",
         "lines": {
           "scenario": "读书读完就忘时",
-          "value": "讲具体方法"
+          "value": "具体做法：多读、先读准确的入门书（教科书、综述课、Very Short Introductions），笔记系统别成了阻碍"
         },
         "evidence": [
-          "read",
-          "forgetting",
-          "How to"
+          "the method that helped me get through 105 books during my Foundations project",
+          "This is why I’m such a fan of textbooks and survey courses",
+          "for others, the note-taking itself becomes an impediment to simply reading more books."
         ],
         "point": "成长：读书读完就忘，讲具体方法",
         "verdict_label": "值得看",

@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-19T00:05:56.593Z",
+  "generated_at": "2026-10-20T00:05:55.253Z",
   "cards": [
     {
-      "id": "crypto-market-2026-10-19",
+      "id": "crypto-market-2026-10-20",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "大盘 · BTC $82,002（24h +0.81%）· ETH $2,408（+0.46%）",
-      "title_orig": "大盘 · BTC $82,002（24h +0.81%）· ETH $2,408（+0.46%）",
+      "title": "大盘 · BTC $81,845（24h -0.19%）· ETH $2,404（-0.17%）",
+      "title_orig": "大盘 · BTC $81,845（24h -0.19%）· ETH $2,404（-0.17%）",
       "source": "CoinGecko 公开 API（/global + /coins/markets）",
       "source_url": "https://www.coingecko.com/",
       "url": "https://www.coingecko.com/",
-      "published_at": "2026-10-19T00:03:50.000Z",
+      "published_at": "2026-10-20T00:03:55.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -28,27 +28,27 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "今日币圈整体横盘；总市值 $2.74T（24h +0.70%），BTC 占比 60.1%，先看大盘再看单币异动",
-        "title": "大盘 · BTC $82,002（24h +0.81%）· ETH $2,408（+0.46%）",
+        "use": "BTC/ETH 24h 基本横盘（-0.19% / -0.17%）；总市值 $2.76T（24h -1.92%），BTC 占比 59.5%，先看大盘再看单币异动",
+        "title": "大盘 · BTC $81,845（24h -0.19%）· ETH $2,404（-0.17%）",
         "lines": {
-          "value": "BTC 7d -1.83%；ETH 7d -4.85%",
+          "value": "BTC 7d -0.32%；ETH 7d -2.56%",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "bitcoin current_price: 82002, price_change_percentage_24h: 0.81",
-          "ethereum current_price: 2408.34, price_change_percentage_24h: 0.46",
-          "total_market_cap.usd: 2740800735438, market_cap_percentage.btc: 60.1 (24h 变化取前100币 market_cap_change_percentage_24h 按市值加权 = 0.70)"
+          "bitcoin current_price: 81845, price_change_percentage_24h: -0.19",
+          "ethereum current_price: 2404.35, price_change_percentage_24h: -0.17",
+          "total_market_cap.usd: 2760162497004, market_cap_percentage.btc: 59.5, market_cap_change_percentage_24h_usd: -1.92"
         ],
-        "point": "币圈：今日币圈整体横盘；总市值 $2.74T（24h +0.70%），BTC 占比 60.1%，先看大盘再看单币异动"
+        "point": "币圈：BTC/ETH 24h 基本横盘（-0.19% / -0.17%）；总市值 $2.76T（24h -1.92%），BTC 占比 59.5%，先看大盘再看单币异动"
       }
     },
     {
-      "id": "crypto-etf-btc-16Oct2026",
+      "id": "crypto-etf-btc-19Oct2026",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "BTC 现货 ETF · 16 Oct 2026 净流出 $82.4M",
-      "title_orig": "BTC 现货 ETF · 16 Oct 2026 净流出 $82.4M",
+      "title": "BTC 现货 ETF · 16 Oct 净流出 $82.4M（19 Oct 数据未齐）",
+      "title_orig": "BTC 现货 ETF · 16 Oct 净流出 $82.4M（19 Oct 数据未齐）",
       "source": "Farside Investors 公开 BTC ETF 日流表（单位：百万美元）",
       "source_url": "https://farside.co.uk/btc/",
       "url": "https://farside.co.uk/btc/",
@@ -68,32 +68,34 @@
         "numbers": {
           "total_net_flow_m_usd": -82.4,
           "as_of": "16 Oct 2026",
-          "streak_days": 1,
-          "sum_5d_m_usd": -228.4
+          "sum_5d_m_usd": -228.4,
+          "window": "12–16 Oct 2026",
+          "partial_19oct_reported_m_usd": -54.9
         }
       },
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "机构资金方向：已连续 1 个交易日净流出，近5日合计 −$228.4M",
-        "title": "BTC 现货 ETF · 16 Oct 2026 净流出 $82.4M",
+        "use": "机构资金方向：12–16 Oct 5 个交易日合计 −$228.4M；19 Oct 目前只报出 GBTC −$54.9M，IBIT/FBTC 等未公布",
+        "title": "BTC 现货 ETF · 16 Oct 净流出 $82.4M（19 Oct 数据未齐）",
         "lines": {
-          "value": "前5日合计（百万美元）：21.1 / -65.4 / 175.7 / -261.4 / 5.1",
-          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+          "value": "12–16 Oct 每日合计（百万美元）：-65.4 / 175.7 / -261.4 / 5.1 / -82.4",
+          "note": "19 Oct 行里「-」= 该基金当日数据还没出，不能当全天净流出；非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "16 Oct 2026 (71.8) (10.6) 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 (82.4)"
+          "16 Oct 2026 (71.8) (10.6) 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 (82.4)",
+          "19 Oct 2026 - - 0.0 0.0 0.0 0.0 - - 0.0 0.0 (54.9) 0.0 (54.9)"
         ],
-        "point": "币圈：机构资金方向：已连续 1 个交易日净流出，近5日合计 −$228.4M"
+        "point": "币圈：BTC 现货 ETF 12–16 Oct 合计净流出 $228.4M"
       }
     },
     {
-      "id": "crypto-etf-eth-16Oct2026",
+      "id": "crypto-etf-eth-19Oct2026",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "ETH 现货 ETF · 16 Oct 2026 净流出 $69.7M",
-      "title_orig": "ETH 现货 ETF · 16 Oct 2026 净流出 $69.7M",
+      "title": "ETH 现货 ETF · 16 Oct 净流出 $69.7M（19 Oct 数据未齐）",
+      "title_orig": "ETH 现货 ETF · 16 Oct 净流出 $69.7M（19 Oct 数据未齐）",
       "source": "Farside Investors 公开 ETH ETF 日流表（单位：百万美元）",
       "source_url": "https://farside.co.uk/eth/",
       "url": "https://farside.co.uk/eth/",
@@ -114,35 +116,79 @@
           "total_net_flow_m_usd": -69.7,
           "as_of": "16 Oct 2026",
           "streak_days": 3,
-          "sum_5d_m_usd": -320.1
+          "sum_5d_m_usd": -320.1,
+          "window": "12–16 Oct 2026",
+          "partial_19oct_reported_m_usd": -1.9
         }
       },
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "机构资金方向：已连续 3 个交易日净流出，近5日合计 −$320.1M",
-        "title": "ETH 现货 ETF · 16 Oct 2026 净流出 $69.7M",
+        "use": "机构资金方向：14–16 Oct 连续 3 个交易日净流出，12–16 Oct 合计 −$320.1M；19 Oct 目前只报出 ETHE −$1.9M",
+        "title": "ETH 现货 ETF · 16 Oct 净流出 $69.7M（19 Oct 数据未齐）",
         "lines": {
-          "value": "前5日合计（百万美元）：-56.1 / -85.4 / 24.8 / -129.5 / -60.3",
-          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+          "value": "12–16 Oct 每日合计（百万美元）：-85.4 / 24.8 / -129.5 / -60.3 / -69.7",
+          "note": "19 Oct 行里「-」= ETHA/ETHB/FETH/ETHV 当日数据还没出，不能当全天净流出；非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "16 Oct 2026 (69.7) 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 (69.7)"
+          "16 Oct 2026 (69.7) 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 (69.7)",
+          "19 Oct 2026 - - - 0.0 0.0 - 0.0 0.0 0.0 (1.9) 0.0 (1.9)"
         ],
-        "point": "币圈：机构资金方向：已连续 3 个交易日净流出，近5日合计 −$320.1M"
+        "point": "币圈：ETH 现货 ETF 连续 3 个交易日净流出"
       }
     },
     {
-      "id": "crypto-movers-跌-2026-10-19",
+      "id": "crypto-movers-涨-2026-10-20",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "前100市值跌幅榜 · AERO -5.19% / PUMP -3.66% / STX -3.58%（24h）",
-      "title_orig": "前100市值跌幅榜 · AERO -5.19% / PUMP -3.66% / STX -3.58%（24h）",
+      "title": "前100市值涨幅榜 · WLD +9.19% / PUMP +7.13% / VVV +6.68%（24h）",
+      "title_orig": "前100市值涨幅榜 · WLD +9.19% / PUMP +7.13% / VVV +6.68%（24h）",
       "source": "CoinGecko 公开 API（/coins/markets 前100）",
       "source_url": "https://www.coingecko.com/en/crypto-gainers-losers",
       "url": "https://www.coingecko.com/en/crypto-gainers-losers",
-      "published_at": "2026-10-19T00:03:50.000Z",
+      "published_at": "2026-10-20T00:03:55.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "异动"
+      ],
+      "score": 88,
+      "risk": "high",
+      "lang": "zh",
+      "_origin": "crypto",
+      "_crypto_kind": "异动",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐",
+        "title": "前100市值涨幅榜 · WLD +9.19% / PUMP +7.13% / VVV +6.68%（24h）",
+        "lines": {
+          "value": "Worldcoin $0.5335，24h 成交 $289.4M，市值排名 #50；Pump.fun $0.004476，24h 成交 $217.6M，市值排名 #49；Venice Token $24.15，24h 成交 $37.1M，市值排名 #71",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "worldcoin-wld current_price: 0.533529, price_change_percentage_24h: 9.19, total_volume: 289376539, circulating_supply: 3815614502, total_supply: 10000000000",
+          "pump-fun current_price: 0.00447639, price_change_percentage_24h: 7.13, total_volume: 217612295, circulating_supply: 462157197889, total_supply: 827044019261",
+          "venice-token current_price: 24.15, price_change_percentage_24h: 6.68, total_volume: 37094341, circulating_supply: 48557387, total_supply: 81152038"
+        ],
+        "point": "币圈：大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐"
+      }
+    },
+    {
+      "id": "crypto-movers-跌-2026-10-20",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "前100市值跌幅榜 · BTW -16.70% / WLFI -5.40% / HBAR -2.96%（24h）",
+      "title_orig": "前100市值跌幅榜 · BTW -16.70% / WLFI -5.40% / HBAR -2.96%（24h）",
+      "source": "CoinGecko 公开 API（/coins/markets 前100）",
+      "source_url": "https://www.coingecko.com/en/crypto-gainers-losers",
+      "url": "https://www.coingecko.com/en/crypto-gainers-losers",
+      "published_at": "2026-10-20T00:03:55.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -160,30 +206,30 @@
         "verdict": "worth",
         "verdict_label": "币圈观察",
         "use": "大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接",
-        "title": "前100市值跌幅榜 · AERO -5.19% / PUMP -3.66% / STX -3.58%（24h）",
+        "title": "前100市值跌幅榜 · BTW -16.70% / WLFI -5.40% / HBAR -2.96%（24h）",
         "lines": {
-          "value": "Aerodrome Finance $0.7978，24h 成交 $46.6M，市值排名 #88；Pump.fun $0.004171，24h 成交 $149.2M，市值排名 #49；Stacks $0.3550，24h 成交 $21.2M，市值排名 #95",
+          "value": "Bitway $2.010，24h 成交 $43.6M，市值排名 #36（流通仅占总量 15%，低流通盘易暴涨暴跌）；World Liberty Financial $0.05393，24h 成交 $45.5M，市值排名 #59；Hedera $0.08279，24h 成交 $96.3M，市值排名 #32",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "aerodrome-finance current_price: 0.797819, price_change_percentage_24h: -5.19, total_volume: 46571359, circulating_supply: 1003849608, total_supply: 2002379494",
-          "pump-fun current_price: 0.00417072, price_change_percentage_24h: -3.66, total_volume: 149174859, circulating_supply: 462374957683, total_supply: 827261779054",
-          "blockstack current_price: 0.355014, price_change_percentage_24h: -3.58, total_volume: 21211688, circulating_supply: 1875739468, total_supply: 1875782128"
+          "bitway current_price: 2.01, price_change_percentage_24h: -16.70, total_volume: 43619876, circulating_supply: 1505787514, total_supply: 10000000000",
+          "world-liberty-financial current_price: 0.053931, price_change_percentage_24h: -5.40, total_volume: 45491928, circulating_supply: 31779546603, total_supply: 100000000000",
+          "hedera-hashgraph current_price: 0.082787, price_change_percentage_24h: -2.96, total_volume: 96275569, circulating_supply: 44027157631, total_supply: 50000000000"
         ],
         "point": "币圈：大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接"
       }
     },
     {
-      "id": "crypto-trending-2026-10-19",
+      "id": "crypto-trending-2026-10-20",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "CoinGecko 热搜 · COVENANT +134.60% / DOPE +9.95%",
-      "title_orig": "CoinGecko 热搜 · COVENANT +134.60% / DOPE +9.95%",
+      "title": "CoinGecko 热搜 · PRL +5.14% / QTC -11.00% / BP +3.73%",
+      "title_orig": "CoinGecko 热搜 · PRL +5.14% / QTC -11.00% / BP +3.73%",
       "source": "CoinGecko 公开 API（/search/trending）",
       "source_url": "https://www.coingecko.com/en/highlights/trending-crypto",
       "url": "https://www.coingecko.com/en/highlights/trending-crypto",
-      "published_at": "2026-10-19T00:05:56.593Z",
+      "published_at": "2026-10-20T00:05:55.253Z",
       "tags": [
         "加密",
         "高风险",
@@ -200,30 +246,31 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "散户注意力在往哪转：热搜≠值得买，热搜多是小盘币，波动和流动性风险大",
-        "title": "CoinGecko 热搜 · COVENANT +134.60% / DOPE +9.95%",
+        "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PRL、BP",
+        "title": "CoinGecko 热搜 · PRL +5.14% / QTC -11.00% / BP +3.73%",
         "lines": {
-          "value": "Covenant x402（市值排名 #614）、Doge Pepe（市值排名 #654）、Tetsuo Super Intelligence（市值排名 #875）、Claudia（市值排名 #799）、Boomer（市值排名 #868）、hi（市值排名 #811）、Bitcoin（市值排名 #1）、Pearl（市值排名 #97）、Ethereum（市值排名 #2）、Quantus（市值排名 #651）、Pudgy Penguins（市值排名 #119）、Starknet（市值排名 #120）、Aerodrome Finance（市值排名 #88）、Monad（市值排名 #159）、Stacks（市值排名 #95）",
+          "value": "Pearl（市值排名 #91）、Quantus（市值排名 #695）、Backpack（市值排名 #150）、Pudgy Penguins（市值排名 #118）、Bitcoin（市值排名 #1）、Aerodrome Finance（市值排名 #87）、Cardano（市值排名 #18）、Quack AI（市值排名 #101）、Osmosis（市值排名 #531）、XRP（市值排名 #5）、NEAR Protocol（市值排名 #19）、Bittensor（市值排名 #35）、Ethereum（市值排名 #2）、Sonic（市值排名 #171）",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "covenant-x402 market_cap_rank: 614, price_change_percentage_24h.usd: 134.60",
-          "doge-pepe-3 market_cap_rank: 654, price_change_percentage_24h.usd: 9.95"
+          "pearl-2 market_cap_rank: 91, price_change_percentage_24h.usd: 5.14",
+          "quantus market_cap_rank: 695, price_change_percentage_24h.usd: -11.00",
+          "backpack market_cap_rank: 150, price_change_percentage_24h.usd: 3.73"
         ],
-        "point": "币圈：散户注意力在往哪转：热搜≠值得买，热搜多是小盘币，波动和流动性风险大"
+        "point": "币圈：散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PRL、BP"
       }
     },
     {
-      "id": "crypto-stables-2026-10-18",
+      "id": "crypto-stables-2026-10-19",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "稳定币总量 $304.64B · 7日 -0.47% · 30日 +0.55%",
-      "title_orig": "稳定币总量 $304.64B · 7日 -0.47% · 30日 +0.55%",
+      "title": "稳定币总量 $304.61B · 7日 -0.55% · 30日 +0.35%",
+      "title_orig": "稳定币总量 $304.61B · 7日 -0.55% · 30日 +0.35%",
       "source": "DefiLlama 公开 API（stablecoincharts/all）",
       "source_url": "https://defillama.com/stablecoins",
       "url": "https://defillama.com/stablecoins",
-      "published_at": "2026-10-18T00:00:00.000Z",
+      "published_at": "2026-10-19T00:00:00.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -241,29 +288,29 @@
         "verdict": "worth",
         "verdict_label": "币圈观察",
         "use": "稳定币在收缩：场内资金流出，反弹持续性要打折扣",
-        "title": "稳定币总量 $304.64B · 7日 -0.47% · 30日 +0.55%",
+        "title": "稳定币总量 $304.61B · 7日 -0.55% · 30日 +0.35%",
         "lines": {
-          "value": "7日变化 $-1.43B（数据日 2026-10-18）",
+          "value": "7日变化 $-1.69B（数据日 2026-10-19）",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "date: 1792281600 (2026-10-18), totalCirculatingUSD.peggedUSD: 304638199532",
-          "7 days earlier totalCirculatingUSD.peggedUSD: 306072407520"
+          "date: 1792368000 (2026-10-19), totalCirculatingUSD.peggedUSD: 304605307038",
+          "7 days earlier totalCirculatingUSD.peggedUSD: 306291928561"
         ],
         "point": "币圈：稳定币在收缩：场内资金流出，反弹持续性要打折扣"
       }
     },
     {
-      "id": "crypto-news-LWhhY2tlbi1zYXlz",
+      "id": "crypto-news-0Y29pbi00MTg4OTU",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-      "title_orig": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
-      "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
-      "published_at": "2026-10-18T13:00:00.000Z",
+      "title": "‘We found room for more orange’: Michael Saylor’s Strategy buys another 267 bitcoin for $22 million",
+      "title_orig": "‘We found room for more orange’: Michael Saylor’s Strategy buys another 267 bitcoin for $22 million",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-19-we-found-room-for-more-orange-michael-saylors-strategy-buys-more-bitcoin-418895",
+      "url": "https://www.theblock.co/news/business/2026-10-19-we-found-room-for-more-orange-michael-saylors-strategy-buys-more-bitcoin-418895",
+      "published_at": "2026-10-19T12:10:14.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -280,30 +327,30 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "钱包/协议安全：审计不等于安全，Q3 损失多来自供应链被攻破和修复延迟，持仓涉及的协议先查近期安全通报",
+        "use": "真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考",
         "title": "",
         "lines": {
-          "value": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+          "value": "‘We found room for more orange’: Michael Saylor’s Strategy buys another 267 bitcoin for $22 million",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-          "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews."
+          "‘We found room for more orange’: Michael Saylor’s Strategy buys another 267 bitcoin for $22 million",
+          "Strategy's BTC holdings account for around 4% of the total bitcoin supply, with $5.9 billion in paper gains."
         ],
-        "point": "币圈：安全事件：涉事协议/代币短线有抛压，相关仓位先查是否受影响"
+        "point": "币圈：真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考"
       }
     },
     {
-      "id": "crypto-news-b3Vkcy1vdXRsb29r",
+      "id": "crypto-news-9rZW5zLTQyMTAxOA",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
-      "title_orig": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
-      "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
-      "published_at": "2026-10-18T13:00:00.000Z",
+      "title": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
+      "title_orig": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018",
+      "url": "https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018",
+      "published_at": "2026-10-19T13:36:46.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -320,30 +367,30 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "宏观联动：利率/美元变化正在传导到币价",
+        "use": "真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考",
         "title": "",
         "lines": {
-          "value": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+          "value": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
-          "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market."
+          "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
+          "Bitmine bought 12,535 ETH last week, lifting its treasury to 6.04 million tokens and total investment holdings to $15.1 billion."
         ],
-        "point": "币圈：宏观联动：利率/美元变化正在传导到币价"
+        "point": "币圈：真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考"
       }
     },
     {
-      "id": "crypto-news-11cHRvYmVyLXJlZA",
+      "id": "crypto-news-RuZXJfaW5ib3VuZA",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
-      "title_orig": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
-      "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
-      "published_at": "2026-10-18T15:01:04.000Z",
+      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
+      "title_orig": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
+      "source": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-10-19T16:30:18.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -360,17 +407,98 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "机构资金流向：ETF 资金方向会影响 BTC/ETH 短线承接力",
+        "use": "真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考",
         "title": "",
         "lines": {
-          "value": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+          "value": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
-          "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red."
+          "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
+          "The Bitcoin treasury company added another 1,223 BTC after an earlier purchase pushed it past MARA Holdings, while continuing to expand its reserves through equity financing."
         ],
-        "point": "币圈：机构资金流向：ETF 资金方向会影响 BTC/ETH 短线承接力"
+        "point": "币圈：真实买入/持仓：公司或大户实际落地买卖，短线情绪与跟风参考"
+      }
+    },
+    {
+      "id": "crypto-news-qubic-weak-seeds-20261019",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+      "title_orig": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+      "source": "Cointelegraph",
+      "source_url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-10-19T01:03:27.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "新闻"
+      ],
+      "score": 71,
+      "risk": "high",
+      "lang": "en",
+      "_origin": "crypto",
+      "_crypto_kind": "新闻",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "钱包安全事件：约 1.4K 个弱种子钱包被盗空，Qubic 冻链；自查种子来源，不涉及价格判断",
+        "title": "",
+        "lines": {
+          "value": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+          "step": "自查：助记词/私钥是否由正规钱包随机生成；不要用自己编的短语、脑钱包或来路不明的生成工具",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+          "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan."
+        ],
+        "point": "币圈：Qubic 约 1.4K 个弱种子钱包被盗，已冻链"
+      }
+    },
+    {
+      "id": "crypto-news-VkLWF0LXVzZDEzMQ",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+      "title_orig": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+      "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+      "published_at": "2026-10-19T06:23:16.000Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "新闻"
+      ],
+      "score": 70,
+      "risk": "high",
+      "lang": "en",
+      "_origin": "crypto",
+      "_crypto_kind": "新闻",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "大户/融资动向：资金方向变化，作背景了解",
+        "title": "",
+        "lines": {
+          "value": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+          "A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million."
+        ],
+        "point": "币圈：大户/融资动向：资金方向变化，作背景了解"
       }
     }
   ]

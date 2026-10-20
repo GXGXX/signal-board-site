@@ -1,127 +1,132 @@
 {
   "partition": "ai",
-  "generated_at": "2026-10-19T00:09:05.111Z",
-  "next_update_at": "2026-10-19T01:00:00.000Z",
+  "generated_at": "2026-10-20T00:11:49.555Z",
+  "next_update_at": "2026-10-20T01:00:00.000Z",
   "cap": 30,
   "cards": [
     {
-      "id": "ai-community-ai-reddit-saas-f3d66c10146d",
+      "id": "ai-community-ai-reddit-saas-7e5c0ba8b262",
       "partition": "ai",
       "type": "post",
       "category": "AI变现",
-      "title": "I built a launch video generator SaaS and Generated over $1600+ in revenue.",
-      "summary": "\\- The problem that my creation solves This is the exact story of how I built it, what I spent, how I got my first users, what worked, what failed…",
+      "title": "Almost $500 in revenue this month!",
+      "summary": "Last 4 weeks: $460 gross revenue, 20+ paying customers, ~950 users, $0 ad spend.",
       "source": "r/SaaS",
-      "source_url": "https://www.reddit.com/r/SaaS/comments/1x93pr1/i_built_a_launch_video_generator_saas_and/",
-      "published_at": "2026-10-18T13:50:26.000Z",
+      "source_url": "https://www.reddit.com/r/SaaS/comments/1x9ylom/almost_500_in_revenue_this_month/",
+      "published_at": "2026-10-19T14:36:47.000Z",
       "tags": [
         "reddit",
         "r/SaaS",
         "收入",
-        "踩坑/复盘",
-        "做法"
+        "定价",
+        "用户/流量数",
+        "获客渠道",
+        "踩坑/复盘"
       ],
-      "score": 78,
-      "why": "公开社区帖 · r/SaaS · top/day 第7位 · 原帖含：收入、踩坑/复盘、做法",
-      "deep_link": "https://www.reddit.com/r/SaaS/comments/1x93pr1/i_built_a_launch_video_generator_saas_and/",
+      "score": 91,
+      "why": "公开社区帖 · r/SaaS · top/day 第5位 · 原帖含：收入、定价、用户/流量数、获客渠道、踩坑/复盘",
+      "deep_link": "https://www.reddit.com/r/SaaS/comments/1x9ylom/almost_500_in_revenue_this_month/",
       "extra": {},
-      "blurb": "\\- The problem that my creation solves This is the exact story of how I built it, what I spent, how I got my first users, what worked, what failed…",
-      "url": "https://www.reddit.com/r/SaaS/comments/1x93pr1/i_built_a_launch_video_generator_saas_and/",
-      "name": "I built a launch video generator SaaS and Generated over $1600+ in revenue.",
+      "blurb": "Last 4 weeks: $460 gross revenue, 20+ paying customers, ~950 users, $0 ad spend.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1x9ylom/almost_500_in_revenue_this_month/",
+      "name": "Almost $500 in revenue this month!",
       "lang": "EN",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "evidence_missing": false,
       "_origin": "community_rss",
       "_source_id": "ai-reddit-saas",
-      "title_orig": "I built a launch video generator SaaS and Generated over $1600+ in revenue.",
-      "source_excerpt": "\\- The problem that my creation solves This is the exact story of how I built it, what I spent, how I got my first users, what worked, what failed, and what I would do differently if I were starting again today. And here is the journey of how I made it without any initial capital and reached $1,600+ revenue till date.",
+      "title_orig": "Almost $500 in revenue this month!",
+      "source_excerpt": "Next goal: $500/mo recurring. Last 4 weeks: $460 gross revenue, 20+ paying customers, ~950 users, $0 ad spend. Also tried launching on every platform at once: TikTok signups kept failing, my YouTube channel got taken down on day one. What worked: a $1 3-day trial (filtered out everyone who'd never pay), answering questions in communities without pitching, and talking to users instead of following a roadmap.",
       "_feed_type": "reddit_rss",
       "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-      "_score_raw": 68,
+      "_score_raw": 81,
       "_decay_penalty": 0,
       "_decay_exempt": null,
       "_ai_business": true,
       "_practical_delta": 10,
-      "summary_zh": "\\- The problem that my creation solves This is the exact story of how I built it, what I spent, how I got my first users, what worked, what failed…",
+      "summary_zh": "Last 4 weeks: $460 gross revenue, 20+ paying customers, ~950 users, $0 ad spend.",
       "highlights": [
-        "And here is the journey of how I made it without any…"
+        "Also tried launching on every platform at once…",
+        "What worked: a $1 3-day trial (filtered out everyone who'd…"
       ],
       "summary_source": "fallback",
       "reader": {
         "verdict": "worth",
-        "use": "找副业/创业做法参考时看：自述收入 $1600，含踩坑复盘，含具体做法",
+        "use": "找副业/创业做法参考时看：自述近 4 周 $460 毛收入、20+ 付费用户、$0 广告费；有效做法是 $1 三天试用+社区答疑",
         "lines": {
-          "problem": "原帖这样描述：「\\- The problem that my creation solves This is the exact story of how I built it, what I spent, how I got my first users, what worked, what failed, and what I would do differently if I were starting again today.」",
-          "value": "作者自述收入「$1600」；踩坑/复盘「what worked」；做法「how I built」",
+          "model": "原帖写到：「What worked: a $1 3-day trial (filtered out everyone who'd never pay)」",
+          "value": "作者自述「$460 gross revenue」「20+ paying customers」「~950 users」「$0 ad spend」；没奏效的：TikTok 注册一直失败、YouTube 频道首日被封",
           "note": "数字均为发帖人自述，未经核实"
         },
         "evidence": [
-          "\\- The problem that my creation solves This is the exact story of how I built it, what I spent, how I got my first users, what worked, what failed, and what I would do differently if I were starting again today.",
-          "$1600",
-          "what worked",
-          "how I built"
+          "Last 4 weeks: $460 gross revenue, 20+ paying customers, ~950 users, $0 ad spend.",
+          "What worked: a $1 3-day trial (filtered out everyone who'd never pay), answering questions in communities without pitching, and talking to users instead of following a roadmap.",
+          "TikTok signups kept failing, my YouTube channel got taken down on day one."
         ],
-        "point": "AI副业：自述收入 $1600",
+        "point": "AI副业：自述近 4 周 $460 收入、20+ 付费用户",
         "verdict_label": "值得看",
         "title": ""
       }
     },
     {
-      "id": "ai-community-ai-reddit-saas-8029fcc12100",
+      "id": "ai-community-ai-reddit-entrepreneur-25bf89c3cc50",
       "partition": "ai",
       "type": "post",
       "category": "AI变现",
-      "title": "Rented someone else SaaS and scaled to $3.9k MRR 😅",
-      "summary": "So I tried the opposite...found a SaaS which knows it has customer and offers whitelabeling.",
-      "source": "r/SaaS",
-      "source_url": "https://www.reddit.com/r/SaaS/comments/1x97sm5/rented_someone_else_saas_and_scaled_to_39k_mrr/",
-      "published_at": "2026-10-18T16:41:09.000Z",
+      "title": "How helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
+      "summary": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
+      "source": "r/Entrepreneur",
+      "source_url": "https://www.reddit.com/r/Entrepreneur/comments/1x9uh5m/how_helped_scale_a_travel_agency_from_3000_to/",
+      "published_at": "2026-10-19T11:35:54.000Z",
       "tags": [
         "reddit",
-        "r/SaaS",
+        "r/Entrepreneur",
         "收入",
-        "获客渠道"
+        "定价",
+        "获客渠道",
+        "做法"
       ],
-      "score": 77,
-      "why": "公开社区帖 · r/SaaS · top/day 第2位 · 原帖含：收入、获客渠道",
-      "deep_link": "https://www.reddit.com/r/SaaS/comments/1x97sm5/rented_someone_else_saas_and_scaled_to_39k_mrr/",
+      "score": 86,
+      "why": "公开社区帖 · r/Entrepreneur · top/day 第2位 · 原帖含：收入、定价、获客渠道、做法",
+      "deep_link": "https://www.reddit.com/r/Entrepreneur/comments/1x9uh5m/how_helped_scale_a_travel_agency_from_3000_to/",
       "extra": {},
-      "blurb": "So I tried the opposite...found a SaaS which knows it has customer and offers whitelabeling.",
-      "url": "https://www.reddit.com/r/SaaS/comments/1x97sm5/rented_someone_else_saas_and_scaled_to_39k_mrr/",
-      "name": "Rented someone else SaaS and scaled to $3.9k MRR 😅",
+      "blurb": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1x9uh5m/how_helped_scale_a_travel_agency_from_3000_to/",
+      "name": "How helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
       "lang": "EN",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "evidence_missing": false,
       "_origin": "community_rss",
-      "_source_id": "ai-reddit-saas",
-      "title_orig": "Rented someone else SaaS and scaled to $3.9k MRR 😅",
-      "source_excerpt": "So I tried the opposite...found a SaaS which knows it has customer and offers whitelabeling. Put my brand on it and purely focused on marketing through Linkedin outrach and organic UGC videos (tiktok, IG, YT).",
+      "_source_id": "ai-reddit-entrepreneur",
+      "title_orig": "How helped scale a travel agency from $3,000 to $20,000 in monthly profits within 6 months",
+      "source_excerpt": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years. They were getting around 60-70 qualified inquiries a month from referrals and ads.. Here's how we did it: Six months later it's sitting at around $20k a month. of their WhatsApp chats and after some toiling around on reddit.",
       "_feed_type": "reddit_rss",
       "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-      "_score_raw": 67,
+      "_score_raw": 76,
       "_decay_penalty": 0,
       "_decay_exempt": null,
       "_ai_business": true,
       "_practical_delta": 10,
-      "summary_zh": "So I tried the opposite...found a SaaS which knows it has customer and offers whitelabeling.",
+      "summary_zh": "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
       "highlights": [
-        "Put my brand on it and purely focused on marketing through…"
+        "They were getting around 60-70 qualified inquiries a month…",
+        "Here's how we did it…"
       ],
       "summary_source": "fallback",
       "reader": {
         "verdict": "worth",
-        "use": "找副业/创业做法参考时看：自述收入 $3.9k MRR，渠道 Linkedin",
+        "use": "看给小商家做增长的服务生意：2 人旅行社月利润约 $3k→约 $20k（6 个月，服务方自述）",
         "lines": {
-          "problem": "原帖这样描述：「So I tried the opposite...found a SaaS which knows it has customer and offers whitelabeling.」",
-          "value": "作者自述收入「$3.9k MRR」；获客渠道「Linkedin」",
+          "model": "原帖写到：「It was a two person agency when they came to us doing flights, hotel packages and visa assistance」——发帖人是给客户做增长的服务方",
+          "value": "月利润「around $3k a month」→「around $20k a month」（Six months later）；原有询盘「60-70 qualified inquiries a month from referrals and ads」",
           "note": "数字均为发帖人自述，未经核实"
         },
         "evidence": [
-          "So I tried the opposite...found a SaaS which knows it has customer and offers whitelabeling.",
-          "$3.9k MRR",
-          "Linkedin"
+          "profit had been stuck at around $3k a month after almost two years.",
+          "They were getting around 60-70 qualified inquiries a month from referrals and ads..",
+          "Six months later it's sitting at around $20k a month."
         ],
-        "point": "AI副业：自述收入 $3.9k MRR，渠道 Linkedin",
+        "point": "AI副业：自述收入 $20,000 in monthly profit，渠道 referrals",
         "verdict_label": "值得看",
         "title": ""
       }
@@ -206,159 +211,35 @@
       }
     },
     {
-      "id": "ai-community-ai-reddit-saas-f976b4f17bc2",
+      "id": "ai-community-ai-reddit-saas-87e7760e6cf4",
       "partition": "ai",
       "type": "post",
       "category": "AI变现",
-      "title": "I compared what Levels, Marc Lou, Rob Walling, Justin Welsh and Hormozi actually say about free plans. Almost all of them say skip it.",
-      "summary": "His math is that about 3% of free users upgrade, so at $10/month you need 10,000 free users to make $3,000.",
+      "title": "It took me a year but I have crossed 1M+ impressions finally",
+      "summary": "The next goal is to reach 20k visitors per month, I could not believe I could say something like this as when I launched last year the traffic was 5-10 people only.",
       "source": "r/SaaS",
-      "source_url": "https://www.reddit.com/r/SaaS/comments/1x8zpc0/i_compared_what_levels_marc_lou_rob_walling/",
-      "published_at": "2026-10-18T10:16:18.000Z",
+      "source_url": "https://www.reddit.com/r/SaaS/comments/1x9w2h5/it_took_me_a_year_but_i_have_crossed_1m/",
+      "published_at": "2026-10-19T12:52:10.000Z",
       "tags": [
         "reddit",
         "r/SaaS",
         "用户/流量数",
-        "定价",
-        "踩坑/复盘"
+        "获客渠道"
       ],
-      "score": 82,
-      "why": "公开社区帖 · r/SaaS · top/day 第5位 · 原帖含：用户/流量数、定价、踩坑/复盘",
-      "deep_link": "https://www.reddit.com/r/SaaS/comments/1x8zpc0/i_compared_what_levels_marc_lou_rob_walling/",
+      "score": 77,
+      "why": "公开社区帖 · r/SaaS · top/day 第3位 · 原帖含：用户/流量数、获客渠道",
+      "deep_link": "https://www.reddit.com/r/SaaS/comments/1x9w2h5/it_took_me_a_year_but_i_have_crossed_1m/",
       "extra": {},
-      "blurb": "His math is that about 3% of free users upgrade, so at $10/month you need 10,000 free users to make $3,000.",
-      "url": "https://www.reddit.com/r/SaaS/comments/1x8zpc0/i_compared_what_levels_marc_lou_rob_walling/",
-      "name": "I compared what Levels, Marc Lou, Rob Walling, Justin Welsh and Hormozi actually say about free plans. Almost all of them say skip it.",
+      "blurb": "The next goal is to reach 20k visitors per month, I could not believe I could say something like this as when I launched last year the traffic was 5-10 people only.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1x9w2h5/it_took_me_a_year_but_i_have_crossed_1m/",
+      "name": "It took me a year but I have crossed 1M+ impressions finally",
       "lang": "EN",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "evidence_missing": false,
       "_origin": "community_rss",
       "_source_id": "ai-reddit-saas",
-      "title_orig": "I compared what Levels, Marc Lou, Rob Walling, Justin Welsh and Hormozi actually say about free plans. Almost all of them say skip it.",
-      "source_excerpt": "His math is that about 3% of free users upgrade, so at $10/month you need 10,000 free users to make $3,000. In his survey of nearly 700 bootstrapped SaaS, trials that required a credit card grew about twice as fast as no-card trials and had the lowest churn.",
-      "_feed_type": "reddit_rss",
-      "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-      "_score_raw": 72,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "_ai_business": true,
-      "_practical_delta": 10,
-      "summary_zh": "His math is that about 3% of free users upgrade, so at $10/month you need 10,000 free users to make $3,000.",
-      "highlights": [
-        "In his survey of nearly 700 bootstrapped SaaS…"
-      ],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "save",
-        "use": "避坑时看：数据 10,000 free users，定价 $10/month，含踩坑复盘",
-        "lines": {
-          "model": "原帖写到：「His math is that about 3% of free users upgrade, so at $10/month you need 10,000 free users to make $3,000.」",
-          "value": "数据「10,000 free users」；定价「$10/month」；踩坑/复盘「churn」",
-          "note": "数字均为发帖人自述，未经核实"
-        },
-        "evidence": [
-          "His math is that about 3% of free users upgrade, so at $10/month you need 10,000 free users to make $3,000.",
-          "10,000 free users",
-          "$10/month",
-          "churn"
-        ],
-        "point": "AI副业：数据 10,000 free users",
-        "verdict_label": "收藏",
-        "title": ""
-      }
-    },
-    {
-      "id": "ai-community-ai-reddit-era-1f1fb54ca506",
-      "partition": "ai",
-      "type": "post",
-      "category": "AI变现",
-      "title": "Highs, losses, and a derailed life plan, I need perspective from entrepreneurs who’ve genuinely been through hard times",
-      "summary": "During this same period, my last remaining ecommerce business took a serious hit, dropping from around $50K/year down to about $15K. Fortunately, during this low point…",
-      "source": "r/EntrepreneurRideAlong",
-      "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x94qr7/highs_losses_and_a_derailed_life_plan_i_need/",
-      "published_at": "2026-10-18T14:35:43.000Z",
-      "tags": [
-        "reddit",
-        "r/EntrepreneurRideAlong",
-        "定价",
-        "投入",
-        "踩坑/复盘"
-      ],
-      "score": 79,
-      "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第8位 · 原帖含：定价、投入、踩坑/复盘",
-      "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x94qr7/highs_losses_and_a_derailed_life_plan_i_need/",
-      "extra": {},
-      "blurb": "During this same period, my last remaining ecommerce business took a serious hit, dropping from around $50K/year down to about $15K. Fortunately, during this low point…",
-      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x94qr7/highs_losses_and_a_derailed_life_plan_i_need/",
-      "name": "Highs, losses, and a derailed life plan, I need perspective from entrepreneurs who’ve genuinely been through hard times",
-      "lang": "EN",
-      "posted_at": "2026-10-18",
-      "evidence_missing": false,
-      "_origin": "community_rss",
-      "_source_id": "ai-reddit-era",
-      "title_orig": "Highs, losses, and a derailed life plan, I need perspective from entrepreneurs who’ve genuinely been through hard times",
-      "source_excerpt": "During this same period, my last remaining ecommerce business took a serious hit, dropping from around $50K/year down to about $15K. Fortunately, during this low point, a previous employer reached out with an 8-month ecommerce manager project, paying $30K total. Instead, I made a major mistake, I invested most of my savings into an imported car deal and ended up losing more than half of it.",
-      "_feed_type": "reddit_rss",
-      "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-      "_score_raw": 69,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "_ai_business": true,
-      "_practical_delta": 10,
-      "summary_zh": "During this same period, my last remaining ecommerce business took a serious hit, dropping from around $50K/year down to about $15K. Fortunately, during this low point…",
-      "highlights": [
-        "Instead, I made a major mistake…"
-      ],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "save",
-        "use": "避坑时看：投入 $30K，定价 $50K/year，含踩坑复盘",
-        "lines": {
-          "model": "原帖写到：「During this same period, my last remaining ecommerce business took a serious hit, dropping from around $50K/year down to about $15K.」",
-          "value": "投入「$30K」；定价「$50K/year」；踩坑/复盘「mistake」",
-          "note": "数字均为发帖人自述，未经核实"
-        },
-        "evidence": [
-          "During this same period, my last remaining ecommerce business took a serious hit, dropping from around $50K/year down to about $15K.",
-          "$30K",
-          "$50K/year",
-          "mistake"
-        ],
-        "point": "AI副业：投入 $30K",
-        "verdict_label": "收藏",
-        "title": ""
-      }
-    },
-    {
-      "id": "ai-community-ai-reddit-era-e10dd1fb43c7",
-      "partition": "ai",
-      "type": "post",
-      "category": "AI变现",
-      "title": "launching my first digital product with 0 users, gonna post updates here",
-      "summary": "refund shown right under the buy button where im at: launched, 0 customers. next step is finding the first 10 and seeing what they actually use it for",
-      "source": "r/EntrepreneurRideAlong",
-      "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x8v9zu/launching_my_first_digital_product_with_0_users/",
-      "published_at": "2026-10-18T05:41:35.000Z",
-      "tags": [
-        "reddit",
-        "r/EntrepreneurRideAlong",
-        "用户/流量数",
-        "踩坑/复盘"
-      ],
-      "score": 77,
-      "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第2位 · 原帖含：用户/流量数、踩坑/复盘",
-      "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x8v9zu/launching_my_first_digital_product_with_0_users/",
-      "extra": {},
-      "blurb": "refund shown right under the buy button where im at: launched, 0 customers. next step is finding the first 10 and seeing what they actually use it for",
-      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x8v9zu/launching_my_first_digital_product_with_0_users/",
-      "name": "launching my first digital product with 0 users, gonna post updates here",
-      "lang": "EN",
-      "posted_at": "2026-10-18",
-      "evidence_missing": false,
-      "_origin": "community_rss",
-      "_source_id": "ai-reddit-era",
-      "title_orig": "launching my first digital product with 0 users, gonna post updates here",
-      "source_excerpt": "refund shown right under the buy button where im at: launched, 0 customers. next step is finding the first 10 and seeing what they actually use it for",
+      "title_orig": "It took me a year but I have crossed 1M+ impressions finally",
+      "source_excerpt": "The next goal is to reach 20k visitors per month, I could not believe I could say something like this as when I launched last year the traffic was 5-10 people only. Earlier I focussed on pSEO and building backlinks and from the last couple of months I have started content, a newsletter, and recently started consistently on twitter as well.",
       "_feed_type": "reddit_rss",
       "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
       "_score_raw": 67,
@@ -366,141 +247,24 @@
       "_decay_exempt": null,
       "_ai_business": true,
       "_practical_delta": 10,
-      "summary_zh": "refund shown right under the buy button where im at: launched, 0 customers. next step is finding the first 10 and seeing what they actually use it for",
-      "highlights": [],
-      "summary_source": "fallback",
-      "reader": {
-        "verdict": "save",
-        "use": "避坑时看：数据 0 users，含踩坑复盘",
-        "lines": {
-          "value": "数据「0 users」；踩坑/复盘「refund」",
-          "note": "数字均为发帖人自述，未经核实"
-        },
-        "evidence": [
-          "0 users",
-          "refund"
-        ],
-        "point": "AI副业：数据 0 users",
-        "verdict_label": "收藏",
-        "title": ""
-      }
-    },
-    {
-      "id": "ai-community-ai-reddit-saas-1aa3018115ff",
-      "partition": "ai",
-      "type": "post",
-      "category": "AI变现",
-      "title": "My Struggle So far With My Vivecoded APP!",
-      "summary": "Create a bunch of failed apps ( lifetime 50 - 300 installs ) between 2019-2020 and moved on to affiliate marketing and blogging full time which were doing great for me financially between 2021-2024.",
-      "source": "r/SaaS",
-      "source_url": "https://www.reddit.com/r/SaaS/comments/1x96ej9/my_struggle_so_far_with_my_vivecoded_app/",
-      "published_at": "2026-10-18T15:45:29.000Z",
-      "tags": [
-        "reddit",
-        "r/SaaS",
-        "用户/流量数",
-        "踩坑/复盘",
-        "获客渠道"
-      ],
-      "score": 75,
-      "why": "公开社区帖 · r/SaaS · top/day 第33位 · 原帖含：用户/流量数、踩坑/复盘、获客渠道",
-      "deep_link": "https://www.reddit.com/r/SaaS/comments/1x96ej9/my_struggle_so_far_with_my_vivecoded_app/",
-      "extra": {},
-      "blurb": "Create a bunch of failed apps ( lifetime 50 - 300 installs ) between 2019-2020 and moved on to affiliate marketing and blogging full time which were doing great for me financially between 2021-2024.",
-      "url": "https://www.reddit.com/r/SaaS/comments/1x96ej9/my_struggle_so_far_with_my_vivecoded_app/",
-      "name": "My Struggle So far With My Vivecoded APP!",
-      "lang": "EN",
-      "posted_at": "2026-10-18",
-      "evidence_missing": false,
-      "_origin": "community_rss",
-      "_source_id": "ai-reddit-saas",
-      "title_orig": "My Struggle So far With My Vivecoded APP!",
-      "source_excerpt": "Create a bunch of failed apps ( lifetime 50 - 300 installs ) between 2019-2020 and moved on to affiliate marketing and blogging full time which were doing great for me financially between 2021-2024. WEll a paid user is diffrent than a free one and its diffrent than affiliates where you succesfully refer a customer he or she convert and you cah in the commision thats all.",
-      "_feed_type": "reddit_rss",
-      "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-      "_score_raw": 65,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "_ai_business": true,
-      "_practical_delta": 10,
-      "summary_zh": "Create a bunch of failed apps ( lifetime 50 - 300 installs ) between 2019-2020 and moved on to affiliate marketing and blogging full time which were doing great for me financially between 2021-2024.",
+      "summary_zh": "The next goal is to reach 20k visitors per month, I could not believe I could say something like this as when I launched last year the traffic was 5-10 people only.",
       "highlights": [
-        "WEll a paid user is diffrent than a free one and its…"
+        "Earlier I focussed on pSEO and building backlinks and from…"
       ],
       "summary_source": "fallback",
       "reader": {
         "verdict": "save",
-        "use": "避坑时看：数据 300 installs，渠道 affiliates，含踩坑复盘",
+        "use": "看获客渠道时看：1 年做到 1M+ 曝光（上线时流量只有 5–10 人，自述）；先做 pSEO+外链，近两月加内容/newsletter/Twitter",
         "lines": {
-          "value": "数据「300 installs」；获客渠道「affiliates」；踩坑/复盘「failed」",
+          "value": "数据「1M+ impressions」（用时 1 年）；下个目标「20k visitors per month」；渠道：pSEO、backlinks、content、newsletter、twitter",
           "note": "数字均为发帖人自述，未经核实"
         },
         "evidence": [
-          "300 installs",
-          "affiliates",
-          "failed"
+          "It took me a year but I have crossed 1M+ impressions finally",
+          "when I launched last year the traffic was 5-10 people only.",
+          "Earlier I focussed on pSEO and building backlinks and from the last couple of months I have started content, a newsletter, and recently started consistently on twitter as well."
         ],
-        "point": "AI副业：数据 300 installs，渠道 affiliates",
-        "verdict_label": "收藏",
-        "title": ""
-      }
-    },
-    {
-      "id": "ai-community-ai-hn-show-6bfaaf873eeb",
-      "partition": "ai",
-      "type": "post",
-      "category": "AI变现",
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "summary": "Mac预算应用Pulse Local使用AI模型运行在用户机器上，支持同步银行交易",
-      "source": "Show HN",
-      "source_url": "https://pulseos.finance",
-      "published_at": "2026-10-13T23:13:23.000Z",
-      "tags": [
-        "hacker-news",
-        "Show HN",
-        "定价",
-        "踩坑/复盘"
-      ],
-      "score": 71,
-      "why": "公开社区帖 · Show HN 第19位 · 原帖含：定价、踩坑/复盘",
-      "deep_link": "https://pulseos.finance",
-      "extra": {},
-      "blurb": "Mac预算应用Pulse Local使用AI模型运行在用户机器上，支持同步银行交易",
-      "url": "https://pulseos.finance",
-      "name": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "lang": "EN",
-      "posted_at": "2026-10-13",
-      "evidence_missing": false,
-      "_origin": "community_rss",
-      "_source_id": "ai-hn-show",
-      "title_orig": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "source_excerpt": "An optional Connected mode (Sync Pass, $29/year) syncs US banks through Plaid; transactions pass through our server's memory and are not stored. The write-up covers how we test, the designs that failed, and the limits of the claim: The tuned weights are on Hugging Face (PulseOS/pulse-local-qwen3-0.6b).",
-      "_feed_type": "hn_rss",
-      "_feed_url": "https://hnrss.org/show?points=50",
-      "_score_raw": 61,
-      "_decay_penalty": 0,
-      "_decay_exempt": null,
-      "_ai_business": true,
-      "_practical_delta": 10,
-      "summary_zh": "Mac预算应用Pulse Local使用AI模型运行在用户机器上，支持同步银行交易",
-      "highlights": [
-        "Pulse Local, AI模型, Mac预算应用, Hugging Face"
-      ],
-      "summary_source": "local_llm",
-      "reader": {
-        "verdict": "save",
-        "use": "避坑时看：定价 $29/year，含踩坑复盘",
-        "lines": {
-          "model": "原帖写到：「An optional Connected mode (Sync Pass, $29/year) syncs US banks through Plaid; transactions pass through our server's memory and are not stored.」",
-          "value": "定价「$29/year」；踩坑/复盘「failed」",
-          "note": "数字均为发帖人自述，未经核实"
-        },
-        "evidence": [
-          "An optional Connected mode (Sync Pass, $29/year) syncs US banks through Plaid; transactions pass through our server's memory and are not stored.",
-          "$29/year",
-          "failed"
-        ],
-        "point": "AI副业：定价 $29/year",
+        "point": "AI副业：数据 20k visitors，渠道 newsletter",
         "verdict_label": "收藏",
         "title": ""
       }
@@ -631,12 +395,12 @@
       "summary_source": "local_llm",
       "reader": {
         "verdict": "save",
-        "use": "找 AI 副业方向时看：公开收入 $1,000",
+        "use": "找 AI 副业方向时看：21 岁做出日入 $1,000 的网站，并以 $120,000 卖出（播客访谈）",
         "lines": {
-          "value": "真实收入数字（$1,000）"
+          "value": "真实收入数字（日入 $1,000；售价 $120,000）"
         },
         "evidence": [
-          "generating $1,000"
+          "At 21, Maddox has already built a website generating $1,000 per day and sold it for $120,000."
         ],
         "point": "AI副业：有人公开收入 $1,000",
         "concrete": [
@@ -655,7 +419,7 @@
       "type": "post",
       "category": "AI变现",
       "title": "How Besmir Bregasi Built ZeroRank in 3 Months and Reached Mid-Six Figures in ARR",
-      "summary": "零排名创始人Bregasi在3个月内实现ARR60万，分享影响品牌在ChatGPT等LLM搜索体验中被引用的关键因素。",
+      "summary": "In this episode, Besmir Bregasi and I discuss what appears to influence whether brands get cited in ChatGPT, Google AI Overviews, and other LLM-driven search experiences in 2026.",
       "source": "@nichepursuits / Niche Pursuits",
       "source_url": "https://www.nichepursuits.com/besmir-bregasi/",
       "published_at": "2026-09-23T14:02:08.000Z",
@@ -669,7 +433,7 @@
       "why": "独立/Agent：公开营收、indie；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
       "deep_link": "https://www.nichepursuits.com/besmir-bregasi/",
       "extra": {},
-      "blurb": "零排名创始人Bregasi在3个月内实现ARR60万，分享影响品牌在ChatGPT等LLM搜索体验中被引用的关键因素。",
+      "blurb": "In this episode, Besmir Bregasi and I discuss what appears to influence whether brands get cited in ChatGPT, Google AI Overviews, and other LLM-driven search experiences in 2026.",
       "url": "https://www.nichepursuits.com/besmir-bregasi/",
       "handle": "nichepursuits",
       "name": "Niche Pursuits",
@@ -691,21 +455,19 @@
       "_decay_exempt": null,
       "_ai_business": true,
       "_practical_delta": 10,
-      "summary_zh": "零排名创始人Bregasi在3个月内实现ARR60万，分享影响品牌在ChatGPT等LLM搜索体验中被引用的关键因素。",
-      "highlights": [
-        "3个月",
-        "ARR60万",
-        "影响品牌被引用的关键因素"
-      ],
-      "summary_source": "local_llm",
+      "summary_zh": "In this episode, Besmir Bregasi and I discuss what appears to influence whether brands get cited in ChatGPT, Google AI Overviews, and other LLM-driven search experiences in 2026.",
+      "highlights": [],
+      "summary_source": "original_first_sentence",
       "reader": {
         "verdict": "save",
-        "use": "找 AI 副业方向时看：公开规模「Mid-Six Figures in ARR」",
+        "use": "找 AI 副业方向时看：3 个月做出 ZeroRank，公开规模「Mid-Six Figures in ARR」；方向是品牌在 ChatGPT/AI 搜索里的被引用可见度",
         "lines": {
-          "value": "真实收入数字（公开规模「Mid-Six Figures in ARR」）"
+          "value": "公开规模「Mid-Six Figures in ARR」（原文未给精确数字）",
+          "problem": "品牌在 ChatGPT、Google AI Overviews 等 AI 搜索里能不能被引用"
         },
         "evidence": [
-          "Reached Mid-Six Figures in ARR"
+          "How Besmir Bregasi Built ZeroRank in 3 Months and Reached Mid-Six Figures in ARR",
+          "what appears to influence whether brands get cited in ChatGPT, Google AI Overviews, and other LLM-driven search experiences in 2026."
         ],
         "point": "AI副业：公开规模「Mid-Six Figures in ARR」",
         "concrete": [
@@ -724,7 +486,7 @@
       "type": "post",
       "category": "AI变现",
       "title": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!! Insane story, and they wr",
-      "summary": "搜索引擎营销（SEO）已经死亡，连发明它的公司也不例外。@kippbodnar指出，HubSpot在一年内失去了约1.4亿次搜索访问。这是一个疯狂的故事，他们还写了一本书来解释如何适应。简而言之，这是YouTube和有机地出现在大型语言模…",
+      "summary": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!!",
       "source": "@thepatwalls / Pat Walls",
       "source_url": "https://x.com/thepatwalls/status/2102384016661844445",
       "published_at": "2026-09-22T13:06:24.000Z",
@@ -739,7 +501,7 @@
       "why": "独立/Agent：公开营收、indie；策展：长期发布带营收数字的真实创业案例（做了什么、卖给谁、怎么赚钱）。",
       "deep_link": "https://x.com/thepatwalls/status/2102384016661844445",
       "extra": {},
-      "blurb": "搜索引擎营销（SEO）已经死亡，连发明它的公司也不例外。@kippbodnar指出，HubSpot在一年内失去了约1.4亿次搜索访问。这是一个疯狂的故事，他们还写了一本书来解释如何适应。简而言之，这是YouTube和有机地出现在大型语言模…",
+      "blurb": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!!",
       "url": "https://x.com/thepatwalls/status/2102384016661844445",
       "handle": "thepatwalls",
       "name": "Pat Walls",
@@ -755,14 +517,14 @@
         "According to @kippbodnar, HubSpot lost …",
         "Insane story, and they wrote a book abo…"
       ],
-      "summary_zh": "搜索引擎营销（SEO）已经死亡，连发明它的公司也不例外。@kippbodnar指出，HubSpot在一年内失去了约1.4亿次搜索访问。这是一个疯狂的故事，他们还写了一本书来解释如何适应。简而言之，这是YouTube和有机地出现在大型语言模…",
-      "summary_source": "local_llm",
+      "summary_zh": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!!",
+      "summary_source": "original_first_sentence",
       "person_id": "thepatwalls",
       "person_handle": "thepatwalls",
       "person_name": "Pat Walls",
       "_feed_type": "x_api",
       "_feed_url": "x://api/users/thepatwalls/tweets",
-      "_score_raw": 4,
+      "_score_raw": 0,
       "_decay_penalty": 8,
       "_decay_exempt": null,
       "_ai_business": true,
