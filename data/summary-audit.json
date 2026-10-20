@@ -1,8 +1,98 @@
 {
-  "updated_at": "2026-10-20T00:11:49.555Z",
+  "updated_at": "2026-10-20T04:08:00.305Z",
   "note": "摘要/用途行数字核对：生成的中文里出现的数字、金额、比例、周期必须能在原文（标题+摘要+正文）找到；找不到的该行被拦下，改用规则摘要（原文原句）。stage: llm_output=模型刚生成即被拒；final_pass=缓存或其它路径的摘要被兜底拦下；reader=用途行/要点行。",
-  "last_run_blocked": 0,
+  "last_run_blocked": 6,
   "entries": [
+    {
+      "stage": "final_pass",
+      "partition": "invest",
+      "url": "https://www.panewslab.com/zh/articles/01a15778-0675-775f-87f5-b59a7bd2c8e8",
+      "title": "比特币现货 ETF 昨日总净流入 5.27 亿美元，仅贝莱德 IBIT 实现净流入",
+      "field": "highlights",
+      "rejected": "昨日单日净流入最多的比特币现货 ETF 为贝莱德 (Blackrock） ETF IBIT，单日净流入为 6.65…",
+      "unsupported": [
+        "6.65"
+      ],
+      "replacement": null,
+      "first_seen": "2026-10-20T04:07:59.517Z",
+      "last_seen": "2026-10-20T04:08:00.305Z",
+      "seen_count": 2
+    },
+    {
+      "stage": "final_pass",
+      "partition": "invest",
+      "url": "https://www.panewslab.com/zh/articles/01a15778-0675-775f-87f5-b59a7bd2c8e8",
+      "title": "比特币现货 ETF 昨日总净流入 5.27 亿美元，仅贝莱德 IBIT 实现净流入",
+      "field": "highlights",
+      "rejected": "昨日单日净流出最多的比特币现货 ETF 为富达 (Fidelity） ETF FBTC，单日净流出为 8363.15…",
+      "unsupported": [
+        "8363.15"
+      ],
+      "replacement": null,
+      "first_seen": "2026-10-20T04:07:59.517Z",
+      "last_seen": "2026-10-20T04:08:00.305Z",
+      "seen_count": 2
+    },
+    {
+      "stage": "final_pass",
+      "partition": "invest",
+      "url": "https://www.panewslab.com/zh/articles/01a15777-87d0-73a1-a22b-a07532aeecc9",
+      "title": "以太坊现货 ETF 昨日总净流出 1.03 亿美元，持续 4 日净流出",
+      "field": "highlights",
+      "rejected": "昨日单日净流出最多的以太坊现货 ETF 为贝莱德（Blackrock） ETF ETHA，单日净流出为 9539.53…",
+      "unsupported": [
+        "9539.53"
+      ],
+      "replacement": null,
+      "first_seen": "2026-10-20T04:07:59.517Z",
+      "last_seen": "2026-10-20T04:08:00.305Z",
+      "seen_count": 2
+    },
+    {
+      "stage": "final_pass",
+      "partition": "invest",
+      "url": "https://www.panewslab.com/zh/articles/01a156e7-ea47-7338-abcd-8461b0090810",
+      "title": "美国 ZEC 现货 ETF 单日净流出 1044.72 万美元，NEAR 现货 ETF 净流入 541.84 万美元",
+      "field": "highlights",
+      "rejected": "截至发稿前，ZEC 现货 ETF 总资产净值为 6.02 亿美元，净资产比率为 3.15%，历史累计净流入为 1.52…",
+      "unsupported": [
+        "1.52"
+      ],
+      "replacement": null,
+      "first_seen": "2026-10-20T04:07:59.517Z",
+      "last_seen": "2026-10-20T04:08:00.305Z",
+      "seen_count": 2
+    },
+    {
+      "stage": "final_pass",
+      "partition": "invest",
+      "url": "https://www.panewslab.com/zh/articles/01a156e7-ea47-7338-abcd-8461b0090810",
+      "title": "美国 ZEC 现货 ETF 单日净流出 1044.72 万美元，NEAR 现货 ETF 净流入 541.84 万美元",
+      "field": "highlights",
+      "rejected": "NEAR 方面，当日仅 Bitwise NEAR ETF（NRR）录得净流入，金额为 541.84…",
+      "unsupported": [
+        "541.84"
+      ],
+      "replacement": null,
+      "first_seen": "2026-10-20T04:07:59.517Z",
+      "last_seen": "2026-10-20T04:08:00.305Z",
+      "seen_count": 2
+    },
+    {
+      "stage": "final_pass",
+      "partition": "invest",
+      "url": "https://www.panewslab.com/zh/articles/01a156e7-2dfd-70aa-b782-1e8229744da3",
+      "title": "美国 SOL 现货 ETF 单日总净流出 672.15 万美元",
+      "field": "highlights",
+      "rejected": "其次为 Fidelity Solana Fund ETF(FSOL)，单日净流出 183.99…",
+      "unsupported": [
+        "183.99"
+      ],
+      "replacement": null,
+      "first_seen": "2026-10-20T04:07:59.517Z",
+      "last_seen": "2026-10-20T04:08:00.305Z",
+      "seen_count": 2
+    },
     {
       "stage": "llm_output",
       "partition": "invest",

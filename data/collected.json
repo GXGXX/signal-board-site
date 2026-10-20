@@ -1,6 +1,6 @@
 {
   "meta": {
-    "collected_at": "2026-10-20T00:09:55.941Z",
+    "collected_at": "2026-10-20T04:07:59.205Z",
     "ok": [
       {
         "id": "hitmarker_sitemap",
@@ -12,9 +12,9 @@
           "noise_role": 0,
           "no_geo_low_role": 0,
           "below_threshold": 0,
-          "location_out_of_range": 194,
+          "location_out_of_range": 195,
           "page_unreadable": 0,
-          "too_old": 46
+          "too_old": 45
         }
       },
       {
@@ -30,15 +30,95 @@
       },
       {
         "id": "netease_api",
-        "count": 21,
+        "count": 25,
         "rejected": {
           "hub_or_junk": 0,
-          "no_role_signal": 6,
+          "no_role_signal": 12,
           "noise_role": 0,
           "no_geo_low_role": 0,
-          "below_threshold": 0,
+          "below_threshold": 2,
           "intern": 15,
           "off_target_title": 16
+        }
+      },
+      {
+        "id": "riot_gh",
+        "count": 4,
+        "scanned": 176,
+        "rejected": {
+          "off_role": 172
+        }
+      },
+      {
+        "id": "scopely_gh",
+        "count": 10,
+        "scanned": 171,
+        "rejected": {
+          "off_role": 161
+        }
+      },
+      {
+        "id": "krafton_gh",
+        "count": 1,
+        "scanned": 53,
+        "rejected": {
+          "off_role": 52
+        }
+      },
+      {
+        "id": "playtika_gh",
+        "count": 1,
+        "scanned": 14,
+        "rejected": {
+          "off_role": 13
+        }
+      },
+      {
+        "id": "supercell_ashby",
+        "count": 3,
+        "scanned": 38,
+        "rejected": {
+          "off_role": 35
+        }
+      },
+      {
+        "id": "moonactive_ashby",
+        "count": 2,
+        "scanned": 34,
+        "rejected": {
+          "off_role": 32
+        }
+      },
+      {
+        "id": "hoyoverse_ashby",
+        "count": 0,
+        "scanned": 33,
+        "rejected": {
+          "off_role": 33
+        }
+      },
+      {
+        "id": "hoyoverse_sr",
+        "count": 1,
+        "scanned": 11,
+        "rejected": {
+          "off_role": 10
+        }
+      },
+      {
+        "id": "ubisoft_sr",
+        "count": 3,
+        "scanned": 139,
+        "rejected": {
+          "off_role": 136
+        }
+      },
+      {
+        "id": "animoca_lever",
+        "count": 0,
+        "scanned": 12,
+        "rejected": {
+          "off_role": 12
         }
       },
       {
@@ -70,6 +150,104 @@
         "rejected": 10
       },
       {
+        "id": "zh-sspai",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 10,
+        "rejected": 10
+      },
+      {
+        "id": "zh-qbitai",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 10,
+        "rejected": 10
+      },
+      {
+        "id": "zh-36kr",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 30,
+        "rejected": 30
+      },
+      {
+        "id": "zh-huxiu",
+        "partition": "ai",
+        "count": 2,
+        "scanned": 58,
+        "rejected": 56
+      },
+      {
+        "id": "zh-ifanr",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 20,
+        "rejected": 20
+      },
+      {
+        "id": "zh-woshipm",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 15,
+        "rejected": 15
+      },
+      {
+        "id": "zh-geekpark",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 30,
+        "rejected": 30
+      },
+      {
+        "id": "zh-leiphone",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 20,
+        "rejected": 20
+      },
+      {
+        "id": "zh-v2ex-create",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 50,
+        "rejected": 50
+      },
+      {
+        "id": "zh-tmtpost",
+        "partition": "ai",
+        "count": 3,
+        "scanned": 20,
+        "rejected": 17
+      },
+      {
+        "id": "zh-infoq",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 20,
+        "rejected": 20
+      },
+      {
+        "id": "zh-wscn-live",
+        "partition": "invest",
+        "count": 5,
+        "scanned": 25,
+        "rejected": 20
+      },
+      {
+        "id": "zh-panews",
+        "partition": "invest",
+        "count": 6,
+        "scanned": 100,
+        "rejected": 85
+      },
+      {
+        "id": "zh-v2ex-invest",
+        "partition": "invest",
+        "count": 1,
+        "scanned": 50,
+        "rejected": 49
+      },
+      {
         "id": "ai-reddit-saas",
         "partition": "ai",
         "count": 4,
@@ -87,8 +265,8 @@
         "id": "ai-reddit-era",
         "partition": "ai",
         "count": 0,
-        "scanned": 15,
-        "rejected": 15
+        "scanned": 14,
+        "rejected": 14
       },
       {
         "id": "ai-reddit-entrepreneur",
@@ -101,8 +279,8 @@
         "id": "ai-hn-frontpage",
         "partition": "ai",
         "count": 0,
-        "scanned": 16,
-        "rejected": 16
+        "scanned": 13,
+        "rejected": 13
       },
       {
         "id": "ai-hn-show",
@@ -114,16 +292,16 @@
       {
         "id": "invest-reddit-debtfree",
         "partition": "invest",
-        "count": 0,
-        "scanned": 66,
-        "rejected": 66
+        "count": 2,
+        "scanned": 72,
+        "rejected": 70
       },
       {
         "id": "invest-reddit-ynab",
         "partition": "invest",
         "count": 1,
-        "scanned": 34,
-        "rejected": 33
+        "scanned": 28,
+        "rejected": 27
       },
       {
         "id": "kol:levelsio",
@@ -146,16 +324,6 @@
         "count": 1
       },
       {
-        "id": "kol:charliebilello",
-        "partition": "kol",
-        "count": 1
-      },
-      {
-        "id": "kol:LynAldenContact",
-        "partition": "kol",
-        "count": 1
-      },
-      {
         "id": "kol:VitalikButerin",
         "partition": "kol",
         "count": 1
@@ -167,16 +335,6 @@
       },
       {
         "id": "kol:MarkManson",
-        "partition": "kol",
-        "count": 1
-      },
-      {
-        "id": "kol:dannypostmaa",
-        "partition": "kol",
-        "count": 1
-      },
-      {
-        "id": "kol:damengchen",
         "partition": "kol",
         "count": 1
       },
@@ -227,11 +385,6 @@
       },
       {
         "id": "kol:I_Am_The_ICT",
-        "partition": "kol",
-        "count": 1
-      },
-      {
-        "id": "kol:TTrades_edu",
         "partition": "kol",
         "count": 1
       },
@@ -347,12 +500,32 @@
         "error": "html_list_empty_or_blocked;HTTP 404;HTTP 404;HTTP 404"
       },
       {
+        "id": "kol:charliebilello",
+        "error": "HTTP 500;HTTP 404;HTTP 404;HTTP 404;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha"
+      },
+      {
+        "id": "kol:LynAldenContact",
+        "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha"
+      },
+      {
         "id": "kol:farnamstreet",
         "error": "HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403"
       },
       {
+        "id": "kol:dannypostmaa",
+        "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked"
+      },
+      {
+        "id": "kol:damengchen",
+        "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;html_list_empty_or_blocked;HTTP 404;HTTP 404;HTTP 404"
+      },
+      {
         "id": "kol:morganhousel",
         "error": "fetch failed;fetch failed;fetch failed;fetch failed;fetch failed;fetch failed;fetch failed;fetch failed"
+      },
+      {
+        "id": "kol:TTrades_edu",
+        "error": "HTTP 404;HTTP 500;HTTP 404;HTTP 404"
       },
       {
         "id": "kol:gregisenberg",
@@ -369,15 +542,16 @@
     ],
     "rejected": {
       "hub_or_junk": 0,
-      "no_role_signal": 20,
+      "no_role_signal": 26,
       "noise_role": 0,
       "no_geo_low_role": 0,
-      "below_threshold": 5,
-      "location_out_of_range": 194,
+      "below_threshold": 7,
+      "location_out_of_range": 195,
       "page_unreadable": 0,
-      "too_old": 46,
+      "too_old": 45,
       "intern": 15,
       "off_target_title": 16,
+      "blacklist": 0,
       "rss_reasons": {
         "ai_no_practice_signal": 28,
         "growth_no_pillar": 14,
@@ -385,10 +559,10 @@
       }
     },
     "score_threshold": 40,
-    "kept": 47,
+    "kept": 84,
     "articles_kept": {
-      "ai": 65,
-      "invest": 91,
+      "ai": 71,
+      "invest": 104,
       "growth": 60
     },
     "rss_rejects_sample": [
@@ -794,14 +968,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:51d",
-            "too_old:131d",
-            "too_old:326d",
+            "too_old:52d",
+            "too_old:132d",
+            "too_old:327d",
             "too_old:375d",
             "too_old:491d",
             "too_old:685d",
             "too_old:696d",
-            "too_old:815d"
+            "too_old:816d"
           ]
         },
         "lxfater": {
@@ -867,8 +1041,8 @@
           "drop_reasons": [
             "too_old:81d",
             "too_old:230d",
-            "too_old:252d",
-            "too_old:259d",
+            "too_old:253d",
+            "too_old:260d",
             "too_old:277d",
             "too_old:475d",
             "too_old:507d",
@@ -878,61 +1052,174 @@
         "charliebilello": {
           "ok": true,
           "partition": "invest",
-          "feed_ok": {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
-            "type": "youtube_rss",
-            "scanned": 15
-          },
+          "feed_ok": null,
           "feeds_tried": [
             {
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
               "type": "youtube_rss",
-              "ok": true,
-              "scanned": 15
+              "ok": false,
+              "error": "HTTP 500"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://bilello.blog/feed/",
+              "type": "blog_rss",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.bilello.blog/feed/",
+              "type": "blog_rss",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://bilello.blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://bilello.blog/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://bilello.blog/archive",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://bilello.blog/archive?sort=new",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.bilello.blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.bilello.blog/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
             }
           ],
           "kept": 0,
-          "dropped": 15,
+          "dropped": 0,
           "fallback": true,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
-          "drop_reasons": [
-            "too_old:795d",
-            "too_old:802d",
-            "too_old:823d",
-            "too_old:844d",
-            "too_old:847d",
-            "too_old:853d",
-            "too_old:908d",
-            "too_old:915d"
-          ]
+          "drop_reasons": []
         },
         "LynAldenContact": {
           "ok": true,
           "partition": "invest",
-          "feed_ok": {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
-            "type": "youtube_rss",
-            "scanned": 1
-          },
+          "feed_ok": null,
           "feeds_tried": [
             {
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
               "type": "youtube_rss",
-              "ok": true,
-              "scanned": 1
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.lynalden.com/feed/",
+              "type": "blog_rss",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://lynalden.com/feed/",
+              "type": "blog_rss",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.lynalden.com/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.lynalden.com/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.lynalden.com/archive",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.lynalden.com/archive?sort=new",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://lynalden.com/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://lynalden.com/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
             }
           ],
           "kept": 0,
-          "dropped": 1,
+          "dropped": 0,
           "fallback": true,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
-          "drop_reasons": [
-            "too_old:904d"
-          ]
+          "drop_reasons": []
         },
         "VitalikButerin": {
           "ok": true,
@@ -992,7 +1279,7 @@
           "drop_reasons": [
             "too_old:325d",
             "too_old:328d",
-            "too_old:396d",
+            "too_old:397d",
             "too_old:503d",
             "too_old:585d",
             "too_old:621d",
@@ -1089,7 +1376,7 @@
             "too_old:304d",
             "too_old:311d",
             "too_old:318d",
-            "too_old:893d",
+            "too_old:894d",
             "too_old:954d",
             "too_old:970d",
             "too_old:998d"
@@ -1098,57 +1385,126 @@
         "dannypostmaa": {
           "ok": true,
           "partition": "ai",
-          "feed_ok": {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-            "type": "youtube_rss",
-            "scanned": 2
-          },
+          "feed_ok": null,
           "feeds_tried": [
             {
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
               "type": "youtube_rss",
-              "ok": true,
-              "scanned": 2
-            }
-          ],
-          "kept": 1,
-          "dropped": 1,
-          "fallback": false,
-          "used_last_good": false,
-          "html_list": null,
-          "x_api": null,
-          "drop_reasons": [
-            "too_old:66d"
-          ]
-        },
-        "damengchen": {
-          "ok": true,
-          "partition": "ai",
-          "feed_ok": {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-            "type": "youtube_rss",
-            "scanned": 4
-          },
-          "feeds_tried": [
+              "ok": false,
+              "error": "HTTP 404"
+            },
             {
-              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+              "url": "https://youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
               "type": "youtube_rss",
-              "ok": true,
-              "scanned": 4
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.dannypostma.com/",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://www.dannypostma.com/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://www.dannypostma.com/archive",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://www.dannypostma.com/archive?sort=new",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
             }
           ],
           "kept": 0,
-          "dropped": 4,
+          "dropped": 0,
           "fallback": true,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
-          "drop_reasons": [
-            "too_old:961d",
-            "too_old:975d",
-            "too_old:979d",
-            "too_old:985d"
-          ]
+          "drop_reasons": []
+        },
+        "damengchen": {
+          "ok": true,
+          "partition": "ai",
+          "feed_ok": null,
+          "feeds_tried": [
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://damon.vc/",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://damon.vc/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://damon.vc/archive",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://damon.vc/archive?sort=new",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 404"
+            }
+          ],
+          "kept": 0,
+          "dropped": 0,
+          "fallback": true,
+          "used_last_good": false,
+          "html_list": null,
+          "x_api": null,
+          "drop_reasons": []
         },
         "morganhousel": {
           "ok": true,
@@ -1467,7 +1823,7 @@
             "too_old:109d",
             "too_old:140d",
             "too_old:143d",
-            "too_old:143d",
+            "too_old:144d",
             "too_old:145d",
             "too_old:161d",
             "too_old:168d",
@@ -1501,22 +1857,36 @@
         "TTrades_edu": {
           "ok": true,
           "partition": "invest",
-          "feed_ok": {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
-            "type": "youtube_rss",
-            "scanned": 15
-          },
+          "feed_ok": null,
           "feeds_tried": [
             {
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
               "type": "youtube_rss",
-              "ok": true,
-              "scanned": 15
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 500"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
             }
           ],
-          "kept": 2,
+          "kept": 0,
           "dropped": 0,
-          "fallback": false,
+          "fallback": true,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
@@ -1538,15 +1908,13 @@
               "scanned": 10
             }
           ],
-          "kept": 7,
-          "dropped": 1,
+          "kept": 8,
+          "dropped": 0,
           "fallback": false,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
-          "drop_reasons": [
-            "too_old:52d"
-          ]
+          "drop_reasons": []
         },
         "ritholtz": {
           "ok": true,
@@ -2021,13 +2389,13 @@
           "x_api": null,
           "drop_reasons": [
             "too_old:186d",
-            "too_old:307d",
-            "too_old:377d",
+            "too_old:308d",
+            "too_old:378d",
             "too_old:493d",
             "too_old:601d",
             "too_old:641d",
             "too_old:736d",
-            "too_old:817d"
+            "too_old:818d"
           ]
         },
         "askamanager": {
@@ -2204,18 +2572,6 @@
           "type": "blog_rss"
         },
         {
-          "handle": "charliebilello",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
-          "scanned": 15,
-          "type": "youtube_rss"
-        },
-        {
-          "handle": "LynAldenContact",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
-          "scanned": 1,
-          "type": "youtube_rss"
-        },
-        {
           "handle": "VitalikButerin",
           "url": "https://vitalik.eth.limo/feed.xml",
           "scanned": 20,
@@ -2232,18 +2588,6 @@
           "url": "https://markmanson.net/feed",
           "scanned": 10,
           "type": "blog_rss"
-        },
-        {
-          "handle": "dannypostmaa",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-          "scanned": 2,
-          "type": "youtube_rss"
-        },
-        {
-          "handle": "damengchen",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-          "scanned": 4,
-          "type": "youtube_rss"
         },
         {
           "handle": "dollarsanddata",
@@ -2302,12 +2646,6 @@
         {
           "handle": "I_Am_The_ICT",
           "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjxa77NqamhVC8atV85Rog",
-          "scanned": 15,
-          "type": "youtube_rss"
-        },
-        {
-          "handle": "TTrades_edu",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
           "scanned": 15,
           "type": "youtube_rss"
         },
@@ -2443,6 +2781,40 @@
           ]
         },
         {
+          "handle": "charliebilello",
+          "errors": [
+            "HTTP 500",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha"
+          ]
+        },
+        {
+          "handle": "LynAldenContact",
+          "errors": [
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha"
+          ]
+        },
+        {
           "handle": "farnamstreet",
           "errors": [
             "HTTP 403",
@@ -2456,6 +2828,32 @@
           ]
         },
         {
+          "handle": "dannypostmaa",
+          "errors": [
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "html_list_empty_or_blocked",
+            "html_list_empty_or_blocked",
+            "html_list_empty_or_blocked",
+            "html_list_empty_or_blocked"
+          ]
+        },
+        {
+          "handle": "damengchen",
+          "errors": [
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "html_list_empty_or_blocked",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404"
+          ]
+        },
+        {
           "handle": "morganhousel",
           "errors": [
             "fetch failed",
@@ -2466,6 +2864,15 @@
             "fetch failed",
             "fetch failed",
             "fetch failed"
+          ]
+        },
+        {
+          "handle": "TTrades_edu",
+          "errors": [
+            "HTTP 404",
+            "HTTP 500",
+            "HTTP 404",
+            "HTTP 404"
           ]
         },
         {
@@ -2497,9 +2904,9 @@
           ]
         }
       ],
-      "posts_kept": 187,
-      "posts_dropped": 219,
-      "fallbacks": 17,
+      "posts_kept": 185,
+      "posts_dropped": 197,
+      "fallbacks": 19,
       "last_good_reused": 1,
       "html_list_ok": [
         {
@@ -2509,7 +2916,9 @@
       ],
       "x_api_ok": [],
       "residual_403_hosts": [
+        "bilello.blog",
         "fs.blog",
+        "lynalden.com",
         "nathanbarry.com"
       ],
       "sample_kept": [
@@ -2532,46 +2941,46 @@
           "url": "https://vitalik.ca/general/2026/09/27/the_cryptographic_world_computer.html"
         },
         {
-          "handle": "dannypostmaa",
-          "title": "How I Stopped AI From Designing Ugly Landing Pages (Free Skill)",
-          "published_at": "2026-09-04T06:17:07.000Z",
-          "url": "https://www.youtube.com/watch?v=EMXJCSx5q60"
-        },
-        {
           "handle": "dollarsanddata",
           "title": "Who Got Richer Since 2022?",
           "published_at": "2026-10-13T11:45:36.000Z",
           "url": "https://ofdollarsanddata.com/who-got-richer-since-2022/"
+        },
+        {
+          "handle": "PutThisOn",
+          "title": "Inside Track: October 4th – October 10th Edition",
+          "published_at": "2026-10-13T01:34:18.000Z",
+          "url": "https://putthison.com/inside-track-october-4th-october-10th-edition-2/"
         }
       ]
     },
     "community_rss": {
       "enabled": true,
-      "elapsed_ms": 92696,
-      "kept": 6,
+      "elapsed_ms": 85149,
+      "kept": 8,
       "report": [
         {
           "id": "ai-reddit-saas",
           "url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
           "ok": true,
           "status": 200,
-          "attempts": 2,
-          "ms": 31694,
+          "attempts": 1,
+          "ms": 608,
           "scanned": 40,
           "kept": 4,
           "rejects": {
-            "body_too_short": 7,
-            "question": 17,
+            "body_too_short": 6,
+            "question": 16,
             "no_body": 2,
-            "no_numeric_fact": 6,
-            "help_seeking": 3,
-            "single_fact_kind": 1
+            "single_fact_kind": 2,
+            "help_seeking": 2,
+            "no_numeric_fact": 8
           },
           "error": null,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
-            "reset": "59"
+            "reset": "23"
           },
           "reject_samples": [
             {
@@ -2580,23 +2989,23 @@
             },
             {
               "reason": "question",
-              "title": "How are you all tracking when competitors change their pricing page?"
+              "title": "Have the “replace in a weekend crowd” never heard of open source?"
             },
             {
               "reason": "question",
               "title": "How did you get your first 10 B2B SaaS users? (Struggling after transitioning fr"
             },
             {
+              "reason": "question",
+              "title": "How are you all tracking when competitors change their pricing page?"
+            },
+            {
               "reason": "no_body",
               "title": "How did you get your first 10 paying customers?"
             },
             {
-              "reason": "question",
-              "title": "What did you do to scale once you got your first few paying users?"
-            },
-            {
-              "reason": "question",
-              "title": "Saas is dead, how can you save your saas from not being replicated or some dude "
+              "reason": "single_fact_kind",
+              "title": "Context.dev: bootstrapped to YC and a $9M seed round"
             }
           ],
           "partition": "ai"
@@ -2630,22 +3039,18 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 15,
+          "scanned": 14,
           "kept": 0,
           "rejects": {
-            "help_seeking": 3,
             "no_numeric_fact": 8,
             "question": 2,
-            "spam_or_promo_body": 1,
+            "help_seeking": 1,
+            "spam_or_promo_body": 2,
             "single_fact_kind": 1
           },
           "error": null,
           "shared_request": true,
           "reject_samples": [
-            {
-              "reason": "help_seeking",
-              "title": "25 years old, making $150k–$185k in business lending, and considering starting m"
-            },
             {
               "reason": "no_numeric_fact",
               "title": "Selling my business."
@@ -2655,16 +3060,20 @@
               "title": "Launching a controversial startup (which deals with Resurrection. Yes) I've enco"
             },
             {
-              "reason": "no_numeric_fact",
-              "title": "Barrier to Entry....."
-            },
-            {
               "reason": "question",
               "title": "What’s the most misleading growth metric you’ve seen a B2B company celebrate?"
             },
             {
               "reason": "help_seeking",
               "title": "i need help figuring out how to set up sales tax so i can start selling online"
+            },
+            {
+              "reason": "question",
+              "title": "Would you watch a live consulting call with one of my clients?"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Registered my one-person business in June. First purchase came 6 weeks later, fi"
             }
           ],
           "partition": "ai"
@@ -2679,8 +3088,9 @@
           "scanned": 7,
           "kept": 1,
           "rejects": {
-            "question": 5,
-            "body_too_short": 1
+            "question": 4,
+            "body_too_short": 1,
+            "no_numeric_fact": 1
           },
           "error": null,
           "shared_request": true,
@@ -2694,20 +3104,20 @@
               "title": "How do you handle a new manager who’s hurting morale when the team is performing"
             },
             {
-              "reason": "question",
-              "title": "One Construction Brand or Multiple Specialized Brands?"
-            },
-            {
               "reason": "body_too_short",
               "title": "Monday mentorship: ask anything | October 19, 2026"
             },
             {
-              "reason": "question",
-              "title": "Where do you draw the line between proving you understand a problem and solving "
+              "reason": "no_numeric_fact",
+              "title": "I don’t know anymore"
             },
             {
               "reason": "question",
               "title": "Starting a deal sourcing business for Private Equity?"
+            },
+            {
+              "reason": "question",
+              "title": "Where do you draw the line between proving you understand a problem and solving "
             }
           ],
           "partition": "ai"
@@ -2718,11 +3128,12 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 1202,
-          "scanned": 16,
+          "ms": 99,
+          "scanned": 13,
           "kept": 0,
           "rejects": {
-            "no_numeric_fact": 15,
+            "tech_news": 1,
+            "no_numeric_fact": 11,
             "question": 1
           },
           "error": null,
@@ -2733,16 +3144,12 @@
           },
           "reject_samples": [
             {
+              "reason": "tech_news",
+              "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18"
+            },
+            {
               "reason": "no_numeric_fact",
               "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "The reverts will continue until morale improves"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Mercury 3: Diffusion at scale"
             },
             {
               "reason": "no_numeric_fact",
@@ -2754,7 +3161,11 @@
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer"
+              "title": "Ukraine claims first drone evacuation of wounded soldier"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Wine ported to OpenBSD"
             }
           ],
           "partition": "ai"
@@ -2764,8 +3175,8 @@
           "url": "https://hnrss.org/show?points=50",
           "ok": true,
           "status": 200,
-          "attempts": 1,
-          "ms": 7837,
+          "attempts": 2,
+          "ms": 23295,
           "scanned": 20,
           "kept": 0,
           "rejects": {
@@ -2786,6 +3197,10 @@
             },
             {
               "reason": "no_numeric_fact",
+              "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks"
+            },
+            {
+              "reason": "no_numeric_fact",
               "title": "Show HN: Qwen3-4B with the AI writing tics trained out"
             },
             {
@@ -2799,10 +3214,6 @@
             {
               "reason": "no_numeric_fact",
               "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping"
-            },
-            {
-              "reason": "tech_news",
-              "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5"
             }
           ],
           "partition": "ai"
@@ -2812,30 +3223,35 @@
           "url": "https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100",
           "ok": true,
           "status": 200,
-          "attempts": 1,
-          "ms": 960,
-          "scanned": 66,
-          "kept": 0,
+          "attempts": 2,
+          "ms": 53026,
+          "scanned": 72,
+          "kept": 2,
           "rejects": {
-            "body_too_short": 5,
-            "no_concrete_method": 7,
-            "country_specific": 5,
-            "no_amount_in_action": 7,
-            "no_first_person_action": 3,
-            "no_numeric_fact": 5,
+            "no_body": 2,
+            "body_too_short": 8,
+            "no_concrete_method": 8,
+            "country_specific": 8,
+            "no_amount_in_action": 8,
+            "no_first_person_action": 2,
+            "no_numeric_fact": 7,
             "no_practice_topic": 2,
-            "help_seeking": 7,
-            "question": 22,
-            "discussion_questions": 3
+            "question": 18,
+            "help_seeking": 4,
+            "off_profile": 1,
+            "discussion_questions": 2
           },
           "error": null,
-          "waited_ms": 42869,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
-            "reset": "58"
+            "reset": "59"
           },
           "reject_samples": [
+            {
+              "reason": "no_body",
+              "title": "US families are behind on bills at rate not seen since Great Recession of 2008"
+            },
             {
               "reason": "body_too_short",
               "title": "$99,985 in CC debt"
@@ -2855,10 +3271,6 @@
             {
               "reason": "no_concrete_method",
               "title": "100% debt freeeeeee!!"
-            },
-            {
-              "reason": "no_amount_in_action",
-              "title": "Reduced debt by $6k"
             }
           ],
           "partition": "invest"
@@ -2870,17 +3282,17 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 34,
+          "scanned": 28,
           "kept": 1,
           "rejects": {
-            "no_amount_in_action": 4,
-            "no_numeric_fact": 8,
-            "body_too_short": 2,
-            "question": 13,
-            "country_specific": 1,
+            "no_amount_in_action": 3,
+            "no_numeric_fact": 10,
+            "body_too_short": 1,
+            "question": 7,
+            "country_specific": 2,
             "no_body": 1,
-            "no_first_person_action": 1,
-            "help_seeking": 3
+            "discussion_questions": 2,
+            "no_first_person_action": 1
           },
           "error": null,
           "shared_request": true,
@@ -2898,16 +3310,16 @@
               "title": "YNAB poor on the last day of the month"
             },
             {
+              "reason": "no_numeric_fact",
+              "title": "Fire your UX Designer"
+            },
+            {
               "reason": "question",
               "title": "Why can't they just leave it alone?"
             },
             {
               "reason": "country_specific",
               "title": "I can pay off my car now!"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "New Built-In Credit Card Interest Category"
             }
           ],
           "partition": "invest"
@@ -2933,6 +3345,22 @@
     "note": "公开源尽力采集；招聘打分 + RSS 质量门 + Plan C KOL 帖。源失败 skip。LinkedIn 不抓取。无 RSS 时可选 X API Bearer；再失败则主页深链 fallback。"
   },
   "jobs": [
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Senior Game Designer, Balancing & Economy - Unpublished R&D Product",
+      "company": "Riot Games",
+      "location": "Shanghai, China",
+      "source": "Riot Games 官方招聘",
+      "source_id": "riot_gh",
+      "company_tier": "major",
+      "url": "https://www.riotgames.com/en/work-with-us/job/8063875?gh_jid=8063875",
+      "keywords": [],
+      "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 89",
+      "posted_at": "2026-10-08",
+      "score": 89,
+      "geo_uncertain": false
+    },
     {
       "type": "job",
       "category": "游戏招聘",
@@ -2968,6 +3396,22 @@
       "blurb": "数值/经济向 · Guangzhou · 分88",
       "posted_at": "2026-10-20",
       "score": 88,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Game Designer, System - Unpublished R&D Product (Contract)",
+      "company": "Riot Games",
+      "location": "Guangzhou, China",
+      "source": "Riot Games 官方招聘",
+      "source_id": "riot_gh",
+      "company_tier": "major",
+      "url": "https://www.riotgames.com/en/work-with-us/job/7921706?gh_jid=7921706",
+      "keywords": [],
+      "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 87",
+      "posted_at": "2026-10-08",
+      "score": 87,
       "geo_uncertain": false
     },
     {
@@ -3288,6 +3732,22 @@
     {
       "type": "job",
       "category": "游戏招聘",
+      "title": "Manager, Game Product Management, Monetization and Growth - FFGS/金铲铲之战",
+      "company": "Riot Games",
+      "location": "Shanghai, China",
+      "source": "Riot Games 官方招聘",
+      "source_id": "riot_gh",
+      "company_tier": "major",
+      "url": "https://www.riotgames.com/en/work-with-us/job/6197738?gh_jid=6197738",
+      "keywords": [],
+      "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 85",
+      "posted_at": "2026-10-16",
+      "score": 85,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
       "title": "[REMOTE] Senior LiveOps Developer - Mobile Games",
       "company": "CrazyGames",
       "location": "Remote",
@@ -3300,6 +3760,22 @@
       "note": "公开页自动采集，请以官网为准 · 相关度 82 · 命中：monetization、liveops · 地点来自岗位页：Remote",
       "blurb": "Live Ops 向 · Remote · 分82",
       "posted_at": "2026-10-12",
+      "score": 82,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Game Designer, Combat - Unpublished R&D Product (Contract)",
+      "company": "Riot Games",
+      "location": "Shanghai, China",
+      "source": "Riot Games 官方招聘",
+      "source_id": "riot_gh",
+      "company_tier": "major",
+      "url": "https://www.riotgames.com/en/work-with-us/job/7102266?gh_jid=7102266",
+      "keywords": [],
+      "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 82",
+      "posted_at": "2026-10-08",
       "score": 82,
       "geo_uncertain": false
     },
@@ -3397,6 +3873,22 @@
     {
       "type": "job",
       "category": "游戏招聘",
+      "title": "Senior Combat Designer [CA]",
+      "company": "HoYoverse（米哈游）",
+      "location": "Montréal, CA, Remote",
+      "source": "HoYoverse（米哈游） 官方招聘",
+      "source_id": "hoyoverse_sr",
+      "company_tier": "major",
+      "url": "https://jobs.smartrecruiters.com/HoYoverse/743999886344535",
+      "keywords": [],
+      "note": "官方招聘接口（smartrecruiters）自动采集，请以官网为准 · 相关度 80",
+      "posted_at": "2023-02-14",
+      "score": 80,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
       "title": "《三角洲行动》系统策划",
       "company": "腾讯招聘",
       "location": "Shenzhen",
@@ -3487,6 +3979,26 @@
     {
       "type": "job",
       "category": "游戏招聘",
+      "title": "资深数值策划--放置mmo（其他）",
+      "company": "网易游戏招聘",
+      "location": "上海市",
+      "source": "网易游戏招聘",
+      "url": "https://hr.163.com/job-detail.html?id=72469",
+      "keywords": [
+        "数值策划",
+        "资深数值策划",
+        "mmo",
+        "persona_transferable"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 76 · 命中：数值策划、资深数值策划、mmo",
+      "blurb": "数值/经济向 · 上海市 · 分76",
+      "posted_at": "2026-10-20",
+      "score": 76,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
       "title": "《逆战：未来》资深系统策划",
       "company": "腾讯招聘",
       "location": "Shenzhen",
@@ -3554,6 +4066,290 @@
       "blurb": "系统向 · Shenzhen · 分72",
       "posted_at": "2026-10-20",
       "score": 72,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "雪中悍刀行-系统策划-交互视觉",
+      "company": "腾讯招聘",
+      "location": "Guangzhou",
+      "source": "腾讯招聘",
+      "url": "https://careers.tencent.com/jobdesc.html?postId=2085633826469625856",
+      "keywords": [
+        "系统策划",
+        "systems+monetization"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 72 · 命中：系统策划、systems+monetization",
+      "blurb": "系统向 · Guangzhou · 分72",
+      "posted_at": "2026-10-20",
+      "score": 72,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "高级数值策划（网易游戏（互娱））",
+      "company": "网易游戏招聘",
+      "location": "上海市",
+      "source": "网易游戏招聘",
+      "url": "https://hr.163.com/job-detail.html?id=65571",
+      "keywords": [
+        "数值策划",
+        "高级数值策划"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 68 · 命中：数值策划、高级数值策划",
+      "blurb": "数值/经济向 · 上海市 · 分68",
+      "posted_at": "2026-10-20",
+      "score": 68,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "资深数值策划（捉宠/搜打撤）（网易游戏（互娱））",
+      "company": "网易游戏招聘",
+      "location": "上海市",
+      "source": "网易游戏招聘",
+      "url": "https://hr.163.com/job-detail.html?id=76572",
+      "keywords": [
+        "数值策划",
+        "资深数值策划"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 68 · 命中：数值策划、资深数值策划",
+      "blurb": "数值/经济向 · 上海市 · 分68",
+      "posted_at": "2026-10-20",
+      "score": 68,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Associate Economy Game Designer",
+      "company": "Scopely",
+      "location": "ES - Barcelona, Spain",
+      "source": "Scopely 官方招聘",
+      "source_id": "scopely_gh",
+      "company_tier": "major",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5442573008?gh_jid=5442573008",
+      "keywords": [],
+      "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 67",
+      "posted_at": "2026-10-19",
+      "score": 67,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Senior Economy Designer - Monster Hunter Now",
+      "company": "Scopely",
+      "location": "JP - Tokyo, Japan",
+      "source": "Scopely 官方招聘",
+      "source_id": "scopely_gh",
+      "company_tier": "major",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/4981693008?gh_jid=4981693008",
+      "keywords": [],
+      "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 67",
+      "posted_at": "2026-08-25",
+      "score": 67,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Product Economy Manager",
+      "company": "Moon Active",
+      "location": "Tel Aviv",
+      "source": "Moon Active 官方招聘",
+      "source_id": "moonactive_ashby",
+      "company_tier": "major",
+      "url": "https://jobs.ashbyhq.com/moonactive/d0d25d4b-9493-41a3-9eb1-7d0ac54ac89e",
+      "keywords": [],
+      "note": "官方招聘接口（ashby）自动采集，请以官网为准 · 相关度 67",
+      "posted_at": "2026-08-09",
+      "score": 67,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Economy Designer",
+      "company": "Ubisoft",
+      "location": "Montreal, CA",
+      "source": "Ubisoft 官方招聘",
+      "source_id": "ubisoft_sr",
+      "company_tier": "major",
+      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000148518519",
+      "keywords": [],
+      "note": "官方招聘接口（smartrecruiters）自动采集，请以官网为准 · 相关度 67",
+      "posted_at": "2026-09-09",
+      "score": 67,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "资深/高级系统策划-我的世界（其他）",
+      "company": "网易游戏招聘",
+      "location": "上海市",
+      "source": "网易游戏招聘",
+      "url": "https://hr.163.com/job-detail.html?id=75273",
+      "keywords": [
+        "系统策划",
+        "高级系统策划"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 66 · 命中：系统策划、高级系统策划",
+      "blurb": "系统向 · 上海市 · 分66",
+      "posted_at": "2026-10-20",
+      "score": 66,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "资深系统策划（网易游戏（互娱））",
+      "company": "网易游戏招聘",
+      "location": "上海市",
+      "source": "网易游戏招聘",
+      "url": "https://hr.163.com/job-detail.html?id=76940",
+      "keywords": [
+        "系统策划",
+        "资深系统策划"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 66 · 命中：系统策划、资深系统策划",
+      "blurb": "系统向 · 上海市 · 分66",
+      "posted_at": "2026-10-20",
+      "score": 66,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "资深系统策划（网易游戏（互娱））",
+      "company": "网易游戏招聘",
+      "location": "上海市",
+      "source": "网易游戏招聘",
+      "url": "https://hr.163.com/job-detail.html?id=77054",
+      "keywords": [
+        "系统策划",
+        "资深系统策划"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 66 · 命中：系统策划、资深系统策划",
+      "blurb": "系统向 · 上海市 · 分66",
+      "posted_at": "2026-10-20",
+      "score": 66,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Live Ops Manager - MARVEL Strike Force",
+      "company": "Scopely",
+      "location": "CA - Canada",
+      "source": "Scopely 官方招聘",
+      "source_id": "scopely_gh",
+      "company_tier": "major",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5430224008?gh_jid=5430224008",
+      "keywords": [],
+      "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 63",
+      "posted_at": "2026-09-23",
+      "score": 63,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Monetization Manager",
+      "company": "Playtika",
+      "location": "Herzliya",
+      "source": "Playtika 官方招聘",
+      "source_id": "playtika_gh",
+      "company_tier": "major",
+      "url": "https://www.playtika.com/position/?gh_jid=4969404101",
+      "keywords": [],
+      "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 63",
+      "posted_at": "2026-09-15",
+      "score": 63,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Live Ops Designer, Hay Day",
+      "company": "Supercell",
+      "location": "Helsinki",
+      "source": "Supercell 官方招聘",
+      "source_id": "supercell_ashby",
+      "company_tier": "major",
+      "url": "https://jobs.ashbyhq.com/supercell/09df5324-2d80-44a0-82ab-df13a7f1c5a7",
+      "keywords": [],
+      "note": "官方招聘接口（ashby）自动采集，请以官网为准 · 相关度 63",
+      "posted_at": "2026-07-29",
+      "score": 63,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Senior Product Manager, Live Ops & Monetization, Hay Day",
+      "company": "Supercell",
+      "location": "Helsinki",
+      "source": "Supercell 官方招聘",
+      "source_id": "supercell_ashby",
+      "company_tier": "major",
+      "url": "https://jobs.ashbyhq.com/supercell/06058b2e-d65d-4e7f-9217-946ab424c508",
+      "keywords": [],
+      "note": "官方招聘接口（ashby）自动采集，请以官网为准 · 相关度 63",
+      "posted_at": "2026-01-16",
+      "score": 63,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Principal Product Manager, LiveOps & Monetization, Clash Royale",
+      "company": "Supercell",
+      "location": "Helsinki",
+      "source": "Supercell 官方招聘",
+      "source_id": "supercell_ashby",
+      "company_tier": "major",
+      "url": "https://jobs.ashbyhq.com/supercell/2aa24f0b-5f80-48bc-940e-f122184339d7",
+      "keywords": [],
+      "note": "官方招聘接口（ashby）自动采集，请以官网为准 · 相关度 63",
+      "posted_at": "2026-06-10",
+      "score": 63,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Product Monetization Manager",
+      "company": "Moon Active",
+      "location": "Tel Aviv",
+      "source": "Moon Active 官方招聘",
+      "source_id": "moonactive_ashby",
+      "company_tier": "major",
+      "url": "https://jobs.ashbyhq.com/moonactive/1bf17c68-9808-4e48-943b-7c76d75a3803",
+      "keywords": [],
+      "note": "官方招聘接口（ashby）自动采集，请以官网为准 · 相关度 63",
+      "posted_at": "2026-07-29",
+      "score": 63,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Associate Monetization Director",
+      "company": "Ubisoft",
+      "location": "Montreal, CA",
+      "source": "Ubisoft 官方招聘",
+      "source_id": "ubisoft_sr",
+      "company_tier": "major",
+      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000145552407",
+      "keywords": [],
+      "note": "官方招聘接口（smartrecruiters）自动采集，请以官网为准 · 相关度 63",
+      "posted_at": "2026-08-25",
+      "score": 63,
       "geo_uncertain": false
     },
     {
@@ -3644,6 +4440,74 @@
     {
       "type": "job",
       "category": "游戏招聘",
+      "title": "系统策划（天下3）（网易游戏（互娱））",
+      "company": "网易游戏招聘",
+      "location": "广州市",
+      "source": "网易游戏招聘",
+      "url": "https://hr.163.com/job-detail.html?id=79275",
+      "keywords": [
+        "系统策划"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：系统策划",
+      "blurb": "系统向 · Guangzhou · 分62",
+      "posted_at": "2026-10-20",
+      "score": 62,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "系统策划（灵兽大冒险）（网易游戏（互娱））",
+      "company": "网易游戏招聘",
+      "location": "广州市",
+      "source": "网易游戏招聘",
+      "url": "https://hr.163.com/job-detail.html?id=78976",
+      "keywords": [
+        "系统策划"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：系统策划",
+      "blurb": "系统向 · Guangzhou · 分62",
+      "posted_at": "2026-10-20",
+      "score": 62,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "系统策划（荒野行动）（网易游戏（互娱））",
+      "company": "网易游戏招聘",
+      "location": "广州市",
+      "source": "网易游戏招聘",
+      "url": "https://hr.163.com/job-detail.html?id=71464",
+      "keywords": [
+        "系统策划"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：系统策划",
+      "blurb": "系统向 · Guangzhou · 分62",
+      "posted_at": "2026-10-20",
+      "score": 62,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "系统策划（梦幻端游畅玩服）（网易游戏（互娱））",
+      "company": "网易游戏招聘",
+      "location": "广州市",
+      "source": "网易游戏招聘",
+      "url": "https://hr.163.com/job-detail.html?id=76716",
+      "keywords": [
+        "系统策划"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：系统策划",
+      "blurb": "系统向 · Guangzhou · 分62",
+      "posted_at": "2026-10-20",
+      "score": 62,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
       "title": "S工作室-预研项目-数值策划",
       "company": "腾讯招聘",
       "location": "Shenzhen",
@@ -3655,6 +4519,185 @@
       "note": "公开页自动采集，请以官网为准 · 相关度 60 · 命中：数值策划",
       "blurb": "数值/经济向 · Shenzhen · 分60",
       "posted_at": "2026-10-20",
+      "score": 60,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Combat Game Designer",
+      "company": "Scopely",
+      "location": "ES - Barcelona, Spain",
+      "source": "Scopely 官方招聘",
+      "source_id": "scopely_gh",
+      "company_tier": "major",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5442575008?gh_jid=5442575008",
+      "keywords": [],
+      "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 60",
+      "posted_at": "2026-10-14",
+      "score": 60,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Design Director, World Systems",
+      "company": "Scopely",
+      "location": "US - United States",
+      "source": "Scopely 官方招聘",
+      "source_id": "scopely_gh",
+      "company_tier": "major",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5429316008?gh_jid=5429316008",
+      "keywords": [],
+      "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 60",
+      "posted_at": "2026-09-23",
+      "score": 60,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "[Palworld Mobile] System Designer (3년 이상)",
+      "company": "KRAFTON",
+      "location": "Seoul; Seoul, South Korea",
+      "source": "KRAFTON 官方招聘",
+      "source_id": "krafton_gh",
+      "company_tier": "major",
+      "url": "https://job-boards.greenhouse.io/krafton/jobs/8836432002",
+      "keywords": [],
+      "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 60",
+      "posted_at": "2026-10-16",
+      "score": 60,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "System Designer - W/M/NB",
+      "company": "Ubisoft",
+      "location": "Paris, FR",
+      "source": "Ubisoft 官方招聘",
+      "source_id": "ubisoft_sr",
+      "company_tier": "major",
+      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000155803319",
+      "keywords": [],
+      "note": "官方招聘接口（smartrecruiters）自动采集，请以官网为准 · 相关度 60",
+      "posted_at": "2026-10-15",
+      "score": 60,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "金铲铲之战-系统策划",
+      "company": "腾讯招聘",
+      "location": "Shenzhen",
+      "source": "腾讯招聘",
+      "url": "https://careers.tencent.com/jobdesc.html?postId=2100059285898833920",
+      "keywords": [
+        "系统策划"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 60 · 命中：系统策划",
+      "blurb": "系统向 · Shenzhen · 分60",
+      "posted_at": "2026-10-20",
+      "score": 60,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "微恐搜打撤SOC-系统策划",
+      "company": "腾讯招聘",
+      "location": "Shenzhen",
+      "source": "腾讯招聘",
+      "url": "https://careers.tencent.com/jobdesc.html?postId=2101586309784190976",
+      "keywords": [
+        "系统策划"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 60 · 命中：系统策划",
+      "blurb": "系统向 · Shenzhen · 分60",
+      "posted_at": "2026-10-20",
+      "score": 60,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "《三角洲行动》-系统策划（活动向）",
+      "company": "腾讯招聘",
+      "location": "Shenzhen",
+      "source": "腾讯招聘",
+      "url": "https://careers.tencent.com/jobdesc.html?postId=1747532117635506176",
+      "keywords": [
+        "系统策划"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 60 · 命中：系统策划",
+      "blurb": "系统向 · Shenzhen · 分60",
+      "posted_at": "2026-10-20",
+      "score": 60,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Lead Systems Designer - Star Trek Fleet Command",
+      "company": "Scopely",
+      "location": "IE - Dublin, Ireland",
+      "source": "Scopely 官方招聘",
+      "source_id": "scopely_gh",
+      "company_tier": "major",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5388807008?gh_jid=5388807008",
+      "keywords": [],
+      "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 60",
+      "posted_at": "2026-10-06",
+      "score": 60,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Lead Systems Designer - Star Trek Fleet Command",
+      "company": "Scopely",
+      "location": "GB - London, United Kingdom",
+      "source": "Scopely 官方招聘",
+      "source_id": "scopely_gh",
+      "company_tier": "major",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5379017008?gh_jid=5379017008",
+      "keywords": [],
+      "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 60",
+      "posted_at": "2026-10-06",
+      "score": 60,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Lead Systems Designer - Star Trek Fleet Command",
+      "company": "Scopely",
+      "location": "ES - Barcelona, Spain",
+      "source": "Scopely 官方招聘",
+      "source_id": "scopely_gh",
+      "company_tier": "major",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5388806008?gh_jid=5388806008",
+      "keywords": [],
+      "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 60",
+      "posted_at": "2026-10-06",
+      "score": 60,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Principal Systems Designer",
+      "company": "Scopely",
+      "location": "US - United States",
+      "source": "Scopely 官方招聘",
+      "source_id": "scopely_gh",
+      "company_tier": "major",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5406914008?gh_jid=5406914008",
+      "keywords": [],
+      "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 60",
+      "posted_at": "2026-09-04",
       "score": 60,
       "geo_uncertain": false
     },
@@ -3707,23 +4750,6 @@
       "blurb": "数值相关 · Remote · 分54",
       "posted_at": "2026-09-24",
       "score": 54,
-      "geo_uncertain": false
-    },
-    {
-      "type": "job",
-      "category": "游戏招聘",
-      "title": "资深系统玩法策划（网易游戏（互娱））",
-      "company": "网易游戏招聘",
-      "location": "广州市",
-      "source": "网易游戏招聘",
-      "url": "https://hr.163.com/job-detail.html?id=78639",
-      "keywords": [
-        "玩法策划"
-      ],
-      "note": "公开页自动采集，请以官网为准 · 相关度 46 · 命中：玩法策划",
-      "blurb": "数值相关 · Guangzhou · 分46",
-      "posted_at": "2026-10-20",
-      "score": 46,
       "geo_uncertain": false
     },
     {
@@ -3798,6 +4824,123 @@
   "articles": {
     "ai": [
       {
+        "id": "ai-zh-eb781ffef064",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "老板电器“迷信”AI，结果怎么样了？",
+        "summary": "至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温 2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。 本文来自微信公众号： 商业评论零售现场 ，作者：响马 作为厨房电器知名品牌，老板电器的压力越来越大。 今年上半年，老板电器实现营业收入39.72亿元，同比下降13.78%；扣非净利润5.02亿元，同比下降21.77%。 从单季度看，二季度压力更大，单季营收20.1亿元，同比下滑20.6%；归母净利润2.72亿元，下滑26.9%。 好消息是，老板电器近期完成了彻底的权力交接。8月19日，老板电器公告称，43岁的任富佳正式当选公司董事长并兼任总经理，接替70岁的公司创始人任建华，完成这家企业“历时十三年的代际权力交接”。 权力彻底交接背后，不只是“二代”接班的问题，更是品牌价值的重塑，正如老板电器所宣示的，要做“你的AI烹饪伙伴”。 也就是说，老板电器要大",
+        "source_excerpt": "至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温 2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。 本文来自微信公众号： 商业评论零售现场 ，作者：响马 作为厨房电器知名品牌，老板电器的压力越来越大。 今年上半年，老板电器实现营业收入39.72亿元，同比下降13.78%；扣非净利润5.02亿元，同比下降21.77%。 从单季度看，二季度压力更大，单季营收20.1亿元，同比下滑20.6%；归母净利润2.72亿元，下滑26.9%。 好消息是，老板电器近期完成了彻底的权力交接。8月19日，老板电器公告称，43岁的任富佳正式当选公司董事长并兼任总经理，接替70岁的公司创始人任建华，完成这家企业“历时十三年的代际权力交接”。 权力彻底交接背后，不只是“二代”接班的问题，更是品牌价值的重塑，正如老板电器所宣示的，要做“你的AI烹饪伙伴”。 也就是说，老板电器要大",
+        "source": "虎嗅",
+        "source_url": "https://www.huxiu.com/article/4898806.html?f=rss",
+        "deep_link": "https://www.huxiu.com/article/4898806.html?f=rss",
+        "published_at": "Tue, 20 Oct 2026 09:12:15 +0800",
+        "tags": [
+          "中文",
+          "虎嗅"
+        ],
+        "score": 80,
+        "why": "中文源 · 虎嗅 · 解决：至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温；模式/数字：2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。",
+        "lang": "zh",
+        "zh_reader": {
+          "verdict": "worth",
+          "use": "解决：至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温；模式/数字：2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。",
+          "lines": {
+            "problem": "解决：至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温",
+            "model": "怎么赚钱：2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。"
+          },
+          "evidence": [
+            "至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温",
+            "2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。",
+            "53%"
+          ],
+          "point": "老板电器“迷信”AI，结果怎么样了？"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-huxiu",
+        "_score_raw": 80,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-zh-3d933d481067",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "双十一，谁能靠AI获得大结果？",
+        "summary": "大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。 它披露，既有付费用户中，电商用户占20%。 （本文作者为 象先志，钛媒体经授权发布） 文 | 象先志 今年双十一，电商平台掏出的优惠，有一部分开始给AI招揽生意。 10月15日，抖音双十一启动。商家承担商品立减或直降，平台另外出钱发券，消费者在豆包等应用上也可以领取。消费券已经不止承担用户运营层面的用途，他还需要开始促成交易，并且给消费者一个打开AI的理由。抖音已经沉淀了大规模的消费用户，而豆包要争取的，是改变用户的下单习惯。 阿里的办法更贴近购物里的麻烦流程中的麻烦。10月13日，千问开放个人智能体&ldquo;千问Go&rdquo;的体验申请，还展示了一下用户在消费平台退款的案例。消费本身已经不是重点目标，让用户开始了解智能体能在消费链路中可以承担更多职能才是目的。 购买需求、商品和商家预算都在这个时间汇聚，平台又愿意承担部分试用成本，一波促活大战一触即发。 双",
+        "source_excerpt": "大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。 它披露，既有付费用户中，电商用户占20%。 （本文作者为 象先志，钛媒体经授权发布） 文 | 象先志 今年双十一，电商平台掏出的优惠，有一部分开始给AI招揽生意。 10月15日，抖音双十一启动。商家承担商品立减或直降，平台另外出钱发券，消费者在豆包等应用上也可以领取。消费券已经不止承担用户运营层面的用途，他还需要开始促成交易，并且给消费者一个打开AI的理由。抖音已经沉淀了大规模的消费用户，而豆包要争取的，是改变用户的下单习惯。 阿里的办法更贴近购物里的麻烦流程中的麻烦。10月13日，千问开放个人智能体&ldquo;千问Go&rdquo;的体验申请，还展示了一下用户在消费平台退款的案例。消费本身已经不是重点目标，让用户开始了解智能体能在消费链路中可以承担更多职能才是目的。 购买需求、商品和商家预算都在这个时间汇聚，平台又愿意承担部分试用成本，一波促活大战一触即发。 双",
+        "source": "钛媒体",
+        "source_url": "https://www.tmtpost.com/8173901.html",
+        "deep_link": "https://www.tmtpost.com/8173901.html",
+        "published_at": "Tue, 20 Oct 2026 11:14:30 +0800",
+        "tags": [
+          "中文",
+          "钛媒体"
+        ],
+        "score": 80,
+        "why": "中文源 · 钛媒体 · 解决：大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。；模式/数字：它披露，既有付费用户中，电商用户占20%。",
+        "lang": "zh",
+        "zh_reader": {
+          "verdict": "worth",
+          "use": "解决：大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。；模式/数字：它披露，既有付费用户中，电商用户占20%。",
+          "lines": {
+            "problem": "解决：大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。",
+            "model": "怎么赚钱：它披露，既有付费用户中，电商用户占20%。"
+          },
+          "evidence": [
+            "大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。",
+            "它披露，既有付费用户中，电商用户占20%。",
+            "20%"
+          ],
+          "point": "双十一，谁能靠AI获得大结果？"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-tmtpost",
+        "_score_raw": 80,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-zh-a9225de488ab",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "Werner Vogels谈亚马逊的AI理念：在做与不做之间",
+        "summary": "将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是 2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3 （本文作者为 TechHorizon，钛媒体经授权发布） &ldquo;他们并不会因为此刻没有使用AI，就立即倒闭。&rdquo; 2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长37%，年化收入运行率达到1690亿美元。同时，亚马逊自研芯片Graviton、Trainium，其年收入运行率已超过200亿美元。 在这个默认更大、更快、更贵的AI竞赛中，亚马逊副总裁兼首席技术官Werner Vogels在这次来到中国深圳，给出的不是一张加速路线图： 成本必须可控，不必追求最强模型，Agent必须被约束，人类需保留最终判断。其底色是对AI进行控制与负责任，尽可能将AI规模化的风险",
+        "source_excerpt": "将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是 2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3 （本文作者为 TechHorizon，钛媒体经授权发布） &ldquo;他们并不会因为此刻没有使用AI，就立即倒闭。&rdquo; 2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长37%，年化收入运行率达到1690亿美元。同时，亚马逊自研芯片Graviton、Trainium，其年收入运行率已超过200亿美元。 在这个默认更大、更快、更贵的AI竞赛中，亚马逊副总裁兼首席技术官Werner Vogels在这次来到中国深圳，给出的不是一张加速路线图： 成本必须可控，不必追求最强模型，Agent必须被约束，人类需保留最终判断。其底色是对AI进行控制与负责任，尽可能将AI规模化的风险",
+        "source": "钛媒体",
+        "source_url": "https://www.tmtpost.com/8172565.html",
+        "deep_link": "https://www.tmtpost.com/8172565.html",
+        "published_at": "Tue, 20 Oct 2026 10:59:23 +0800",
+        "tags": [
+          "中文",
+          "钛媒体"
+        ],
+        "score": 80,
+        "why": "中文源 · 钛媒体 · 解决：将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是；模式/数字：2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3",
+        "lang": "zh",
+        "zh_reader": {
+          "verdict": "worth",
+          "use": "解决：将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是；模式/数字：2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3",
+          "lines": {
+            "problem": "解决：将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是",
+            "model": "怎么赚钱：2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3"
+          },
+          "evidence": [
+            "将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是",
+            "2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3",
+            "2000亿美元"
+          ],
+          "point": "Werner Vogels谈亚马逊的AI理念：在做与不做之间"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-tmtpost",
+        "_score_raw": 80,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
         "id": "ai-community-ai-reddit-saas-7e5c0ba8b262",
         "partition": "ai",
         "type": "post",
@@ -3816,8 +4959,8 @@
           "获客渠道",
           "踩坑/复盘"
         ],
-        "score": 81,
-        "why": "公开社区帖 · r/SaaS · top/day 第5位 · 原帖含：收入、定价、用户/流量数、获客渠道、踩坑/复盘",
+        "score": 78,
+        "why": "公开社区帖 · r/SaaS · top/day 第7位 · 原帖含：收入、定价、用户/流量数、获客渠道、踩坑/复盘",
         "deep_link": "https://www.reddit.com/r/SaaS/comments/1x9ylom/almost_500_in_revenue_this_month/",
         "blurb": "Next goal: $500/mo recurring. Last 4 weeks: $460 gross revenue, 20+ paying customers, ~950 users, $0 ad spend. Also trie",
         "source_excerpt": "Next goal: $500/mo recurring. Last 4 weeks: $460 gross revenue, 20+ paying customers, ~950 users, $0 ad spend. Also tried launching on every platform at once: TikTok signups kept failing, my YouTube channel got taken down on day one. What worked: a $1 3-day trial (filtered out everyone who'd never pay), answering questions in communities without pitching, and talking to users instead of following a roadmap.",
@@ -3828,7 +4971,7 @@
         "_feed_type": "reddit_rss",
         "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
         "_source_id": "ai-reddit-saas",
-        "_score_raw": 81,
+        "_score_raw": 78,
         "_decay_penalty": 0,
         "_decay_exempt": null
       },
@@ -3941,6 +5084,43 @@
         "_decay_exempt": null
       },
       {
+        "id": "ai-post-yongfook-a39199422a75",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "How to Auto-Generate Multilingual Subtitles for Podcast Clips with AI and Bannerbear Workflow",
+        "summary": "A step-by-step guide to adding multilingual subtitles to podcast clips: transcribe with Whisper, translate with an AI agent, and render with a Bannerbear workflow.",
+        "source": "@yongfook / Jon Yongfook",
+        "source_url": "https://www.bannerbear.com/blog/how-to-auto-generate-multilingual-subtitles-for-podcast-clips-with-ai-and-bannerbear-workflow/",
+        "published_at": "2026-10-19T01:55:00.000Z",
+        "tags": [
+          "indie",
+          "mrr",
+          "agent",
+          "SaaS"
+        ],
+        "score": 76,
+        "why": "独立/Agent：indie、mrr；加分：AI建造/工具实践；策展：Bannerbear 自有付费 SaaS + 公开营收/建造叙事；非纯转发。",
+        "deep_link": "https://www.bannerbear.com/blog/how-to-auto-generate-multilingual-subtitles-for-podcast-clips-with-ai-and-bannerbear-workflow/",
+        "blurb": "A step-by-step guide to adding multilingual subtitles to podcast clips: transcribe with Whisper, translate with an AI ag",
+        "url": "https://www.bannerbear.com/blog/how-to-auto-generate-multilingual-subtitles-for-podcast-clips-with-ai-and-bannerbear-workflow/",
+        "posted_at": "2026-10-19",
+        "handle": "yongfook",
+        "name": "Jon Yongfook",
+        "person_id": "yongfook",
+        "person_handle": "yongfook",
+        "person_name": "Jon Yongfook",
+        "tier": "A",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:yongfook",
+        "_feed_url": "https://www.bannerbear.com/blog/feed.xml",
+        "_feed_type": "blog_rss",
+        "_score_raw": 76,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
         "id": "ai-post-yongfook-81ee4c76a214",
         "partition": "ai",
         "type": "post",
@@ -4031,7 +5211,7 @@
           "定价"
         ],
         "score": 73,
-        "why": "公开社区帖 · r/SaaS · top/day 第4位 · 原帖含：收入、投入、定价",
+        "why": "公开社区帖 · r/SaaS · top/day 第3位 · 原帖含：收入、投入、定价",
         "deep_link": "https://www.reddit.com/r/SaaS/comments/1xaak7b/you_didnt_kill_saas_you_just_invented_a_new_form/",
         "blurb": "Just to save a subscription? \"Claude, clone this SaaS, deploy it, and make me a plan to reach $100K MRR.\" You spent 40 h",
         "source_excerpt": "Just to save a subscription? \"Claude, clone this SaaS, deploy it, and make me a plan to reach $100K MRR.\" You spent 40 hours rebuilding something that costs $20/month. Not just a $20/month Claude subscription.",
@@ -4043,6 +5223,84 @@
         "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
         "_source_id": "ai-reddit-saas",
         "_score_raw": 73,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-zh-3480bfbb7173",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "这届年轻人，花钱“手搓”AI人设",
+        "summary": "”另一位定制博主“YesNo”表示，在她看来，约稿、写故事和AI互动并不是相互替 ” 在定价方面，惊蛰研究所咨询多位相关博主后发现，目前AI人设定制服务整体仍处于低客单价阶段，单人指令的价格通常 本文来自微信公众号： 惊蛰研究所 ，作者：惊蛰研究所文娱组 “hi，我们来玩角色扮演吧！请严格遵守以下要求。【你的设定】姓名：(不填写将随机生成)，身份：当朝少年太傅，性格：原则性极强、生人勿近......”这段看起来像角色介绍的文字，是一份写给AI的角色扮演指令。 从个性风流、心思深沉的贵族公子，到表面冷淡、内心偏执的虚拟恋人，从乙女游戏、同人作品中的虚拟角色，到用户脑袋里的单纯幻想。只要用户将对应的指令通过聊天框发送给AI，就可以得到一个由AI扮演的角色，在一来一回的对话中，展开一段带有互动剧情的故事体验。 随着这种玩法逐渐流行，社交平台上也出现了一批专门出售AI人设指令的卖家，从几元、十几元的打包模板，到根据买家喜好量身打造的私人",
+        "source_excerpt": "”另一位定制博主“YesNo”表示，在她看来，约稿、写故事和AI互动并不是相互替 ” 在定价方面，惊蛰研究所咨询多位相关博主后发现，目前AI人设定制服务整体仍处于低客单价阶段，单人指令的价格通常 本文来自微信公众号： 惊蛰研究所 ，作者：惊蛰研究所文娱组 “hi，我们来玩角色扮演吧！请严格遵守以下要求。【你的设定】姓名：(不填写将随机生成)，身份：当朝少年太傅，性格：原则性极强、生人勿近......”这段看起来像角色介绍的文字，是一份写给AI的角色扮演指令。 从个性风流、心思深沉的贵族公子，到表面冷淡、内心偏执的虚拟恋人，从乙女游戏、同人作品中的虚拟角色，到用户脑袋里的单纯幻想。只要用户将对应的指令通过聊天框发送给AI，就可以得到一个由AI扮演的角色，在一来一回的对话中，展开一段带有互动剧情的故事体验。 随着这种玩法逐渐流行，社交平台上也出现了一批专门出售AI人设指令的卖家，从几元、十几元的打包模板，到根据买家喜好量身打造的私人",
+        "source": "虎嗅",
+        "source_url": "https://www.huxiu.com/article/4898871.html?f=rss",
+        "deep_link": "https://www.huxiu.com/article/4898871.html?f=rss",
+        "published_at": "Tue, 20 Oct 2026 11:41:33 +0800",
+        "tags": [
+          "中文",
+          "虎嗅"
+        ],
+        "score": 72,
+        "why": "中文源 · 虎嗅 · 解决：”另一位定制博主“YesNo”表示，在她看来，约稿、写故事和AI互动并不是相互替；模式/数字：” 在定价方面，惊蛰研究所咨询多位相关博主后发现，目前AI人设定制服务整体仍处于低客单价阶段，单人指令的价格通常",
+        "lang": "zh",
+        "zh_reader": {
+          "verdict": "worth",
+          "use": "解决：”另一位定制博主“YesNo”表示，在她看来，约稿、写故事和AI互动并不是相互替；模式/数字：” 在定价方面，惊蛰研究所咨询多位相关博主后发现，目前AI人设定制服务整体仍处于低客单价阶段，单人指令的价格通常",
+          "lines": {
+            "problem": "解决：”另一位定制博主“YesNo”表示，在她看来，约稿、写故事和AI互动并不是相互替",
+            "model": "怎么赚钱：” 在定价方面，惊蛰研究所咨询多位相关博主后发现，目前AI人设定制服务整体仍处于低客单价阶段，单人指令的价格通常"
+          },
+          "evidence": [
+            "”另一位定制博主“YesNo”表示，在她看来，约稿、写故事和AI互动并不是相互替",
+            "” 在定价方面，惊蛰研究所咨询多位相关博主后发现，目前AI人设定制服务整体仍处于低客单价阶段，单人指令的价格通常",
+            "10元"
+          ],
+          "point": "这届年轻人，花钱“手搓”AI人设"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-huxiu",
+        "_score_raw": 72,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-zh-889e429179e7",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "阶跃发售STEPX Neo：AI手机的进化终于来到加速期",
+        "summary": "GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供 几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。 （本文作者为 巨潮WAVE，钛媒体经授权发布） 文 | 巨潮Wave，作者 | Maxx 编辑 | Rango AI手机的探索还在继续。几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。 先行版搭载第五代骁龙8移动平台，配备16GB+256GB存储与6.36英寸120Hz OLED屏幕，硬件单看处于中档区间。 这看起来已经不算贵的3999元，所包含的远不止一台手机硬件的价格，还有Step AOS 1.0智能体原生操作系统、Step Studio开发工具、Step系列模型，以及连续12个月每月百亿Token的使用额度。 阶跃以&ldquo;软硬模三位一体&rdquo;的方式，将上述这些智能",
+        "source_excerpt": "GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供 几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。 （本文作者为 巨潮WAVE，钛媒体经授权发布） 文 | 巨潮Wave，作者 | Maxx 编辑 | Rango AI手机的探索还在继续。几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。 先行版搭载第五代骁龙8移动平台，配备16GB+256GB存储与6.36英寸120Hz OLED屏幕，硬件单看处于中档区间。 这看起来已经不算贵的3999元，所包含的远不止一台手机硬件的价格，还有Step AOS 1.0智能体原生操作系统、Step Studio开发工具、Step系列模型，以及连续12个月每月百亿Token的使用额度。 阶跃以&ldquo;软硬模三位一体&rdquo;的方式，将上述这些智能",
+        "source": "钛媒体",
+        "source_url": "https://www.tmtpost.com/8174087.html",
+        "deep_link": "https://www.tmtpost.com/8174087.html",
+        "published_at": "Tue, 20 Oct 2026 09:46:09 +0800",
+        "tags": [
+          "中文",
+          "钛媒体"
+        ],
+        "score": 72,
+        "why": "中文源 · 钛媒体 · 解决：GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供；模式/数字：几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。",
+        "lang": "zh",
+        "zh_reader": {
+          "verdict": "worth",
+          "use": "解决：GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供；模式/数字：几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。",
+          "lines": {
+            "problem": "解决：GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供",
+            "model": "怎么赚钱：几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。"
+          },
+          "evidence": [
+            "GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供",
+            "几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。",
+            "3999元"
+          ],
+          "point": "阶跃发售STEPX Neo：AI手机的进化终于来到加速期"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-tmtpost",
+        "_score_raw": 72,
         "_decay_penalty": 0,
         "_decay_exempt": null
       },
@@ -4063,7 +5321,7 @@
           "定价"
         ],
         "score": 68,
-        "why": "公开社区帖 · r/SaaS · top/day 第2位 · 原帖含：投入、定价",
+        "why": "公开社区帖 · r/SaaS · top/day 第1位 · 原帖含：投入、定价",
         "deep_link": "https://www.reddit.com/r/SaaS/comments/1xa4de7/i_wouldnt_start_a_saas_company_in_2026_if_the/",
         "blurb": "A year ago, that person might have paid $29 a month for a subscription. Because charging $29 a month for something Claud",
         "source_excerpt": "A year ago, that person might have paid $29 a month for a subscription. Because charging $29 a month for something Claude can make in five minutes is becoming a pretty difficult business model.",
@@ -4724,7 +5982,7 @@
           "获客渠道"
         ],
         "score": 67,
-        "why": "公开社区帖 · r/SaaS · top/day 第3位 · 原帖含：用户/流量数、获客渠道",
+        "why": "公开社区帖 · r/SaaS · top/day 第4位 · 原帖含：用户/流量数、获客渠道",
         "deep_link": "https://www.reddit.com/r/SaaS/comments/1x9w2h5/it_took_me_a_year_but_i_have_crossed_1m/",
         "blurb": "The next goal is to reach 20k visitors per month, I could not believe I could say something like this as when I launched",
         "source_excerpt": "The next goal is to reach 20k visitors per month, I could not believe I could say something like this as when I launched last year the traffic was 5-10 people only. Earlier I focussed on pSEO and building backlinks and from the last couple of months I have started content, a newsletter, and recently started consistently on twitter as well.",
@@ -5189,45 +6447,6 @@
         "_decay_exempt": null
       },
       {
-        "id": "ai-post-dannypostmaa-0c419375f826",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "How I Stopped AI From Designing Ugly Landing Pages (Free Skill)",
-        "summary": "AI writes great code, but every landing page it designs looks like AI made it. So I built a skill to fix that. Instead of one mediocre design, it gives you 4 creative directions per section, each with the risks and trade-offs. Pick one, combine two, refine it, lock it in. Then it",
-        "source": "@dannypostmaa / Danny Postma",
-        "source_url": "https://www.youtube.com/watch?v=EMXJCSx5q60",
-        "published_at": "2026-09-04T06:17:07.000Z",
-        "tags": [
-          "新视频",
-          "indie",
-          "mrr",
-          "build-in-public",
-          "SaaS"
-        ],
-        "score": 56,
-        "why": "YouTube 新视频（观察向）；独立/Agent：indie、mrr；加分：AI建造/工具实践",
-        "deep_link": "https://www.youtube.com/watch?v=EMXJCSx5q60",
-        "blurb": "AI writes great code, but every landing page it designs looks like AI made it. So I built a skill to fix that. Instead o",
-        "url": "https://www.youtube.com/watch?v=EMXJCSx5q60",
-        "posted_at": "2026-09-04",
-        "handle": "dannypostmaa",
-        "name": "Danny Postma",
-        "person_id": "dannypostmaa",
-        "person_handle": "dannypostmaa",
-        "person_name": "Danny Postma",
-        "tier": "S",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:dannypostmaa",
-        "_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-        "_feed_type": "youtube_rss",
-        "card_kind": "youtube_video",
-        "_score_raw": 76,
-        "_decay_penalty": 20,
-        "_decay_exempt": null
-      },
-      {
         "id": "ai-post-tibo_maker-e923c54d7a85",
         "partition": "ai",
         "type": "post",
@@ -5409,13 +6628,50 @@
         "_decay_exempt": "profile_fallback"
       },
       {
+        "id": "ai-profile-dannypostmaa",
+        "partition": "ai",
+        "type": "post",
+        "card_kind": "profile_fallback",
+        "category": "AI变现",
+        "title": "打开 @dannypostmaa 主页看最新",
+        "summary": "暂无稳定公开 RSS（all_feeds_failed）。不编造帖文——点进原主页自行查看近期更新。",
+        "source": "@dannypostmaa / Danny Postma",
+        "source_url": "https://x.com/dannypostmaa",
+        "published_at": null,
+        "tags": [
+          "主页深链",
+          "indie",
+          "SaaS",
+          "AI"
+        ],
+        "score": 55,
+        "why": "独立开发 · SaaS · AI工具",
+        "why_pass": "HeadshotPro 等自有 AI 付费产品+公开营收节奏。",
+        "deep_link": "https://x.com/dannypostmaa",
+        "blurb": "独立开发 · SaaS · AI工具",
+        "url": "https://x.com/dannypostmaa",
+        "posted_at": null,
+        "handle": "dannypostmaa",
+        "name": "Danny Postma",
+        "person_id": "dannypostmaa",
+        "person_handle": "dannypostmaa",
+        "person_name": "Danny Postma",
+        "tier": "S",
+        "lang": "EN",
+        "_origin": "kol_profile_fallback",
+        "_source_id": "kol:dannypostmaa:fallback",
+        "_score_raw": 55,
+        "_decay_penalty": 0,
+        "_decay_exempt": "profile_fallback"
+      },
+      {
         "id": "ai-profile-damengchen",
         "partition": "ai",
         "type": "post",
         "card_kind": "profile_fallback",
         "category": "AI变现",
         "title": "打开 @damengchen 主页看最新",
-        "summary": "暂无稳定公开 RSS（feed_ok_but_no_recent_pass）。不编造帖文——点进原主页自行查看近期更新。",
+        "summary": "暂无稳定公开 RSS（all_feeds_failed）。不编造帖文——点进原主页自行查看近期更新。",
         "source": "@damengchen / Damon Chen",
         "source_url": "https://x.com/damengchen",
         "published_at": null,
@@ -6141,7 +7397,7 @@
         "person_name": "Pat Walls",
         "_feed_type": "x_api",
         "_feed_url": "x://api/users/thepatwalls/tweets",
-        "_score_raw": 4,
+        "_score_raw": 0,
         "_decay_penalty": 8,
         "_decay_exempt": null,
         "_ai_business": true,
@@ -6509,50 +7765,6 @@
         "_decay_exempt": null
       },
       {
-        "id": "invest-post-TTrades_edu-c5707f5166cc",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "Top-Down Analysis in 4 Simple Steps",
-        "summary": "📌All Links : https://ttrades.com/ 📈Access to my course and mentorship! https://mentorship.ttrades.com/ 🚀 Get access to my custom indicator : https://indicator.ttrades.com/ 🔥 Try Ninjatrader for 2 weeks completely FREE including live market data: https://ninja.ttrades.com Use ",
-        "source": "@TTrades_edu / TTrades",
-        "source_url": "https://www.youtube.com/shorts/auKknBdh1hQ",
-        "published_at": "2026-10-19T21:00:04.000Z",
-        "tags": [
-          "新视频",
-          "观察",
-          "ship",
-          "短线TA",
-          "ICT"
-        ],
-        "score": 80,
-        "why": "YouTube 新视频（观察向）；独立/Agent：ship；宏观观察：data",
-        "deep_link": "https://www.youtube.com/shorts/auKknBdh1hQ",
-        "blurb": "📌All Links : https://ttrades.com/ 📈Access to my course and mentorship! https://mentorship.ttrades.com/ 🚀 Get access t",
-        "url": "https://www.youtube.com/shorts/auKknBdh1hQ",
-        "posted_at": "2026-10-19",
-        "handle": "TTrades_edu",
-        "name": "TTrades",
-        "person_id": "TTrades_edu",
-        "person_handle": "TTrades_edu",
-        "person_name": "TTrades",
-        "tier": "A",
-        "lang": "EN",
-        "risk": "short_ta",
-        "_origin": "kol_rss",
-        "_source_id": "kol:TTrades_edu",
-        "_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
-        "_feed_type": "youtube_rss",
-        "card_kind": "youtube_video",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "短线TA"
-        },
-        "_score_raw": 80,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
         "id": "invest-post-moneyunder30-e06e03084db9",
         "partition": "invest",
         "type": "post",
@@ -6720,6 +7932,45 @@
         },
         "_score_raw": 86,
         "_decay_penalty": 8,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-zh-8903cd079285",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
+        "summary": "20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗? 图是 20 年来 家乐福 的物价变化, 按照年化计算大概是 4%. 也就是年化要超过 4%, 才跑得赢物价涨幅. 大家的理财跑赢了吗?",
+        "source_excerpt": "20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗? 图是 20 年来 家乐福 的物价变化, 按照年化计算大概是 4%. 也就是年化要超过 4%, 才跑得赢物价涨幅. 大家的理财跑赢了吗?",
+        "source": "V2EX 投资",
+        "source_url": "https://www.v2ex.com/t/1249855#reply41",
+        "deep_link": "https://www.v2ex.com/t/1249855#reply41",
+        "published_at": "2026-10-19T00:07:02Z",
+        "tags": [
+          "中文",
+          "V2EX 投资"
+        ],
+        "score": 76,
+        "why": "中文源 · V2EX 投资 · 实操参考：20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
+        "lang": "zh",
+        "risk": "stable",
+        "zh_reader": {
+          "verdict": "worth",
+          "use": "实操参考：20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
+          "lines": {
+            "fact": "原文数据：20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
+            "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
+          },
+          "evidence": [
+            "20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?",
+            "4.06%"
+          ],
+          "point": "20 年年化通胀 4.06%, 你的理财涨幅跑赢了吗?"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-v2ex-invest",
+        "_score_raw": 76,
+        "_decay_penalty": 0,
         "_decay_exempt": null
       },
       {
@@ -7559,6 +8810,201 @@
         "_decay_exempt": null
       },
       {
+        "id": "invest-zh-4ba734b876f2",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "日本20年期国债拍卖认购倍数创历史新高",
+        "summary": "日本20年期国债收益率日内下行6个基点至3.71%。 日本20年期国债拍卖认购倍数创历史新高，为5.84，过去12个月均值3.73。 受此影响，日本国债期货收窄跌幅。 日本20年期国债收益率日内下行6个基点至3.71%。",
+        "source_excerpt": "日本20年期国债收益率日内下行6个基点至3.71%。 日本20年期国债拍卖认购倍数创历史新高，为5.84，过去12个月均值3.73。 受此影响，日本国债期货收窄跌幅。 日本20年期国债收益率日内下行6个基点至3.71%。",
+        "source": "华尔街见闻 7x24",
+        "source_url": "https://wallstreetcn.com/livenews/3181579",
+        "deep_link": "https://wallstreetcn.com/livenews/3181579",
+        "published_at": "2026-10-20T03:37:41.000Z",
+        "tags": [
+          "中文",
+          "华尔街见闻 7x24"
+        ],
+        "score": 66,
+        "why": "中文源 · 华尔街见闻 7x24 · 数据：日本20年期国债收益率日内下行6个基点至3.71%。",
+        "lang": "zh",
+        "risk": "macro",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "数据：日本20年期国债收益率日内下行6个基点至3.71%。",
+          "lines": {
+            "fact": "原文数据：日本20年期国债收益率日内下行6个基点至3.71%。",
+            "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
+          },
+          "evidence": [
+            "日本20年期国债收益率日内下行6个基点至3.71%。",
+            "3.71%"
+          ],
+          "point": "日本20年期国债拍卖认购倍数创历史新高"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-wscn-live",
+        "_score_raw": 66,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-zh-c67474dd1c61",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量",
+        "summary": "中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。 中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
+        "source_excerpt": "中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。 中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
+        "source": "华尔街见闻 7x24",
+        "source_url": "https://wallstreetcn.com/livenews/3181527",
+        "deep_link": "https://wallstreetcn.com/livenews/3181527",
+        "published_at": "2026-10-20T02:01:39.000Z",
+        "tags": [
+          "中文",
+          "华尔街见闻 7x24"
+        ],
+        "score": 66,
+        "why": "中文源 · 华尔街见闻 7x24 · 数据：中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
+        "lang": "zh",
+        "risk": "macro",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "数据：中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
+          "lines": {
+            "fact": "原文数据：中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
+            "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
+          },
+          "evidence": [
+            "中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。",
+            "10000亿元"
+          ],
+          "point": "中国人民银行：将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-wscn-live",
+        "_score_raw": 66,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-zh-33c230c0463e",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "国家统计局：第三季度金融业GDP同比增长4.1%，房地产业GDP同比下降0.4%",
+        "summary": "国家统计局：第三季度金融业GDP同比增长4.1%，房地产业GDP同比下降0.4%，住宿和餐饮业GDP同比增长6.3%。 国家统计局：第三季度金融业GDP同比增长4.1%，房地产业GDP同比下降0.4%，住宿和餐饮业GDP同比增长6.3%。",
+        "source_excerpt": "国家统计局：第三季度金融业GDP同比增长4.1%，房地产业GDP同比下降0.4%，住宿和餐饮业GDP同比增长6.3%。 国家统计局：第三季度金融业GDP同比增长4.1%，房地产业GDP同比下降0.4%，住宿和餐饮业GDP同比增长6.3%。",
+        "source": "华尔街见闻 7x24",
+        "source_url": "https://wallstreetcn.com/livenews/3181525",
+        "deep_link": "https://wallstreetcn.com/livenews/3181525",
+        "published_at": "2026-10-20T01:54:25.000Z",
+        "tags": [
+          "中文",
+          "华尔街见闻 7x24"
+        ],
+        "score": 66,
+        "why": "中文源 · 华尔街见闻 7x24 · 数据：国家统计局：第三季度金融业GDP同比增长4.1%，房地产业GDP同比下降0.4%，住宿和餐饮业GDP同比增长6.3%。",
+        "lang": "zh",
+        "risk": "macro",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "数据：国家统计局：第三季度金融业GDP同比增长4.1%，房地产业GDP同比下降0.4%，住宿和餐饮业GDP同比增长6.3%。",
+          "lines": {
+            "fact": "原文数据：国家统计局：第三季度金融业GDP同比增长4.1%，房地产业GDP同比下降0.4%，住宿和餐饮业GDP同比增长6.3%。",
+            "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
+          },
+          "evidence": [
+            "国家统计局：第三季度金融业GDP同比增长4.1%，房地产业GDP同比下降0.4%，住宿和餐饮业GDP同比增长6.3%。",
+            "4.1%"
+          ],
+          "point": "国家统计局：第三季度金融业GDP同比增长4.1%，房地产业GDP同比下降0.4%"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-wscn-live",
+        "_score_raw": 66,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-zh-e4214a812b33",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
+        "summary": "中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。 中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
+        "source_excerpt": "中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。 中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
+        "source": "华尔街见闻 7x24",
+        "source_url": "https://wallstreetcn.com/livenews/3181501",
+        "deep_link": "https://wallstreetcn.com/livenews/3181501",
+        "published_at": "2026-10-20T01:22:46.000Z",
+        "tags": [
+          "中文",
+          "华尔街见闻 7x24"
+        ],
+        "score": 66,
+        "why": "中文源 · 华尔街见闻 7x24 · 数据：中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
+        "lang": "zh",
+        "risk": "macro",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "数据：中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
+          "lines": {
+            "fact": "原文数据：中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
+            "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
+          },
+          "evidence": [
+            "中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。",
+            "650亿元"
+          ],
+          "point": "中国央行公开市场今日七天期逆回购操作量为零，今日650亿元逆回购到期。"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-wscn-live",
+        "_score_raw": 66,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-zh-4f4490c4f797",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续",
+        "summary": "中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。 中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。",
+        "source_excerpt": "中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。 中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。",
+        "source": "华尔街见闻 7x24",
+        "source_url": "https://wallstreetcn.com/livenews/3181490",
+        "deep_link": "https://wallstreetcn.com/livenews/3181490",
+        "published_at": "2026-10-20T01:00:55.000Z",
+        "tags": [
+          "中文",
+          "华尔街见闻 7x24"
+        ],
+        "score": 66,
+        "why": "中文源 · 华尔街见闻 7x24 · 数据：中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。",
+        "lang": "zh",
+        "risk": "macro",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "数据：中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。",
+          "lines": {
+            "fact": "原文数据：中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。",
+            "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
+          },
+          "evidence": [
+            "中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续第17个月持稳。",
+            "3.00%"
+          ],
+          "point": "中国维持1年期LPR在3.00%不变，维持5年期在3.50%不变，符合预期，连续"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-wscn-live",
+        "_score_raw": 66,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
         "id": "invest-post-awealthofcs-b3daa3e758bf",
         "partition": "invest",
         "type": "post",
@@ -8147,6 +9593,274 @@
         "_decay_exempt": null
       },
       {
+        "id": "invest-zh-b6f732dcd6b9",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "比特币现货 ETF 昨日总净流入 5.27 亿美元，仅贝莱德 IBIT 实现净流入",
+        "summary": "比特币现货 ETF 昨日总净流入 5.27 亿美元，仅贝莱德 IBIT 实现净流入。 PANews 10月20日消息，据 SoSoValue 数据，昨日（美东时间 10 月 19 日）比特币现货 ETF 总净流入 5.27 亿美元。 昨日单日净流入最多的比特币现货 ETF 为贝莱德 (Blackrock） ETF IBIT，单日净流入为 6.65 亿美元，目前 IBIT 历史总净流入达 662.33 亿美元。昨日单日净流出最多的比特币现货 ETF 为富达 (Fidelity） ETF FBTC，单日净流出为 8363.15 万美元，目前 FBTC 历史总净流入达 103.71 亿美元。 截至发稿前，比特币现货 ETF 总资产净值为 1054.59 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 6.4%，历史累计净流入已达 574.05 亿美元。",
+        "source_excerpt": "比特币现货 ETF 昨日总净流入 5.27 亿美元，仅贝莱德 IBIT 实现净流入。 PANews 10月20日消息，据 SoSoValue 数据，昨日（美东时间 10 月 19 日）比特币现货 ETF 总净流入 5.27 亿美元。 昨日单日净流入最多的比特币现货 ETF 为贝莱德 (Blackrock） ETF IBIT，单日净流入为 6.65 亿美元，目前 IBIT 历史总净流入达 662.33 亿美元。昨日单日净流出最多的比特币现货 ETF 为富达 (Fidelity） ETF FBTC，单日净流出为 8363.15 万美元，目前 FBTC 历史总净流入达 103.71 亿美元。 截至发稿前，比特币现货 ETF 总资产净值为 1054.59 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 6.4%，历史累计净流入已达 574.05 亿美元。",
+        "source": "PANews",
+        "source_url": "https://www.panewslab.com/zh/articles/01a15778-0675-775f-87f5-b59a7bd2c8e8",
+        "deep_link": "https://www.panewslab.com/zh/articles/01a15778-0675-775f-87f5-b59a7bd2c8e8",
+        "published_at": "Tue, 20 Oct 2026 04:00:46 GMT",
+        "tags": [
+          "中文",
+          "PANews"
+        ],
+        "score": 62,
+        "why": "中文源 · PANews · 数据：比特币现货 ETF 昨日总净流入 5.27 亿美元，仅贝莱德 IBIT 实现净流入。",
+        "lang": "zh",
+        "risk": "crypto",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "数据：比特币现货 ETF 昨日总净流入 5.27 亿美元，仅贝莱德 IBIT 实现净流入。",
+          "lines": {
+            "fact": "原文数据：比特币现货 ETF 昨日总净流入 5.27 亿美元，仅贝莱德 IBIT 实现净流入。",
+            "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
+          },
+          "evidence": [
+            "比特币现货 ETF 昨日总净流入 5.27 亿美元，仅贝莱德 IBIT 实现净流入。",
+            "5.27 亿美元"
+          ],
+          "point": "比特币现货 ETF 昨日总净流入 5.27 亿美元，仅贝莱德 IBIT 实现净…"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-panews",
+        "_score_raw": 62,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-zh-13ae2c4136ab",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "以太坊现货 ETF 昨日总净流出 1.03 亿美元，持续 4 日净流出",
+        "summary": "以太坊现货 ETF 昨日总净流出 1.03 亿美元，持续 4 日净流出。 PANews 10月20日消息，据 SoSoValue 数据，昨日（美东时间 10 月 19 日）以太坊现货 ETF 总净流出 1.03 亿美元。 昨日单日净流出最多的以太坊现货 ETF 为贝莱德（Blackrock） ETF ETHA，单日净流出为 9539.53 万美元，目前 ETHA 历史总净流入达 123.98 亿美元。其次为富达（Fidelity） ETF FETH，单日净流出为 596.32 万美元，目前 FETH 历史总净流入达 23.38 亿美元。 截至发稿前，以太坊现货 ETF 总资产净值为 147.65 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 5.04%，历史累计净流入已达 128.37 亿美元。",
+        "source_excerpt": "以太坊现货 ETF 昨日总净流出 1.03 亿美元，持续 4 日净流出。 PANews 10月20日消息，据 SoSoValue 数据，昨日（美东时间 10 月 19 日）以太坊现货 ETF 总净流出 1.03 亿美元。 昨日单日净流出最多的以太坊现货 ETF 为贝莱德（Blackrock） ETF ETHA，单日净流出为 9539.53 万美元，目前 ETHA 历史总净流入达 123.98 亿美元。其次为富达（Fidelity） ETF FETH，单日净流出为 596.32 万美元，目前 FETH 历史总净流入达 23.38 亿美元。 截至发稿前，以太坊现货 ETF 总资产净值为 147.65 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 5.04%，历史累计净流入已达 128.37 亿美元。",
+        "source": "PANews",
+        "source_url": "https://www.panewslab.com/zh/articles/01a15777-87d0-73a1-a22b-a07532aeecc9",
+        "deep_link": "https://www.panewslab.com/zh/articles/01a15777-87d0-73a1-a22b-a07532aeecc9",
+        "published_at": "Tue, 20 Oct 2026 04:00:13 GMT",
+        "tags": [
+          "中文",
+          "PANews"
+        ],
+        "score": 62,
+        "why": "中文源 · PANews · 数据：以太坊现货 ETF 昨日总净流出 1.03 亿美元，持续 4 日净流出。",
+        "lang": "zh",
+        "risk": "crypto",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "数据：以太坊现货 ETF 昨日总净流出 1.03 亿美元，持续 4 日净流出。",
+          "lines": {
+            "fact": "原文数据：以太坊现货 ETF 昨日总净流出 1.03 亿美元，持续 4 日净流出。",
+            "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
+          },
+          "evidence": [
+            "以太坊现货 ETF 昨日总净流出 1.03 亿美元，持续 4 日净流出。",
+            "1.03 亿美元"
+          ],
+          "point": "以太坊现货 ETF 昨日总净流出 1.03 亿美元，持续 4 日净流出"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-panews",
+        "_score_raw": 62,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-zh-3278a9a631d9",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL",
+        "summary": "摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL。 PANews 10月20日消息，据 Arkham 称，摩根士丹利旗下 SOL 产品 MSOL 过去 20 天累计流入 180 万美元，期间没有一天出现资金流出。富达旗下 FSOL 昨日单日卖出价值 180 万美元的 SOL。SOL 目前报 105 美元。",
+        "source_excerpt": "摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL。 PANews 10月20日消息，据 Arkham 称，摩根士丹利旗下 SOL 产品 MSOL 过去 20 天累计流入 180 万美元，期间没有一天出现资金流出。富达旗下 FSOL 昨日单日卖出价值 180 万美元的 SOL。SOL 目前报 105 美元。",
+        "source": "PANews",
+        "source_url": "https://www.panewslab.com/zh/articles/01a15764-4f09-70cb-907a-e77ce666c57c",
+        "deep_link": "https://www.panewslab.com/zh/articles/01a15764-4f09-70cb-907a-e77ce666c57c",
+        "published_at": "Tue, 20 Oct 2026 03:39:14 GMT",
+        "tags": [
+          "中文",
+          "PANews"
+        ],
+        "score": 62,
+        "why": "中文源 · PANews · 数据：摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL。",
+        "lang": "zh",
+        "risk": "crypto",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "数据：摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL。",
+          "lines": {
+            "fact": "原文数据：摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL。",
+            "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
+          },
+          "evidence": [
+            "摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单日卖出 180 万美元 SOL。",
+            "180 万美元"
+          ],
+          "point": "摩根士丹利 MSOL 过去 20 天净流入 180 万美元，富达 FSOL 单…"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-panews",
+        "_score_raw": 62,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-zh-f3c04d028f04",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "美国 ZEC 现货 ETF 单日净流出 1044.72 万美元，NEAR 现货 ETF 净流入 541.84 万美元",
+        "summary": "美国 ZEC 现货 ETF 单日净流出 1044.72 万美元，NEAR 现货 ETF 净流入 541.84 万美元。 PANews 10月20日消息，据 SoSoValue 数据，昨日（美东时间 10 月 19 日），美国 ZEC 现货 ETF 单日总净流出 1044.72 万美元，NEAR 现货 ETF 单日总净流入 541.84 万美元。 ZEC 方面，当日仅 Zcash ETF（ZCSH）录得净流出，金额为 1044.72 万美元，历史累计净流入为 1.52 亿美元。截至发稿前，ZEC 现货 ETF 总资产净值为 6.02 亿美元，净资产比率为 3.15%，历史累计净流入为 1.52 亿美元。 NEAR 方面，当日仅 Bitwise NEAR ETF（NRR）录得净流入，金额为 541.84 万美元，该基金历史累计净流入为 8846.53 万美元。截至发稿前，NEAR 现货 ETF 总资产净值为 8695.31 万美元，",
+        "source_excerpt": "美国 ZEC 现货 ETF 单日净流出 1044.72 万美元，NEAR 现货 ETF 净流入 541.84 万美元。 PANews 10月20日消息，据 SoSoValue 数据，昨日（美东时间 10 月 19 日），美国 ZEC 现货 ETF 单日总净流出 1044.72 万美元，NEAR 现货 ETF 单日总净流入 541.84 万美元。 ZEC 方面，当日仅 Zcash ETF（ZCSH）录得净流出，金额为 1044.72 万美元，历史累计净流入为 1.52 亿美元。截至发稿前，ZEC 现货 ETF 总资产净值为 6.02 亿美元，净资产比率为 3.15%，历史累计净流入为 1.52 亿美元。 NEAR 方面，当日仅 Bitwise NEAR ETF（NRR）录得净流入，金额为 541.84 万美元，该基金历史累计净流入为 8846.53 万美元。截至发稿前，NEAR 现货 ETF 总资产净值为 8695.31 万美元，",
+        "source": "PANews",
+        "source_url": "https://www.panewslab.com/zh/articles/01a156e7-ea47-7338-abcd-8461b0090810",
+        "deep_link": "https://www.panewslab.com/zh/articles/01a156e7-ea47-7338-abcd-8461b0090810",
+        "published_at": "Tue, 20 Oct 2026 01:23:21 GMT",
+        "tags": [
+          "中文",
+          "PANews"
+        ],
+        "score": 62,
+        "why": "中文源 · PANews · 数据：美国 ZEC 现货 ETF 单日净流出 1044.72 万美元，NEAR 现货 ETF 净流入 541.84 万美元。",
+        "lang": "zh",
+        "risk": "crypto",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "数据：美国 ZEC 现货 ETF 单日净流出 1044.72 万美元，NEAR 现货 ETF 净流入 541.84 万美元。",
+          "lines": {
+            "fact": "原文数据：美国 ZEC 现货 ETF 单日净流出 1044.72 万美元，NEAR 现货 ETF 净流入 541.84 万美元。",
+            "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
+          },
+          "evidence": [
+            "美国 ZEC 现货 ETF 单日净流出 1044.72 万美元，NEAR 现货 ETF 净流入 541.84 万美元。",
+            "1044.72 万美元"
+          ],
+          "point": "美国 ZEC 现货 ETF 单日净流出 1044.72 万美元，NEAR 现货…"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-panews",
+        "_score_raw": 62,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-zh-9433b6ba80a1",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "美国 SOL 现货 ETF 单日总净流出 672.15 万美元",
+        "summary": "美国 SOL 现货 ETF 单日总净流出 672.15 万美元。 PANews 10月20日消息，据 SoSoValue 数据，昨日（美东时间 10 月 19 日）SOL 现货 ETF 单日总净流出 672.15 万美元。 昨日净流出最多的 SOL 现货 ETF 为 Bitwise Solana Staking ETF(BSOL)，单日净流出 488.16 万美元，目前历史总净流入达 11.75 亿美元。其次为 Fidelity Solana Fund ETF(FSOL)，单日净流出 183.99 万美元，目前历史总净流入达 2.30 亿美元。 截至发稿前，SOL 现货 ETF 总资产净值为 16.25 亿美元，SOL 净资产比率 0.00%，历史累计净流入已达 15.51 亿美元。",
+        "source_excerpt": "美国 SOL 现货 ETF 单日总净流出 672.15 万美元。 PANews 10月20日消息，据 SoSoValue 数据，昨日（美东时间 10 月 19 日）SOL 现货 ETF 单日总净流出 672.15 万美元。 昨日净流出最多的 SOL 现货 ETF 为 Bitwise Solana Staking ETF(BSOL)，单日净流出 488.16 万美元，目前历史总净流入达 11.75 亿美元。其次为 Fidelity Solana Fund ETF(FSOL)，单日净流出 183.99 万美元，目前历史总净流入达 2.30 亿美元。 截至发稿前，SOL 现货 ETF 总资产净值为 16.25 亿美元，SOL 净资产比率 0.00%，历史累计净流入已达 15.51 亿美元。",
+        "source": "PANews",
+        "source_url": "https://www.panewslab.com/zh/articles/01a156e7-2dfd-70aa-b782-1e8229744da3",
+        "deep_link": "https://www.panewslab.com/zh/articles/01a156e7-2dfd-70aa-b782-1e8229744da3",
+        "published_at": "Tue, 20 Oct 2026 01:22:33 GMT",
+        "tags": [
+          "中文",
+          "PANews"
+        ],
+        "score": 62,
+        "why": "中文源 · PANews · 数据：美国 SOL 现货 ETF 单日总净流出 672.15 万美元。",
+        "lang": "zh",
+        "risk": "crypto",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "数据：美国 SOL 现货 ETF 单日总净流出 672.15 万美元。",
+          "lines": {
+            "fact": "原文数据：美国 SOL 现货 ETF 单日总净流出 672.15 万美元。",
+            "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
+          },
+          "evidence": [
+            "美国 SOL 现货 ETF 单日总净流出 672.15 万美元。",
+            "672.15 万美元"
+          ],
+          "point": "美国 SOL 现货 ETF 单日总净流出 672.15 万美元"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-panews",
+        "_score_raw": 62,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-zh-3486b456a87a",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "10月LPR报价出炉：1年期和5年期以上利率均保持不变",
+        "summary": "PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%； PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；5年期以上LPR为3.5%，上月为3.5%。",
+        "source_excerpt": "PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%； PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；5年期以上LPR为3.5%，上月为3.5%。",
+        "source": "PANews",
+        "source_url": "https://www.panewslab.com/zh/articles/01a156d4-d7f2-75fa-91fa-5b1219b0c12a",
+        "deep_link": "https://www.panewslab.com/zh/articles/01a156d4-d7f2-75fa-91fa-5b1219b0c12a",
+        "published_at": "Tue, 20 Oct 2026 01:02:31 GMT",
+        "tags": [
+          "中文",
+          "PANews"
+        ],
+        "score": 62,
+        "why": "中文源 · PANews · 数据：PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；",
+        "lang": "zh",
+        "risk": "crypto",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "数据：PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；",
+          "lines": {
+            "fact": "原文数据：PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；",
+            "risk": "仅信息，不构成投资建议；不追涨、不加杠杆"
+          },
+          "evidence": [
+            "PANews 10月20日消息，2026年10月贷款市场报价利率（LPR）报价出炉：1年期LPR为3%，上月为3%；",
+            "3%"
+          ],
+          "point": "10月LPR报价出炉：1年期和5年期以上利率均保持不变"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-panews",
+        "_score_raw": 62,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-community-invest-reddit-debtfree-26187d112b86",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "Hopefully I can be debt free before 2030",
+        "summary": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month - Care Credit Dental Im 33M in MA I make $92,145 per year after taxes(Including All sources of income into my bank account even non income that regulary comes in)",
+        "source": "r/DebtFree",
+        "source_url": "https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/",
+        "published_at": "2026-10-13T23:20:36.000Z",
+        "tags": [
+          "reddit",
+          "r/DebtFree",
+          "负债偿还",
+          "金额",
+          "比例"
+        ],
+        "score": 62,
+        "why": "公开社区帖 · r/DebtFree · top/month 第42位 · 原帖含：负债偿还、金额、比例（数字均为发帖人自述，未经核实）",
+        "deep_link": "https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/",
+        "blurb": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k ",
+        "source_excerpt": "My personal loan minimum payment is $1227/month at 9.30% But i pay $1550 a month on auto pay $38,849 - $1550/month -49k Personal loan - $2170.79 - $120.60/month - Care Credit Dental Im 33M in MA I make $92,145 per year after taxes(Including All sources of income into my bank account even non income that regulary comes in)",
+        "url": "https://www.reddit.com/r/debtfree/comments/1x5bvrd/hopefully_i_can_be_debt_free_before_2030/",
+        "lang": "EN",
+        "posted_at": "2026-10-13",
+        "_origin": "community_rss",
+        "_community_mode": "finance",
+        "_feed_type": "reddit_rss",
+        "_feed_url": "https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100",
+        "_source_id": "invest-reddit-debtfree",
+        "_score_raw": 62,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
         "id": "invest-post-PaulaPant-4d2a3c973cf9",
         "partition": "invest",
         "type": "post",
@@ -8228,49 +9942,6 @@
         },
         "_score_raw": 60,
         "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "invest-post-TTrades_edu-8c0553ae510b",
-        "partition": "invest",
-        "type": "post",
-        "category": "投资观察",
-        "title": "New York Open Live Q&A",
-        "summary": "📌All Links : https://ttrades.com/ 🚀 Get access to my custom indicator : https://indicator.ttrades.com/ 🔥 Try Ninjatrader for 2 weeks completely FREE including live market data: https://ninja.ttrades.com Use Code : TT for the best prop firm deals. 🎯 Lucid Trading [simple rules",
-        "source": "@TTrades_edu / TTrades",
-        "source_url": "https://www.youtube.com/watch?v=mflp3ACPZc0",
-        "published_at": "2026-10-07T14:56:50.000Z",
-        "tags": [
-          "新视频",
-          "观察",
-          "短线TA",
-          "ICT"
-        ],
-        "score": 57,
-        "why": "YouTube 新视频（观察向）；宏观观察：data",
-        "deep_link": "https://www.youtube.com/watch?v=mflp3ACPZc0",
-        "blurb": "📌All Links : https://ttrades.com/ 🚀 Get access to my custom indicator : https://indicator.ttrades.com/ 🔥 Try Ninjatra",
-        "url": "https://www.youtube.com/watch?v=mflp3ACPZc0",
-        "posted_at": "2026-10-07",
-        "handle": "TTrades_edu",
-        "name": "TTrades",
-        "person_id": "TTrades_edu",
-        "person_handle": "TTrades_edu",
-        "person_name": "TTrades",
-        "tier": "A",
-        "lang": "EN",
-        "risk": "short_ta",
-        "_origin": "kol_rss",
-        "_source_id": "kol:TTrades_edu",
-        "_feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
-        "_feed_type": "youtube_rss",
-        "card_kind": "youtube_video",
-        "extra": {
-          "disclaimer": "仅供观察，非投资建议；不构成任何买卖建议",
-          "bucket": "短线TA"
-        },
-        "_score_raw": 65,
-        "_decay_penalty": 8,
         "_decay_exempt": null
       },
       {
@@ -8454,7 +10125,7 @@
           "预算/储蓄率"
         ],
         "score": 57,
-        "why": "公开社区帖 · r/YNAB · top/month 第9位 · 原帖含：金额、周期、预算/储蓄率（数字均为发帖人自述，未经核实）",
+        "why": "公开社区帖 · r/YNAB · top/month 第10位 · 原帖含：金额、周期、预算/储蓄率（数字均为发帖人自述，未经核实）",
         "deep_link": "https://www.reddit.com/r/ynab/comments/1wqfkif/small_win_thats_actually_a_big_win/",
         "blurb": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putt",
         "source_excerpt": "I’ve been using YNAB for about 5 months - slowly crawling out of credit card debt, building up emergency funds, and putting an end to the shame spiral around money ps: Debt when I started was -$36k and today it’s at -$23k 💪 This week I visited family in a different state and didn’t once stress about my budget because I planned ahead.",
@@ -8513,7 +10184,7 @@
         "card_kind": "profile_fallback",
         "category": "投资观察",
         "title": "打开 @charliebilello 主页看最新",
-        "summary": "暂无稳定公开 RSS（feed_ok_but_no_recent_pass）。不编造帖文——点进原主页自行查看近期更新。",
+        "summary": "暂无稳定公开 RSS（all_feeds_failed）。不编造帖文——点进原主页自行查看近期更新。",
         "source": "@charliebilello / Charlie Bilello",
         "source_url": "https://x.com/charliebilello",
         "published_at": null,
@@ -8550,7 +10221,7 @@
         "card_kind": "profile_fallback",
         "category": "投资观察",
         "title": "打开 @LynAldenContact 主页看最新",
-        "summary": "暂无稳定公开 RSS（feed_ok_but_no_recent_pass）。不编造帖文——点进原主页自行查看近期更新。",
+        "summary": "暂无稳定公开 RSS（all_feeds_failed）。不编造帖文——点进原主页自行查看近期更新。",
         "source": "@LynAldenContact / Lyn Alden",
         "source_url": "https://x.com/LynAldenContact",
         "published_at": null,
@@ -8612,6 +10283,43 @@
         "risk": "stable",
         "_origin": "kol_profile_fallback",
         "_source_id": "kol:morganhousel:fallback",
+        "_score_raw": 55,
+        "_decay_penalty": 0,
+        "_decay_exempt": "profile_fallback"
+      },
+      {
+        "id": "invest-profile-TTrades_edu",
+        "partition": "invest",
+        "type": "post",
+        "card_kind": "profile_fallback",
+        "category": "投资观察",
+        "title": "打开 @TTrades_edu 主页看最新",
+        "summary": "暂无稳定公开 RSS（all_feeds_failed）。不编造帖文——点进原主页自行查看近期更新。",
+        "source": "@TTrades_edu / TTrades",
+        "source_url": "https://x.com/TTrades_edu",
+        "published_at": null,
+        "tags": [
+          "主页深链",
+          "短线TA",
+          "ICT"
+        ],
+        "score": 55,
+        "why": "短线TA · ICT",
+        "why_pass": "以可复述的 ICT 概念/模型教学为主（非纯晒单信号群），便于短线 TA 学习。",
+        "deep_link": "https://x.com/TTrades_edu",
+        "blurb": "短线TA · ICT",
+        "url": "https://x.com/TTrades_edu",
+        "posted_at": null,
+        "handle": "TTrades_edu",
+        "name": "TTrades",
+        "person_id": "TTrades_edu",
+        "person_handle": "TTrades_edu",
+        "person_name": "TTrades",
+        "tier": "A",
+        "lang": "EN",
+        "risk": "short_ta",
+        "_origin": "kol_profile_fallback",
+        "_source_id": "kol:TTrades_edu:fallback",
         "_score_raw": 55,
         "_decay_penalty": 0,
         "_decay_exempt": "profile_fallback"
@@ -8739,6 +10447,39 @@
           "bucket": "稳健"
         },
         "_score_raw": 60,
+        "_decay_penalty": 8,
+        "_decay_exempt": null
+      },
+      {
+        "id": "invest-community-invest-reddit-debtfree-aad96c8cc748",
+        "partition": "invest",
+        "type": "post",
+        "category": "投资观察",
+        "title": "I’m paying off £500 a month on a credit card (down to £1800) it feels so slow!",
+        "summary": "I then have £4400 from a loan ( also paying £220 a month on this) and then owe my dad £3,000.",
+        "source": "r/DebtFree",
+        "source_url": "https://www.reddit.com/r/debtfree/comments/1x3iike/im_paying_off_500_a_month_on_a_credit_card_down/",
+        "published_at": "2026-10-11T20:24:23.000Z",
+        "tags": [
+          "reddit",
+          "r/DebtFree",
+          "金额",
+          "负债偿还"
+        ],
+        "score": 50,
+        "why": "公开社区帖 · r/DebtFree · top/month 第52位 · 原帖含：金额、负债偿还（数字均为发帖人自述，未经核实）",
+        "deep_link": "https://www.reddit.com/r/debtfree/comments/1x3iike/im_paying_off_500_a_month_on_a_credit_card_down/",
+        "blurb": "I then have £4400 from a loan ( also paying £220 a month on this) and then owe my dad £3,000.",
+        "source_excerpt": "I then have £4400 from a loan ( also paying £220 a month on this) and then owe my dad £3,000.",
+        "url": "https://www.reddit.com/r/debtfree/comments/1x3iike/im_paying_off_500_a_month_on_a_credit_card_down/",
+        "lang": "EN",
+        "posted_at": "2026-10-11",
+        "_origin": "community_rss",
+        "_community_mode": "finance",
+        "_feed_type": "reddit_rss",
+        "_feed_url": "https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100",
+        "_source_id": "invest-reddit-debtfree",
+        "_score_raw": 58,
         "_decay_penalty": 8,
         "_decay_exempt": null
       },
@@ -11034,6 +12775,41 @@
         "_decay_exempt": null
       },
       {
+        "id": "growth-post-askamanager-df3af3583553",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "employee reeks of cigarettes, boss/friend degrees of separation, and more",
+        "summary": "It’s five answers to five questions. Here we go… 1. My employee goes to clients’ homes reeking of cigarette smoke I have an employee, Susan. Susan smokes. She has tried to quit and has used vapes, but still smells like smoke. Her job is something like home health care, but not ex",
+        "source": "@askamanager / Alison Green (Ask a Manager)",
+        "source_url": "https://www.askamanager.org/2026/10/employee-reeks-of-cigarettes-boss-friend-degrees-of-separation-and-more.html",
+        "published_at": "2026-10-20T04:03:13.000Z",
+        "tags": [
+          "职场",
+          "求职"
+        ],
+        "score": 53,
+        "why": "策展成长账号近期帖；策展：职场老牌问答，给具体可照做的求职/面试/谈薪答复。",
+        "deep_link": "https://www.askamanager.org/2026/10/employee-reeks-of-cigarettes-boss-friend-degrees-of-separation-and-more.html",
+        "blurb": "It’s five answers to five questions. Here we go… 1. My employee goes to clients’ homes reeking of cigarette smoke I have",
+        "url": "https://www.askamanager.org/2026/10/employee-reeks-of-cigarettes-boss-friend-degrees-of-separation-and-more.html",
+        "posted_at": "2026-10-20",
+        "handle": "askamanager",
+        "name": "Alison Green (Ask a Manager)",
+        "person_id": "askamanager",
+        "person_handle": "askamanager",
+        "person_name": "Alison Green (Ask a Manager)",
+        "tier": "A",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:askamanager",
+        "_feed_url": "https://www.askamanager.org/feed",
+        "_feed_type": "blog_rss",
+        "_score_raw": 53,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
         "id": "growth-post-askamanager-1bab8262fb13",
         "partition": "growth",
         "type": "post",
@@ -11349,76 +13125,6 @@
         "_decay_exempt": null
       },
       {
-        "id": "growth-post-askamanager-191ee4732991",
-        "partition": "growth",
-        "type": "post",
-        "category": "个人提升",
-        "title": "update: I need to cunningly find out 40 names",
-        "summary": "Remember the letter-writer who was terrible with names and after four years still didn’t know the names of many of their coworkers (#3 at the link)? Here’s the update. I thought I’d send an update to this query from last year. Took about a year, but I do know most names now! You ",
-        "source": "@askamanager / Alison Green (Ask a Manager)",
-        "source_url": "https://www.askamanager.org/2026/10/update-i-need-to-cunningly-find-out-40-names.html",
-        "published_at": "2026-10-15T16:29:34.000Z",
-        "tags": [
-          "职场",
-          "求职"
-        ],
-        "score": 53,
-        "why": "策展成长账号近期帖；策展：职场老牌问答，给具体可照做的求职/面试/谈薪答复。",
-        "deep_link": "https://www.askamanager.org/2026/10/update-i-need-to-cunningly-find-out-40-names.html",
-        "blurb": "Remember the letter-writer who was terrible with names and after four years still didn’t know the names of many of their",
-        "url": "https://www.askamanager.org/2026/10/update-i-need-to-cunningly-find-out-40-names.html",
-        "posted_at": "2026-10-15",
-        "handle": "askamanager",
-        "name": "Alison Green (Ask a Manager)",
-        "person_id": "askamanager",
-        "person_handle": "askamanager",
-        "person_name": "Alison Green (Ask a Manager)",
-        "tier": "A",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:askamanager",
-        "_feed_url": "https://www.askamanager.org/feed",
-        "_feed_type": "blog_rss",
-        "_score_raw": 53,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "growth-post-PutThisOn-cc983fb565fc",
-        "partition": "growth",
-        "type": "post",
-        "category": "个人提升",
-        "title": "Inside Track: October 4th – October 10th Edition",
-        "summary": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you’re a member... The post Inside Track: October 4th – October 10th Edition appeared first on Put This On .",
-        "source": "@PutThisOn / Put This On",
-        "source_url": "https://putthison.com/inside-track-october-4th-october-10th-edition-2/",
-        "published_at": "2026-10-13T01:34:18.000Z",
-        "tags": [
-          "穿搭",
-          "形象"
-        ],
-        "score": 51,
-        "why": "成长栏目：穿搭；降权：穿搭形象（本轮优先认知/习惯）；策展：系统男士穿搭/合身教育，heritage menswear 圈与 dieworkwear 同轨，非奢侈晒单。",
-        "deep_link": "https://putthison.com/inside-track-october-4th-october-10th-edition-2/",
-        "blurb": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you’re a member..",
-        "url": "https://putthison.com/inside-track-october-4th-october-10th-edition-2/",
-        "posted_at": "2026-10-13",
-        "handle": "PutThisOn",
-        "name": "Put This On",
-        "person_id": "PutThisOn",
-        "person_handle": "PutThisOn",
-        "person_name": "Put This On",
-        "tier": "A",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:PutThisOn",
-        "_feed_url": "https://putthison.com/feed/",
-        "_feed_type": "blog_rss",
-        "_score_raw": 51,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
         "id": "growth-post-ScottHYoung-a2c93cc334d0",
         "partition": "growth",
         "type": "post",
@@ -11693,6 +13399,41 @@
         "_feed_type": "blog_rss",
         "_score_raw": 63,
         "_decay_penalty": 20,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-PutThisOn-cc983fb565fc",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "Inside Track: October 4th – October 10th Edition",
+        "summary": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you’re a member... The post Inside Track: October 4th – October 10th Edition appeared first on Put This On .",
+        "source": "@PutThisOn / Put This On",
+        "source_url": "https://putthison.com/inside-track-october-4th-october-10th-edition-2/",
+        "published_at": "2026-10-13T01:34:18.000Z",
+        "tags": [
+          "穿搭",
+          "形象"
+        ],
+        "score": 43,
+        "why": "成长栏目：穿搭；降权：穿搭形象（本轮优先认知/习惯）；策展：系统男士穿搭/合身教育，heritage menswear 圈与 dieworkwear 同轨，非奢侈晒单。",
+        "deep_link": "https://putthison.com/inside-track-october-4th-october-10th-edition-2/",
+        "blurb": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you’re a member..",
+        "url": "https://putthison.com/inside-track-october-4th-october-10th-edition-2/",
+        "posted_at": "2026-10-13",
+        "handle": "PutThisOn",
+        "name": "Put This On",
+        "person_id": "PutThisOn",
+        "person_handle": "PutThisOn",
+        "person_name": "Put This On",
+        "tier": "A",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:PutThisOn",
+        "_feed_url": "https://putthison.com/feed/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 51,
+        "_decay_penalty": 8,
         "_decay_exempt": null
       },
       {

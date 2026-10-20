@@ -1,9 +1,227 @@
 {
   "partition": "ai",
-  "generated_at": "2026-10-20T00:11:49.555Z",
-  "next_update_at": "2026-10-20T01:00:00.000Z",
-  "cap": 30,
+  "generated_at": "2026-10-20T04:08:00.305Z",
+  "next_update_at": "2026-10-20T13:00:00.000Z",
+  "cap": 60,
   "cards": [
+    {
+      "id": "ai-zh-3d933d481067",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "双十一，谁能靠AI获得大结果？",
+      "summary": "大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。",
+      "source": "钛媒体",
+      "source_url": "https://www.tmtpost.com/8173901.html",
+      "published_at": "Tue, 20 Oct 2026 11:14:30 +0800",
+      "tags": [
+        "中文",
+        "钛媒体"
+      ],
+      "score": 90,
+      "why": "中文源 · 钛媒体 · 解决：大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。；模式/数字：它披露，既有付费用户中，电商用户占20%。",
+      "deep_link": "https://www.tmtpost.com/8173901.html",
+      "extra": {},
+      "blurb": "大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。",
+      "url": "https://www.tmtpost.com/8173901.html",
+      "name": "双十一，谁能靠AI获得大结果？",
+      "lang": "zh",
+      "posted_at": "Tue, 20 Oc",
+      "evidence_missing": false,
+      "_origin": "zh_media",
+      "_source_id": "zh-tmtpost",
+      "zh_reader": {
+        "verdict": "worth",
+        "use": "解决：大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。；模式/数字：它披露，既有付费用户中，电商用户占20%。",
+        "lines": {
+          "problem": "解决：大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。",
+          "model": "怎么赚钱：它披露，既有付费用户中，电商用户占20%。"
+        },
+        "evidence": [
+          "大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。",
+          "它披露，既有付费用户中，电商用户占20%。",
+          "20%"
+        ],
+        "point": "双十一，谁能靠AI获得大结果？"
+      },
+      "title_orig": "双十一，谁能靠AI获得大结果？",
+      "source_excerpt": "大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。 它披露，既有付费用户中，电商用户占20%。 （本文作者为 象先志，钛媒体经授权发布） 文 | 象先志 今年双十一，电商平台掏出的优惠，有一部分开始给AI招揽生意。 10月15日，抖音双十一启动。商家承担商品立减或直降，平台另外出钱发券，消费者在豆包等应用上也可以领取。消费券已经不止承担用户运营层面的用途，他还需要开始促成交易，并且给消费者一个打开AI的理由。抖音已经沉淀了大规模的消费用户，而豆包要争取的，是改变用户的下单习惯。 阿里的办法更贴近购物里的麻烦流程中的麻烦。10月13日，千问开放个人智能体&ldquo;千问Go&rdquo;的体验申请，还展示了一下用户在消费平台退款的案例。消费本身已经不是重点目标，让用户开始了解智能体能在消费链路中可以承担更多职能才是目的。 购买需求、商品和商家预算都在这个时间汇聚，平台又愿意承担部分试用成本，一波促活大战一触即发。 双",
+      "_score_raw": 80,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "_practical_delta": 10,
+      "summary_zh": "大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。",
+      "highlights": [
+        "它披露，既有付费用户中，电商用户占20%。",
+        "（本文作者为 象先志，钛媒体经授权发布） 文 | 象先志 今年双十一，电商平台掏出的优惠，有一部分开始给AI招揽生意。",
+        "商家承担商品立减或直降，平台另外出钱发券，消费者在豆包等应用上也可以领取。"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "worth",
+        "use": "解决：大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。；模式/数字：它披露，既有付费用户中，电商用户占20%。",
+        "lines": {
+          "problem": "解决：大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。",
+          "model": "怎么赚钱：它披露，既有付费用户中，电商用户占20%。"
+        },
+        "evidence": [
+          "大促期间，罗盘AI问数帮助商家分析经营，飞鸽智能客服限时免费。",
+          "它披露，既有付费用户中，电商用户占20%。",
+          "20%"
+        ],
+        "point": "双十一，谁能靠AI获得大结果？",
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-zh-a9225de488ab",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "Werner Vogels谈亚马逊的AI理念：在做与不做之间",
+      "summary": "将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是 2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3 （本文作者为 TechHorizon，钛媒体经授权发布） “他们并不会因为此刻没有使用AI，就立即倒闭。”",
+      "source": "钛媒体",
+      "source_url": "https://www.tmtpost.com/8172565.html",
+      "published_at": "Tue, 20 Oct 2026 10:59:23 +0800",
+      "tags": [
+        "中文",
+        "钛媒体"
+      ],
+      "score": 90,
+      "why": "中文源 · 钛媒体 · 解决：将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是；模式/数字：2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3",
+      "deep_link": "https://www.tmtpost.com/8172565.html",
+      "extra": {},
+      "blurb": "将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是 2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3 （本文作者为 TechHorizon，钛媒体经授权发布） “他们并不会因为此刻没有使用AI，就立即倒闭。”",
+      "url": "https://www.tmtpost.com/8172565.html",
+      "name": "Werner Vogels谈亚马逊的AI理念：在做与不做之间",
+      "lang": "zh",
+      "posted_at": "Tue, 20 Oc",
+      "evidence_missing": false,
+      "_origin": "zh_media",
+      "_source_id": "zh-tmtpost",
+      "zh_reader": {
+        "verdict": "worth",
+        "use": "解决：将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是；模式/数字：2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3",
+        "lines": {
+          "problem": "解决：将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是",
+          "model": "怎么赚钱：2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3"
+        },
+        "evidence": [
+          "将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是",
+          "2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3",
+          "2000亿美元"
+        ],
+        "point": "Werner Vogels谈亚马逊的AI理念：在做与不做之间"
+      },
+      "title_orig": "Werner Vogels谈亚马逊的AI理念：在做与不做之间",
+      "source_excerpt": "将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是 2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3 （本文作者为 TechHorizon，钛媒体经授权发布） &ldquo;他们并不会因为此刻没有使用AI，就立即倒闭。&rdquo; 2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长37%，年化收入运行率达到1690亿美元。同时，亚马逊自研芯片Graviton、Trainium，其年收入运行率已超过200亿美元。 在这个默认更大、更快、更贵的AI竞赛中，亚马逊副总裁兼首席技术官Werner Vogels在这次来到中国深圳，给出的不是一张加速路线图： 成本必须可控，不必追求最强模型，Agent必须被约束，人类需保留最终判断。其底色是对AI进行控制与负责任，尽可能将AI规模化的风险",
+      "_score_raw": 80,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "_practical_delta": 10,
+      "summary_zh": "将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是 2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3 （本文作者为 TechHorizon，钛媒体经授权发布） “他们并不会因为此刻没有使用AI，就立即倒闭。”",
+      "highlights": [
+        "2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长37%…",
+        "同时，亚马逊自研芯片Graviton、Trainium，其年收入运行率已超过200亿美元。",
+        "在这个默认更大、更快、更贵的AI竞赛中，亚马逊副总裁兼首席技术官Werner…"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "worth",
+        "use": "解决：将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是；模式/数字：2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3",
+        "lines": {
+          "problem": "解决：将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是",
+          "model": "怎么赚钱：2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3"
+        },
+        "evidence": [
+          "将AI用于自闭症孩子康复训练的案例，让Werner对AI技术的使用非常乐观，不是",
+          "2026年亚马逊计划投入2000亿美元资本开支，大部分用于AI基建，而2026第二季度亚马逊云科技营收同比增长3",
+          "2000亿美元"
+        ],
+        "point": "Werner Vogels谈亚马逊的AI理念：在做与不做之间",
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-zh-eb781ffef064",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "老板电器“迷信”AI，结果怎么样了？",
+      "summary": "至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温 2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。",
+      "source": "虎嗅",
+      "source_url": "https://www.huxiu.com/article/4898806.html?f=rss",
+      "published_at": "Tue, 20 Oct 2026 09:12:15 +0800",
+      "tags": [
+        "中文",
+        "虎嗅"
+      ],
+      "score": 90,
+      "why": "中文源 · 虎嗅 · 解决：至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温；模式/数字：2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。",
+      "deep_link": "https://www.huxiu.com/article/4898806.html?f=rss",
+      "extra": {},
+      "blurb": "至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温 2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。",
+      "url": "https://www.huxiu.com/article/4898806.html?f=rss",
+      "name": "老板电器“迷信”AI，结果怎么样了？",
+      "lang": "zh",
+      "posted_at": "Tue, 20 Oc",
+      "evidence_missing": false,
+      "_origin": "zh_media",
+      "_source_id": "zh-huxiu",
+      "zh_reader": {
+        "verdict": "worth",
+        "use": "解决：至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温；模式/数字：2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。",
+        "lines": {
+          "problem": "解决：至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温",
+          "model": "怎么赚钱：2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。"
+        },
+        "evidence": [
+          "至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温",
+          "2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。",
+          "53%"
+        ],
+        "point": "老板电器“迷信”AI，结果怎么样了？"
+      },
+      "title_orig": "老板电器“迷信”AI，结果怎么样了？",
+      "source_excerpt": "至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温 2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。 本文来自微信公众号： 商业评论零售现场 ，作者：响马 作为厨房电器知名品牌，老板电器的压力越来越大。 今年上半年，老板电器实现营业收入39.72亿元，同比下降13.78%；扣非净利润5.02亿元，同比下降21.77%。 从单季度看，二季度压力更大，单季营收20.1亿元，同比下滑20.6%；归母净利润2.72亿元，下滑26.9%。 好消息是，老板电器近期完成了彻底的权力交接。8月19日，老板电器公告称，43岁的任富佳正式当选公司董事长并兼任总经理，接替70岁的公司创始人任建华，完成这家企业“历时十三年的代际权力交接”。 权力彻底交接背后，不只是“二代”接班的问题，更是品牌价值的重塑，正如老板电器所宣示的，要做“你的AI烹饪伙伴”。 也就是说，老板电器要大",
+      "_score_raw": 80,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "ai_frame": {
+        "problem": null,
+        "model": null,
+        "proof": "收入39.72"
+      },
+      "_practical_delta": 10,
+      "summary_zh": "至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温 2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。",
+      "highlights": [
+        "本文来自微信公众号： 商业评论零售现场 ，作者：响马 作为厨房电器知名品牌，老板电器的压力越来越大。",
+        "今年上半年，老板电器实现营业收入39.72亿元，同比下降13.78%；扣非净利润5.02亿元，同比下降21.77%。",
+        "从单季度看，二季度压力更大，单季营收20.1亿元，同比下滑20.6%；归母净利润2.72亿元，下滑26.9%。"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "worth",
+        "use": "解决：至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温；模式/数字：2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。",
+        "lines": {
+          "problem": "解决：至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温",
+          "model": "怎么赚钱：2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。"
+        },
+        "evidence": [
+          "至于iTronics，这是一家做智能温湿度计的公司，温度计产品涵盖数字标准烹饪温",
+          "2026年上半年，老板电器AI厨电销售额同比增长53%，在整体厨电销售中的营收占比提升至24%。",
+          "53%"
+        ],
+        "point": "老板电器“迷信”AI，结果怎么样了？",
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    },
     {
       "id": "ai-community-ai-reddit-saas-7e5c0ba8b262",
       "partition": "ai",
@@ -23,8 +241,8 @@
         "获客渠道",
         "踩坑/复盘"
       ],
-      "score": 91,
-      "why": "公开社区帖 · r/SaaS · top/day 第5位 · 原帖含：收入、定价、用户/流量数、获客渠道、踩坑/复盘",
+      "score": 88,
+      "why": "公开社区帖 · r/SaaS · top/day 第7位 · 原帖含：收入、定价、用户/流量数、获客渠道、踩坑/复盘",
       "deep_link": "https://www.reddit.com/r/SaaS/comments/1x9ylom/almost_500_in_revenue_this_month/",
       "extra": {},
       "blurb": "Last 4 weeks: $460 gross revenue, 20+ paying customers, ~950 users, $0 ad spend.",
@@ -39,7 +257,7 @@
       "source_excerpt": "Next goal: $500/mo recurring. Last 4 weeks: $460 gross revenue, 20+ paying customers, ~950 users, $0 ad spend. Also tried launching on every platform at once: TikTok signups kept failing, my YouTube channel got taken down on day one. What worked: a $1 3-day trial (filtered out everyone who'd never pay), answering questions in communities without pitching, and talking to users instead of following a roadmap.",
       "_feed_type": "reddit_rss",
       "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-      "_score_raw": 81,
+      "_score_raw": 78,
       "_decay_penalty": 0,
       "_decay_exempt": null,
       "_ai_business": true,
@@ -52,18 +270,21 @@
       "summary_source": "fallback",
       "reader": {
         "verdict": "worth",
-        "use": "找副业/创业做法参考时看：自述近 4 周 $460 毛收入、20+ 付费用户、$0 广告费；有效做法是 $1 三天试用+社区答疑",
+        "use": "找副业/创业做法参考时看：自述收入 $500 in revenue，渠道 TikTok，定价 $500/mo",
         "lines": {
-          "model": "原帖写到：「What worked: a $1 3-day trial (filtered out everyone who'd never pay)」",
-          "value": "作者自述「$460 gross revenue」「20+ paying customers」「~950 users」「$0 ad spend」；没奏效的：TikTok 注册一直失败、YouTube 频道首日被封",
+          "model": "原帖写到：「Next goal: $500/mo recurring.」",
+          "value": "作者自述收入「$500 in revenue」；数据「950 users」；定价「$500/mo」；获客渠道「TikTok」",
           "note": "数字均为发帖人自述，未经核实"
         },
         "evidence": [
-          "Last 4 weeks: $460 gross revenue, 20+ paying customers, ~950 users, $0 ad spend.",
-          "What worked: a $1 3-day trial (filtered out everyone who'd never pay), answering questions in communities without pitching, and talking to users instead of following a roadmap.",
-          "TikTok signups kept failing, my YouTube channel got taken down on day one."
+          "Next goal: $500/mo recurring.",
+          "$500 in revenue",
+          "950 users",
+          "$500/mo",
+          "TikTok",
+          "What worked"
         ],
-        "point": "AI副业：自述近 4 周 $460 收入、20+ 付费用户",
+        "point": "AI副业：自述收入 $500 in revenue，渠道 TikTok",
         "verdict_label": "值得看",
         "title": ""
       }
@@ -115,18 +336,153 @@
       "summary_source": "fallback",
       "reader": {
         "verdict": "worth",
-        "use": "看给小商家做增长的服务生意：2 人旅行社月利润约 $3k→约 $20k（6 个月，服务方自述）",
+        "use": "找副业/创业做法参考时看：自述收入 $20,000 in monthly profit，渠道 referrals，定价 $3k a month",
         "lines": {
-          "model": "原帖写到：「It was a two person agency when they came to us doing flights, hotel packages and visa assistance」——发帖人是给客户做增长的服务方",
-          "value": "月利润「around $3k a month」→「around $20k a month」（Six months later）；原有询盘「60-70 qualified inquiries a month from referrals and ads」",
+          "model": "原帖写到：「It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.」",
+          "value": "作者自述收入「$20,000 in monthly profit」；定价「$3k a month」；获客渠道「referrals」；做法「Here's how」",
           "note": "数字均为发帖人自述，未经核实"
         },
         "evidence": [
-          "profit had been stuck at around $3k a month after almost two years.",
-          "They were getting around 60-70 qualified inquiries a month from referrals and ads..",
-          "Six months later it's sitting at around $20k a month."
+          "It was a two person agency when they came to us doing flights, hotel packages and visa assistance, and profit had been stuck at around $3k a month after almost two years.",
+          "$20,000 in monthly profit",
+          "$3k a month",
+          "referrals",
+          "Here's how"
         ],
         "point": "AI副业：自述收入 $20,000 in monthly profit，渠道 referrals",
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-community-ai-reddit-saas-f84283a058a7",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "You didn't kill SaaS. You just invented a new form of unemployment.",
+      "summary": "\"Claude, clone this SaaS, deploy it, and make me a plan to reach $100K MRR.\"",
+      "source": "r/SaaS",
+      "source_url": "https://www.reddit.com/r/SaaS/comments/1xaak7b/you_didnt_kill_saas_you_just_invented_a_new_form/",
+      "published_at": "2026-10-19T22:03:41.000Z",
+      "tags": [
+        "reddit",
+        "r/SaaS",
+        "收入",
+        "投入",
+        "定价"
+      ],
+      "score": 83,
+      "why": "公开社区帖 · r/SaaS · top/day 第3位 · 原帖含：收入、投入、定价",
+      "deep_link": "https://www.reddit.com/r/SaaS/comments/1xaak7b/you_didnt_kill_saas_you_just_invented_a_new_form/",
+      "extra": {},
+      "blurb": "\"Claude, clone this SaaS, deploy it, and make me a plan to reach $100K MRR.\"",
+      "url": "https://www.reddit.com/r/SaaS/comments/1xaak7b/you_didnt_kill_saas_you_just_invented_a_new_form/",
+      "name": "You didn't kill SaaS. You just invented a new form of unemployment.",
+      "lang": "EN",
+      "posted_at": "2026-10-19",
+      "evidence_missing": false,
+      "_origin": "community_rss",
+      "_source_id": "ai-reddit-saas",
+      "title_orig": "You didn't kill SaaS. You just invented a new form of unemployment.",
+      "source_excerpt": "Just to save a subscription? \"Claude, clone this SaaS, deploy it, and make me a plan to reach $100K MRR.\" You spent 40 hours rebuilding something that costs $20/month. Not just a $20/month Claude subscription.",
+      "_feed_type": "reddit_rss",
+      "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+      "_score_raw": 73,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "_practical_delta": 10,
+      "summary_zh": "\"Claude, clone this SaaS, deploy it, and make me a plan to reach $100K MRR.\"",
+      "highlights": [
+        "You spent 40 hours rebuilding something that costs…",
+        "Not just a $20/month Claude subscription."
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "worth",
+        "use": "找副业/创业做法参考时看：自述收入 $100K MRR，投入 $20，定价 $20/month",
+        "lines": {
+          "model": "原帖写到：「Just to save a subscription?」",
+          "value": "作者自述收入「$100K MRR」；投入「$20」；定价「$20/month」",
+          "note": "数字均为发帖人自述，未经核实"
+        },
+        "evidence": [
+          "Just to save a subscription?",
+          "$100K MRR",
+          "$20",
+          "$20/month"
+        ],
+        "point": "AI副业：自述收入 $100K MRR",
+        "verdict_label": "值得看",
+        "title": ""
+      }
+    },
+    {
+      "id": "ai-zh-889e429179e7",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "阶跃发售STEPX Neo：AI手机的进化终于来到加速期",
+      "summary": "GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供 几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。",
+      "source": "钛媒体",
+      "source_url": "https://www.tmtpost.com/8174087.html",
+      "published_at": "Tue, 20 Oct 2026 09:46:09 +0800",
+      "tags": [
+        "中文",
+        "钛媒体"
+      ],
+      "score": 82,
+      "why": "中文源 · 钛媒体 · 解决：GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供；模式/数字：几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。",
+      "deep_link": "https://www.tmtpost.com/8174087.html",
+      "extra": {},
+      "blurb": "GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供 几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。",
+      "url": "https://www.tmtpost.com/8174087.html",
+      "name": "阶跃发售STEPX Neo：AI手机的进化终于来到加速期",
+      "lang": "zh",
+      "posted_at": "Tue, 20 Oc",
+      "evidence_missing": false,
+      "_origin": "zh_media",
+      "_source_id": "zh-tmtpost",
+      "zh_reader": {
+        "verdict": "worth",
+        "use": "解决：GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供；模式/数字：几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。",
+        "lines": {
+          "problem": "解决：GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供",
+          "model": "怎么赚钱：几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。"
+        },
+        "evidence": [
+          "GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供",
+          "几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。",
+          "3999元"
+        ],
+        "point": "阶跃发售STEPX Neo：AI手机的进化终于来到加速期"
+      },
+      "title_orig": "阶跃发售STEPX Neo：AI手机的进化终于来到加速期",
+      "source_excerpt": "GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供 几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。 （本文作者为 巨潮WAVE，钛媒体经授权发布） 文 | 巨潮Wave，作者 | Maxx 编辑 | Rango AI手机的探索还在继续。几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。 先行版搭载第五代骁龙8移动平台，配备16GB+256GB存储与6.36英寸120Hz OLED屏幕，硬件单看处于中档区间。 这看起来已经不算贵的3999元，所包含的远不止一台手机硬件的价格，还有Step AOS 1.0智能体原生操作系统、Step Studio开发工具、Step系列模型，以及连续12个月每月百亿Token的使用额度。 阶跃以&ldquo;软硬模三位一体&rdquo;的方式，将上述这些智能",
+      "_score_raw": 72,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "_practical_delta": 10,
+      "summary_zh": "GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供 几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。",
+      "highlights": [
+        "（本文作者为 巨潮WAVE，钛媒体经授权发布） 文 | 巨潮Wave，作者 | Maxx 编辑 | Rango…",
+        "先行版搭载第五代骁龙8移动平台，配备16GB+256GB存储与6.36英寸120Hz…"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "worth",
+        "use": "解决：GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供；模式/数字：几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。",
+        "lines": {
+          "problem": "解决：GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供",
+          "model": "怎么赚钱：几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。"
+        },
+        "evidence": [
+          "GUI路线的本质是让智能体成为新的入口，把流量从App中被抽走，平台沦为被动提供",
+          "几天前，阶跃终端旗下首款大模型原生智能体手机STEPX Neo先行版在多平台正式首销，全栈定价3999元。",
+          "3999元"
+        ],
+        "point": "阶跃发售STEPX Neo：AI手机的进化终于来到加速期",
         "verdict_label": "值得看",
         "title": ""
       }
@@ -211,6 +567,66 @@
       }
     },
     {
+      "id": "ai-community-ai-reddit-saas-ce0753ae1d99",
+      "partition": "ai",
+      "type": "post",
+      "category": "AI变现",
+      "title": "I wouldn't start a SaaS company in 2026 if the whole product could be replaced by a weekend with Claude.",
+      "summary": "A year ago, that person might have paid $29 a month for a subscription.",
+      "source": "r/SaaS",
+      "source_url": "https://www.reddit.com/r/SaaS/comments/1xa4de7/i_wouldnt_start_a_saas_company_in_2026_if_the/",
+      "published_at": "2026-10-19T18:11:34.000Z",
+      "tags": [
+        "reddit",
+        "r/SaaS",
+        "投入",
+        "定价"
+      ],
+      "score": 78,
+      "why": "公开社区帖 · r/SaaS · top/day 第1位 · 原帖含：投入、定价",
+      "deep_link": "https://www.reddit.com/r/SaaS/comments/1xa4de7/i_wouldnt_start_a_saas_company_in_2026_if_the/",
+      "extra": {},
+      "blurb": "A year ago, that person might have paid $29 a month for a subscription.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1xa4de7/i_wouldnt_start_a_saas_company_in_2026_if_the/",
+      "name": "I wouldn't start a SaaS company in 2026 if the whole product could be replaced by a weekend with Claude.",
+      "lang": "EN",
+      "posted_at": "2026-10-19",
+      "evidence_missing": false,
+      "_origin": "community_rss",
+      "_source_id": "ai-reddit-saas",
+      "title_orig": "I wouldn't start a SaaS company in 2026 if the whole product could be replaced by a weekend with Claude.",
+      "source_excerpt": "A year ago, that person might have paid $29 a month for a subscription. Because charging $29 a month for something Claude can make in five minutes is becoming a pretty difficult business model.",
+      "_feed_type": "reddit_rss",
+      "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+      "_score_raw": 68,
+      "_decay_penalty": 0,
+      "_decay_exempt": null,
+      "_ai_business": true,
+      "_practical_delta": 10,
+      "summary_zh": "A year ago, that person might have paid $29 a month for a subscription.",
+      "highlights": [
+        "Because charging $29 a month for something Claude can make…"
+      ],
+      "summary_source": "fallback",
+      "reader": {
+        "verdict": "save",
+        "use": "看真实转化/成本数据时看：投入 $29，定价 $29 a month",
+        "lines": {
+          "model": "原帖写到：「A year ago, that person might have paid $29 a month for a subscription.」",
+          "value": "投入「$29」；定价「$29 a month」",
+          "note": "数字均为发帖人自述，未经核实"
+        },
+        "evidence": [
+          "A year ago, that person might have paid $29 a month for a subscription.",
+          "$29",
+          "$29 a month"
+        ],
+        "point": "AI副业：投入 $29",
+        "verdict_label": "收藏",
+        "title": ""
+      }
+    },
+    {
       "id": "ai-community-ai-reddit-saas-87e7760e6cf4",
       "partition": "ai",
       "type": "post",
@@ -227,7 +643,7 @@
         "获客渠道"
       ],
       "score": 77,
-      "why": "公开社区帖 · r/SaaS · top/day 第3位 · 原帖含：用户/流量数、获客渠道",
+      "why": "公开社区帖 · r/SaaS · top/day 第4位 · 原帖含：用户/流量数、获客渠道",
       "deep_link": "https://www.reddit.com/r/SaaS/comments/1x9w2h5/it_took_me_a_year_but_i_have_crossed_1m/",
       "extra": {},
       "blurb": "The next goal is to reach 20k visitors per month, I could not believe I could say something like this as when I launched last year the traffic was 5-10 people only.",
@@ -254,15 +670,14 @@
       "summary_source": "fallback",
       "reader": {
         "verdict": "save",
-        "use": "看获客渠道时看：1 年做到 1M+ 曝光（上线时流量只有 5–10 人，自述）；先做 pSEO+外链，近两月加内容/newsletter/Twitter",
+        "use": "看获客渠道时看：数据 20k visitors，渠道 newsletter",
         "lines": {
-          "value": "数据「1M+ impressions」（用时 1 年）；下个目标「20k visitors per month」；渠道：pSEO、backlinks、content、newsletter、twitter",
+          "value": "数据「20k visitors」；获客渠道「newsletter」",
           "note": "数字均为发帖人自述，未经核实"
         },
         "evidence": [
-          "It took me a year but I have crossed 1M+ impressions finally",
-          "when I launched last year the traffic was 5-10 people only.",
-          "Earlier I focussed on pSEO and building backlinks and from the last couple of months I have started content, a newsletter, and recently started consistently on twitter as well."
+          "20k visitors",
+          "newsletter"
         ],
         "point": "AI副业：数据 20k visitors，渠道 newsletter",
         "verdict_label": "收藏",
@@ -395,12 +810,12 @@
       "summary_source": "local_llm",
       "reader": {
         "verdict": "save",
-        "use": "找 AI 副业方向时看：21 岁做出日入 $1,000 的网站，并以 $120,000 卖出（播客访谈）",
+        "use": "找 AI 副业方向时看：公开收入 $1,000",
         "lines": {
-          "value": "真实收入数字（日入 $1,000；售价 $120,000）"
+          "value": "真实收入数字（$1,000）"
         },
         "evidence": [
-          "At 21, Maddox has already built a website generating $1,000 per day and sold it for $120,000."
+          "generating $1,000"
         ],
         "point": "AI副业：有人公开收入 $1,000",
         "concrete": [
@@ -419,7 +834,7 @@
       "type": "post",
       "category": "AI变现",
       "title": "How Besmir Bregasi Built ZeroRank in 3 Months and Reached Mid-Six Figures in ARR",
-      "summary": "In this episode, Besmir Bregasi and I discuss what appears to influence whether brands get cited in ChatGPT, Google AI Overviews, and other LLM-driven search experiences in 2026.",
+      "summary": "零排名创始人Bregasi在3个月内实现ARR60万，分享影响品牌在ChatGPT等LLM搜索体验中被引用的关键因素。",
       "source": "@nichepursuits / Niche Pursuits",
       "source_url": "https://www.nichepursuits.com/besmir-bregasi/",
       "published_at": "2026-09-23T14:02:08.000Z",
@@ -433,7 +848,7 @@
       "why": "独立/Agent：公开营收、indie；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
       "deep_link": "https://www.nichepursuits.com/besmir-bregasi/",
       "extra": {},
-      "blurb": "In this episode, Besmir Bregasi and I discuss what appears to influence whether brands get cited in ChatGPT, Google AI Overviews, and other LLM-driven search experiences in 2026.",
+      "blurb": "零排名创始人Bregasi在3个月内实现ARR60万，分享影响品牌在ChatGPT等LLM搜索体验中被引用的关键因素。",
       "url": "https://www.nichepursuits.com/besmir-bregasi/",
       "handle": "nichepursuits",
       "name": "Niche Pursuits",
@@ -455,19 +870,21 @@
       "_decay_exempt": null,
       "_ai_business": true,
       "_practical_delta": 10,
-      "summary_zh": "In this episode, Besmir Bregasi and I discuss what appears to influence whether brands get cited in ChatGPT, Google AI Overviews, and other LLM-driven search experiences in 2026.",
-      "highlights": [],
-      "summary_source": "original_first_sentence",
+      "summary_zh": "零排名创始人Bregasi在3个月内实现ARR60万，分享影响品牌在ChatGPT等LLM搜索体验中被引用的关键因素。",
+      "highlights": [
+        "3个月",
+        "ARR60万",
+        "影响品牌被引用的关键因素"
+      ],
+      "summary_source": "local_llm",
       "reader": {
         "verdict": "save",
-        "use": "找 AI 副业方向时看：3 个月做出 ZeroRank，公开规模「Mid-Six Figures in ARR」；方向是品牌在 ChatGPT/AI 搜索里的被引用可见度",
+        "use": "找 AI 副业方向时看：公开规模「Mid-Six Figures in ARR」",
         "lines": {
-          "value": "公开规模「Mid-Six Figures in ARR」（原文未给精确数字）",
-          "problem": "品牌在 ChatGPT、Google AI Overviews 等 AI 搜索里能不能被引用"
+          "value": "真实收入数字（公开规模「Mid-Six Figures in ARR」）"
         },
         "evidence": [
-          "How Besmir Bregasi Built ZeroRank in 3 Months and Reached Mid-Six Figures in ARR",
-          "what appears to influence whether brands get cited in ChatGPT, Google AI Overviews, and other LLM-driven search experiences in 2026."
+          "Reached Mid-Six Figures in ARR"
         ],
         "point": "AI副业：公开规模「Mid-Six Figures in ARR」",
         "concrete": [
@@ -486,7 +903,7 @@
       "type": "post",
       "category": "AI变现",
       "title": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!! Insane story, and they wr",
-      "summary": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!!",
+      "summary": "搜索引擎营销（SEO）已经死亡，连发明它的公司也不例外。@kippbodnar指出，HubSpot在一年内失去了约1.4亿次搜索访问。这是一个疯狂的故事，他们还写了一本书来解释如何适应。简而言之，这是YouTube和有机地出现在大型语言模…",
       "source": "@thepatwalls / Pat Walls",
       "source_url": "https://x.com/thepatwalls/status/2102384016661844445",
       "published_at": "2026-09-22T13:06:24.000Z",
@@ -501,7 +918,7 @@
       "why": "独立/Agent：公开营收、indie；策展：长期发布带营收数字的真实创业案例（做了什么、卖给谁、怎么赚钱）。",
       "deep_link": "https://x.com/thepatwalls/status/2102384016661844445",
       "extra": {},
-      "blurb": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!!",
+      "blurb": "搜索引擎营销（SEO）已经死亡，连发明它的公司也不例外。@kippbodnar指出，HubSpot在一年内失去了约1.4亿次搜索访问。这是一个疯狂的故事，他们还写了一本书来解释如何适应。简而言之，这是YouTube和有机地出现在大型语言模…",
       "url": "https://x.com/thepatwalls/status/2102384016661844445",
       "handle": "thepatwalls",
       "name": "Pat Walls",
@@ -517,8 +934,8 @@
         "According to @kippbodnar, HubSpot lost …",
         "Insane story, and they wrote a book abo…"
       ],
-      "summary_zh": "SEO is dead, even for the company that invented it. According to @kippbodnar, HubSpot lost 140 MILLION search visits in about a year!!",
-      "summary_source": "original_first_sentence",
+      "summary_zh": "搜索引擎营销（SEO）已经死亡，连发明它的公司也不例外。@kippbodnar指出，HubSpot在一年内失去了约1.4亿次搜索访问。这是一个疯狂的故事，他们还写了一本书来解释如何适应。简而言之，这是YouTube和有机地出现在大型语言模…",
+      "summary_source": "local_llm",
       "person_id": "thepatwalls",
       "person_handle": "thepatwalls",
       "person_name": "Pat Walls",

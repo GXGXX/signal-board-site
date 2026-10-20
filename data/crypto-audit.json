@@ -1,74 +1,89 @@
 {
-  "generated_at": "2026-10-20T00:05:55.253Z",
+  "generated_at": "2026-10-20T00:20:11.300Z",
   "sources": {
     "coingecko_global": {
       "url": "https://api.coingecko.com/api/v3/global",
       "status": 200,
-      "ms": 178
+      "ms": 149
     },
     "coingecko_markets": {
       "url": "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&price_change_percentage=24h,7d",
       "status": 200,
-      "ms": 18
+      "ms": 25
     },
     "coingecko_trending": {
       "url": "https://api.coingecko.com/api/v3/search/trending",
       "status": 200,
-      "ms": 19
+      "ms": 17
     },
     "farside_btc": {
       "url": "https://farside.co.uk/btc/",
       "status": 200,
-      "ms": 501
+      "ms": 257
     },
     "farside_eth": {
       "url": "https://farside.co.uk/eth/",
       "status": 200,
-      "ms": 236
+      "ms": 260
     },
     "defillama_stablecoins": {
       "url": "https://stablecoins.llama.fi/stablecoincharts/all",
       "status": 200,
-      "ms": 69
+      "ms": 62
     },
     "defillama_fees": {
       "url": "https://api.llama.fi/overview/fees?excludeTotalDataChart=true&excludeTotalDataChartBreakdown=true&dataType=dailyRevenue",
       "status": 200,
-      "ms": 75
+      "ms": 62
     },
     "coindesk": {
       "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
       "status": 200,
-      "ms": 117,
+      "ms": 121,
       "items": 25
     },
     "theblock": {
       "url": "https://www.theblock.co/rss.xml",
       "status": 200,
-      "ms": 55,
+      "ms": 60,
       "items": 20
     },
     "decrypt": {
       "url": "https://decrypt.co/feed",
       "status": 200,
-      "ms": 49,
+      "ms": 54,
       "items": 38
     },
     "cointelegraph": {
       "url": "https://cointelegraph.com/rss",
       "status": 200,
-      "ms": 59,
+      "ms": 85,
       "items": 30
     },
     "reddit_multi": {
       "url": "https://www.reddit.com/r/CryptoCurrency+Bitcoin+ethereum/top/.rss?t=day&limit=25",
       "status": 200,
-      "ms": 243,
+      "ms": 237,
       "retried": true,
       "items": 25
     }
   },
   "dropped": [
+    {
+      "source": "CoinGecko",
+      "title": "热搜去重 WLD",
+      "reason": "已在涨跌幅榜，热搜去掉：WLD"
+    },
+    {
+      "source": "Farside",
+      "title": "BTC 19 Oct 2026",
+      "reason": "跳过不完整行：4/12 只基金为空或 —"
+    },
+    {
+      "source": "Farside",
+      "title": "ETH 19 Oct 2026",
+      "reason": "跳过不完整行：4/11 只基金为空或 —"
+    },
     {
       "source": "DefiLlama",
       "title": "协议收入",
@@ -743,37 +758,37 @@
   "kept": [
     {
       "id": "crypto-market-2026-10-20",
-      "title": "大盘 · BTC $81,845（24h -0.19%）· ETH $2,404（-0.17%）",
+      "title": "大盘 · BTC $81,691（24h -0.41%）· ETH $2,399（-0.25%）",
       "source": "CoinGecko 公开 API（/global + /coins/markets）",
-      "use": "今日币圈整体横盘；总市值 $2.76T（24h -1.92%），BTC 占比 59.5%，先看大盘再看单币异动"
+      "use": "今日币圈整体横盘；总市值 $2.75T（24h -2.13%），BTC 占比 59.6%，先看大盘再看单币异动"
     },
     {
-      "id": "crypto-etf-btc-19Oct2026",
-      "title": "BTC 现货 ETF · 19 Oct 2026 净流出 $54.9M",
+      "id": "crypto-etf-btc-16Oct2026",
+      "title": "BTC 现货 ETF · 16 Oct 2026 净流出 $82.4M",
       "source": "Farside Investors 公开 BTC ETF 日流表（单位：百万美元）",
-      "use": "机构资金方向：已连续 2 个交易日净流出，近5日合计 −$217.9M"
+      "use": "机构资金方向：已连续 1 个交易日净流出，近5日合计 −$228.4M"
     },
     {
-      "id": "crypto-etf-eth-19Oct2026",
-      "title": "ETH 现货 ETF · 19 Oct 2026 净流出 $1.9M",
+      "id": "crypto-etf-eth-16Oct2026",
+      "title": "ETH 现货 ETF · 16 Oct 2026 净流出 $69.7M",
       "source": "Farside Investors 公开 ETH ETF 日流表（单位：百万美元）",
-      "use": "机构资金方向：已连续 4 个交易日净流出，近5日合计 −$236.6M"
+      "use": "机构资金方向：已连续 3 个交易日净流出，近5日合计 −$320.1M"
     },
     {
       "id": "crypto-movers-涨-2026-10-20",
-      "title": "前100市值涨幅榜 · WLD +9.19% / PUMP +7.13% / VVV +6.68%（24h）",
+      "title": "前100市值涨幅榜 · WLD +8.80% / VVV +7.20% / PUMP +6.75%（24h）",
       "source": "CoinGecko 公开 API（/coins/markets 前100）",
       "use": "大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐"
     },
     {
       "id": "crypto-movers-跌-2026-10-20",
-      "title": "前100市值跌幅榜 · BTW -16.70% / WLFI -5.40% / HBAR -2.96%（24h）",
+      "title": "前100市值跌幅榜 · BTW -15.61% / WLFI -5.00% / FIL -2.69%（24h）",
       "source": "CoinGecko 公开 API（/coins/markets 前100）",
       "use": "大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接"
     },
     {
       "id": "crypto-trending-2026-10-20",
-      "title": "CoinGecko 热搜 · STARTUPSI +0.00% / PRL +5.14% / QTC -11.00% / BP +3.73%",
+      "title": "CoinGecko 热搜 · STARTUPSI +0.00% / QTC -9.23% / PRL +5.28% / BP +3.95%",
       "source": "CoinGecko 公开 API（/search/trending）",
       "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PRL、BP"
     },
@@ -812,6 +827,20 @@
       "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
       "source": "CoinDesk",
       "use": "大户/融资动向：资金方向变化，作背景了解"
+    }
+  ],
+  "farside_skipped": [
+    {
+      "asset": "BTC",
+      "date": "19 Oct 2026",
+      "reason": "4/12 只基金为空或 —",
+      "raw": "19 Oct 2026 - - 0.0 0.0 0.0 0.0 - - 0.0 0.0 (54.9) 0.0 (54.9)"
+    },
+    {
+      "asset": "ETH",
+      "date": "19 Oct 2026",
+      "reason": "4/11 只基金为空或 —",
+      "raw": "19 Oct 2026 - - - 0.0 0.0 - 0.0 0.0 0.0 (1.9) 0.0 (1.9)"
     }
   ],
   "x": {

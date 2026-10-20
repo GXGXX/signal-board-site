@@ -2,8 +2,8 @@
   "name": "信号台",
   "disclaimer": "非投资建议；加密高风险",
   "today": "2026-10-20",
-  "generated_at": "2026-10-20T00:11:49.555Z",
-  "next_update_at": "2026-10-20T01:00:00.000Z",
+  "generated_at": "2026-10-20T04:08:00.305Z",
+  "next_update_at": "2026-10-20T13:00:00.000Z",
   "schedule": {
     "timezone": "Asia/Shanghai",
     "hours": [
@@ -13,7 +13,7 @@
     "note": "下次更新于 = 下一个 09:00 或 21:00 Asia/Shanghai"
   },
   "collect": {
-    "collected_at": "2026-10-20T00:09:55.941Z",
+    "collected_at": "2026-10-20T04:07:59.205Z",
     "ok": [
       {
         "id": "hitmarker_sitemap",
@@ -25,9 +25,9 @@
           "noise_role": 0,
           "no_geo_low_role": 0,
           "below_threshold": 0,
-          "location_out_of_range": 194,
+          "location_out_of_range": 195,
           "page_unreadable": 0,
-          "too_old": 46
+          "too_old": 45
         }
       },
       {
@@ -43,15 +43,95 @@
       },
       {
         "id": "netease_api",
-        "count": 21,
+        "count": 25,
         "rejected": {
           "hub_or_junk": 0,
-          "no_role_signal": 6,
+          "no_role_signal": 12,
           "noise_role": 0,
           "no_geo_low_role": 0,
-          "below_threshold": 0,
+          "below_threshold": 2,
           "intern": 15,
           "off_target_title": 16
+        }
+      },
+      {
+        "id": "riot_gh",
+        "count": 4,
+        "scanned": 176,
+        "rejected": {
+          "off_role": 172
+        }
+      },
+      {
+        "id": "scopely_gh",
+        "count": 10,
+        "scanned": 171,
+        "rejected": {
+          "off_role": 161
+        }
+      },
+      {
+        "id": "krafton_gh",
+        "count": 1,
+        "scanned": 53,
+        "rejected": {
+          "off_role": 52
+        }
+      },
+      {
+        "id": "playtika_gh",
+        "count": 1,
+        "scanned": 14,
+        "rejected": {
+          "off_role": 13
+        }
+      },
+      {
+        "id": "supercell_ashby",
+        "count": 3,
+        "scanned": 38,
+        "rejected": {
+          "off_role": 35
+        }
+      },
+      {
+        "id": "moonactive_ashby",
+        "count": 2,
+        "scanned": 34,
+        "rejected": {
+          "off_role": 32
+        }
+      },
+      {
+        "id": "hoyoverse_ashby",
+        "count": 0,
+        "scanned": 33,
+        "rejected": {
+          "off_role": 33
+        }
+      },
+      {
+        "id": "hoyoverse_sr",
+        "count": 1,
+        "scanned": 11,
+        "rejected": {
+          "off_role": 10
+        }
+      },
+      {
+        "id": "ubisoft_sr",
+        "count": 3,
+        "scanned": 139,
+        "rejected": {
+          "off_role": 136
+        }
+      },
+      {
+        "id": "animoca_lever",
+        "count": 0,
+        "scanned": 12,
+        "rejected": {
+          "off_role": 12
         }
       },
       {
@@ -83,6 +163,104 @@
         "rejected": 10
       },
       {
+        "id": "zh-sspai",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 10,
+        "rejected": 10
+      },
+      {
+        "id": "zh-qbitai",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 10,
+        "rejected": 10
+      },
+      {
+        "id": "zh-36kr",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 30,
+        "rejected": 30
+      },
+      {
+        "id": "zh-huxiu",
+        "partition": "ai",
+        "count": 2,
+        "scanned": 58,
+        "rejected": 56
+      },
+      {
+        "id": "zh-ifanr",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 20,
+        "rejected": 20
+      },
+      {
+        "id": "zh-woshipm",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 15,
+        "rejected": 15
+      },
+      {
+        "id": "zh-geekpark",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 30,
+        "rejected": 30
+      },
+      {
+        "id": "zh-leiphone",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 20,
+        "rejected": 20
+      },
+      {
+        "id": "zh-v2ex-create",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 50,
+        "rejected": 50
+      },
+      {
+        "id": "zh-tmtpost",
+        "partition": "ai",
+        "count": 3,
+        "scanned": 20,
+        "rejected": 17
+      },
+      {
+        "id": "zh-infoq",
+        "partition": "ai",
+        "count": 0,
+        "scanned": 20,
+        "rejected": 20
+      },
+      {
+        "id": "zh-wscn-live",
+        "partition": "invest",
+        "count": 5,
+        "scanned": 25,
+        "rejected": 20
+      },
+      {
+        "id": "zh-panews",
+        "partition": "invest",
+        "count": 6,
+        "scanned": 100,
+        "rejected": 85
+      },
+      {
+        "id": "zh-v2ex-invest",
+        "partition": "invest",
+        "count": 1,
+        "scanned": 50,
+        "rejected": 49
+      },
+      {
         "id": "ai-reddit-saas",
         "partition": "ai",
         "count": 4,
@@ -100,8 +278,8 @@
         "id": "ai-reddit-era",
         "partition": "ai",
         "count": 0,
-        "scanned": 15,
-        "rejected": 15
+        "scanned": 14,
+        "rejected": 14
       },
       {
         "id": "ai-reddit-entrepreneur",
@@ -114,8 +292,8 @@
         "id": "ai-hn-frontpage",
         "partition": "ai",
         "count": 0,
-        "scanned": 16,
-        "rejected": 16
+        "scanned": 13,
+        "rejected": 13
       },
       {
         "id": "ai-hn-show",
@@ -127,16 +305,16 @@
       {
         "id": "invest-reddit-debtfree",
         "partition": "invest",
-        "count": 0,
-        "scanned": 66,
-        "rejected": 66
+        "count": 2,
+        "scanned": 72,
+        "rejected": 70
       },
       {
         "id": "invest-reddit-ynab",
         "partition": "invest",
         "count": 1,
-        "scanned": 34,
-        "rejected": 33
+        "scanned": 28,
+        "rejected": 27
       },
       {
         "id": "kol:levelsio",
@@ -159,16 +337,6 @@
         "count": 1
       },
       {
-        "id": "kol:charliebilello",
-        "partition": "kol",
-        "count": 1
-      },
-      {
-        "id": "kol:LynAldenContact",
-        "partition": "kol",
-        "count": 1
-      },
-      {
         "id": "kol:VitalikButerin",
         "partition": "kol",
         "count": 1
@@ -180,16 +348,6 @@
       },
       {
         "id": "kol:MarkManson",
-        "partition": "kol",
-        "count": 1
-      },
-      {
-        "id": "kol:dannypostmaa",
-        "partition": "kol",
-        "count": 1
-      },
-      {
-        "id": "kol:damengchen",
         "partition": "kol",
         "count": 1
       },
@@ -240,11 +398,6 @@
       },
       {
         "id": "kol:I_Am_The_ICT",
-        "partition": "kol",
-        "count": 1
-      },
-      {
-        "id": "kol:TTrades_edu",
         "partition": "kol",
         "count": 1
       },
@@ -360,12 +513,32 @@
         "error": "html_list_empty_or_blocked;HTTP 404;HTTP 404;HTTP 404"
       },
       {
+        "id": "kol:charliebilello",
+        "error": "HTTP 500;HTTP 404;HTTP 404;HTTP 404;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha"
+      },
+      {
+        "id": "kol:LynAldenContact",
+        "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha;HTTP 202 captcha"
+      },
+      {
         "id": "kol:farnamstreet",
         "error": "HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403"
       },
       {
+        "id": "kol:dannypostmaa",
+        "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked"
+      },
+      {
+        "id": "kol:damengchen",
+        "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;html_list_empty_or_blocked;HTTP 404;HTTP 404;HTTP 404"
+      },
+      {
         "id": "kol:morganhousel",
         "error": "fetch failed;fetch failed;fetch failed;fetch failed;fetch failed;fetch failed;fetch failed;fetch failed"
+      },
+      {
+        "id": "kol:TTrades_edu",
+        "error": "HTTP 404;HTTP 500;HTTP 404;HTTP 404"
       },
       {
         "id": "kol:gregisenberg",
@@ -382,15 +555,16 @@
     ],
     "rejected": {
       "hub_or_junk": 0,
-      "no_role_signal": 20,
+      "no_role_signal": 26,
       "noise_role": 0,
       "no_geo_low_role": 0,
-      "below_threshold": 5,
-      "location_out_of_range": 194,
+      "below_threshold": 7,
+      "location_out_of_range": 195,
       "page_unreadable": 0,
-      "too_old": 46,
+      "too_old": 45,
       "intern": 15,
       "off_target_title": 16,
+      "blacklist": 0,
       "rss_reasons": {
         "ai_no_practice_signal": 28,
         "growth_no_pillar": 14,
@@ -398,10 +572,10 @@
       }
     },
     "score_threshold": 40,
-    "kept": 47,
+    "kept": 84,
     "articles_kept": {
-      "ai": 65,
-      "invest": 91,
+      "ai": 71,
+      "invest": 104,
       "growth": 60
     },
     "rss_rejects_sample": [
@@ -807,14 +981,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:51d",
-            "too_old:131d",
-            "too_old:326d",
+            "too_old:52d",
+            "too_old:132d",
+            "too_old:327d",
             "too_old:375d",
             "too_old:491d",
             "too_old:685d",
             "too_old:696d",
-            "too_old:815d"
+            "too_old:816d"
           ]
         },
         "lxfater": {
@@ -880,8 +1054,8 @@
           "drop_reasons": [
             "too_old:81d",
             "too_old:230d",
-            "too_old:252d",
-            "too_old:259d",
+            "too_old:253d",
+            "too_old:260d",
             "too_old:277d",
             "too_old:475d",
             "too_old:507d",
@@ -891,61 +1065,174 @@
         "charliebilello": {
           "ok": true,
           "partition": "invest",
-          "feed_ok": {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
-            "type": "youtube_rss",
-            "scanned": 15
-          },
+          "feed_ok": null,
           "feeds_tried": [
             {
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
               "type": "youtube_rss",
-              "ok": true,
-              "scanned": 15
+              "ok": false,
+              "error": "HTTP 500"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://bilello.blog/feed/",
+              "type": "blog_rss",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.bilello.blog/feed/",
+              "type": "blog_rss",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://bilello.blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://bilello.blog/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://bilello.blog/archive",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://bilello.blog/archive?sort=new",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.bilello.blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.bilello.blog/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
             }
           ],
           "kept": 0,
-          "dropped": 15,
+          "dropped": 0,
           "fallback": true,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
-          "drop_reasons": [
-            "too_old:795d",
-            "too_old:802d",
-            "too_old:823d",
-            "too_old:844d",
-            "too_old:847d",
-            "too_old:853d",
-            "too_old:908d",
-            "too_old:915d"
-          ]
+          "drop_reasons": []
         },
         "LynAldenContact": {
           "ok": true,
           "partition": "invest",
-          "feed_ok": {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
-            "type": "youtube_rss",
-            "scanned": 1
-          },
+          "feed_ok": null,
           "feeds_tried": [
             {
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
               "type": "youtube_rss",
-              "ok": true,
-              "scanned": 1
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.lynalden.com/feed/",
+              "type": "blog_rss",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://lynalden.com/feed/",
+              "type": "blog_rss",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.lynalden.com/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.lynalden.com/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.lynalden.com/archive",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://www.lynalden.com/archive?sort=new",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://lynalden.com/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
+            },
+            {
+              "url": "https://lynalden.com/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 202 captcha"
             }
           ],
           "kept": 0,
-          "dropped": 1,
+          "dropped": 0,
           "fallback": true,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
-          "drop_reasons": [
-            "too_old:904d"
-          ]
+          "drop_reasons": []
         },
         "VitalikButerin": {
           "ok": true,
@@ -1005,7 +1292,7 @@
           "drop_reasons": [
             "too_old:325d",
             "too_old:328d",
-            "too_old:396d",
+            "too_old:397d",
             "too_old:503d",
             "too_old:585d",
             "too_old:621d",
@@ -1102,7 +1389,7 @@
             "too_old:304d",
             "too_old:311d",
             "too_old:318d",
-            "too_old:893d",
+            "too_old:894d",
             "too_old:954d",
             "too_old:970d",
             "too_old:998d"
@@ -1111,57 +1398,126 @@
         "dannypostmaa": {
           "ok": true,
           "partition": "ai",
-          "feed_ok": {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-            "type": "youtube_rss",
-            "scanned": 2
-          },
+          "feed_ok": null,
           "feeds_tried": [
             {
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
               "type": "youtube_rss",
-              "ok": true,
-              "scanned": 2
-            }
-          ],
-          "kept": 1,
-          "dropped": 1,
-          "fallback": false,
-          "used_last_good": false,
-          "html_list": null,
-          "x_api": null,
-          "drop_reasons": [
-            "too_old:66d"
-          ]
-        },
-        "damengchen": {
-          "ok": true,
-          "partition": "ai",
-          "feed_ok": {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-            "type": "youtube_rss",
-            "scanned": 4
-          },
-          "feeds_tried": [
+              "ok": false,
+              "error": "HTTP 404"
+            },
             {
-              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+              "url": "https://youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
               "type": "youtube_rss",
-              "ok": true,
-              "scanned": 4
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.dannypostma.com/",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://www.dannypostma.com/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://www.dannypostma.com/archive",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://www.dannypostma.com/archive?sort=new",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
             }
           ],
           "kept": 0,
-          "dropped": 4,
+          "dropped": 0,
           "fallback": true,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
-          "drop_reasons": [
-            "too_old:961d",
-            "too_old:975d",
-            "too_old:979d",
-            "too_old:985d"
-          ]
+          "drop_reasons": []
+        },
+        "damengchen": {
+          "ok": true,
+          "partition": "ai",
+          "feed_ok": null,
+          "feeds_tried": [
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://damon.vc/",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://damon.vc/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://damon.vc/archive",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://damon.vc/archive?sort=new",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 404"
+            }
+          ],
+          "kept": 0,
+          "dropped": 0,
+          "fallback": true,
+          "used_last_good": false,
+          "html_list": null,
+          "x_api": null,
+          "drop_reasons": []
         },
         "morganhousel": {
           "ok": true,
@@ -1480,7 +1836,7 @@
             "too_old:109d",
             "too_old:140d",
             "too_old:143d",
-            "too_old:143d",
+            "too_old:144d",
             "too_old:145d",
             "too_old:161d",
             "too_old:168d",
@@ -1514,22 +1870,36 @@
         "TTrades_edu": {
           "ok": true,
           "partition": "invest",
-          "feed_ok": {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
-            "type": "youtube_rss",
-            "scanned": 15
-          },
+          "feed_ok": null,
           "feeds_tried": [
             {
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
               "type": "youtube_rss",
-              "ok": true,
-              "scanned": 15
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 500"
+            },
+            {
+              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
+            },
+            {
+              "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+              "type": "youtube_rss",
+              "ok": false,
+              "error": "HTTP 404"
             }
           ],
-          "kept": 2,
+          "kept": 0,
           "dropped": 0,
-          "fallback": false,
+          "fallback": true,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
@@ -1551,15 +1921,13 @@
               "scanned": 10
             }
           ],
-          "kept": 7,
-          "dropped": 1,
+          "kept": 8,
+          "dropped": 0,
           "fallback": false,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
-          "drop_reasons": [
-            "too_old:52d"
-          ]
+          "drop_reasons": []
         },
         "ritholtz": {
           "ok": true,
@@ -2034,13 +2402,13 @@
           "x_api": null,
           "drop_reasons": [
             "too_old:186d",
-            "too_old:307d",
-            "too_old:377d",
+            "too_old:308d",
+            "too_old:378d",
             "too_old:493d",
             "too_old:601d",
             "too_old:641d",
             "too_old:736d",
-            "too_old:817d"
+            "too_old:818d"
           ]
         },
         "askamanager": {
@@ -2217,18 +2585,6 @@
           "type": "blog_rss"
         },
         {
-          "handle": "charliebilello",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
-          "scanned": 15,
-          "type": "youtube_rss"
-        },
-        {
-          "handle": "LynAldenContact",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
-          "scanned": 1,
-          "type": "youtube_rss"
-        },
-        {
           "handle": "VitalikButerin",
           "url": "https://vitalik.eth.limo/feed.xml",
           "scanned": 20,
@@ -2245,18 +2601,6 @@
           "url": "https://markmanson.net/feed",
           "scanned": 10,
           "type": "blog_rss"
-        },
-        {
-          "handle": "dannypostmaa",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-          "scanned": 2,
-          "type": "youtube_rss"
-        },
-        {
-          "handle": "damengchen",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-          "scanned": 4,
-          "type": "youtube_rss"
         },
         {
           "handle": "dollarsanddata",
@@ -2315,12 +2659,6 @@
         {
           "handle": "I_Am_The_ICT",
           "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjxa77NqamhVC8atV85Rog",
-          "scanned": 15,
-          "type": "youtube_rss"
-        },
-        {
-          "handle": "TTrades_edu",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
           "scanned": 15,
           "type": "youtube_rss"
         },
@@ -2456,6 +2794,40 @@
           ]
         },
         {
+          "handle": "charliebilello",
+          "errors": [
+            "HTTP 500",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha"
+          ]
+        },
+        {
+          "handle": "LynAldenContact",
+          "errors": [
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha",
+            "HTTP 202 captcha"
+          ]
+        },
+        {
           "handle": "farnamstreet",
           "errors": [
             "HTTP 403",
@@ -2469,6 +2841,32 @@
           ]
         },
         {
+          "handle": "dannypostmaa",
+          "errors": [
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "html_list_empty_or_blocked",
+            "html_list_empty_or_blocked",
+            "html_list_empty_or_blocked",
+            "html_list_empty_or_blocked"
+          ]
+        },
+        {
+          "handle": "damengchen",
+          "errors": [
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404",
+            "html_list_empty_or_blocked",
+            "HTTP 404",
+            "HTTP 404",
+            "HTTP 404"
+          ]
+        },
+        {
           "handle": "morganhousel",
           "errors": [
             "fetch failed",
@@ -2479,6 +2877,15 @@
             "fetch failed",
             "fetch failed",
             "fetch failed"
+          ]
+        },
+        {
+          "handle": "TTrades_edu",
+          "errors": [
+            "HTTP 404",
+            "HTTP 500",
+            "HTTP 404",
+            "HTTP 404"
           ]
         },
         {
@@ -2510,9 +2917,9 @@
           ]
         }
       ],
-      "posts_kept": 187,
-      "posts_dropped": 219,
-      "fallbacks": 17,
+      "posts_kept": 185,
+      "posts_dropped": 197,
+      "fallbacks": 19,
       "last_good_reused": 1,
       "html_list_ok": [
         {
@@ -2522,7 +2929,9 @@
       ],
       "x_api_ok": [],
       "residual_403_hosts": [
+        "bilello.blog",
         "fs.blog",
+        "lynalden.com",
         "nathanbarry.com"
       ],
       "sample_kept": [
@@ -2545,46 +2954,46 @@
           "url": "https://vitalik.ca/general/2026/09/27/the_cryptographic_world_computer.html"
         },
         {
-          "handle": "dannypostmaa",
-          "title": "How I Stopped AI From Designing Ugly Landing Pages (Free Skill)",
-          "published_at": "2026-09-04T06:17:07.000Z",
-          "url": "https://www.youtube.com/watch?v=EMXJCSx5q60"
-        },
-        {
           "handle": "dollarsanddata",
           "title": "Who Got Richer Since 2022?",
           "published_at": "2026-10-13T11:45:36.000Z",
           "url": "https://ofdollarsanddata.com/who-got-richer-since-2022/"
+        },
+        {
+          "handle": "PutThisOn",
+          "title": "Inside Track: October 4th – October 10th Edition",
+          "published_at": "2026-10-13T01:34:18.000Z",
+          "url": "https://putthison.com/inside-track-october-4th-october-10th-edition-2/"
         }
       ]
     },
     "community_rss": {
       "enabled": true,
-      "elapsed_ms": 92696,
-      "kept": 6,
+      "elapsed_ms": 85149,
+      "kept": 8,
       "report": [
         {
           "id": "ai-reddit-saas",
           "url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
           "ok": true,
           "status": 200,
-          "attempts": 2,
-          "ms": 31694,
+          "attempts": 1,
+          "ms": 608,
           "scanned": 40,
           "kept": 4,
           "rejects": {
-            "body_too_short": 7,
-            "question": 17,
+            "body_too_short": 6,
+            "question": 16,
             "no_body": 2,
-            "no_numeric_fact": 6,
-            "help_seeking": 3,
-            "single_fact_kind": 1
+            "single_fact_kind": 2,
+            "help_seeking": 2,
+            "no_numeric_fact": 8
           },
           "error": null,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
-            "reset": "59"
+            "reset": "23"
           },
           "reject_samples": [
             {
@@ -2593,23 +3002,23 @@
             },
             {
               "reason": "question",
-              "title": "How are you all tracking when competitors change their pricing page?"
+              "title": "Have the “replace in a weekend crowd” never heard of open source?"
             },
             {
               "reason": "question",
               "title": "How did you get your first 10 B2B SaaS users? (Struggling after transitioning fr"
             },
             {
+              "reason": "question",
+              "title": "How are you all tracking when competitors change their pricing page?"
+            },
+            {
               "reason": "no_body",
               "title": "How did you get your first 10 paying customers?"
             },
             {
-              "reason": "question",
-              "title": "What did you do to scale once you got your first few paying users?"
-            },
-            {
-              "reason": "question",
-              "title": "Saas is dead, how can you save your saas from not being replicated or some dude "
+              "reason": "single_fact_kind",
+              "title": "Context.dev: bootstrapped to YC and a $9M seed round"
             }
           ],
           "partition": "ai"
@@ -2643,22 +3052,18 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 15,
+          "scanned": 14,
           "kept": 0,
           "rejects": {
-            "help_seeking": 3,
             "no_numeric_fact": 8,
             "question": 2,
-            "spam_or_promo_body": 1,
+            "help_seeking": 1,
+            "spam_or_promo_body": 2,
             "single_fact_kind": 1
           },
           "error": null,
           "shared_request": true,
           "reject_samples": [
-            {
-              "reason": "help_seeking",
-              "title": "25 years old, making $150k–$185k in business lending, and considering starting m"
-            },
             {
               "reason": "no_numeric_fact",
               "title": "Selling my business."
@@ -2668,16 +3073,20 @@
               "title": "Launching a controversial startup (which deals with Resurrection. Yes) I've enco"
             },
             {
-              "reason": "no_numeric_fact",
-              "title": "Barrier to Entry....."
-            },
-            {
               "reason": "question",
               "title": "What’s the most misleading growth metric you’ve seen a B2B company celebrate?"
             },
             {
               "reason": "help_seeking",
               "title": "i need help figuring out how to set up sales tax so i can start selling online"
+            },
+            {
+              "reason": "question",
+              "title": "Would you watch a live consulting call with one of my clients?"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Registered my one-person business in June. First purchase came 6 weeks later, fi"
             }
           ],
           "partition": "ai"
@@ -2692,8 +3101,9 @@
           "scanned": 7,
           "kept": 1,
           "rejects": {
-            "question": 5,
-            "body_too_short": 1
+            "question": 4,
+            "body_too_short": 1,
+            "no_numeric_fact": 1
           },
           "error": null,
           "shared_request": true,
@@ -2707,20 +3117,20 @@
               "title": "How do you handle a new manager who’s hurting morale when the team is performing"
             },
             {
-              "reason": "question",
-              "title": "One Construction Brand or Multiple Specialized Brands?"
-            },
-            {
               "reason": "body_too_short",
               "title": "Monday mentorship: ask anything | October 19, 2026"
             },
             {
-              "reason": "question",
-              "title": "Where do you draw the line between proving you understand a problem and solving "
+              "reason": "no_numeric_fact",
+              "title": "I don’t know anymore"
             },
             {
               "reason": "question",
               "title": "Starting a deal sourcing business for Private Equity?"
+            },
+            {
+              "reason": "question",
+              "title": "Where do you draw the line between proving you understand a problem and solving "
             }
           ],
           "partition": "ai"
@@ -2731,11 +3141,12 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 1202,
-          "scanned": 16,
+          "ms": 99,
+          "scanned": 13,
           "kept": 0,
           "rejects": {
-            "no_numeric_fact": 15,
+            "tech_news": 1,
+            "no_numeric_fact": 11,
             "question": 1
           },
           "error": null,
@@ -2746,16 +3157,12 @@
           },
           "reject_samples": [
             {
+              "reason": "tech_news",
+              "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18"
+            },
+            {
               "reason": "no_numeric_fact",
               "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "The reverts will continue until morale improves"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Mercury 3: Diffusion at scale"
             },
             {
               "reason": "no_numeric_fact",
@@ -2767,7 +3174,11 @@
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer"
+              "title": "Ukraine claims first drone evacuation of wounded soldier"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Wine ported to OpenBSD"
             }
           ],
           "partition": "ai"
@@ -2777,8 +3188,8 @@
           "url": "https://hnrss.org/show?points=50",
           "ok": true,
           "status": 200,
-          "attempts": 1,
-          "ms": 7837,
+          "attempts": 2,
+          "ms": 23295,
           "scanned": 20,
           "kept": 0,
           "rejects": {
@@ -2799,6 +3210,10 @@
             },
             {
               "reason": "no_numeric_fact",
+              "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks"
+            },
+            {
+              "reason": "no_numeric_fact",
               "title": "Show HN: Qwen3-4B with the AI writing tics trained out"
             },
             {
@@ -2812,10 +3227,6 @@
             {
               "reason": "no_numeric_fact",
               "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping"
-            },
-            {
-              "reason": "tech_news",
-              "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5"
             }
           ],
           "partition": "ai"
@@ -2825,30 +3236,35 @@
           "url": "https://www.reddit.com/r/DebtFree+YNAB/top/.rss?t=month&limit=100",
           "ok": true,
           "status": 200,
-          "attempts": 1,
-          "ms": 960,
-          "scanned": 66,
-          "kept": 0,
+          "attempts": 2,
+          "ms": 53026,
+          "scanned": 72,
+          "kept": 2,
           "rejects": {
-            "body_too_short": 5,
-            "no_concrete_method": 7,
-            "country_specific": 5,
-            "no_amount_in_action": 7,
-            "no_first_person_action": 3,
-            "no_numeric_fact": 5,
+            "no_body": 2,
+            "body_too_short": 8,
+            "no_concrete_method": 8,
+            "country_specific": 8,
+            "no_amount_in_action": 8,
+            "no_first_person_action": 2,
+            "no_numeric_fact": 7,
             "no_practice_topic": 2,
-            "help_seeking": 7,
-            "question": 22,
-            "discussion_questions": 3
+            "question": 18,
+            "help_seeking": 4,
+            "off_profile": 1,
+            "discussion_questions": 2
           },
           "error": null,
-          "waited_ms": 42869,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
-            "reset": "58"
+            "reset": "59"
           },
           "reject_samples": [
+            {
+              "reason": "no_body",
+              "title": "US families are behind on bills at rate not seen since Great Recession of 2008"
+            },
             {
               "reason": "body_too_short",
               "title": "$99,985 in CC debt"
@@ -2868,10 +3284,6 @@
             {
               "reason": "no_concrete_method",
               "title": "100% debt freeeeeee!!"
-            },
-            {
-              "reason": "no_amount_in_action",
-              "title": "Reduced debt by $6k"
             }
           ],
           "partition": "invest"
@@ -2883,17 +3295,17 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 34,
+          "scanned": 28,
           "kept": 1,
           "rejects": {
-            "no_amount_in_action": 4,
-            "no_numeric_fact": 8,
-            "body_too_short": 2,
-            "question": 13,
-            "country_specific": 1,
+            "no_amount_in_action": 3,
+            "no_numeric_fact": 10,
+            "body_too_short": 1,
+            "question": 7,
+            "country_specific": 2,
             "no_body": 1,
-            "no_first_person_action": 1,
-            "help_seeking": 3
+            "discussion_questions": 2,
+            "no_first_person_action": 1
           },
           "error": null,
           "shared_request": true,
@@ -2911,16 +3323,16 @@
               "title": "YNAB poor on the last day of the month"
             },
             {
+              "reason": "no_numeric_fact",
+              "title": "Fire your UX Designer"
+            },
+            {
               "reason": "question",
               "title": "Why can't they just leave it alone?"
             },
             {
               "reason": "country_specific",
               "title": "I can pay off my car now!"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "New Built-In Credit Card Interest Category"
             }
           ],
           "partition": "invest"
@@ -2961,43 +3373,43 @@
     "title_zh_reject_reasons": {},
     "by_partition": {
       "jobs": {
-        "total": 26,
-        "with_use": 16,
+        "total": 57,
+        "with_use": 47,
         "verdicts": {
           "entry": 10,
-          "save": 10,
-          "apply": 6
+          "apply": 33,
+          "watch": 14
         },
         "ungrounded": 0,
         "dropped_no_use": 0,
-        "useful_before_display_cap": 16,
-        "shown": 15
+        "useful_before_display_cap": 47,
+        "shown": 47
       },
       "ai": {
-        "total": 10,
-        "with_use": 10,
+        "total": 14,
+        "with_use": 14,
         "verdicts": {
-          "worth": 4,
+          "worth": 8,
           "save": 5,
           "watch": 1
         },
         "ungrounded": 0,
         "dropped_no_use": 0,
-        "useful_before_display_cap": 10,
-        "shown": 10
+        "useful_before_display_cap": 14,
+        "shown": 14
       },
       "invest": {
-        "total": 9,
-        "with_use": 9,
+        "total": 22,
+        "with_use": 22,
         "verdicts": {
-          "worth": 5,
-          "save": 2,
+          "worth": 7,
+          "save": 13,
           "watch": 2
         },
         "ungrounded": 0,
         "dropped_no_use": 0,
-        "useful_before_display_cap": 9,
-        "shown": 9
+        "useful_before_display_cap": 22,
+        "shown": 22
       },
       "growth": {
         "total": 2,
@@ -3013,36 +3425,29 @@
     },
     "title_model": "qwen2.5:1.5b",
     "title_budget_exhausted": false,
-    "title_zh_attempted": 17,
+    "title_zh_attempted": 34,
     "title_phase_s": 0
   },
   "today_points": [
     {
       "part": "jobs",
-      "text": "投递：ASK IT 经济/数值策划，对口你的经济投放经验",
-      "id": "jobs-askit-numerical-economy-2026-10-14",
-      "url": "https://jobhongkong24h.com/game-numerical-designer-game-economy-designer-job331843",
+      "text": "投递：网易游戏 数值策划（MMO）（网易游戏（互娱）），对口你的战斗公式经验",
+      "id": "jobs-job-detail.html?id=76799",
+      "url": "https://hr.163.com/job-detail.html?id=76799",
       "verdict": "apply"
     },
     {
       "part": "jobs",
-      "text": "投递：ASK IT 主经济策划，对口你的经济投放经验",
-      "id": "jobs-askit-lead-economy-2026-10-14",
-      "url": "https://jobhongkong24h.com/game-lead-planner-game-planning-manager-job329885",
+      "text": "投递：网易游戏 数值策划（梦幻端游畅玩服-经济系统）（网易游戏（互娱））",
+      "id": "jobs-job-detail.html?id=76718",
+      "url": "https://hr.163.com/job-detail.html?id=76718",
       "verdict": "apply"
     },
     {
       "part": "ai",
-      "text": "AI副业：自述近 4 周 $460 收入、20+ 付费用户",
-      "id": "ai-community-ai-reddit-saas-7e5c0ba8b262",
-      "url": "https://www.reddit.com/r/SaaS/comments/1x9ylom/almost_500_in_revenue_this_month/",
-      "verdict": "worth"
-    },
-    {
-      "part": "invest",
-      "text": "币圈：Strive 买入 $335M BTC，持仓增至 36,818 BTC",
-      "id": "crypto-news-RuZXJfaW5ib3VuZA",
-      "url": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "text": "双十一，谁能靠AI获得大结果？",
+      "id": "ai-zh-3d933d481067",
+      "url": "https://www.tmtpost.com/8173901.html",
       "verdict": "worth"
     },
     {
@@ -3057,24 +3462,24 @@
     "model": "qwen2.5:1.5b",
     "ollama_ok": false,
     "local_llm": 0,
-    "fallback": 47,
+    "fallback": 95,
     "distinct_fix": 0,
     "unfaithful_reject": 0,
     "number_check": {
-      "zh_summaries_checked": 9,
-      "blocked_this_run": 0
+      "zh_summaries_checked": 24,
+      "blocked_this_run": 6
     }
   },
   "partitions": {
-    "jobs": 25,
-    "ai": 8,
-    "invest": 15,
+    "jobs": 57,
+    "ai": 14,
+    "invest": 30,
     "growth": 2
   },
   "caps": {
-    "jobs": 40,
-    "ai": 30,
-    "invest": 30,
+    "jobs": 120,
+    "ai": 60,
+    "invest": 60,
     "growth": 30
   },
   "stale": false,
@@ -3163,14 +3568,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:51d",
-          "too_old:131d",
-          "too_old:326d",
+          "too_old:52d",
+          "too_old:132d",
+          "too_old:327d",
           "too_old:375d",
           "too_old:491d",
           "too_old:685d",
           "too_old:696d",
-          "too_old:815d"
+          "too_old:816d"
         ]
       },
       "lxfater": {
@@ -3236,8 +3641,8 @@
         "drop_reasons": [
           "too_old:81d",
           "too_old:230d",
-          "too_old:252d",
-          "too_old:259d",
+          "too_old:253d",
+          "too_old:260d",
           "too_old:277d",
           "too_old:475d",
           "too_old:507d",
@@ -3247,61 +3652,174 @@
       "charliebilello": {
         "ok": true,
         "partition": "invest",
-        "feed_ok": {
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
-          "type": "youtube_rss",
-          "scanned": 15
-        },
+        "feed_ok": null,
         "feeds_tried": [
           {
             "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
             "type": "youtube_rss",
-            "ok": true,
-            "scanned": 15
+            "ok": false,
+            "error": "HTTP 500"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://bilello.blog/feed/",
+            "type": "blog_rss",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://www.bilello.blog/feed/",
+            "type": "blog_rss",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://bilello.blog/",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://bilello.blog/blog/",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://bilello.blog/archive",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://bilello.blog/archive?sort=new",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://www.bilello.blog/",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://www.bilello.blog/blog/",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 202 captcha"
           }
         ],
         "kept": 0,
-        "dropped": 15,
+        "dropped": 0,
         "fallback": true,
         "used_last_good": false,
         "html_list": null,
         "x_api": null,
-        "drop_reasons": [
-          "too_old:795d",
-          "too_old:802d",
-          "too_old:823d",
-          "too_old:844d",
-          "too_old:847d",
-          "too_old:853d",
-          "too_old:908d",
-          "too_old:915d"
-        ]
+        "drop_reasons": []
       },
       "LynAldenContact": {
         "ok": true,
         "partition": "invest",
-        "feed_ok": {
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
-          "type": "youtube_rss",
-          "scanned": 1
-        },
+        "feed_ok": null,
         "feeds_tried": [
           {
             "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
             "type": "youtube_rss",
-            "ok": true,
-            "scanned": 1
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml/?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://www.lynalden.com/feed/",
+            "type": "blog_rss",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://lynalden.com/feed/",
+            "type": "blog_rss",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://www.lynalden.com/",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://www.lynalden.com/blog/",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://www.lynalden.com/archive",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://www.lynalden.com/archive?sort=new",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://lynalden.com/",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 202 captcha"
+          },
+          {
+            "url": "https://lynalden.com/blog/",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 202 captcha"
           }
         ],
         "kept": 0,
-        "dropped": 1,
+        "dropped": 0,
         "fallback": true,
         "used_last_good": false,
         "html_list": null,
         "x_api": null,
-        "drop_reasons": [
-          "too_old:904d"
-        ]
+        "drop_reasons": []
       },
       "VitalikButerin": {
         "ok": true,
@@ -3361,7 +3879,7 @@
         "drop_reasons": [
           "too_old:325d",
           "too_old:328d",
-          "too_old:396d",
+          "too_old:397d",
           "too_old:503d",
           "too_old:585d",
           "too_old:621d",
@@ -3458,7 +3976,7 @@
           "too_old:304d",
           "too_old:311d",
           "too_old:318d",
-          "too_old:893d",
+          "too_old:894d",
           "too_old:954d",
           "too_old:970d",
           "too_old:998d"
@@ -3467,57 +3985,126 @@
       "dannypostmaa": {
         "ok": true,
         "partition": "ai",
-        "feed_ok": {
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-          "type": "youtube_rss",
-          "scanned": 2
-        },
+        "feed_ok": null,
         "feeds_tried": [
           {
             "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
             "type": "youtube_rss",
-            "ok": true,
-            "scanned": 2
-          }
-        ],
-        "kept": 1,
-        "dropped": 1,
-        "fallback": false,
-        "used_last_good": false,
-        "html_list": null,
-        "x_api": null,
-        "drop_reasons": [
-          "too_old:66d"
-        ]
-      },
-      "damengchen": {
-        "ok": true,
-        "partition": "ai",
-        "feed_ok": {
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-          "type": "youtube_rss",
-          "scanned": 4
-        },
-        "feeds_tried": [
+            "ok": false,
+            "error": "HTTP 404"
+          },
           {
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+            "url": "https://youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
             "type": "youtube_rss",
-            "ok": true,
-            "scanned": 4
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://www.dannypostma.com/",
+            "type": "html_list",
+            "ok": false,
+            "error": "html_list_empty_or_blocked"
+          },
+          {
+            "url": "https://www.dannypostma.com/blog/",
+            "type": "html_list",
+            "ok": false,
+            "error": "html_list_empty_or_blocked"
+          },
+          {
+            "url": "https://www.dannypostma.com/archive",
+            "type": "html_list",
+            "ok": false,
+            "error": "html_list_empty_or_blocked"
+          },
+          {
+            "url": "https://www.dannypostma.com/archive?sort=new",
+            "type": "html_list",
+            "ok": false,
+            "error": "html_list_empty_or_blocked"
           }
         ],
         "kept": 0,
-        "dropped": 4,
+        "dropped": 0,
         "fallback": true,
         "used_last_good": false,
         "html_list": null,
         "x_api": null,
-        "drop_reasons": [
-          "too_old:961d",
-          "too_old:975d",
-          "too_old:979d",
-          "too_old:985d"
-        ]
+        "drop_reasons": []
+      },
+      "damengchen": {
+        "ok": true,
+        "partition": "ai",
+        "feed_ok": null,
+        "feeds_tried": [
+          {
+            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://damon.vc/",
+            "type": "html_list",
+            "ok": false,
+            "error": "html_list_empty_or_blocked"
+          },
+          {
+            "url": "https://damon.vc/blog/",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://damon.vc/archive",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://damon.vc/archive?sort=new",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 404"
+          }
+        ],
+        "kept": 0,
+        "dropped": 0,
+        "fallback": true,
+        "used_last_good": false,
+        "html_list": null,
+        "x_api": null,
+        "drop_reasons": []
       },
       "morganhousel": {
         "ok": true,
@@ -3836,7 +4423,7 @@
           "too_old:109d",
           "too_old:140d",
           "too_old:143d",
-          "too_old:143d",
+          "too_old:144d",
           "too_old:145d",
           "too_old:161d",
           "too_old:168d",
@@ -3870,22 +4457,36 @@
       "TTrades_edu": {
         "ok": true,
         "partition": "invest",
-        "feed_ok": {
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
-          "type": "youtube_rss",
-          "scanned": 15
-        },
+        "feed_ok": null,
         "feeds_tried": [
           {
             "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
             "type": "youtube_rss",
-            "ok": true,
-            "scanned": 15
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 500"
+          },
+          {
+            "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
+          },
+          {
+            "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
+            "type": "youtube_rss",
+            "ok": false,
+            "error": "HTTP 404"
           }
         ],
-        "kept": 2,
+        "kept": 0,
         "dropped": 0,
-        "fallback": false,
+        "fallback": true,
         "used_last_good": false,
         "html_list": null,
         "x_api": null,
@@ -3907,15 +4508,13 @@
             "scanned": 10
           }
         ],
-        "kept": 7,
-        "dropped": 1,
+        "kept": 8,
+        "dropped": 0,
         "fallback": false,
         "used_last_good": false,
         "html_list": null,
         "x_api": null,
-        "drop_reasons": [
-          "too_old:52d"
-        ]
+        "drop_reasons": []
       },
       "ritholtz": {
         "ok": true,
@@ -4390,13 +4989,13 @@
         "x_api": null,
         "drop_reasons": [
           "too_old:186d",
-          "too_old:307d",
-          "too_old:377d",
+          "too_old:308d",
+          "too_old:378d",
           "too_old:493d",
           "too_old:601d",
           "too_old:641d",
           "too_old:736d",
-          "too_old:817d"
+          "too_old:818d"
         ]
       },
       "askamanager": {
@@ -4573,18 +5172,6 @@
         "type": "blog_rss"
       },
       {
-        "handle": "charliebilello",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eWuLQ-I_Z0Qegumwg5M9w",
-        "scanned": 15,
-        "type": "youtube_rss"
-      },
-      {
-        "handle": "LynAldenContact",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26OTzxt9ixdrr3qdUJrYBQ",
-        "scanned": 1,
-        "type": "youtube_rss"
-      },
-      {
         "handle": "VitalikButerin",
         "url": "https://vitalik.eth.limo/feed.xml",
         "scanned": 20,
@@ -4601,18 +5188,6 @@
         "url": "https://markmanson.net/feed",
         "scanned": 10,
         "type": "blog_rss"
-      },
-      {
-        "handle": "dannypostmaa",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-        "scanned": 2,
-        "type": "youtube_rss"
-      },
-      {
-        "handle": "damengchen",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-        "scanned": 4,
-        "type": "youtube_rss"
       },
       {
         "handle": "dollarsanddata",
@@ -4671,12 +5246,6 @@
       {
         "handle": "I_Am_The_ICT",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjxa77NqamhVC8atV85Rog",
-        "scanned": 15,
-        "type": "youtube_rss"
-      },
-      {
-        "handle": "TTrades_edu",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwUEVakiYDmNGe7UBza4sQ",
         "scanned": 15,
         "type": "youtube_rss"
       },
@@ -4812,6 +5381,40 @@
         ]
       },
       {
+        "handle": "charliebilello",
+        "errors": [
+          "HTTP 500",
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha"
+        ]
+      },
+      {
+        "handle": "LynAldenContact",
+        "errors": [
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha",
+          "HTTP 202 captcha"
+        ]
+      },
+      {
         "handle": "farnamstreet",
         "errors": [
           "HTTP 403",
@@ -4825,6 +5428,32 @@
         ]
       },
       {
+        "handle": "dannypostmaa",
+        "errors": [
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 404",
+          "html_list_empty_or_blocked",
+          "html_list_empty_or_blocked",
+          "html_list_empty_or_blocked",
+          "html_list_empty_or_blocked"
+        ]
+      },
+      {
+        "handle": "damengchen",
+        "errors": [
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 404",
+          "html_list_empty_or_blocked",
+          "HTTP 404",
+          "HTTP 404",
+          "HTTP 404"
+        ]
+      },
+      {
         "handle": "morganhousel",
         "errors": [
           "fetch failed",
@@ -4835,6 +5464,15 @@
           "fetch failed",
           "fetch failed",
           "fetch failed"
+        ]
+      },
+      {
+        "handle": "TTrades_edu",
+        "errors": [
+          "HTTP 404",
+          "HTTP 500",
+          "HTTP 404",
+          "HTTP 404"
         ]
       },
       {
@@ -4866,9 +5504,9 @@
         ]
       }
     ],
-    "posts_kept": 187,
-    "posts_dropped": 219,
-    "fallbacks": 17,
+    "posts_kept": 185,
+    "posts_dropped": 197,
+    "fallbacks": 19,
     "last_good_reused": 1,
     "html_list_ok": [
       {
@@ -4878,7 +5516,9 @@
     ],
     "x_api_ok": [],
     "residual_403_hosts": [
+      "bilello.blog",
       "fs.blog",
+      "lynalden.com",
       "nathanbarry.com"
     ],
     "sample_kept": [
@@ -4901,16 +5541,16 @@
         "url": "https://vitalik.ca/general/2026/09/27/the_cryptographic_world_computer.html"
       },
       {
-        "handle": "dannypostmaa",
-        "title": "How I Stopped AI From Designing Ugly Landing Pages (Free Skill)",
-        "published_at": "2026-09-04T06:17:07.000Z",
-        "url": "https://www.youtube.com/watch?v=EMXJCSx5q60"
-      },
-      {
         "handle": "dollarsanddata",
         "title": "Who Got Richer Since 2022?",
         "published_at": "2026-10-13T11:45:36.000Z",
         "url": "https://ofdollarsanddata.com/who-got-richer-since-2022/"
+      },
+      {
+        "handle": "PutThisOn",
+        "title": "Inside Track: October 4th – October 10th Edition",
+        "published_at": "2026-10-13T01:34:18.000Z",
+        "url": "https://putthison.com/inside-track-october-4th-october-10th-edition-2/"
       }
     ]
   },
@@ -4932,13 +5572,13 @@
   },
   "quality": {
     "articles_in": {
-      "ai": 65,
-      "invest": 91,
+      "ai": 71,
+      "invest": 104,
       "growth": 60
     },
     "posts_in": {
-      "ai": 60,
-      "invest": 91,
+      "ai": 66,
+      "invest": 104,
       "growth": 59
     },
     "near_dup_drops": {
@@ -4952,17 +5592,21 @@
         "dropped_technical": [],
         "practical_boost": 0,
         "theory_demote": 0,
-        "business_boost": 10,
+        "business_boost": 14,
         "x_bonus": 0,
-        "frames": 3
+        "frames": 4
       },
       "invest": {
         "dropped_technical": [],
-        "practical_boost": 7,
+        "practical_boost": 8,
         "theory_demote": 0,
         "business_boost": 0,
         "x_bonus": 0,
-        "frames": 0
+        "frames": 0,
+        "not_actionable": 1,
+        "theory_omitted": [
+          "国家统计局：第三季度金融业GDP同比增长4.1%，房地产业GDP同比下降0.4%"
+        ]
       },
       "growth": {
         "dropped_technical": [],
@@ -4995,20 +5639,40 @@
       "by_partition": {
         "jobs": {
           "source_keep": {},
-          "decay_count": 8,
+          "decay_count": 23,
           "max_keep_drops": 0,
           "exempt": {
             "rsi": 0,
-            "seed": 15,
+            "seed": 13,
             "account": 0
           },
           "decay_penalties_sample": [
+            {
+              "id": "jobs-b/8063875?gh_jid=8063875",
+              "source_id": null,
+              "title": "Senior Game Designer, Balancing & Economy - Unpublished R&D Product",
+              "published_at": "2026-10-08T12:00:00+08:00",
+              "age_days": 12,
+              "penalty": 8,
+              "score_before": 89,
+              "score_after": 81
+            },
+            {
+              "id": "jobs-b/7921706?gh_jid=7921706",
+              "source_id": null,
+              "title": "Game Designer, System - Unpublished R&D Product (Contract)",
+              "published_at": "2026-10-08T12:00:00+08:00",
+              "age_days": 12,
+              "penalty": 8,
+              "score_before": 87,
+              "score_after": 79
+            },
             {
               "id": "jobs-ermediate-senior-4788093",
               "source_id": null,
               "title": "System & Economy Designer (Intermediate/Senior)",
               "published_at": "2026-09-10T12:00:00+08:00",
-              "age_days": 39,
+              "age_days": 40,
               "penalty": 20,
               "score_before": 86,
               "score_after": 66
@@ -5018,17 +5682,37 @@
               "source_id": null,
               "title": "[REMOTE] Senior LiveOps Developer - Mobile Games",
               "published_at": "2026-10-12T12:00:00+08:00",
-              "age_days": 7,
+              "age_days": 8,
               "penalty": 8,
               "score_before": 82,
               "score_after": 74
+            },
+            {
+              "id": "jobs-b/7102266?gh_jid=7102266",
+              "source_id": null,
+              "title": "Game Designer, Combat - Unpublished R&D Product (Contract)",
+              "published_at": "2026-10-08T12:00:00+08:00",
+              "age_days": 12,
+              "penalty": 8,
+              "score_before": 82,
+              "score_after": 74
+            },
+            {
+              "id": "jobs-oyoverse/743999886344535",
+              "source_id": null,
+              "title": "Senior Combat Designer [CA]",
+              "published_at": "2023-02-14T12:00:00+08:00",
+              "age_days": 1344,
+              "penalty": 35,
+              "score_before": 80,
+              "score_after": 45
             },
             {
               "id": "jobs-omy-fully-remote-4608981",
               "source_id": null,
               "title": "Senior Game Designer - Systems & Economy - Fully Remote",
               "published_at": "2026-08-25T12:00:00+08:00",
-              "age_days": 55,
+              "age_days": 56,
               "penalty": 20,
               "score_before": 72,
               "score_after": 52
@@ -5038,56 +5722,68 @@
               "source_id": null,
               "title": "Senior Game Designer / Product Builder (AI Games)",
               "published_at": "2026-10-05T12:00:00+08:00",
-              "age_days": 14,
+              "age_days": 15,
               "penalty": 8,
               "score_before": 72,
               "score_after": 64
             },
             {
-              "id": "jobs--combat-designer-4843359",
+              "id": "jobs-693008?gh_jid=4981693008",
               "source_id": null,
-              "title": "Senior Technical Combat Designer",
-              "published_at": "2026-09-17T12:00:00+08:00",
-              "age_days": 32,
+              "title": "Senior Economy Designer - Monster Hunter Now",
+              "published_at": "2026-08-25T12:00:00+08:00",
+              "age_days": 56,
               "penalty": 20,
-              "score_before": 54,
-              "score_after": 34
+              "score_before": 67,
+              "score_after": 47
             },
             {
-              "id": "jobs-duct-manager-rpg-4951143",
+              "id": "jobs-3-41a3-9eb1-7d0ac54ac89e",
               "source_id": null,
-              "title": "Lead Product Manager - RPG",
-              "published_at": "2026-09-24T12:00:00+08:00",
-              "age_days": 25,
-              "penalty": 8,
-              "score_before": 54,
-              "score_after": 46
-            },
-            {
-              "id": "jobs-ms-game-designer-4924815",
-              "source_id": null,
-              "title": "Senior Systems Game Designer",
-              "published_at": "2026-09-24T12:00:00+08:00",
-              "age_days": 25,
-              "penalty": 8,
-              "score_before": 44,
-              "score_after": 36
-            },
-            {
-              "id": "jobs-er-creator-tools-4676266",
-              "source_id": null,
-              "title": "Technical Game Designer (Creator Tools)",
-              "published_at": "2026-08-20T12:00:00+08:00",
-              "age_days": 60,
+              "title": "Product Economy Manager",
+              "published_at": "2026-08-09T12:00:00+08:00",
+              "age_days": 72,
               "penalty": 20,
-              "score_before": 44,
-              "score_after": 24
+              "score_before": 67,
+              "score_after": 47
+            },
+            {
+              "id": "jobs-224008?gh_jid=5430224008",
+              "source_id": null,
+              "title": "Live Ops Manager - MARVEL Strike Force",
+              "published_at": "2026-09-23T12:00:00+08:00",
+              "age_days": 27,
+              "penalty": 8,
+              "score_before": 63,
+              "score_after": 55
+            },
+            {
+              "id": "jobs-ition/?gh_jid=4969404101",
+              "source_id": null,
+              "title": "Monetization Manager",
+              "published_at": "2026-09-15T12:00:00+08:00",
+              "age_days": 35,
+              "penalty": 20,
+              "score_before": 63,
+              "score_after": 43
             }
           ],
           "max_keep_drops_sample": []
         },
         "ai": {
           "source_keep": {
+            "zh-huxiu": {
+              "max_keep": 10,
+              "kept": 2,
+              "dropped": 0,
+              "candidates": 2
+            },
+            "zh-tmtpost": {
+              "max_keep": 10,
+              "kept": 3,
+              "dropped": 0,
+              "candidates": 3
+            },
             "ai-reddit-saas": {
               "max_keep": 4,
               "kept": 4,
@@ -5108,9 +5804,9 @@
             },
             "kol:yongfook": {
               "max_keep": 10,
-              "kept": 7,
+              "kept": 8,
               "dropped": 0,
-              "candidates": 7
+              "candidates": 8
             },
             "kol:noahkagan": {
               "max_keep": 10,
@@ -5142,12 +5838,6 @@
               "dropped": 0,
               "candidates": 4
             },
-            "kol:dannypostmaa": {
-              "max_keep": 10,
-              "kept": 1,
-              "dropped": 0,
-              "candidates": 1
-            },
             "ai-levelsio-rss": {
               "max_keep": 2,
               "kept": 1,
@@ -5167,12 +5857,12 @@
               "candidates": 1
             }
           },
-          "decay_count": 39,
+          "decay_count": 38,
           "max_keep_drops": 0,
           "exempt": {
             "rsi": 0,
             "seed": 2,
-            "account": 23
+            "account": 24
           },
           "decay_penalties_sample": [
             {
@@ -5220,7 +5910,7 @@
               "source_id": "kol:yongfook",
               "title": "Turn Podcast Episodes into Vertical Social Clips with Bannerbear Workflows (Join",
               "published_at": "2026-09-30T03:02:00.000Z",
-              "age_days": 19,
+              "age_days": 20,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -5324,12 +6014,6 @@
               "dropped": 0,
               "candidates": 10
             },
-            "kol:TTrades_edu": {
-              "max_keep": 10,
-              "kept": 2,
-              "dropped": 0,
-              "candidates": 2
-            },
             "kol:moneyunder30": {
               "max_keep": 10,
               "kept": 10,
@@ -5342,11 +6026,23 @@
               "dropped": 0,
               "candidates": 4
             },
+            "zh-v2ex-invest": {
+              "max_keep": 10,
+              "kept": 1,
+              "dropped": 0,
+              "candidates": 1
+            },
             "kol:financialsamurai": {
               "max_keep": 10,
               "kept": 7,
               "dropped": 0,
               "candidates": 7
+            },
+            "zh-wscn-live": {
+              "max_keep": 10,
+              "kept": 5,
+              "dropped": 0,
+              "candidates": 5
             },
             "kol:awealthofcs": {
               "max_keep": 10,
@@ -5359,6 +6055,18 @@
               "kept": 10,
               "dropped": 0,
               "candidates": 10
+            },
+            "zh-panews": {
+              "max_keep": 10,
+              "kept": 6,
+              "dropped": 0,
+              "candidates": 6
+            },
+            "invest-reddit-debtfree": {
+              "max_keep": 2,
+              "kept": 2,
+              "dropped": 0,
+              "candidates": 2
             },
             "kol:VitalikButerin": {
               "max_keep": 10,
@@ -5396,7 +6104,7 @@
           "exempt": {
             "rsi": 0,
             "seed": 1,
-            "account": 22
+            "account": 23
           },
           "decay_penalties_sample": [
             {
@@ -5560,17 +6268,17 @@
               "dropped": 0,
               "candidates": 10
             },
-            "kol:PutThisOn": {
-              "max_keep": 10,
-              "kept": 6,
-              "dropped": 0,
-              "candidates": 6
-            },
             "kol:RyanHoliday": {
               "max_keep": 10,
               "kept": 5,
               "dropped": 0,
               "candidates": 5
+            },
+            "kol:PutThisOn": {
+              "max_keep": 10,
+              "kept": 6,
+              "dropped": 0,
+              "candidates": 6
             },
             "growth-jamesclear": {
               "max_keep": 1,
@@ -5579,7 +6287,7 @@
               "candidates": 1
             }
           },
-          "decay_count": 27,
+          "decay_count": 28,
           "max_keep_drops": 0,
           "exempt": {
             "rsi": 0,
