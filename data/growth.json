@@ -1,134 +1,128 @@
-{
-  "partition": "growth",
-  "generated_at": "2026-10-20T07:18:19.726Z",
-  "next_update_at": "2026-10-20T13:00:00.000Z",
-  "cap": 30,
-  "cards": [
-    {
-      "id": "growth-post-bakadesuyo-36eabbac6877",
-      "partition": "growth",
-      "type": "post",
-      "category": "个人提升",
-      "title": "How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory",
-      "summary": "利用博弈论6个秘诀避免被剥削",
-      "source": "@bakadesuyo / Eric Barker (Barking Up The Wrong Tree)",
-      "source_url": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
-      "published_at": "2026-09-27T16:25:55.000Z",
-      "tags": [
-        "习惯",
-        "决策"
+[
+  {
+    "id": "growth-post-bakadesuyo-36eabbac6877",
+    "partition": "growth",
+    "type": "post",
+    "category": "个人提升",
+    "title": "How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory",
+    "summary": "利用博弈论6个秘诀避免被剥削",
+    "source": "@bakadesuyo / Eric Barker (Barking Up The Wrong Tree)",
+    "source_url": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
+    "published_at": "2026-09-27T16:25:55.000Z",
+    "tags": [
+      "习惯",
+      "决策"
+    ],
+    "score": 63,
+    "why": "成长栏目：习惯；策展：每篇把学术研究整理成 N 条可执行要点，标题即写明数量。",
+    "deep_link": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
+    "extra": {},
+    "blurb": "利用博弈论6个秘诀避免被剥削",
+    "url": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
+    "handle": "bakadesuyo",
+    "name": "Eric Barker (Barking Up The Wrong Tree)",
+    "lang": "EN",
+    "posted_at": "2026-09-27",
+    "tier": "A",
+    "evidence_missing": false,
+    "_origin": "kol_rss",
+    "_source_id": "kol:bakadesuyo",
+    "title_orig": "How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory",
+    "source_excerpt": "You show up to the negotiation wanting to be reasonable. You’ve prepared several ways to demonstrate this, all of which involve receiving less. To make it worse, you’re dealing with the kind of person who’d happily disconnect an orphan’s ventilator to charge his phone. He asks fo",
+    "person_id": "bakadesuyo",
+    "person_handle": "bakadesuyo",
+    "person_name": "Eric Barker (Barking Up The Wrong Tree)",
+    "_feed_type": "blog_rss",
+    "_feed_url": "https://www.bakadesuyo.com/feed/",
+    "_score_raw": 55,
+    "_decay_penalty": 8,
+    "_decay_exempt": null,
+    "_practical": true,
+    "_practical_delta": 16,
+    "summary_zh": "利用博弈论6个秘诀避免被剥削",
+    "highlights": [
+      "准备多种示弱策略，面对贪婪者要保持冷静"
+    ],
+    "summary_source": "local_llm",
+    "title_zh": "如何避免被利用：从博弈论中获得6个秘诀",
+    "reader": {
+      "verdict": "worth",
+      "use": "谈判/决策被拿捏时看：从博弈论整理 6 条可执行要点（识别对手激励、可信承诺等）",
+      "lines": {
+        "scenario": "要做决策、谈判或制定策略时",
+        "value": "讲具体方法，给了 6 条要点"
+      },
+      "evidence": [
+        "Game Theory",
+        "How To",
+        "6 Secrets"
       ],
-      "score": 63,
-      "why": "成长栏目：习惯；策展：每篇把学术研究整理成 N 条可执行要点，标题即写明数量。",
-      "deep_link": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
-      "extra": {},
-      "blurb": "利用博弈论6个秘诀避免被剥削",
-      "url": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
-      "handle": "bakadesuyo",
-      "name": "Eric Barker (Barking Up The Wrong Tree)",
-      "lang": "EN",
-      "posted_at": "2026-09-27",
-      "tier": "A",
-      "evidence_missing": false,
-      "_origin": "kol_rss",
-      "_source_id": "kol:bakadesuyo",
-      "title_orig": "How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory",
-      "source_excerpt": "You show up to the negotiation wanting to be reasonable. You’ve prepared several ways to demonstrate this, all of which involve receiving less. To make it worse, you’re dealing with the kind of person who’d happily disconnect an orphan’s ventilator to charge his phone. He asks fo",
-      "person_id": "bakadesuyo",
-      "person_handle": "bakadesuyo",
-      "person_name": "Eric Barker (Barking Up The Wrong Tree)",
-      "_feed_type": "blog_rss",
-      "_feed_url": "https://www.bakadesuyo.com/feed/",
-      "_score_raw": 55,
-      "_decay_penalty": 8,
-      "_decay_exempt": null,
-      "_practical": true,
-      "_practical_delta": 16,
-      "summary_zh": "利用博弈论6个秘诀避免被剥削",
-      "highlights": [
-        "准备多种示弱策略，面对贪婪者要保持冷静"
-      ],
-      "summary_source": "local_llm",
-      "title_zh": "如何避免被利用：从博弈论中获得6个秘诀",
-      "reader": {
-        "verdict": "worth",
-        "use": "要做决策、谈判或制定策略时看：讲具体方法，给了 6 条要点",
-        "lines": {
-          "scenario": "要做决策、谈判或制定策略时",
-          "value": "讲具体方法，给了 6 条要点"
-        },
-        "evidence": [
-          "Game Theory",
-          "How To",
-          "6 Secrets"
-        ],
-        "point": "成长：要做决策、谈判或制定策略，讲具体方法",
-        "verdict_label": "值得看",
-        "title": "如何避免被利用：从博弈论中获得6个秘诀"
-      }
-    },
-    {
-      "id": "growth-post-ScottHYoung-d22627fdeb41",
-      "partition": "growth",
-      "type": "post",
-      "category": "个人提升",
-      "title": "How to stop forgetting what you read",
-      "summary": "The decisive step for long-term retention of what you read occurs long before you open the book.",
-      "source": "@ScottHYoung / Scott Young",
-      "source_url": "https://www.scotthyoung.com/blog/2026/09/14/stop-forgetting-what-you-read/",
-      "published_at": "2026-09-15T03:58:24.000Z",
-      "tags": [
-        "认知",
-        "学习"
-      ],
-      "score": 29,
-      "why": "策展成长账号近期帖；策展：可复用学习/元认知框架，对齐认知与解题，非鸡汤。",
-      "deep_link": "https://www.scotthyoung.com/blog/2026/09/14/stop-forgetting-what-you-read/",
-      "extra": {},
-      "blurb": "The decisive step for long-term retention of what you read occurs long before you open the book.",
-      "url": "https://www.scotthyoung.com/blog/2026/09/14/stop-forgetting-what-you-read/",
-      "handle": "ScottHYoung",
-      "name": "Scott Young",
-      "lang": "EN",
-      "posted_at": "2026-09-15",
-      "tier": "A",
-      "evidence_missing": false,
-      "_origin": "kol_rss",
-      "_source_id": "kol:ScottHYoung",
-      "title_orig": "How to stop forgetting what you read",
-      "source_excerpt": "The decisive step for long-term retention of what you read occurs long before you open the book. The post How to stop forgetting what you read appeared first on Scott H Young .",
-      "person_id": "ScottHYoung",
-      "person_handle": "ScottHYoung",
-      "person_name": "Scott Young",
-      "_feed_type": "blog_rss",
-      "_feed_url": "https://www.scotthyoung.com/blog/feed/",
-      "_score_raw": 33,
-      "_decay_penalty": 20,
-      "_decay_exempt": null,
-      "_practical": true,
-      "_practical_delta": 16,
-      "summary_zh": "The decisive step for long-term retention of what you read occurs long before you open the book.",
-      "highlights": [
-        "来源：Scott Young"
-      ],
-      "summary_source": "fallback",
-      "title_zh": "如何防止读过的东西忘掉",
-      "reader": {
-        "verdict": "worth",
-        "use": "读书读完就忘时看：讲具体方法",
-        "lines": {
-          "scenario": "读书读完就忘时",
-          "value": "讲具体方法"
-        },
-        "evidence": [
-          "read",
-          "forgetting",
-          "How to"
-        ],
-        "point": "成长：读书读完就忘，讲具体方法",
-        "verdict_label": "值得看",
-        "title": "如何防止读过的东西忘掉"
-      }
+      "point": "成长：要做决策、谈判或制定策略，讲具体方法",
+      "verdict_label": "值得看",
+      "title": "如何避免被利用：从博弈论中获得6个秘诀"
     }
-  ]
-}
+  },
+  {
+    "id": "growth-post-ScottHYoung-d22627fdeb41",
+    "partition": "growth",
+    "type": "post",
+    "category": "个人提升",
+    "title": "How to stop forgetting what you read",
+    "summary": "The decisive step for long-term retention of what you read occurs long before you open the book.",
+    "source": "@ScottHYoung / Scott Young",
+    "source_url": "https://www.scotthyoung.com/blog/2026/09/14/stop-forgetting-what-you-read/",
+    "published_at": "2026-09-15T03:58:24.000Z",
+    "tags": [
+      "认知",
+      "学习"
+    ],
+    "score": 29,
+    "why": "策展成长账号近期帖；策展：可复用学习/元认知框架，对齐认知与解题，非鸡汤。",
+    "deep_link": "https://www.scotthyoung.com/blog/2026/09/14/stop-forgetting-what-you-read/",
+    "extra": {},
+    "blurb": "The decisive step for long-term retention of what you read occurs long before you open the book.",
+    "url": "https://www.scotthyoung.com/blog/2026/09/14/stop-forgetting-what-you-read/",
+    "handle": "ScottHYoung",
+    "name": "Scott Young",
+    "lang": "EN",
+    "posted_at": "2026-09-15",
+    "tier": "A",
+    "evidence_missing": false,
+    "_origin": "kol_rss",
+    "_source_id": "kol:ScottHYoung",
+    "title_orig": "How to stop forgetting what you read",
+    "source_excerpt": "The decisive step for long-term retention of what you read occurs long before you open the book. The post How to stop forgetting what you read appeared first on Scott H Young .",
+    "person_id": "ScottHYoung",
+    "person_handle": "ScottHYoung",
+    "person_name": "Scott Young",
+    "_feed_type": "blog_rss",
+    "_feed_url": "https://www.scotthyoung.com/blog/feed/",
+    "_score_raw": 33,
+    "_decay_penalty": 20,
+    "_decay_exempt": null,
+    "_practical": true,
+    "_practical_delta": 16,
+    "summary_zh": "The decisive step for long-term retention of what you read occurs long before you open the book.",
+    "highlights": [
+      "来源：Scott Young"
+    ],
+    "summary_source": "fallback",
+    "title_zh": "如何防止读过的东西忘掉",
+    "reader": {
+      "verdict": "worth",
+      "use": "读书读完就忘时看：作者用 AHAB 法读完 105 本；建议先读教科书/入门综述打底，别为记笔记拖慢阅读",
+      "lines": {
+        "scenario": "读书读完就忘时",
+        "value": "具体做法：多读、先读准确的入门书（教科书、综述课、Very Short Introductions），笔记系统别成了阻碍"
+      },
+      "evidence": [
+        "read",
+        "forgetting",
+        "How to"
+      ],
+      "point": "成长：读书读完就忘，讲具体方法",
+      "verdict_label": "值得看",
+      "title": "如何防止读过的东西忘掉"
+    }
+  }
+]
