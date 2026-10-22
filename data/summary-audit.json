@@ -1,8 +1,23 @@
 {
-  "updated_at": "2026-10-21T00:06:58.923Z",
+  "updated_at": "2026-10-22T00:08:33.571Z",
   "note": "摘要/用途行数字核对：生成的中文里出现的数字、金额、比例、周期必须能在原文（标题+摘要+正文）找到；找不到的该行被拦下，改用规则摘要（原文原句）。stage: llm_output=模型刚生成即被拒；final_pass=缓存或其它路径的摘要被兜底拦下；reader=用途行/要点行。",
-  "last_run_blocked": 0,
+  "last_run_blocked": 1,
   "entries": [
+    {
+      "stage": "reader",
+      "partition": "ai",
+      "url": "https://www.infoq.cn/article/yH0DHL8Nil26ES43TeF1?utm_source=rss&utm_medium=article",
+      "title": "17岁Kimi前研究员陈广宇被曝投奔Jeff Dean创业团队，新公司正寻求500亿美元估值",
+      "field": "reader.point",
+      "rejected": "17岁Kimi前研究员陈广宇被曝投奔Jeff Dean创业团队，新公司正寻求5…",
+      "unsupported": [
+        "5"
+      ],
+      "replacement": null,
+      "first_seen": "2026-10-22T00:08:30.575Z",
+      "last_seen": "2026-10-22T00:08:33.571Z",
+      "seen_count": 2
+    },
     {
       "stage": "final_pass",
       "partition": "invest",
