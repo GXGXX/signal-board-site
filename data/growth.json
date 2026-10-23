@@ -14,7 +14,7 @@
       "决策"
     ],
     "score": 63,
-    "why": "成长栏目：习惯；策展：每篇把学术研究整理成 N 条可执行要点，标题即写明数量。",
+    "why": "谈判/决策被拿捏时看：从博弈论整理 6 条可执行要点",
     "deep_link": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
     "extra": {},
     "blurb": "You show up to the negotiation wanting to be reasonable.",
@@ -77,7 +77,7 @@
       "学习"
     ],
     "score": 29,
-    "why": "策展成长账号近期帖；策展：可复用学习/元认知框架，对齐认知与解题，非鸡汤。",
+    "why": "读书读完就忘时看：讲具体记忆/阅读方法，可直接试",
     "deep_link": "https://www.scotthyoung.com/blog/2026/09/14/stop-forgetting-what-you-read/",
     "extra": {},
     "blurb": "The decisive step for long-term retention of what you read occurs long before you open the book.",
@@ -139,7 +139,7 @@
       "求职"
     ],
     "score": 53,
-    "why": "策展成长账号近期帖；策展：职场老牌问答，给具体可照做的求职/面试/谈薪答复。",
+    "why": "职场沟通：新员工入职一年就要求晋升，博主给出可对照的回复框架",
     "deep_link": "https://www.askamanager.org/2026/10/new-hire-is-demanding-a-promotion-after-a-year.html",
     "extra": {},
     "blurb": "I hired a young employee, Frank, almost exactly a year ago in an entry-level administrative role.",
@@ -176,6 +176,67 @@
       },
       "evidence": [
         "promotion",
+        "A reader writes"
+      ],
+      "point": "",
+      "verdict_label": "观望",
+      "title": ""
+    }
+  },
+  {
+    "id": "growth-post-askamanager-a0816a5e7b08",
+    "partition": "growth",
+    "type": "post",
+    "category": "个人提升",
+    "title": "can I ask for another interview with the hiring manager for my own questions?",
+    "summary": "I’ve been out of work for several months, since my last employer, a well-known tech giant, suddenly decided my globally scoped role (almost all computer-based) could no longer be performed remotely.",
+    "source": "@askamanager / Alison Green (Ask a Manager)",
+    "source_url": "https://www.askamanager.org/2026/10/can-i-ask-for-another-interview-with-the-hiring-manager-for-my-own-questions.html",
+    "published_at": "2026-10-22T17:59:07.000Z",
+    "tags": [
+      "职场",
+      "求职"
+    ],
+    "score": 35,
+    "why": "面试技巧：想单独再约用人经理问自己的问题时怎么开口，博主直接给答复",
+    "deep_link": "https://www.askamanager.org/2026/10/can-i-ask-for-another-interview-with-the-hiring-manager-for-my-own-questions.html",
+    "extra": {},
+    "blurb": "I’ve been out of work for several months, since my last employer, a well-known tech giant, suddenly decided my globally scoped role (almost all computer-based) could no longer be performed remotely.",
+    "url": "https://www.askamanager.org/2026/10/can-i-ask-for-another-interview-with-the-hiring-manager-for-my-own-questions.html",
+    "handle": "askamanager",
+    "name": "Alison Green (Ask a Manager)",
+    "lang": "EN",
+    "posted_at": "2026-10-22",
+    "tier": "A",
+    "evidence_missing": false,
+    "_origin": "kol_rss",
+    "_source_id": "kol:askamanager",
+    "title_orig": "can I ask for another interview with the hiring manager for my own questions?",
+    "source_excerpt": "A reader writes: I’ve been out of work for several months, since my last employer, a well-known tech giant, suddenly decided my globally scoped role (almost all computer-based) could no longer be performed remotely. Since then, I’ve been working on completing my doctoral disserta",
+    "person_id": "askamanager",
+    "person_handle": "askamanager",
+    "person_name": "Alison Green (Ask a Manager)",
+    "_feed_type": "blog_rss",
+    "_feed_url": "https://www.askamanager.org/feed",
+    "_score_raw": 53,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_theory": true,
+    "_practical_delta": -18,
+    "summary_zh": "I’ve been out of work for several months, since my last employer, a well-known tech giant, suddenly decided my globally scoped role (almost all computer-based) could no longer be performed remotely.",
+    "highlights": [
+      "Since then, I’ve been working on completing my doctoral…"
+    ],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "watch",
+      "use": "面试技巧：想单独再约用人经理问自己的问题时怎么开口，博主直接给答复",
+      "lines": {
+        "scenario": "求职、写求职信、面试或谈薪时",
+        "value": "一封读者来信，博主直接作答"
+      },
+      "evidence": [
+        "interview",
         "A reader writes"
       ],
       "point": "",

@@ -14,7 +14,7 @@
       "36氪"
     ],
     "score": 90,
-    "why": "中文源 · 36氪 · 解决：Rian告诉硬氪，“AI硬件的价值不在于让用户做更多事，而在于帮用户少做无关的事；模式/数字：官方数据显示，自Scribe发货以来，有42%的硬件激活用户转化为Flowtica的订阅付费用户。",
+    "why": "看 AI 硬件订阅转化：官方称 Scribe 发货后约 42% 激活用户转为 Flowtica 付费订阅",
     "deep_link": "https://36kr.com/p/4034229489701764?f=rss",
     "extra": {},
     "blurb": "Rian告诉硬氪，“AI硬件的价值不在于让用户做更多事，而在于帮用户少做无关的事 官方数据显示，自Scribe发货以来，有42%的硬件激活用户转化为Flowtica的订阅付费用户。",
@@ -55,7 +55,7 @@
     "summary_source": "fallback",
     "reader": {
       "verdict": "worth",
-      "use": "看 AI 硬件订阅转化：报道称 Scribe 发货后约 42% 激活用户转为 Flowtica 付费订阅",
+      "use": "看 AI 硬件订阅转化：官方称 Scribe 发货后约 42% 激活用户转为 Flowtica 付费订阅",
       "lines": {
         "model": "怎么赚钱：官方数据显示，自Scribe发货以来，有42%的硬件激活用户转化为Flowtica的订阅付费用户。",
         "problem": "解决：Rian告诉硬氪，“AI硬件的价值不在于让用户做更多事，而在于帮用户少做无关的事"
@@ -66,187 +66,6 @@
         "42%"
       ],
       "point": "李泽湘系团队做了款贴在手机背后的墨水屏Agent，获祥峰、五源、源码等投资｜硬…",
-      "verdict_label": "值得看",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-community-ai-reddit-saas-a6261fb31586",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "From 0 to €1k MRR: How fixing my SEO funnel turned my free D&D tool into a paying SaaS",
-    "summary": "2 weeks ago, I redesigned the conversion flow between the free tools and the premium editor ($3/mo tier & €14.99 lifetime license).",
-    "source": "r/SaaS",
-    "source_url": "https://www.reddit.com/r/SaaS/comments/1xblvsx/from_0_to_1k_mrr_how_fixing_my_seo_funnel_turned/",
-    "published_at": "2026-10-21T12:31:57.000Z",
-    "tags": [
-      "reddit",
-      "r/SaaS",
-      "收入",
-      "获客渠道",
-      "定价"
-    ],
-    "score": 79,
-    "why": "公开社区帖 · r/SaaS · top/day 第7位 · 原帖含：收入、获客渠道、定价",
-    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xblvsx/from_0_to_1k_mrr_how_fixing_my_seo_funnel_turned/",
-    "extra": {},
-    "blurb": "2 weeks ago, I redesigned the conversion flow between the free tools and the premium editor ($3/mo tier & €14.99 lifetime license).",
-    "url": "https://www.reddit.com/r/SaaS/comments/1xblvsx/from_0_to_1k_mrr_how_fixing_my_seo_funnel_turned/",
-    "name": "From 0 to €1k MRR: How fixing my SEO funnel turned my free D&D tool into a paying SaaS",
-    "lang": "EN",
-    "posted_at": "2026-10-21",
-    "evidence_missing": false,
-    "_origin": "community_rss",
-    "_source_id": "ai-reddit-saas",
-    "title_orig": "From 0 to €1k MRR: How fixing my SEO funnel turned my free D&D tool into a paying SaaS",
-    "source_excerpt": "2 weeks ago, I redesigned the conversion flow between the free tools and the premium editor ($3/mo tier & €14.99 lifetime license).",
-    "_feed_type": "reddit_rss",
-    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-    "_score_raw": 69,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "2 weeks ago, I redesigned the conversion flow between the free tools and the premium editor ($3/mo tier & €14.99 lifetime license).",
-    "highlights": [],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "worth",
-      "use": "找副业参照：自述 SEO 把免费 D&D 工具做到约 €1k MRR，定价约 $3/月",
-      "lines": {
-        "model": "原帖写到：「2 weeks ago, I redesigned the conversion flow between the free tools and the premium editor ($3/mo tier & €14.99 lifetime license).」",
-        "value": "作者自述收入「€1k MRR」；定价「$3/mo」；获客渠道「SEO」",
-        "note": "数字均为发帖人自述，未经核实"
-      },
-      "evidence": [
-        "2 weeks ago, I redesigned the conversion flow between the free tools and the premium editor ($3/mo tier & €14.99 lifetime license).",
-        "€1k MRR",
-        "$3/mo",
-        "SEO"
-      ],
-      "point": "AI副业：自述收入 €1k MRR，渠道 SEO",
-      "verdict_label": "值得看",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-community-ai-reddit-era-20be9f6e222a",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "I thought I had a $799/month SaaS business figured out. Then 3 potential customers told me they wouldn't pay for it.",
-    "summary": "And here I was asking them to license that knowledge to a product that would eventually sell access to it for a fraction of what they charge.",
-    "source": "r/EntrepreneurRideAlong",
-    "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xbtpt8/i_thought_i_had_a_799month_saas_business_figured/",
-    "published_at": "2026-10-21T17:34:14.000Z",
-    "tags": [
-      "reddit",
-      "r/EntrepreneurRideAlong",
-      "定价",
-      "收入"
-    ],
-    "score": 78,
-    "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第3位 · 原帖含：定价、收入",
-    "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xbtpt8/i_thought_i_had_a_799month_saas_business_figured/",
-    "extra": {},
-    "blurb": "And here I was asking them to license that knowledge to a product that would eventually sell access to it for a fraction of what they charge.",
-    "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xbtpt8/i_thought_i_had_a_799month_saas_business_figured/",
-    "name": "I thought I had a $799/month SaaS business figured out. Then 3 potential customers told me they wouldn't pay for it.",
-    "lang": "EN",
-    "posted_at": "2026-10-21",
-    "evidence_missing": false,
-    "_origin": "community_rss",
-    "_source_id": "ai-reddit-era",
-    "title_orig": "I thought I had a $799/month SaaS business figured out. Then 3 potential customers told me they wouldn't pay for it.",
-    "source_excerpt": "And here I was asking them to license that knowledge to a product that would eventually sell access to it for a fraction of what they charge. They'd use it to run campaigns for their clients, and I'd have a business doing roughly $160K MRR if everything went according to plan. Some of these agencies charge clients around $5K/month.",
-    "_feed_type": "reddit_rss",
-    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-    "_score_raw": 68,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "And here I was asking them to license that knowledge to a product that would eventually sell access to it for a fraction of what they charge.",
-    "highlights": [
-      "They'd use it to run campaigns for their clients…",
-      "Some of these agencies charge clients around $5K/month."
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "worth",
-      "use": "避坑：想卖 $799/月 SaaS，3 个潜在客户拒绝付费；帖内对比其咨询业务约 $160K MRR 的反差",
-      "lines": {
-        "problem": "原帖这样描述：「And here I was asking them to license that knowledge to a product that would eventually sell access to it for a fraction of what they charge.」",
-        "model": "原帖写到：「I thought I had a $799/month SaaS business figured out.」",
-        "value": "作者自述收入「$160K MRR」；定价「$799/month」",
-        "note": "数字均为发帖人自述，未经核实"
-      },
-      "evidence": [
-        "And here I was asking them to license that knowledge to a product that would eventually sell access to it for a fraction of what they charge.",
-        "I thought I had a $799/month SaaS business figured out.",
-        "$160K MRR",
-        "$799/month"
-      ],
-      "point": "AI副业：自述收入 $160K MRR",
-      "verdict_label": "值得看",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-community-ai-reddit-saas-2a34ea5e65f7",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "I think every SaaS should have a public cemetery.",
-    "summary": "I honestly think founders would learn more from reading why products died than another \"I hit $10k MRR\" thread.",
-    "source": "r/SaaS",
-    "source_url": "https://www.reddit.com/r/SaaS/comments/1xbfoyf/i_think_every_saas_should_have_a_public_cemetery/",
-    "published_at": "2026-10-21T06:31:32.000Z",
-    "tags": [
-      "reddit",
-      "r/SaaS",
-      "收入",
-      "踩坑/复盘"
-    ],
-    "score": 71,
-    "why": "公开社区帖 · r/SaaS · top/day 第13位 · 原帖含：收入、踩坑/复盘",
-    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xbfoyf/i_think_every_saas_should_have_a_public_cemetery/",
-    "extra": {},
-    "blurb": "I honestly think founders would learn more from reading why products died than another \"I hit $10k MRR\" thread.",
-    "url": "https://www.reddit.com/r/SaaS/comments/1xbfoyf/i_think_every_saas_should_have_a_public_cemetery/",
-    "name": "I think every SaaS should have a public cemetery.",
-    "lang": "EN",
-    "posted_at": "2026-10-21",
-    "evidence_missing": false,
-    "_origin": "community_rss",
-    "_source_id": "ai-reddit-saas",
-    "title_orig": "I think every SaaS should have a public cemetery.",
-    "source_excerpt": "I honestly think founders would learn more from reading why products died than another \"I hit $10k MRR\" thread. No shutdown post , lessons learned or explanation.",
-    "_feed_type": "reddit_rss",
-    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-    "_score_raw": 61,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "I honestly think founders would learn more from reading why products died than another \"I hit $10k MRR\" thread.",
-    "highlights": [
-      "No shutdown post , lessons learned or explanation."
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "worth",
-      "use": "产品复盘：作者建议 SaaS 建「公墓」展示已砍功能；自述约 $10k MRR",
-      "lines": {
-        "value": "作者自述收入「$10k MRR」；踩坑/复盘「lessons learned」",
-        "note": "数字均为发帖人自述，未经核实"
-      },
-      "evidence": [
-        "$10k MRR",
-        "lessons learned"
-      ],
-      "point": "AI副业：自述收入 $10k MRR",
       "verdict_label": "值得看",
       "title": ""
     }
@@ -268,7 +87,7 @@
       "SaaS"
     ],
     "score": 38,
-    "why": "独立/Agent：indie、ship；策展：ShipFast 等可售产品+高频 ship，直接对齐商业落地而非研究名声。",
+    "why": "连续创业样本：一人做 36 个产品，公开累计收入约 $3M（自述）",
     "deep_link": "https://marclou.beehiiv.com/p/i-ve-made-3m-with-my-36-startups",
     "extra": {},
     "blurb": "I've made $3M with my 36 startups",
@@ -330,212 +149,6 @@
     }
   },
   {
-    "id": "ai-zh-2cf53eb52e93",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "人形机器人租金暴跌，厂商为什么还在铺渠道？",
-    "summary": "6.4亿元经销收入，渠道已经不是概念 机器人通过经销商卖出去，并不是今年才开始。",
-    "source": "虎嗅",
-    "source_url": "https://www.huxiu.com/article/4899414.html?f=rss",
-    "published_at": "Thu, 22 Oct 2026 07:24:25 +0800",
-    "tags": [
-      "中文",
-      "虎嗅"
-    ],
-    "score": 90,
-    "why": "中文源 · 虎嗅 · 模式/数字：1. 6.4亿元经销收入，渠道已经不是概念 机器人通过经销商卖出去，并不是今年才开始。",
-    "deep_link": "https://www.huxiu.com/article/4899414.html?f=rss",
-    "extra": {},
-    "blurb": "6.4亿元经销收入，渠道已经不是概念 机器人通过经销商卖出去，并不是今年才开始。",
-    "url": "https://www.huxiu.com/article/4899414.html?f=rss",
-    "name": "人形机器人租金暴跌，厂商为什么还在铺渠道？",
-    "lang": "zh",
-    "posted_at": "Thu, 22 Oc",
-    "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-huxiu",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "模式/数字：1. 6.4亿元经销收入，渠道已经不是概念 机器人通过经销商卖出去，并不是今年才开始。",
-      "lines": {
-        "model": "怎么赚钱：1. 6.4亿元经销收入，渠道已经不是概念 机器人通过经销商卖出去，并不是今年才开始。"
-      },
-      "evidence": [
-        "1. 6.4亿元经销收入，渠道已经不是概念 机器人通过经销商卖出去，并不是今年才开始。",
-        "6.4亿元"
-      ],
-      "point": "人形机器人租金暴跌，厂商为什么还在铺渠道？"
-    },
-    "title_orig": "人形机器人租金暴跌，厂商为什么还在铺渠道？",
-    "source_excerpt": "1. 6.4亿元经销收入，渠道已经不是概念 机器人通过经销商卖出去，并不是今年才开始。 本文来自微信公众号： 具身商业前哨 ，作者：温特斯 机器人的租金降了，而且降得过于离谱了。 2025年初，一台人形机器人的全包日租还要1万元。到了今年10月，宇树U2连同技术人员一起打包，日租不到3000元，租金被打掉了七成。 10月9日，优必选与建发股份签署战略合作协议。双方谈的不是某一款机器人，而是渠道网络、供应链、融资租赁、售后运维和海外市场。 一边是租金下跌，一边是厂商加紧铺渠道。 把两件事放在一起，结论已经很清楚：机器人的供给正在迅速增加，但把机器人卖出去、送进场景并持续运行的能力，却没有同步增长。行业的瓶颈正从“能不能造出来”，转向“如何交付并用起来”。 机器人公司现在缺的不是普通经销商，而是一个把尚不能开箱即用的机器人补成“客户敢买、拿来能用、坏了有人修”的中间层。 各类渠道正在接过这份工作。但这层生意能不能成立，还取决于一个",
-    "_score_raw": 80,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "6.4亿元经销收入，渠道已经不是概念 机器人通过经销商卖出去，并不是今年才开始。",
-    "highlights": [
-      "本文来自微信公众号： 具身商业前哨 ，作者：温特斯 机器人的租金降了，而且降得过于离谱了。",
-      "2025年初，一台人形机器人的全包日租还要1万元。",
-      "到了今年10月，宇树U2连同技术人员一起打包，日租不到3000元，租金被打掉了七成。"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "看机器人渠道变现：报道称经销收入约 6.4 亿元，说明 B 端渠道已不只是概念",
-      "lines": {
-        "model": "怎么赚钱：1. 6.4亿元经销收入，渠道已经不是概念 机器人通过经销商卖出去，并不是今年才开始。"
-      },
-      "evidence": [
-        "1. 6.4亿元经销收入，渠道已经不是概念 机器人通过经销商卖出去，并不是今年才开始。",
-        "6.4亿元"
-      ],
-      "point": "人形机器人租金暴跌，厂商为什么还在铺渠道？",
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-zh-f8f756d89e34",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "当IP把自己封装成AI：卖技能的套利、泡沫与真人壁垒",
-    "summary": "据美人支招团队披露的数据，该软件上线89天，注册用户即达5万+、付费用户1.2万+、支付流水约343万元； 本文来自微信公众号： 我即风口我即方位 ，作者：癫峰玩家Gara大大 在一个周末的AI实操培训现场，几十号人挤在会议室里，屏幕上闪烁着腾讯ima、Workbuddy等工具的界面。",
-    "source": "虎嗅",
-    "source_url": "https://www.huxiu.com/article/4899411.html?f=rss",
-    "published_at": "Thu, 22 Oct 2026 06:52:18 +0800",
-    "tags": [
-      "中文",
-      "虎嗅"
-    ],
-    "score": 90,
-    "why": "中文源 · 虎嗅 · 模式/数字：据美人支招团队披露的数据，该软件上线89天，注册用户即达5万+、付费用户1.2万+、支付流水约343万元；",
-    "deep_link": "https://www.huxiu.com/article/4899411.html?f=rss",
-    "extra": {},
-    "blurb": "据美人支招团队披露的数据，该软件上线89天，注册用户即达5万+、付费用户1.2万+、支付流水约343万元； 本文来自微信公众号： 我即风口我即方位 ，作者：癫峰玩家Gara大大 在一个周末的AI实操培训现场，几十号人挤在会议室里，屏幕上闪烁着腾讯ima、Workbuddy等工具的界面。",
-    "url": "https://www.huxiu.com/article/4899411.html?f=rss",
-    "name": "当IP把自己封装成AI：卖技能的套利、泡沫与真人壁垒",
-    "lang": "zh",
-    "posted_at": "Thu, 22 Oc",
-    "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-huxiu",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "模式/数字：据美人支招团队披露的数据，该软件上线89天，注册用户即达5万+、付费用户1.2万+、支付流水约343万元；",
-      "lines": {
-        "model": "怎么赚钱：据美人支招团队披露的数据，该软件上线89天，注册用户即达5万+、付费用户1.2万+、支付流水约343万元；"
-      },
-      "evidence": [
-        "据美人支招团队披露的数据，该软件上线89天，注册用户即达5万+、付费用户1.2万+、支付流水约343万元；",
-        "343万元"
-      ],
-      "point": "当IP把自己封装成AI：卖技能的套利、泡沫与真人壁垒"
-    },
-    "title_orig": "当IP把自己封装成AI：卖技能的套利、泡沫与真人壁垒",
-    "source_excerpt": "据美人支招团队披露的数据，该软件上线89天，注册用户即达5万+、付费用户1.2万+、支付流水约343万元； 本文来自微信公众号： 我即风口我即方位 ，作者：癫峰玩家Gara大大 在一个周末的AI实操培训现场，几十号人挤在会议室里，屏幕上闪烁着腾讯ima、Workbuddy等工具的界面。讲师在台上演示如何打通微信公众号知识库，如何加载技能包，如何在几分钟内搭建一个能自动回复、自动写稿的智能体。台下的人眼睛放光，键盘敲得震天响。 这一幕背后，折射出一个正在发生的结构性变化：过去几年被反复讨论的\"创作者经济\"，可能正在经历一场底层的范式转移。 往前推五年，大家理解的创作者经济，本质上是\"内容经济\"。短视频、小红书、直播、短剧，无一不是把一个人的表达、审美、情绪包装成内容产品，放到平台上按流量变现。那个阶段的核心逻辑是\"注意力经济\"，谁更会抓眼球，谁就能赢。 但现在，风向变了。AI时代，创作者们正在集体从\"卖内容\"转向\"卖技能\"。 这",
-    "_score_raw": 80,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "据美人支招团队披露的数据，该软件上线89天，注册用户即达5万+、付费用户1.2万+、支付流水约343万元； 本文来自微信公众号： 我即风口我即方位 ，作者：癫峰玩家Gara大大 在一个周末的AI实操培训现场，几十号人挤在会议室里，屏幕上闪烁着腾讯ima、Workbuddy等工具的界面。",
-    "highlights": [
-      "讲师在台上演示如何打通微信公众号知识库，如何加载技能包，如何在几分钟内搭建一个能自动回复、自动写稿的智能体。",
-      "台下的人眼睛放光，键盘敲得震天响。",
-      "这一幕背后，折射出一个正在发生的结构性变化：过去几年被反复讨论的\"创作者经济\"，可能正在经历一场底层的范式转移。"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "看 IP/技能付费：报道称软件上线 89 天，付费用户约 1.2 万、流水约 343 万元",
-      "lines": {
-        "model": "怎么赚钱：据美人支招团队披露的数据，该软件上线89天，注册用户即达5万+、付费用户1.2万+、支付流水约343万元；"
-      },
-      "evidence": [
-        "据美人支招团队披露的数据，该软件上线89天，注册用户即达5万+、付费用户1.2万+、支付流水约343万元；",
-        "343万元"
-      ],
-      "point": "当IP把自己封装成AI：卖技能的套利、泡沫与真人壁垒",
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-zh-d30904ad2527",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "电商巨头的AI战略分野：阿里抢算力，京东抢扳手",
-    "summary": "其中AI相关产品收入124亿元，连续12个季度三位数增长。",
-    "source": "钛媒体",
-    "source_url": "https://www.tmtpost.com/8176414.html",
-    "published_at": "Wed, 21 Oct 2026 17:36:12 +0800",
-    "tags": [
-      "中文",
-      "钛媒体"
-    ],
-    "score": 90,
-    "why": "中文源 · 钛媒体 · 模式/数字：其中AI相关产品收入124亿元，连续12个季度三位数增长。",
-    "deep_link": "https://www.tmtpost.com/8176414.html",
-    "extra": {},
-    "blurb": "其中AI相关产品收入124亿元，连续12个季度三位数增长。",
-    "url": "https://www.tmtpost.com/8176414.html",
-    "name": "电商巨头的AI战略分野：阿里抢算力，京东抢扳手",
-    "lang": "zh",
-    "posted_at": "Wed, 21 Oc",
-    "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-tmtpost",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "模式/数字：其中AI相关产品收入124亿元，连续12个季度三位数增长。",
-      "lines": {
-        "model": "怎么赚钱：其中AI相关产品收入124亿元，连续12个季度三位数增长。"
-      },
-      "evidence": [
-        "其中AI相关产品收入124亿元，连续12个季度三位数增长。",
-        "124亿元"
-      ],
-      "point": "电商巨头的AI战略分野：阿里抢算力，京东抢扳手"
-    },
-    "title_orig": "电商巨头的AI战略分野：阿里抢算力，京东抢扳手",
-    "source_excerpt": "其中AI相关产品收入124亿元，连续12个季度三位数增长。 （本文作者为 文武赵，钛媒体经授权发布） 文 | 文武赵 同样在押AI，阿里和京东的钱花在了两个方向。 阿里的钱进了数据中心。三年3800亿元的云和AI基建计划刚过一半，CEO吴泳铭就在5月的业绩会上说，实际投入会远超这个数。单季资本开支已经到677亿元。 京东的钱进了人和地。它宣布到2028年在机器人领域投入百亿资源，五年建80个RoboBase，组织60万人采集1000万小时真实场景数据，还要把70万快递员送去学修机器人。 一个买GPU，一个买扳手，外加一支几十万人的队伍。这不只是两家公司的风格差异，背后是两种资产负债表对AI的不同回答。本文想讨论的是后一条路：京东自称的&ldquo;物理世界运营商&rdquo;，能不能成为AI时代一种独立的商业形态，还是只是一家零售物流公司给自己换的新说法。 阿里 先说结论，阿里这条路已经开始回本，而且账算得清。 截至2026年",
-    "_score_raw": 80,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "ai_frame": {
-      "problem": null,
-      "model": null,
-      "proof": "收入124"
-    },
-    "_practical_delta": 10,
-    "summary_zh": "其中AI相关产品收入124亿元，连续12个季度三位数增长。",
-    "highlights": [
-      "（本文作者为 文武赵，钛媒体经授权发布） 文 | 文武赵 同样在押AI，阿里和京东的钱花在了两个方向。",
-      "三年3800亿元的云和AI基建计划刚过一半，CEO吴泳铭就在5月的业绩会上说，实际投入会远超这个数。",
-      "它宣布到2028年在机器人领域投入百亿资源，五年建80个RoboBase，组织60万人采集1000万小时真实场景数据…"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "看大厂 AI 产品收入：报道称 AI 相关产品收入约 124 亿元，连续 12 个季度三位数增长",
-      "lines": {
-        "model": "怎么赚钱：其中AI相关产品收入124亿元，连续12个季度三位数增长。"
-      },
-      "evidence": [
-        "其中AI相关产品收入124亿元，连续12个季度三位数增长。",
-        "124亿元"
-      ],
-      "point": "电商巨头的AI战略分野：阿里抢算力，京东抢扳手",
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
     "id": "ai-post-startupsfortherestofus-244b93751ec1",
     "partition": "ai",
     "type": "post",
@@ -552,7 +165,7 @@
       "SaaS"
     ],
     "score": 86,
-    "why": "独立/Agent：indie、bootstrap；加分：AI建造/工具实践；策展：自举 SaaS 案例播客，节目标题常含 ARR/定价话题。",
+    "why": "SaaS 护城河清单：播客梳理 AI 时代仍有效的 8 类 moat，并对照 AI 冲击 SaaS 的 10 种方式",
     "deep_link": "https://www.startupsfortherestofus.com/episodes/episode-855-the-eight-saas-moats-that-still-work-in-the-age-of-ai",
     "extra": {},
     "blurb": "Which SaaS moats are left in 2026?",
@@ -585,7 +198,7 @@
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "SaaS 护城河清单：播客梳理 AI 时代仍有效的 8 类 moat，并对照 AI 冲击的 10 种打法",
+      "use": "SaaS 护城河清单：播客梳理 AI 时代仍有效的 8 类 moat，并对照 AI 冲击 SaaS 的 10 种方式",
       "lines": {
         "value": "原文数字：步骤/条数「Walling and Einar Vollset walk through the 10 ways AI is attacking SaaS companies, from」"
       },
@@ -604,209 +217,68 @@
     }
   },
   {
-    "id": "ai-rss-ai-simonw-atom-fac34faca51b",
+    "id": "ai-zh-5e2beba7993e",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-    "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article…",
-    "source": "@simonw / Simon Willison",
-    "source_url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-    "published_at": "2026-10-15T13:04:03.000Z",
-    "tags": [
-      "revenue"
-    ],
-    "score": 84,
-    "why": "独立/Agent：revenue；加分：AI建造/工具实践",
-    "deep_link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-    "extra": {},
-    "blurb": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article…",
-    "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-    "handle": "simonw",
-    "name": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-    "posted_at": "2026-10-15",
-    "evidence_missing": false,
-    "_origin": "rss",
-    "_source_id": "ai-simonw-atom",
-    "title_orig": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-    "source_excerpt": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lot",
-    "highlights": [
-      "来源：Simon Willison"
-    ],
-    "summary_zh": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article…",
-    "summary_source": "fallback",
-    "person_id": "simonw",
-    "person_handle": "simonw",
-    "person_name": "Simon Willison",
-    "_score_raw": 74,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "ai_frame": {
-      "problem": null,
-      "model": null,
-      "proof": "$16.8"
-    },
-    "_practical_delta": 10,
-    "reader": {
-      "verdict": "save",
-      "use": "大厂商业化参照：Anthropic 称季度收入升至约 $168 亿、环比近 +50%，IPO 前节奏",
-      "lines": {
-        "value": "原文数字：金额「quarterly revenue up nearly 50% to $16.8bn ahead of IPO」"
-      },
-      "evidence": [
-        "quarterly revenue up nearly 50% to $16.8bn ahead of IPO"
-      ],
-      "point": "案例数字：$16.8bn",
-      "concrete": [
-        {
-          "kind": "money",
-          "quote": "$16"
-        },
-        {
-          "kind": "percent",
-          "quote": "50%"
-        }
-      ],
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-zh-84729c446d58",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "首都在线：账面扭亏，AI算力持续投入｜看财报",
-    "summary": "10月21日，首都在线（300846.SZ）披露2026年三季报，前三季度实现营业收入9.56亿元，同比增长3.14% 10月21日，首都在线（300846.SZ）披露2026年三季报，前三季度实现营业收入9.56亿元，同比增长3.14%；归母净利润879.62万元，同比增长108.85%，实现账面扭亏为盈；经营活动产生的现金流量净额2.17亿元，同比大增148.37%。",
-    "source": "钛媒体",
-    "source_url": "https://www.tmtpost.com/8176619.html",
-    "published_at": "Wed, 21 Oct 2026 21:11:59 +0800",
+    "title": "Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺",
+    "summary": "用户很难为了一台更好的 AI 电器，每个月交 9.9 元的订阅费，所以这笔成本还得由厂家承担。",
+    "source": "极客公园",
+    "source_url": "http://www.geekpark.net/news/372762",
+    "published_at": "Thu, 22 Oct 2026 21:20:53 +0800",
     "tags": [
       "中文",
-      "钛媒体"
+      "极客公园"
     ],
     "score": 82,
-    "why": "中文源 · 钛媒体 · 原文数字：10月21日，首都在线（300846.SZ）披露2026年三季报，前三季度实现营业收入9.56亿元，同比增长3.14%",
-    "deep_link": "https://www.tmtpost.com/8176619.html",
+    "why": "AI 硬件定价参照：嘉宾判断用户不愿为 AI 电器每月付 9.9 元订阅，Token 成本要降到每台每年约 1 元由厂家承担",
+    "deep_link": "http://www.geekpark.net/news/372762",
     "extra": {},
-    "blurb": "10月21日，首都在线（300846.SZ）披露2026年三季报，前三季度实现营业收入9.56亿元，同比增长3.14% 10月21日，首都在线（300846.SZ）披露2026年三季报，前三季度实现营业收入9.56亿元，同比增长3.14%；归母净利润879.62万元，同比增长108.85%，实现账面扭亏为盈；经营活动产生的现金流量净额2.17亿元，同比大增148.37%。",
-    "url": "https://www.tmtpost.com/8176619.html",
-    "name": "首都在线：账面扭亏，AI算力持续投入｜看财报",
+    "blurb": "用户很难为了一台更好的 AI 电器，每个月交 9.9 元的订阅费，所以这笔成本还得由厂家承担。",
+    "url": "http://www.geekpark.net/news/372762",
+    "name": "Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺",
     "lang": "zh",
-    "posted_at": "Wed, 21 Oc",
+    "posted_at": "Thu, 22 Oc",
     "evidence_missing": false,
     "_origin": "zh_media",
-    "_source_id": "zh-tmtpost",
+    "_source_id": "zh-geekpark",
     "zh_reader": {
       "verdict": "save",
-      "use": "原文数字：10月21日，首都在线（300846.SZ）披露2026年三季报，前三季度实现营业收入9.56亿元，同比增长3.14%",
+      "use": "模式/数字：用户很难为了一台更好的 AI 电器，每个月交 9.9 元的订阅费，所以这笔成本还得由厂家承担。",
       "lines": {
-        "fact": "原文数字：10月21日，首都在线（300846.SZ）披露2026年三季报，前三季度实现营业收入9.56亿元，同比增长3.14%"
+        "model": "怎么赚钱：用户很难为了一台更好的 AI 电器，每个月交 9.9 元的订阅费，所以这笔成本还得由厂家承担。"
       },
       "evidence": [
-        "10月21日，首都在线（300846.SZ）披露2026年三季报，前三季度实现营业收入9.56亿元，同比增长3.14%",
-        "9.56亿元"
+        "用户很难为了一台更好的 AI 电器，每个月交 9.9 元的订阅费，所以这笔成本还得由厂家承担。",
+        "9.9 元"
       ],
-      "point": "首都在线：账面扭亏，AI算力持续投入｜看财报"
+      "point": "Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺"
     },
-    "title_orig": "首都在线：账面扭亏，AI算力持续投入｜看财报",
-    "source_excerpt": "10月21日，首都在线（300846.SZ）披露2026年三季报，前三季度实现营业收入9.56亿元，同比增长3.14% 10月21日，首都在线（300846.SZ）披露2026年三季报，前三季度实现营业收入9.56亿元，同比增长3.14%；归母净利润879.62万元，同比增长108.85%，实现账面扭亏为盈；经营活动产生的现金流量净额2.17亿元，同比大增148.37%。 这是一份\"喜忧参半\"的成绩单：归母净利润首度转正、经营现金流创近年同期最好水平，但扣非净利润仍亏损5618.03万元；Q3单季毛利率环比跳升近9个百分点的同时，单季营收却同比下滑2.36%；公司资产负债率攀升至68.31%。建设投入仍在消耗资金，未付收购款也带来后续资金需求。盈利尚在修复，公司还要面对新一轮的资本开支，仍在交易所问询环节的15.87亿元定增的重要性不言而喻。 扭亏有&ldquo;虚火&rdquo;，经营有改善 单看第三季度，公司营收约2.90",
-    "_score_raw": 72,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "ai_frame": {
-      "problem": null,
-      "model": null,
-      "proof": "收入9.56"
-    },
-    "_practical_delta": 10,
-    "summary_zh": "10月21日，首都在线（300846.SZ）披露2026年三季报，前三季度实现营业收入9.56亿元，同比增长3.14% 10月21日，首都在线（300846.SZ）披露2026年三季报，前三季度实现营业收入9.56亿元，同比增长3.14%；归母净利润879.62万元，同比增长108.85%，实现账面扭亏为盈；经营活动产生的现金流量净额2.17亿元，同比大增148.37%。",
-    "highlights": [
-      "这是一份\"喜忧参半\"的成绩单：归母净利润首度转正、经营现金流创近年同期最好水平，但扣非净利润仍亏损5618.03万元…",
-      "建设投入仍在消耗资金，未付收购款也带来后续资金需求。",
-      "盈利尚在修复，公司还要面对新一轮的资本开支，仍在交易所问询环节的15.87亿元定增的重要性不言而喻。"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "看算力公司财报：首都在线前三季度营收约 9.56 亿元（同比 +3.14%），账面扭亏但仍押 AI 算力",
-      "lines": {
-        "fact": "原文数字：10月21日，首都在线（300846.SZ）披露2026年三季报，前三季度实现营业收入9.56亿元，同比增长3.14%"
-      },
-      "evidence": [
-        "10月21日，首都在线（300846.SZ）披露2026年三季报，前三季度实现营业收入9.56亿元，同比增长3.14%",
-        "9.56亿元"
-      ],
-      "point": "首都在线：账面扭亏，AI算力持续投入｜看财报",
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-zh-3983bca6ddc6",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？",
-    "summary": "DeepSeek自8月起探索峰谷时段定价，9月10日又调整Flash系列模型价格：闲时每百万词元的缓存命中输入价为0.02元 质检线上，一台人形机器人从料框里取出平板，送进检测柜；完成检测后，再将成品分流。",
-    "source": "雷峰网",
-    "source_url": "https://www.leiphone.com/category/industrynews/me3CuOBHyOqL14Pd.html",
-    "published_at": "Wed, 21 Oct 2026 14:29:00 +0800",
-    "tags": [
-      "中文",
-      "雷峰网"
-    ],
-    "score": 82,
-    "why": "中文源 · 雷峰网 · 模式/数字：DeepSeek自8月起探索峰谷时段定价，9月10日又调整Flash系列模型价格：闲时每百万词元的缓存命中输入价为0.02元",
-    "deep_link": "https://www.leiphone.com/category/industrynews/me3CuOBHyOqL14Pd.html",
-    "extra": {},
-    "blurb": "DeepSeek自8月起探索峰谷时段定价，9月10日又调整Flash系列模型价格：闲时每百万词元的缓存命中输入价为0.02元 质检线上，一台人形机器人从料框里取出平板，送进检测柜；完成检测后，再将成品分流。",
-    "url": "https://www.leiphone.com/category/industrynews/me3CuOBHyOqL14Pd.html",
-    "name": "一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？",
-    "lang": "zh",
-    "posted_at": "Wed, 21 Oc",
-    "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-leiphone",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "模式/数字：DeepSeek自8月起探索峰谷时段定价，9月10日又调整Flash系列模型价格：闲时每百万词元的缓存命中输入价为0.02元",
-      "lines": {
-        "model": "怎么赚钱：DeepSeek自8月起探索峰谷时段定价，9月10日又调整Flash系列模型价格：闲时每百万词元的缓存命中输入价为0.02元"
-      },
-      "evidence": [
-        "DeepSeek自8月起探索峰谷时段定价，9月10日又调整Flash系列模型价格：闲时每百万词元的缓存命中输入价为0.02元",
-        "0.02元"
-      ],
-      "point": "一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？"
-    },
-    "title_orig": "一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？",
-    "source_excerpt": "DeepSeek自8月起探索峰谷时段定价，9月10日又调整Flash系列模型价格：闲时每百万词元的缓存命中输入价为0.02元 质检线上，一台人形机器人从料框里取出平板，送进检测柜；完成检测后，再将成品分流。抓取入柜、多项目质检、成品分拣，机器人与工人同线作 业，一气呵 成 。 一次看似简单的抓取，背后串联起感知、判断与执行。在智元2026年9月公开的具身模型中，一帧画面可编码为24个视觉词元（Token）；相关实验还展示了模型生成连续动作的低延迟能力。但若要算清抓取的成本，不能只数视觉词元，还需综合推理耗时、芯片功耗、执行成功率和设备投入。 这恰好引出智能经济的两块硬成本：一端是模型处理信息的词元用量，另一端是硬件和系统完成任务的实际成本。Token正成为连接模型服务、推理算力与数据供给的重要计量接口，却还不是衡量所有智能作业价值的唯一尺度。 电力按“度”计量，模型服务按“词元”计费。Token经济学正加速渗透至更广泛的应用场",
+    "title_orig": "Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺",
+    "source_excerpt": "用户很难为了一台更好的 AI 电器，每个月交 9.9 元的订阅费，所以这笔成本还得由厂家承担。 过去两年多，在智能硬件领域，投资人和创业者都热衷于为 AI 寻找一个个物理世界里的新「容器」，各种新形态的 AI 原生硬件成了投资市场的热门项目。 但其实，很多成熟形态的硬件同样有 AI 化的需求。这也许没有「AI Native」的概念那么性感，但市场一点不小，复杂度丝毫不低。 以家电行业为例：供应链长，改一次硬件就要重走研发、测试、认证；销售链条长，从厂家、经销商到上门安装的电工，每一环都得接得住；成本又极度敏感，多一块钱都要反复掂量。 好在，家电已经为 AI 打好了地基。过去十几年，大量家电已经具备联网能力&mdash;&mdash;这意味着灵活升级的 OTA「管道」已经铺好，行业缺的是让设备真正被用起来的解决方案。 那么，硬件到底需要什么样的 AI？9 月，TypeSafe 推出的 Jev 在开发者圈引发了不少讨论，它提供了一",
     "_score_raw": 72,
     "_decay_penalty": 0,
     "_decay_exempt": null,
     "_ai_business": true,
     "_practical_delta": 10,
-    "summary_zh": "DeepSeek自8月起探索峰谷时段定价，9月10日又调整Flash系列模型价格：闲时每百万词元的缓存命中输入价为0.02元 质检线上，一台人形机器人从料框里取出平板，送进检测柜；完成检测后，再将成品分流。",
+    "summary_zh": "用户很难为了一台更好的 AI 电器，每个月交 9.9 元的订阅费，所以这笔成本还得由厂家承担。",
     "highlights": [
-      "抓取入柜、多项目质检、成品分拣，机器人与工人同线作 业，一气呵 成 。",
-      "一次看似简单的抓取，背后串联起感知、判断与执行。",
-      "在智元2026年9月公开的具身模型中，一帧画面可编码为24个视觉词元（Token）…"
+      "过去两年多，在智能硬件领域，投资人和创业者都热衷于为 AI 寻找一个个物理世界里的新「容器」，各种新形态的 AI…",
+      "但其实，很多成熟形态的硬件同样有 AI 化的需求。",
+      "这也许没有「AI Native」的概念那么性感，但市场一点不小，复杂度丝毫不低。"
     ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "看 Token 定价：DeepSeek 调 Flash 闲时缓存命中输入价至约 0.02 元/百万词元，可对照自家推理成本",
+      "use": "AI 硬件定价参照：嘉宾判断用户不愿为 AI 电器每月付 9.9 元订阅，Token 成本要降到每台每年约 1 元由厂家承担",
       "lines": {
-        "model": "怎么赚钱：DeepSeek自8月起探索峰谷时段定价，9月10日又调整Flash系列模型价格：闲时每百万词元的缓存命中输入价为0.02元"
+        "model": "怎么赚钱：用户很难为了一台更好的 AI 电器，每个月交 9.9 元的订阅费，所以这笔成本还得由厂家承担。"
       },
       "evidence": [
-        "DeepSeek自8月起探索峰谷时段定价，9月10日又调整Flash系列模型价格：闲时每百万词元的缓存命中输入价为0.02元",
-        "0.02元"
+        "用户很难为了一台更好的 AI 电器，每个月交 9.9 元的订阅费，所以这笔成本还得由厂家承担。",
+        "9.9 元"
       ],
-      "point": "一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？",
+      "point": "Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺",
       "verdict_label": "收藏",
       "title": ""
     }
@@ -828,7 +300,7 @@
       "SaaS"
     ],
     "score": 78,
-    "why": "独立/Agent：公开营收、indie；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
+    "why": "播客案例：Castos 做到约 $1M+ 收入的增长路径拆解",
     "deep_link": "https://www.nichepursuits.com/craig-hewitt/",
     "extra": {},
     "blurb": "In this week's episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing.",
@@ -884,35 +356,35 @@
     }
   },
   {
-    "id": "ai-community-ai-reddit-saas-edf30ce33b6f",
+    "id": "ai-community-ai-reddit-saas-3f929a5778a6",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "First paying user after 4 months",
-    "summary": "Will update you if I reach 10 paid customers He asked me for refund or can wait for me to build it.",
+    "title": "I made my free trial card-required and it almost doubled my sales",
+    "summary": "On top of that most of my traffic was coming from SEO, which brought 15-20 signups a day but only 2-3 of them were my ICP",
     "source": "r/SaaS",
-    "source_url": "https://www.reddit.com/r/SaaS/comments/1xc1f4q/first_paying_user_after_4_months/",
-    "published_at": "2026-10-21T22:25:43.000Z",
+    "source_url": "https://www.reddit.com/r/SaaS/comments/1xcimzs/i_made_my_free_trial_cardrequired_and_it_almost/",
+    "published_at": "2026-10-22T13:30:45.000Z",
     "tags": [
       "reddit",
       "r/SaaS",
       "用户/流量数",
-      "踩坑/复盘"
+      "获客渠道"
     ],
     "score": 77,
-    "why": "公开社区帖 · r/SaaS · top/day 第3位 · 原帖含：用户/流量数、踩坑/复盘",
-    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xc1f4q/first_paying_user_after_4_months/",
+    "why": "可直接试的定价打法：作者把免费试用改为必须绑卡，销量近乎翻倍；此前 SEO 每天 15–20 个注册里只有 2–3 个是目标客户",
+    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xcimzs/i_made_my_free_trial_cardrequired_and_it_almost/",
     "extra": {},
-    "blurb": "Will update you if I reach 10 paid customers He asked me for refund or can wait for me to build it.",
-    "url": "https://www.reddit.com/r/SaaS/comments/1xc1f4q/first_paying_user_after_4_months/",
-    "name": "First paying user after 4 months",
+    "blurb": "On top of that most of my traffic was coming from SEO, which brought 15-20 signups a day but only 2-3 of them were my ICP",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xcimzs/i_made_my_free_trial_cardrequired_and_it_almost/",
+    "name": "I made my free trial card-required and it almost doubled my sales",
     "lang": "EN",
-    "posted_at": "2026-10-21",
+    "posted_at": "2026-10-22",
     "evidence_missing": false,
     "_origin": "community_rss",
     "_source_id": "ai-reddit-saas",
-    "title_orig": "First paying user after 4 months",
-    "source_excerpt": "Will update you if I reach 10 paid customers He asked me for refund or can wait for me to build it.",
+    "title_orig": "I made my free trial card-required and it almost doubled my sales",
+    "source_excerpt": "On top of that most of my traffic was coming from SEO, which brought 15-20 signups a day but only 2-3 of them were my ICP",
     "_feed_type": "reddit_rss",
     "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
     "_score_raw": 67,
@@ -920,133 +392,222 @@
     "_decay_exempt": null,
     "_ai_business": true,
     "_practical_delta": 10,
-    "summary_zh": "Will update you if I reach 10 paid customers He asked me for refund or can wait for me to build it.",
+    "summary_zh": "On top of that most of my traffic was coming from SEO, which brought 15-20 signups a day but only 2-3 of them were my ICP",
     "highlights": [],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "冷启动样本：做了 4 个月才迎来首个付费用户；帖内含获客与定价踩坑",
+      "use": "可直接试的定价打法：作者把免费试用改为必须绑卡，销量近乎翻倍；此前 SEO 每天 15–20 个注册里只有 2–3 个是目标客户",
       "lines": {
-        "value": "数据「10 paid customers」；踩坑/复盘「refund」",
+        "value": "数据「20 signups」；获客渠道「SEO」",
         "note": "数字均为发帖人自述，未经核实"
       },
       "evidence": [
-        "10 paid customers",
-        "refund"
+        "20 signups",
+        "SEO"
       ],
-      "point": "AI副业：数据 10 paid customers",
+      "point": "AI副业：数据 20 signups，渠道 SEO",
       "verdict_label": "收藏",
       "title": ""
     }
   },
   {
-    "id": "ai-community-ai-reddit-era-5ea9a983009c",
+    "id": "ai-zh-dd1153f2bb8f",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "My “professional” listing got 6 clicks. “Stop selling cookies on marketplace lol” got 65. $0 spent, 8 weeks, 14 makers signed up. The exact playbook, and the 5 ",
-    "summary": "Check it weekly and kill anything under 10 clicks.",
-    "source": "r/EntrepreneurRideAlong",
-    "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xb8s9l/my_professional_listing_got_6_clicks_stop_selling/",
-    "published_at": "2026-10-21T00:27:14.000Z",
+    "title": "从找场景到做 Skill：AI 赋能落地的一套拆解方法",
+    "summary": "直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM 直播里被问最多的两个问题：找不到能上 AI 的场景，场景塞过来又不知道怎么拆。",
+    "source": "人人都是产品经理",
+    "source_url": "https://www.woshipm.com/ai/6482891.html",
+    "published_at": "Thu, 22 Oct 2026 09:55:04 +0000",
     "tags": [
-      "reddit",
-      "r/EntrepreneurRideAlong",
-      "用户/流量数",
-      "踩坑/复盘"
+      "中文",
+      "人人都是产品经理"
     ],
-    "score": 77,
-    "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第5位 · 原帖含：用户/流量数、踩坑/复盘",
-    "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xb8s9l/my_professional_listing_got_6_clicks_stop_selling/",
+    "score": 74,
+    "why": "可照做的拆解法：用销售线索分层示例，AI 两分钟拆出 12 个节点（读 Excel→校验→打分→SLA 分级→回写 CRM），适合套到自己的重复流程",
+    "deep_link": "https://www.woshipm.com/ai/6482891.html",
     "extra": {},
-    "blurb": "Check it weekly and kill anything under 10 clicks.",
-    "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xb8s9l/my_professional_listing_got_6_clicks_stop_selling/",
-    "name": "My “professional” listing got 6 clicks. “Stop selling cookies on marketplace lol” got 65. $0 spent, 8 weeks, 14 makers signed up. The exact playbook, and the 5 ",
-    "lang": "EN",
-    "posted_at": "2026-10-21",
+    "blurb": "直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM 直播里被问最多的两个问题：找不到能上 AI 的场景，场景塞过来又不知道怎么拆。",
+    "url": "https://www.woshipm.com/ai/6482891.html",
+    "name": "从找场景到做 Skill：AI 赋能落地的一套拆解方法",
+    "lang": "zh",
+    "posted_at": "Thu, 22 Oc",
     "evidence_missing": false,
-    "_origin": "community_rss",
-    "_source_id": "ai-reddit-era",
-    "title_orig": "My “professional” listing got 6 clicks. “Stop selling cookies on marketplace lol” got 65. $0 spent, 8 weeks, 14 makers signed up. The exact playbook, and the 5 ",
-    "source_excerpt": "Check it weekly and kill anything under 10 clicks. What flopped vs what worked",
-    "_feed_type": "reddit_rss",
-    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-    "_score_raw": 67,
+    "_origin": "zh_media",
+    "_source_id": "zh-woshipm",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "原文数字：直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM",
+      "lines": {
+        "fact": "原文数字：直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM"
+      },
+      "evidence": [
+        "直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM",
+        "12 个"
+      ],
+      "point": "从找场景到做 Skill：AI 赋能落地的一套拆解方法"
+    },
+    "title_orig": "从找场景到做 Skill：AI 赋能落地的一套拆解方法",
+    "source_excerpt": "直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM 直播里被问最多的两个问题：找不到能上 AI 的场景，场景塞过来又不知道怎么拆。这篇把方法捋成文字版，先判断环节适不适合 AI，再拆成 IPO 原子化节点，最后决定哪些做成 Skill。 昨晚直播讲了两个多小时 AI 赋能怎么落地，这篇是整理后的文字版。 全文由 MiMo 基于录音妙记撰写整理，可能有未修正的转录错别字，我通读了一遍问题不大。 直播里被问得最多的就两个问题：找不到可以引入 AI 的场景；场景被塞过来，不知道怎么拆。 下面按直播的顺序把方法捋成文字。 给业务加 AI，不用先做一个 AI 产品 2025 年还常见的做法，是拿一个场景做成应用：搭个 Dify 工作流，包一层界面，交给业务用。今天没必要这么做了。 更好的策略是给员",
+    "_score_raw": 64,
     "_decay_penalty": 0,
     "_decay_exempt": null,
     "_ai_business": true,
     "_practical_delta": 10,
-    "summary_zh": "Check it weekly and kill anything under 10 clicks.",
+    "summary_zh": "直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM 直播里被问最多的两个问题：找不到能上 AI 的场景，场景塞过来又不知道怎么拆。",
     "highlights": [
-      "来源：My “professional” listing got 6 clicks. “Stop selling cookies on marketplace lol” got 65. $0 spent, 8 weeks, 14 makers signed up. The exact playbook, and the 5"
+      "这篇把方法捋成文字版，先判断环节适不适合 AI，再拆成 IPO 原子化节点，最后决定哪些做成 Skill。",
+      "昨晚直播讲了两个多小时 AI 赋能怎么落地，这篇是整理后的文字版。",
+      "全文由 MiMo 基于录音妙记撰写整理，可能有未修正的转录错别字，我通读了一遍问题不大。"
     ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "文案对照：专业listing 仅 6 次点击，改成口语标题后转化更好（帖内 A/B）",
+      "use": "可照做的拆解法：用销售线索分层示例，AI 两分钟拆出 12 个节点（读 Excel→校验→打分→SLA 分级→回写 CRM），适合套到自己的重复流程",
       "lines": {
-        "value": "数据「6 clicks」；踩坑/复盘「What flopped」",
-        "note": "数字均为发帖人自述，未经核实"
+        "fact": "原文数字：直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM"
       },
       "evidence": [
-        "6 clicks",
-        "What flopped"
+        "直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM",
+        "12 个"
       ],
-      "point": "AI副业：数据 6 clicks",
+      "point": "从找场景到做 Skill：AI 赋能落地的一套拆解方法",
       "verdict_label": "收藏",
       "title": ""
     }
   },
   {
-    "id": "ai-community-ai-reddit-saas-616e30ce8c88",
+    "id": "ai-zh-57c1f379919c",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "2 new customers in 3 days with a simple vibecoded tool",
-    "summary": "2 new customers in 3 days with a simple vibecoded tool",
-    "source": "r/SaaS",
-    "source_url": "https://www.reddit.com/r/SaaS/comments/1xbw83f/2_new_customers_in_3_days_with_a_simple_vibecoded/",
-    "published_at": "2026-10-21T19:04:43.000Z",
+    "title": "AI 漫剧越做越快，赚钱却没那么容易了",
+    "summary": "2025 年这个时候，行业默认的制作标准是 1000 元 / 分钟，一部 80 分钟的漫剧做下来成本约 10 万元。",
+    "source": "极客公园",
+    "source_url": "http://www.geekpark.net/news/372746",
+    "published_at": "Thu, 22 Oct 2026 16:20:34 +0800",
     "tags": [
-      "reddit",
-      "r/SaaS",
-      "用户/流量数"
+      "中文",
+      "极客公园"
     ],
-    "score": 70,
-    "why": "公开社区帖 · r/SaaS · top/day 第8位 · 原帖含：用户/流量数",
-    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xbw83f/2_new_customers_in_3_days_with_a_simple_vibecoded/",
+    "score": 74,
+    "why": "AI 漫剧成本对照：2025 年行业标准约 1000 元/分钟、80 分钟一部约 10 万元，如今做得更快但赚钱更难",
+    "deep_link": "http://www.geekpark.net/news/372746",
     "extra": {},
-    "blurb": "2 new customers in 3 days with a simple vibecoded tool",
-    "url": "https://www.reddit.com/r/SaaS/comments/1xbw83f/2_new_customers_in_3_days_with_a_simple_vibecoded/",
-    "name": "2 new customers in 3 days with a simple vibecoded tool",
-    "lang": "EN",
-    "posted_at": "2026-10-21",
+    "blurb": "2025 年这个时候，行业默认的制作标准是 1000 元 / 分钟，一部 80 分钟的漫剧做下来成本约 10 万元。",
+    "url": "http://www.geekpark.net/news/372746",
+    "name": "AI 漫剧越做越快，赚钱却没那么容易了",
+    "lang": "zh",
+    "posted_at": "Thu, 22 Oc",
     "evidence_missing": false,
-    "_origin": "community_rss",
-    "_source_id": "ai-reddit-saas",
-    "title_orig": "2 new customers in 3 days with a simple vibecoded tool",
-    "source_excerpt": "",
-    "_feed_type": "reddit_rss",
-    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-    "_score_raw": 60,
+    "_origin": "zh_media",
+    "_source_id": "zh-geekpark",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "原文数字：2025 年这个时候，行业默认的制作标准是 1000 元 / 分钟，一部 80 分钟的漫剧做下来成本约 10 万元。",
+      "lines": {
+        "fact": "原文数字：2025 年这个时候，行业默认的制作标准是 1000 元 / 分钟，一部 80 分钟的漫剧做下来成本约 10 万元。"
+      },
+      "evidence": [
+        "2025 年这个时候，行业默认的制作标准是 1000 元 / 分钟，一部 80 分钟的漫剧做下来成本约 10 万元。",
+        "1000 元"
+      ],
+      "point": "AI 漫剧越做越快，赚钱却没那么容易了"
+    },
+    "title_orig": "AI 漫剧越做越快，赚钱却没那么容易了",
+    "source_excerpt": "2025 年这个时候，行业默认的制作标准是 1000 元 / 分钟，一部 80 分钟的漫剧做下来成本约 10 万元。 「一个创作者加上 IP 和 AI 工具，就能完成漫剧创作全流程。」 在上周举行的阅文创作大会上，阅文集团 CEO 侯晓楠这样描述正在兴起的「一人公司」。当日，阅文发布首批 AI 精品动画项目，将 DramaBuddy 漫剧助手升级为 OPC 一站式平台，并推出「IP 委员会」模式，试图把故事从文字到影像，再到后续开发的过程连接起来。 看起来，AI 带来的机会似乎还在不断扩大。 但身处一线的漫剧从业者们，正感受着更真实、更锋利的行业变化。 在会后，极客公园参与了对阅文 AI 平台负责人陈炜于、酱油文化创始人黄浩南（业内称「酱油」）、前尾猴文化总经理三行的采访。其中，酱油作为最早一批扎进 AI 漫剧赛道的从业者，从去年风口期到今年红海期，他的经历几乎就是行业变化的缩影&mdash;&mdash; 漫剧越做越快、产能",
+    "_score_raw": 64,
     "_decay_penalty": 0,
     "_decay_exempt": null,
     "_ai_business": true,
     "_practical_delta": 10,
-    "summary_zh": "2 new customers in 3 days with a simple vibecoded tool",
-    "highlights": [],
+    "summary_zh": "2025 年这个时候，行业默认的制作标准是 1000 元 / 分钟，一部 80 分钟的漫剧做下来成本约 10 万元。",
+    "highlights": [
+      "「一个创作者加上 IP 和 AI 工具，就能完成漫剧创作全流程。」",
+      "在上周举行的阅文创作大会上，阅文集团 CEO 侯晓楠这样描述正在兴起的「一人公司」。",
+      "当日，阅文发布首批 AI 精品动画项目，将 DramaBuddy 漫剧助手升级为 OPC 一站式平台，并推出「IP…"
+    ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "轻量工具获客：自述用 vibecode 小工具 3 天拿下 2 个新客户",
+      "use": "AI 漫剧成本对照：2025 年行业标准约 1000 元/分钟、80 分钟一部约 10 万元，如今做得更快但赚钱更难",
       "lines": {
-        "value": "数据「2 new customers」",
-        "note": "数字均为发帖人自述，未经核实"
+        "fact": "原文数字：2025 年这个时候，行业默认的制作标准是 1000 元 / 分钟，一部 80 分钟的漫剧做下来成本约 10 万元。"
       },
       "evidence": [
-        "2 new customers"
+        "2025 年这个时候，行业默认的制作标准是 1000 元 / 分钟，一部 80 分钟的漫剧做下来成本约 10 万元。",
+        "1000 元"
       ],
-      "point": "AI副业：数据 2 new customers",
+      "point": "AI 漫剧越做越快，赚钱却没那么容易了",
+      "verdict_label": "收藏",
+      "title": ""
+    }
+  },
+  {
+    "id": "ai-zh-e3208fbb8e20",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心",
+    "summary": "同一天，它还发布了一款1099元起的AI耳夹式耳机。",
+    "source": "雷峰网",
+    "source_url": "https://www.leiphone.com/category/weiwu/ft2h4iM9MlbukXOj.html",
+    "published_at": "Thu, 22 Oct 2026 16:14:00 +0800",
+    "tags": [
+      "中文",
+      "雷峰网"
+    ],
+    "score": 74,
+    "why": "大厂 AI 硬件定价：千问同日发布 AI 耳夹式耳机，1099 元起，可作 AI 硬件定价参照",
+    "deep_link": "https://www.leiphone.com/category/weiwu/ft2h4iM9MlbukXOj.html",
+    "extra": {},
+    "blurb": "同一天，它还发布了一款1099元起的AI耳夹式耳机。",
+    "url": "https://www.leiphone.com/category/weiwu/ft2h4iM9MlbukXOj.html",
+    "name": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心",
+    "lang": "zh",
+    "posted_at": "Thu, 22 Oc",
+    "evidence_missing": false,
+    "_origin": "zh_media",
+    "_source_id": "zh-leiphone",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "原文数字：同一天，它还发布了一款1099元起的AI耳夹式耳机。",
+      "lines": {
+        "fact": "原文数字：同一天，它还发布了一款1099元起的AI耳夹式耳机。"
+      },
+      "evidence": [
+        "同一天，它还发布了一款1099元起的AI耳夹式耳机。",
+        "1099元"
+      ],
+      "point": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心"
+    },
+    "title_orig": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心",
+    "source_excerpt": "同一天，它还发布了一款1099元起的AI耳夹式耳机。 一副44g的眼镜能做什么？会议开始前自动录音，骑行时根据心率提醒你调整呼吸，在咖啡店看一眼外文菜单就知道你想问哪道菜，甚至点头就能完成支付。 这是千问日前发布的AI眼镜N1 Pro给出的答案。同一天，它还发布了一款1099元起的AI耳夹式耳机。三款硬件同日开售，眼镜到手价2218元起，耳机1099元起。 价格本身已经足够有信号意义。但真正值得讨论的，不是价格，而是千问想通过这些硬件做什么，以及这条路究竟能不能走通。 01 跨过工具与助手的距离 过去几年AI眼镜留给消费者的印象并不好。它像一个需要不停被唤醒的语音助手，戴在脸上，但存在感全靠你主动去喊它。用户买回去的新鲜感过去之后，大多数产品的长期使用率低得惊人。雷鸟创新CEO李宏伟曾公开表示，2025年各类AI眼镜上线了超过200个新功能，但用户长期使用比例连6%都不到。 千问这次选择了一条不同的路。N1 Pro搭载了一套全",
+    "_score_raw": 64,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_ai_business": true,
+    "_practical_delta": 10,
+    "summary_zh": "同一天，它还发布了一款1099元起的AI耳夹式耳机。",
+    "highlights": [
+      "会议开始前自动录音，骑行时根据心率提醒你调整呼吸，在咖啡店看一眼外文菜单就知道你想问哪道菜，甚至点头就能完成支付。",
+      "这是千问日前发布的AI眼镜N1 Pro给出的答案。",
+      "三款硬件同日开售，眼镜到手价2218元起，耳机1099元起。"
+    ],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "save",
+      "use": "大厂 AI 硬件定价：千问同日发布 AI 耳夹式耳机，1099 元起，可作 AI 硬件定价参照",
+      "lines": {
+        "fact": "原文数字：同一天，它还发布了一款1099元起的AI耳夹式耳机。"
+      },
+      "evidence": [
+        "同一天，它还发布了一款1099元起的AI耳夹式耳机。",
+        "1099元"
+      ],
+      "point": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心",
       "verdict_label": "收藏",
       "title": ""
     }
@@ -1068,7 +629,7 @@
       "SaaS"
     ],
     "score": 70,
-    "why": "独立/Agent：公开营收、indie；加分：AI建造/工具实践；策展：自有产品矩阵+公开营收，是最清晰的 AI/独立变现建造者信号。",
+    "why": "数据资产变现警示：称数据经纪商愿出 $10 万–$200 万买 SaaS 数据集转卖 AI 实验室——注意用户数据合规",
     "deep_link": "https://levels.io/data-brokers-buying-saas-data",
     "extra": {},
     "blurb": "Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs",
@@ -1100,7 +661,7 @@
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "数据资产变现警示：称数据经纪商愿出 $10 万–$200 万买 SaaS 数据集——注意用户数据合规",
+      "use": "数据资产变现警示：称数据经纪商愿出 $10 万–$200 万买 SaaS 数据集转卖 AI 实验室——注意用户数据合规",
       "lines": {
         "value": "原文数字：金额「Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs」"
       },
@@ -1135,7 +696,7 @@
       "SaaS"
     ],
     "score": 70,
-    "why": "独立/Agent：公开营收、indie；加分：AI建造/工具实践；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
+    "why": "Solo SaaS 参照：一人运营近 $2M ARR（播客访谈）",
     "deep_link": "https://www.nichepursuits.com/jason-zigelbaum/",
     "extra": {},
     "blurb": "In this week's episode of the Niche Pursuits podcast, Jason Zigelbaum explains how he has grown Zigpoll into a one-person SaaS company approaching $2 million in annual revenue.",
@@ -1172,7 +733,7 @@
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "Solo SaaS 参照：公开规模近 $2M ARR、一人运营（播客访谈）",
+      "use": "Solo SaaS 参照：一人运营近 $2M ARR（播客访谈）",
       "lines": {
         "value": "真实收入数字（公开规模 $2M ARR）"
       },
@@ -1191,191 +752,120 @@
     }
   },
   {
-    "id": "ai-zh-93115ec939c1",
+    "id": "ai-community-ai-reddit-saas-a8fe4845cdfe",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "Anthropic几乎停招初级员工！占比一年半骤降33%：Agent工时已是员工6倍",
-    "summary": "Anthropic几乎停招初级员工！占比一年半骤降33%：Agent工时已是员工6倍",
-    "source": "InfoQ 中文",
-    "source_url": "https://www.infoq.cn/article/bTVDaYaUJy2OvNlyuHgz?utm_source=rss&utm_medium=article",
-    "published_at": "Wed, 21 Oct 2026 12:01:59 GMT",
+    "title": "5 months in and yet to land a single paid user",
+    "summary": "queries and there are some signups as well like a total of 30 users.",
+    "source": "r/SaaS",
+    "source_url": "https://www.reddit.com/r/SaaS/comments/1xcjlz4/5_months_in_and_yet_to_land_a_single_paid_user/",
+    "published_at": "2026-10-22T14:08:58.000Z",
     "tags": [
-      "中文",
-      "InfoQ 中文"
+      "reddit",
+      "r/SaaS",
+      "用户/流量数"
     ],
-    "score": 64,
-    "why": "中文源 · InfoQ 中文 · 原文数字：占比一年半骤降33%：Agent工时已是员工6倍。",
-    "deep_link": "https://www.infoq.cn/article/bTVDaYaUJy2OvNlyuHgz?utm_source=rss&utm_medium=article",
+    "score": 67,
+    "why": "避坑样本：做了 5 个月、累计约 30 个注册用户仍 0 付费，帖内有获客与定价反思",
+    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xcjlz4/5_months_in_and_yet_to_land_a_single_paid_user/",
     "extra": {},
-    "blurb": "Anthropic几乎停招初级员工！占比一年半骤降33%：Agent工时已是员工6倍",
-    "url": "https://www.infoq.cn/article/bTVDaYaUJy2OvNlyuHgz?utm_source=rss&utm_medium=article",
-    "name": "Anthropic几乎停招初级员工！占比一年半骤降33%：Agent工时已是员工6倍",
-    "lang": "zh",
-    "posted_at": "Wed, 21 Oc",
+    "blurb": "queries and there are some signups as well like a total of 30 users.",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xcjlz4/5_months_in_and_yet_to_land_a_single_paid_user/",
+    "name": "5 months in and yet to land a single paid user",
+    "lang": "EN",
+    "posted_at": "2026-10-22",
     "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-infoq",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "原文数字：占比一年半骤降33%：Agent工时已是员工6倍。",
-      "lines": {
-        "fact": "原文数字：占比一年半骤降33%：Agent工时已是员工6倍。"
-      },
-      "evidence": [
-        "占比一年半骤降33%：Agent工时已是员工6倍。",
-        "33%"
-      ],
-      "point": "Anthropic几乎停招初级员工！占比一年半骤降33%：Agent工时已是员…"
-    },
-    "title_orig": "Anthropic几乎停招初级员工！占比一年半骤降33%：Agent工时已是员工6倍",
-    "source_excerpt": "占比一年半骤降33%：Agent工时已是员工6倍。 点击查看原文>",
-    "_score_raw": 64,
+    "_origin": "community_rss",
+    "_source_id": "ai-reddit-saas",
+    "title_orig": "5 months in and yet to land a single paid user",
+    "source_excerpt": "queries and there are some signups as well like a total of 30 users.",
+    "_feed_type": "reddit_rss",
+    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+    "_score_raw": 57,
     "_decay_penalty": 0,
     "_decay_exempt": null,
-    "summary_zh": "Anthropic几乎停招初级员工！占比一年半骤降33%：Agent工时已是员工6倍",
+    "_ai_business": true,
+    "_practical_delta": 10,
+    "summary_zh": "queries and there are some signups as well like a total of 30 users.",
     "highlights": [],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "大厂用工对照：报道称 Anthropic 初级员工占比一年半骤降约 33%，Agent 工时已是员工约 6 倍",
+      "use": "避坑样本：做了 5 个月、累计约 30 个注册用户仍 0 付费，帖内有获客与定价反思",
       "lines": {
-        "fact": "原文数字：占比一年半骤降33%：Agent工时已是员工6倍。"
+        "value": "数据「30 users」",
+        "note": "数字均为发帖人自述，未经核实"
       },
       "evidence": [
-        "占比一年半骤降33%：Agent工时已是员工6倍。",
-        "33%"
+        "30 users"
       ],
-      "point": "Anthropic几乎停招初级员工！占比一年半骤降33%：Agent工时已是员…",
+      "point": "AI副业：数据 30 users",
       "verdict_label": "收藏",
       "title": ""
     }
   },
   {
-    "id": "ai-zh-d57ac66e4eff",
+    "id": "ai-zh-55d0f321aa15",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "ATBGamePort -- 用 AI 一键移植任意游戏到 html5",
-    "summary": "我做个三个 Demo ，基本上一个游戏消耗 Claude 或者 Open AI 20 美元套餐的 5%吧，20 美元可以 AI 逆向小游戏真是绝了；最近玩了一下 REA ，基本上小游戏压缩包给他，90%能逆向出来，直接变成网页版开玩；什么祖玛，贪吃鱼，割绳子，连连看，各类塔防。",
-    "source": "V2EX 分享创造",
-    "source_url": "https://www.v2ex.com/t/1250623#reply1",
-    "published_at": "2026-10-21T06:17:16Z",
+    "title": "巴克莱将裁员5000人，借助人工智能削减成本",
+    "summary": "巴克莱将裁减5000个岗位，以借助人工智能降低成本，成为又一家因新技术逐渐渗透整个银行业而缩减员工规模的大型银行。",
+    "source": "36氪",
+    "source_url": "https://36kr.com/newsflashes/4037207118091141?f=rss",
+    "published_at": "2026-10-23 07:48:19 +0800",
     "tags": [
       "中文",
-      "V2EX 分享创造"
+      "36氪"
     ],
     "score": 64,
-    "why": "中文源 · V2EX 分享创造 · 原文数字：我做个三个 Demo ，基本上一个游戏消耗 Claude 或者 Open AI 20 美元套餐的 5%吧，20 美元可以",
-    "deep_link": "https://www.v2ex.com/t/1250623#reply1",
+    "why": "AI 降本落地：巴克莱计划裁减约 5000 个岗位、用 AI 压成本，银行业 AI 替代在加速",
+    "deep_link": "https://36kr.com/newsflashes/4037207118091141?f=rss",
     "extra": {},
-    "blurb": "我做个三个 Demo ，基本上一个游戏消耗 Claude 或者 Open AI 20 美元套餐的 5%吧，20 美元可以 AI 逆向小游戏真是绝了；最近玩了一下 REA ，基本上小游戏压缩包给他，90%能逆向出来，直接变成网页版开玩；什么祖玛，贪吃鱼，割绳子，连连看，各类塔防。",
-    "url": "https://www.v2ex.com/t/1250623#reply1",
-    "name": "ATBGamePort -- 用 AI 一键移植任意游戏到 html5",
+    "blurb": "巴克莱将裁减5000个岗位，以借助人工智能降低成本，成为又一家因新技术逐渐渗透整个银行业而缩减员工规模的大型银行。",
+    "url": "https://36kr.com/newsflashes/4037207118091141?f=rss",
+    "name": "巴克莱将裁员5000人，借助人工智能削减成本",
     "lang": "zh",
-    "posted_at": "2026-10-21",
+    "posted_at": "2026-10-23",
     "evidence_missing": false,
     "_origin": "zh_media",
-    "_source_id": "zh-v2ex-create",
+    "_source_id": "zh-36kr",
     "zh_reader": {
       "verdict": "save",
-      "use": "原文数字：我做个三个 Demo ，基本上一个游戏消耗 Claude 或者 Open AI 20 美元套餐的 5%吧，20 美元可以",
+      "use": "原文数字：巴克莱将裁员5000人，借助人工智能削减成本。",
       "lines": {
-        "fact": "原文数字：我做个三个 Demo ，基本上一个游戏消耗 Claude 或者 Open AI 20 美元套餐的 5%吧，20 美元可以"
+        "fact": "原文数字：巴克莱将裁员5000人，借助人工智能削减成本。"
       },
       "evidence": [
-        "我做个三个 Demo ，基本上一个游戏消耗 Claude 或者 Open AI 20 美元套餐的 5%吧，20 美元可以",
-        "20 美元"
+        "巴克莱将裁员5000人，借助人工智能削减成本。",
+        "5000人"
       ],
-      "point": "ATBGamePort -- 用 AI 一键移植任意游戏到 html5"
+      "point": "巴克莱将裁员5000人，借助人工智能削减成本"
     },
-    "title_orig": "ATBGamePort -- 用 AI 一键移植任意游戏到 html5",
-    "source_excerpt": "我做个三个 Demo ，基本上一个游戏消耗 Claude 或者 Open AI 20 美元套餐的 5%吧，20 美元可以 AI 逆向小游戏真是绝了；最近玩了一下 REA ，基本上小游戏压缩包给他，90%能逆向出来，直接变成网页版开玩；什么祖玛，贪吃鱼，割绳子，连连看，各类塔防。。。可以预见到的是，这种小游戏级别的会完全淹没各种平台，什么抖音平台，微信小游戏等等，会迎来供给的极大增长； 为了愉快的玩耍，我构建了一个 skill: https://github.com/atbfun/ATBGamePort 安装这个 skill ； 随便下载一个小游戏，exe 还是 flash 都可以；然后告诉你的 agent： 采用 atb-game-porting skill ，把 xxx 游戏移植为 html5 小游戏 ，之后你就可以直接得到一个浏览器中运行的 html5 游戏了；实测 Linux 和 MacOS 都可以跑； Windows",
+    "title_orig": "巴克莱将裁员5000人，借助人工智能削减成本",
+    "source_excerpt": "巴克莱将裁员5000人，借助人工智能削减成本。 巴克莱将裁减5000个岗位，以借助人工智能降低成本，成为又一家因新技术逐渐渗透整个银行业而缩减员工规模的大型银行。此次裁员相当于这家总部位于伦敦的银行总员工人数的约5%，其中约60%的削减来自支持职能，包括开发人员。5000个岗位中包括该行上半年已削减的1000个职位。此前巴克莱今年早些时候公布的费用高于预期，此次裁员是其控制成本举措的一部分。（新浪财经）",
     "_score_raw": 64,
     "_decay_penalty": 0,
     "_decay_exempt": null,
-    "summary_zh": "我做个三个 Demo ，基本上一个游戏消耗 Claude 或者 Open AI 20 美元套餐的 5%吧，20 美元可以 AI 逆向小游戏真是绝了；最近玩了一下 REA ，基本上小游戏压缩包给他，90%能逆向出来，直接变成网页版开玩；什么祖玛，贪吃鱼，割绳子，连连看，各类塔防。",
+    "summary_zh": "巴克莱将裁减5000个岗位，以借助人工智能降低成本，成为又一家因新技术逐渐渗透整个银行业而缩减员工规模的大型银行。",
     "highlights": [
-      "可以预见到的是，这种小游戏级别的会完全淹没各种平台，什么抖音平台，微信小游戏等等，会迎来供给的极大增长…",
-      "安装这个 skill ； 随便下载一个小游戏，exe 还是 flash 都可以…"
+      "此次裁员相当于这家总部位于伦敦的银行总员工人数的约5%，其中约60%的削减来自支持职能，包括开发人员。",
+      "5000个岗位中包括该行上半年已削减的1000个职位。",
+      "此前巴克莱今年早些时候公布的费用高于预期，此次裁员是其控制成本举措的一部分。"
     ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "看游戏移植成本：作者称 3 个 Demo，单游戏约耗 $20 套餐的 5%——可估 AI 移植试错成本",
+      "use": "AI 降本落地：巴克莱计划裁减约 5000 个岗位、用 AI 压成本，银行业 AI 替代在加速",
       "lines": {
-        "fact": "原文数字：我做个三个 Demo ，基本上一个游戏消耗 Claude 或者 Open AI 20 美元套餐的 5%吧，20 美元可以"
+        "fact": "原文数字：巴克莱将裁员5000人，借助人工智能削减成本。"
       },
       "evidence": [
-        "我做个三个 Demo ，基本上一个游戏消耗 Claude 或者 Open AI 20 美元套餐的 5%吧，20 美元可以",
-        "20 美元"
+        "巴克莱将裁员5000人，借助人工智能削减成本。",
+        "5000人"
       ],
-      "point": "ATBGamePort -- 用 AI 一键移植任意游戏到 html5",
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-zh-08ea9175fae6",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "当Agent“有工号”：从一人一工具到一人一团队，组织如何做好AI时代的分工与协作？",
-    "summary": "上汽帆一尚行，已累计上线数字员工超100个； 智能体也开始领“工号”了。",
-    "source": "雷峰网",
-    "source_url": "https://www.leiphone.com/category/industrynews/wiMNbdfLr54ciVBE.html",
-    "published_at": "Wed, 21 Oct 2026 14:14:00 +0800",
-    "tags": [
-      "中文",
-      "雷峰网"
-    ],
-    "score": 64,
-    "why": "中文源 · 雷峰网 · 原文数字：上汽帆一尚行，已累计上线数字员工超100个；",
-    "deep_link": "https://www.leiphone.com/category/industrynews/wiMNbdfLr54ciVBE.html",
-    "extra": {},
-    "blurb": "上汽帆一尚行，已累计上线数字员工超100个； 智能体也开始领“工号”了。",
-    "url": "https://www.leiphone.com/category/industrynews/wiMNbdfLr54ciVBE.html",
-    "name": "当Agent“有工号”：从一人一工具到一人一团队，组织如何做好AI时代的分工与协作？",
-    "lang": "zh",
-    "posted_at": "Wed, 21 Oc",
-    "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-leiphone",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "原文数字：上汽帆一尚行，已累计上线数字员工超100个；",
-      "lines": {
-        "fact": "原文数字：上汽帆一尚行，已累计上线数字员工超100个；"
-      },
-      "evidence": [
-        "上汽帆一尚行，已累计上线数字员工超100个；",
-        "100个"
-      ],
-      "point": "当Agent“有工号”：从一人一工具到一人一团队，组织如何做好AI时代的分工与…"
-    },
-    "title_orig": "当Agent“有工号”：从一人一工具到一人一团队，组织如何做好AI时代的分工与协作？",
-    "source_excerpt": "上汽帆一尚行，已累计上线数字员工超100个； 智能体也开始领“工号”了。8月31日，张江科学之门模力社区， 智能体身份码节点管理平台 正式上线，30家单位参与节点发放。越来越多的智能体将拥有可识别、可管理的数字身份。 但当Agent从个人电脑里的工具，变成能够跨系统调用、参与业务流程的“数字同事”，一个比技术更现实的问题随之浮现：谁给它派活，谁来验收成果，出了问题又由谁担责？这道题，考验的已不只是智能体的能力，更是组织的管理能力。 图1张江科学之门模力社区，身份码节点管理平台正式上线 活动现场，上海市人工智能行业协会与中国电子技术标准化研究院等单位协同发力，全面推进AIP智能体互联应用的推广与宣传，为行业数字化转型注入新动能。讲解人员将智能体身份码形象比作“数字身份证”，从身份申领、材料核验到跨主体互联调用，逐一拆解全流程操作。 智能体有了身份码，无异于在组织内获得“工号”。但工号仅是起点。过去“一人一工具”依赖个人选择；如今",
-    "_score_raw": 64,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "summary_zh": "上汽帆一尚行，已累计上线数字员工超100个； 智能体也开始领“工号”了。",
-    "highlights": [
-      "8月31日，张江科学之门模力社区， 智能体身份码节点管理平台 正式上线，30家单位参与节点发放。",
-      "越来越多的智能体将拥有可识别、可管理的数字身份。",
-      "但当Agent从个人电脑里的工具，变成能够跨系统调用、参与业务流程的“数字同事”，一个比技术更现实的问题随之浮现：谁给…"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "看企业数字员工落地：报道称上汽帆一尚行已上线数字员工超 100 个",
-      "lines": {
-        "fact": "原文数字：上汽帆一尚行，已累计上线数字员工超100个；"
-      },
-      "evidence": [
-        "上汽帆一尚行，已累计上线数字员工超100个；",
-        "100个"
-      ],
-      "point": "当Agent“有工号”：从一人一工具到一人一团队，组织如何做好AI时代的分工与…",
+      "point": "巴克莱将裁员5000人，借助人工智能削减成本",
       "verdict_label": "收藏",
       "title": ""
     }
@@ -1397,7 +887,7 @@
       "SaaS"
     ],
     "score": 62,
-    "why": "独立/Agent：indie、mrr；策展：PhotoAI 等自有 AI 付费产品+公开营收叙事。",
+    "why": "低成本学习路径：作者称用 $0 换到市价约 $36,000 的辅导资源（自述置换）",
     "deep_link": "https://www.tmaker.io/blog/36-000-of-coaching-for-0",
     "extra": {},
     "blurb": "$36,000 of coaching for $0",
@@ -1464,7 +954,7 @@
       "SaaS"
     ],
     "score": 62,
-    "why": "独立/Agent：公开营收、indie；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
+    "why": "站点变现参照：做到日入约 $1,000 的站并以约 $120,000 卖出（播客）",
     "deep_link": "https://www.nichepursuits.com/maddox-schmidlkofer/",
     "extra": {},
     "blurb": "In this week's episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win.",
@@ -1537,7 +1027,7 @@
       "SaaS"
     ],
     "score": 38,
-    "why": "独立/Agent：indie、saas；策展：AppSumo 创始人，公开复盘小生意与副业做法。",
+    "why": "经营对照：AppSumo 自述年收入约 $100M；文中是给年轻时的自己的生意建议",
     "deep_link": "https://noahkagan.com/brutally-honest-business-advice-to-my-younger-self/",
     "extra": {},
     "blurb": "AppSumo does $100M a year in revenue.",
