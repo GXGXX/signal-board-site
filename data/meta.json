@@ -1,9 +1,9 @@
 {
   "name": "信号台",
   "disclaimer": "非投资建议；加密高风险",
-  "today": "2026-10-23",
-  "generated_at": "2026-10-23T00:11:04.733Z",
-  "next_update_at": "2026-10-23T01:00:00.000Z",
+  "today": "2026-10-24",
+  "generated_at": "2026-10-24T00:12:16.124Z",
+  "next_update_at": "2026-10-24T01:00:00.000Z",
   "schedule": {
     "timezone": "Asia/Shanghai",
     "hours": [
@@ -13,21 +13,21 @@
     "note": "下次更新于 = 下一个 09:00 或 21:00 Asia/Shanghai"
   },
   "collect": {
-    "collected_at": "2026-10-23T00:10:57.794Z",
+    "collected_at": "2026-10-24T00:11:33.194Z",
     "ok": [
       {
         "id": "hitmarker_sitemap",
         "count": 9,
-        "scanned": 443,
+        "scanned": 436,
         "rejected": {
           "hub_or_junk": 0,
           "no_role_signal": 11,
           "noise_role": 0,
           "no_geo_low_role": 0,
           "below_threshold": 0,
-          "location_out_of_range": 195,
+          "location_out_of_range": 197,
           "page_unreadable": 0,
-          "too_old": 45
+          "too_old": 43
         }
       },
       {
@@ -38,7 +38,7 @@
           "no_role_signal": 4,
           "noise_role": 0,
           "no_geo_low_role": 0,
-          "below_threshold": 4
+          "below_threshold": 5
         }
       },
       {
@@ -57,25 +57,25 @@
       {
         "id": "riot_gh",
         "count": 5,
-        "scanned": 175,
+        "scanned": 176,
         "rejected": {
-          "off_role": 170
+          "off_role": 171
         }
       },
       {
         "id": "scopely_gh",
         "count": 10,
-        "scanned": 182,
+        "scanned": 181,
         "rejected": {
-          "off_role": 172
+          "off_role": 171
         }
       },
       {
         "id": "krafton_gh",
         "count": 1,
-        "scanned": 55,
+        "scanned": 56,
         "rejected": {
-          "off_role": 54
+          "off_role": 55
         }
       },
       {
@@ -89,17 +89,17 @@
       {
         "id": "supercell_ashby",
         "count": 3,
-        "scanned": 39,
+        "scanned": 40,
         "rejected": {
-          "off_role": 36
+          "off_role": 37
         }
       },
       {
         "id": "moonactive_ashby",
         "count": 2,
-        "scanned": 32,
+        "scanned": 33,
         "rejected": {
-          "off_role": 30
+          "off_role": 31
         }
       },
       {
@@ -121,9 +121,9 @@
       {
         "id": "ubisoft_sr",
         "count": 3,
-        "scanned": 146,
+        "scanned": 149,
         "rejected": {
-          "off_role": 143
+          "off_role": 146
         }
       },
       {
@@ -146,7 +146,7 @@
         "partition": "ai",
         "count": 12,
         "scanned": 24,
-        "rejected": 9
+        "rejected": 11
       },
       {
         "id": "growth-jamesclear",
@@ -179,16 +179,16 @@
       {
         "id": "zh-36kr",
         "partition": "ai",
-        "count": 2,
+        "count": 3,
         "scanned": 30,
-        "rejected": 28
+        "rejected": 27
       },
       {
         "id": "zh-huxiu",
         "partition": "ai",
-        "count": 0,
-        "scanned": 9,
-        "rejected": 9
+        "count": 1,
+        "scanned": 7,
+        "rejected": 6
       },
       {
         "id": "zh-ifanr",
@@ -200,37 +200,37 @@
       {
         "id": "zh-woshipm",
         "partition": "ai",
-        "count": 3,
+        "count": 1,
         "scanned": 15,
-        "rejected": 12
+        "rejected": 14
       },
       {
         "id": "zh-geekpark",
         "partition": "ai",
-        "count": 2,
+        "count": 3,
         "scanned": 30,
-        "rejected": 28
+        "rejected": 27
       },
       {
         "id": "zh-leiphone",
         "partition": "ai",
-        "count": 1,
+        "count": 2,
         "scanned": 20,
-        "rejected": 19
+        "rejected": 18
       },
       {
         "id": "zh-v2ex-create",
         "partition": "ai",
-        "count": 2,
+        "count": 1,
         "scanned": 50,
-        "rejected": 48
+        "rejected": 49
       },
       {
         "id": "zh-tmtpost",
         "partition": "ai",
-        "count": 2,
-        "scanned": 18,
-        "rejected": 16
+        "count": 1,
+        "scanned": 14,
+        "rejected": 13
       },
       {
         "id": "zh-infoq",
@@ -242,37 +242,37 @@
       {
         "id": "ai-reddit-saas",
         "partition": "ai",
-        "count": 4,
+        "count": 3,
         "scanned": 40,
-        "rejected": 36
+        "rejected": 37
       },
       {
         "id": "ai-reddit-indiehackers",
         "partition": "ai",
         "count": 0,
-        "scanned": 0,
-        "rejected": 0
+        "scanned": 1,
+        "rejected": 1
       },
       {
         "id": "ai-reddit-era",
         "partition": "ai",
-        "count": 0,
-        "scanned": 15,
+        "count": 3,
+        "scanned": 18,
         "rejected": 15
       },
       {
         "id": "ai-reddit-entrepreneur",
         "partition": "ai",
         "count": 0,
-        "scanned": 3,
-        "rejected": 3
+        "scanned": 5,
+        "rejected": 5
       },
       {
         "id": "ai-hn-frontpage",
         "partition": "ai",
         "count": 0,
-        "scanned": 18,
-        "rejected": 18
+        "scanned": 9,
+        "rejected": 9
       },
       {
         "id": "ai-hn-show",
@@ -303,6 +303,16 @@
       },
       {
         "id": "kol:MarkManson",
+        "partition": "kol",
+        "count": 1
+      },
+      {
+        "id": "kol:dannypostmaa",
+        "partition": "kol",
+        "count": 1
+      },
+      {
+        "id": "kol:damengchen",
         "partition": "kol",
         "count": 1
       },
@@ -343,11 +353,6 @@
       },
       {
         "id": "kol:ScottHYoung",
-        "partition": "kol",
-        "count": 1
-      },
-      {
-        "id": "kol:RyanHoliday",
         "partition": "kol",
         "count": 1
       },
@@ -412,12 +417,8 @@
         "error": "HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403;HTTP 403"
       },
       {
-        "id": "kol:dannypostmaa",
-        "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked"
-      },
-      {
-        "id": "kol:damengchen",
-        "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;html_list_empty_or_blocked;fetch failed;HTTP 404;HTTP 404"
+        "id": "kol:RyanHoliday",
+        "error": "HTTP 415;HTTP 415;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked;HTTP 404"
       },
       {
         "id": "kol:gregisenberg",
@@ -437,15 +438,15 @@
       "no_role_signal": 26,
       "noise_role": 0,
       "no_geo_low_role": 0,
-      "below_threshold": 6,
-      "location_out_of_range": 195,
+      "below_threshold": 7,
+      "location_out_of_range": 197,
       "page_unreadable": 0,
-      "too_old": 45,
+      "too_old": 43,
       "intern": 14,
       "off_target_title": 19,
       "blacklist": 0,
       "rss_reasons": {
-        "ai_no_practice_signal": 26,
+        "ai_no_practice_signal": 28,
         "growth_no_pillar": 14,
         "fetch_fail": 1
       }
@@ -453,11 +454,19 @@
     "score_threshold": 40,
     "kept": 83,
     "articles_kept": {
-      "ai": 71,
+      "ai": 74,
       "invest": 0,
-      "growth": 60
+      "growth": 54
     },
     "rss_rejects_sample": [
+      {
+        "source": "ai-levelsio-rss",
+        "partition": "ai",
+        "reason": "ai_no_practice_signal",
+        "title": "I recommend taking your VPS off the public internet with Tailscale and Cloudflare Tunnel",
+        "url": "https://levels.io/vps-tailscale-cloudflare-tunnel",
+        "score": 0
+      },
       {
         "source": "ai-levelsio-rss",
         "partition": "ai",
@@ -587,11 +596,19 @@
         "score": 0
       },
       {
-        "source": "ai-levelsio-rss",
+        "source": "ai-simonw-atom",
         "partition": "ai",
         "reason": "ai_no_practice_signal",
-        "title": "I will keep buying scarce coastal and mountain land with clean air",
-        "url": "https://levels.io/post-agi-scarce-land-thesis",
+        "title": "Quick Study",
+        "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+        "score": 0
+      },
+      {
+        "source": "ai-simonw-atom",
+        "partition": "ai",
+        "reason": "ai_no_practice_signal",
+        "title": "Introducing Kimi K3.1 Pro",
+        "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
         "score": 0
       },
       {
@@ -758,22 +775,6 @@
         "title": "Scarf Season Is Almost Upon Us!",
         "url": "https://putthison.com/scarf-season-is-almost-upon-us/",
         "score": 0
-      },
-      {
-        "source": "growth-putthison",
-        "partition": "growth",
-        "reason": "growth_no_pillar",
-        "title": "Inside Track: September 13th – September 19th Edition",
-        "url": "https://putthison.com/inside-track-september-13th-september-19th-edition-2/",
-        "score": 0
-      },
-      {
-        "source": "growth-putthison",
-        "partition": "growth",
-        "reason": "growth_no_pillar",
-        "title": "Fly By The Seat Of These!",
-        "url": "https://putthison.com/fly-by-the-seat-of-these/",
-        "score": 0
       }
     ],
     "plan_c": {
@@ -827,14 +828,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:51d",
-            "too_old:135d",
-            "too_old:226d",
-            "too_old:291d",
-            "too_old:341d",
-            "too_old:376d",
-            "too_old:404d",
-            "too_old:411d"
+            "too_old:52d",
+            "too_old:136d",
+            "too_old:227d",
+            "too_old:292d",
+            "too_old:342d",
+            "too_old:377d",
+            "too_old:405d",
+            "too_old:412d"
           ]
         },
         "tdinh_me": {
@@ -860,14 +861,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:54d",
-            "too_old:134d",
-            "too_old:329d",
-            "too_old:378d",
-            "too_old:494d",
-            "too_old:688d",
-            "too_old:699d",
-            "too_old:818d"
+            "too_old:55d",
+            "too_old:135d",
+            "too_old:330d",
+            "too_old:379d",
+            "too_old:495d",
+            "too_old:689d",
+            "too_old:700d",
+            "too_old:819d"
           ]
         },
         "lxfater": {
@@ -931,14 +932,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:328d",
-            "too_old:331d",
-            "too_old:399d",
-            "too_old:506d",
-            "too_old:588d",
-            "too_old:624d",
-            "too_old:692d",
-            "too_old:706d"
+            "too_old:329d",
+            "too_old:332d",
+            "too_old:400d",
+            "too_old:507d",
+            "too_old:589d",
+            "too_old:625d",
+            "too_old:693d",
+            "too_old:707d"
           ]
         },
         "farnamstreet": {
@@ -1026,139 +1027,71 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:300d",
-            "too_old:307d",
-            "too_old:314d",
-            "too_old:321d",
-            "too_old:896d",
-            "too_old:957d",
-            "too_old:973d",
-            "too_old:1001d"
+            "too_old:301d",
+            "too_old:308d",
+            "too_old:315d",
+            "too_old:322d",
+            "too_old:897d",
+            "too_old:958d",
+            "too_old:974d",
+            "too_old:1002d"
           ]
         },
         "dannypostmaa": {
           "ok": true,
           "partition": "ai",
-          "feed_ok": null,
+          "feed_ok": {
+            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
+            "type": "youtube_rss",
+            "scanned": 2
+          },
           "feeds_tried": [
             {
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
               "type": "youtube_rss",
-              "ok": false,
-              "error": "HTTP 404"
-            },
-            {
-              "url": "https://youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-              "type": "youtube_rss",
-              "ok": false,
-              "error": "HTTP 404"
-            },
-            {
-              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-              "type": "youtube_rss",
-              "ok": false,
-              "error": "HTTP 404"
-            },
-            {
-              "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-              "type": "youtube_rss",
-              "ok": false,
-              "error": "HTTP 404"
-            },
-            {
-              "url": "https://www.dannypostma.com/",
-              "type": "html_list",
-              "ok": false,
-              "error": "html_list_empty_or_blocked"
-            },
-            {
-              "url": "https://www.dannypostma.com/blog/",
-              "type": "html_list",
-              "ok": false,
-              "error": "html_list_empty_or_blocked"
-            },
-            {
-              "url": "https://www.dannypostma.com/archive",
-              "type": "html_list",
-              "ok": false,
-              "error": "html_list_empty_or_blocked"
-            },
-            {
-              "url": "https://www.dannypostma.com/archive?sort=new",
-              "type": "html_list",
-              "ok": false,
-              "error": "html_list_empty_or_blocked"
+              "ok": true,
+              "scanned": 2
             }
           ],
           "kept": 0,
-          "dropped": 0,
+          "dropped": 2,
           "fallback": true,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
-          "drop_reasons": []
+          "drop_reasons": [
+            "too_old:49d",
+            "too_old:70d"
+          ]
         },
         "damengchen": {
           "ok": true,
           "partition": "ai",
-          "feed_ok": null,
+          "feed_ok": {
+            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+            "type": "youtube_rss",
+            "scanned": 4
+          },
           "feeds_tried": [
             {
               "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
               "type": "youtube_rss",
-              "ok": false,
-              "error": "HTTP 404"
-            },
-            {
-              "url": "https://youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-              "type": "youtube_rss",
-              "ok": false,
-              "error": "HTTP 404"
-            },
-            {
-              "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-              "type": "youtube_rss",
-              "ok": false,
-              "error": "HTTP 404"
-            },
-            {
-              "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-              "type": "youtube_rss",
-              "ok": false,
-              "error": "HTTP 404"
-            },
-            {
-              "url": "https://damon.vc/",
-              "type": "html_list",
-              "ok": false,
-              "error": "html_list_empty_or_blocked"
-            },
-            {
-              "url": "https://damon.vc/blog/",
-              "type": "html_list",
-              "ok": false,
-              "error": "fetch failed"
-            },
-            {
-              "url": "https://damon.vc/archive",
-              "type": "html_list",
-              "ok": false,
-              "error": "HTTP 404"
-            },
-            {
-              "url": "https://damon.vc/archive?sort=new",
-              "type": "html_list",
-              "ok": false,
-              "error": "HTTP 404"
+              "ok": true,
+              "scanned": 4
             }
           ],
           "kept": 0,
-          "dropped": 0,
+          "dropped": 4,
           "fallback": true,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
-          "drop_reasons": []
+          "drop_reasons": [
+            "too_old:965d",
+            "too_old:979d",
+            "too_old:983d",
+            "too_old:989d"
+          ]
         },
         "PutThisOn": {
           "ok": true,
@@ -1207,14 +1140,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:2481d",
-            "too_old:2564d",
-            "too_old:2767d",
-            "too_old:2831d",
-            "too_old:2838d",
-            "too_old:2845d",
-            "too_old:2852d",
-            "too_old:2926d"
+            "too_old:2482d",
+            "too_old:2565d",
+            "too_old:2768d",
+            "too_old:2832d",
+            "too_old:2839d",
+            "too_old:2846d",
+            "too_old:2853d",
+            "too_old:2927d"
           ]
         },
         "tibo_maker": {
@@ -1274,8 +1207,8 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:2147d",
-            "too_old:2321d"
+            "too_old:2148d",
+            "too_old:2322d"
           ]
         },
         "CalNewport": {
@@ -1294,17 +1227,18 @@
               "scanned": 8
             }
           ],
-          "kept": 4,
-          "dropped": 4,
+          "kept": 3,
+          "dropped": 5,
           "fallback": false,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
             "growth_politics_title",
-            "too_old:52d",
-            "too_old:59d",
-            "too_old:73d"
+            "too_old:46d",
+            "too_old:53d",
+            "too_old:60d",
+            "too_old:74d"
           ]
         },
         "naval": {
@@ -1330,14 +1264,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:112d",
-            "too_old:143d",
-            "too_old:146d",
-            "too_old:146d",
-            "too_old:148d",
-            "too_old:164d",
-            "too_old:171d",
-            "too_old:177d"
+            "too_old:113d",
+            "too_old:144d",
+            "too_old:147d",
+            "too_old:147d",
+            "too_old:149d",
+            "too_old:165d",
+            "too_old:172d",
+            "too_old:178d"
           ]
         },
         "yongfook": {
@@ -1387,41 +1321,73 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:51d",
-            "too_old:57d",
-            "too_old:64d",
-            "too_old:77d"
+            "too_old:52d",
+            "too_old:58d",
+            "too_old:65d",
+            "too_old:78d"
           ]
         },
         "RyanHoliday": {
           "ok": true,
           "partition": "growth",
-          "feed_ok": {
-            "url": "https://ryanholiday.net/feed/",
-            "type": "blog_rss",
-            "scanned": 10
-          },
+          "feed_ok": null,
           "feeds_tried": [
             {
               "url": "https://ryanholiday.net/feed/",
               "type": "blog_rss",
-              "ok": true,
-              "scanned": 10
+              "ok": false,
+              "error": "HTTP 415"
+            },
+            {
+              "url": "https://www.ryanholiday.net/feed/",
+              "type": "blog_rss",
+              "ok": false,
+              "error": "HTTP 415"
+            },
+            {
+              "url": "https://ryanholiday.net/",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://ryanholiday.net/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://ryanholiday.net/archive",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://ryanholiday.net/archive?sort=new",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://dailystoic.com/",
+              "type": "html_list",
+              "ok": false,
+              "error": "html_list_empty_or_blocked"
+            },
+            {
+              "url": "https://dailystoic.com/blog/",
+              "type": "html_list",
+              "ok": false,
+              "error": "HTTP 404"
             }
           ],
-          "kept": 5,
-          "dropped": 5,
-          "fallback": false,
+          "kept": 0,
+          "dropped": 0,
+          "fallback": true,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
-          "drop_reasons": [
-            "too_old:49d",
-            "too_old:55d",
-            "too_old:63d",
-            "too_old:77d",
-            "too_old:98d"
-          ]
+          "drop_reasons": []
         },
         "gregisenberg": {
           "ok": true,
@@ -1480,31 +1446,31 @@
           "feed_ok": {
             "url": "https://thebootstrappedfounder.com/feed/",
             "type": "blog_rss",
-            "scanned": 10
+            "scanned": 20
           },
           "feeds_tried": [
             {
               "url": "https://thebootstrappedfounder.com/feed/",
               "type": "blog_rss",
               "ok": true,
-              "scanned": 10
+              "scanned": 20
             }
           ],
           "kept": 0,
-          "dropped": 10,
+          "dropped": 20,
           "fallback": true,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:202d",
-            "too_old:216d",
-            "too_old:223d",
-            "too_old:251d",
-            "too_old:258d",
-            "too_old:265d",
-            "too_old:272d",
-            "too_old:279d"
+            "too_old:203d",
+            "too_old:217d",
+            "too_old:224d",
+            "too_old:252d",
+            "too_old:259d",
+            "too_old:266d",
+            "too_old:273d",
+            "too_old:280d"
           ]
         },
         "AliAbdaal": {
@@ -1530,14 +1496,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:624d",
-            "too_old:631d",
-            "too_old:639d",
-            "too_old:646d",
-            "too_old:654d",
-            "too_old:657d",
-            "too_old:661d",
-            "too_old:664d"
+            "too_old:625d",
+            "too_old:632d",
+            "too_old:640d",
+            "too_old:647d",
+            "too_old:655d",
+            "too_old:658d",
+            "too_old:662d",
+            "too_old:665d"
           ]
         },
         "nathanbarry": {
@@ -1625,13 +1591,13 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:46d",
             "too_old:47d",
-            "too_old:47d",
-            "too_old:47d",
-            "too_old:47d",
-            "too_old:47d",
-            "too_old:47d"
+            "too_old:48d",
+            "too_old:48d",
+            "too_old:48d",
+            "too_old:48d",
+            "too_old:48d",
+            "too_old:48d"
           ]
         },
         "nichepursuits": {
@@ -1657,14 +1623,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:50d",
-            "too_old:57d",
-            "too_old:64d",
-            "too_old:71d",
-            "too_old:78d",
-            "too_old:85d",
-            "too_old:92d",
-            "too_old:99d"
+            "too_old:51d",
+            "too_old:58d",
+            "too_old:65d",
+            "too_old:72d",
+            "too_old:79d",
+            "too_old:86d",
+            "too_old:93d",
+            "too_old:100d"
           ]
         },
         "startupsfortherestofus": {
@@ -1690,14 +1656,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:51d",
-            "too_old:58d",
-            "too_old:65d",
-            "too_old:72d",
-            "too_old:79d",
-            "too_old:86d",
-            "too_old:93d",
-            "too_old:100d"
+            "too_old:52d",
+            "too_old:59d",
+            "too_old:66d",
+            "too_old:73d",
+            "too_old:80d",
+            "too_old:87d",
+            "too_old:94d",
+            "too_old:101d"
           ]
         },
         "askamanager": {
@@ -1747,8 +1713,8 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:53d",
-            "too_old:66d"
+            "too_old:54d",
+            "too_old:67d"
           ]
         },
         "artofmanliness": {
@@ -1767,7 +1733,7 @@
               "scanned": 10
             }
           ],
-          "kept": 10,
+          "kept": 9,
           "dropped": 0,
           "fallback": false,
           "used_last_good": false,
@@ -1832,6 +1798,18 @@
           "type": "blog_rss"
         },
         {
+          "handle": "dannypostmaa",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
+          "scanned": 2,
+          "type": "youtube_rss"
+        },
+        {
+          "handle": "damengchen",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+          "scanned": 4,
+          "type": "youtube_rss"
+        },
+        {
           "handle": "PutThisOn",
           "url": "https://putthison.com/feed/",
           "scanned": 10,
@@ -1880,15 +1858,9 @@
           "type": "blog_rss"
         },
         {
-          "handle": "RyanHoliday",
-          "url": "https://ryanholiday.net/feed/",
-          "scanned": 10,
-          "type": "blog_rss"
-        },
-        {
           "handle": "arvidkahl",
           "url": "https://thebootstrappedfounder.com/feed/",
-          "scanned": 10,
+          "scanned": 20,
           "type": "blog_rss"
         },
         {
@@ -1964,28 +1936,15 @@
           ]
         },
         {
-          "handle": "dannypostmaa",
+          "handle": "RyanHoliday",
           "errors": [
-            "HTTP 404",
-            "HTTP 404",
-            "HTTP 404",
-            "HTTP 404",
+            "HTTP 415",
+            "HTTP 415",
             "html_list_empty_or_blocked",
             "html_list_empty_or_blocked",
             "html_list_empty_or_blocked",
-            "html_list_empty_or_blocked"
-          ]
-        },
-        {
-          "handle": "damengchen",
-          "errors": [
-            "HTTP 404",
-            "HTTP 404",
-            "HTTP 404",
-            "HTTP 404",
             "html_list_empty_or_blocked",
-            "fetch failed",
-            "HTTP 404",
+            "html_list_empty_or_blocked",
             "HTTP 404"
           ]
         },
@@ -2018,9 +1977,9 @@
           ]
         }
       ],
-      "posts_kept": 95,
-      "posts_dropped": 149,
-      "fallbacks": 15,
+      "posts_kept": 88,
+      "posts_dropped": 161,
+      "fallbacks": 16,
       "last_good_reused": 0,
       "html_list_ok": [
         {
@@ -2036,9 +1995,9 @@
       "sample_kept": [
         {
           "handle": "levelsio",
-          "title": "If you say this as a European you're instantly banished from any social setting in Western Europe",
-          "published_at": "2026-10-22T00:00:00.000Z",
-          "url": "https://levels.io/banished-for-saying-this-europe"
+          "title": "I recommend taking your VPS off the public internet with Tailscale and Cloudflare Tunnel",
+          "published_at": "2026-10-23T00:00:00.000Z",
+          "url": "https://levels.io/vps-tailscale-cloudflare-tunnel"
         },
         {
           "handle": "marc_louvion",
@@ -2068,8 +2027,8 @@
     },
     "community_rss": {
       "enabled": true,
-      "elapsed_ms": 19368,
-      "kept": 4,
+      "elapsed_ms": 13492,
+      "kept": 6,
       "report": [
         {
           "id": "ai-reddit-saas",
@@ -2077,46 +2036,46 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 1644,
+          "ms": 2202,
           "scanned": 40,
-          "kept": 4,
+          "kept": 3,
           "rejects": {
-            "question": 17,
-            "no_numeric_fact": 13,
-            "no_body": 3,
-            "tech_news": 1,
-            "help_seeking": 2
+            "no_body": 1,
+            "question": 14,
+            "help_seeking": 3,
+            "body_too_short": 5,
+            "no_numeric_fact": 14
           },
           "error": null,
           "ratelimit": {
             "used": "1",
             "remaining": "0.0",
-            "reset": "0"
+            "reset": "14"
           },
           "reject_samples": [
             {
-              "reason": "question",
-              "title": "If software keeps getting easier to build, what happens to its value?"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Whop raises $200M at a $5.1B valuation as it expands into payments and business "
+              "reason": "no_body",
+              "title": "Situation these days"
             },
             {
               "reason": "question",
-              "title": "You think SaaS is oversaturated? Think about this."
+              "title": "Got first organic paid user after 6 months, guess where it came from?"
             },
             {
               "reason": "question",
-              "title": "How Saas founders can pick the winning marketing channel?"
+              "title": "What Makes You Trust a SaaS Product Enough to Pay for It?"
+            },
+            {
+              "reason": "help_seeking",
+              "title": "500k installs on Google Play but only 20-30 paid users. What am I doing wrong?"
+            },
+            {
+              "reason": "body_too_short",
+              "title": "Crossed 10 users ! First milestone hit and Chatgpt is the #1 acquisition channel"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "I have no idea if this idea will work, but I really want to find out.."
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Customer who first cancelled monthly subscription and then purchased annual subs"
+              "title": "5 technical decisions early-stage SaaS founders regret (and what I’d do instead)"
             }
           ],
           "partition": "ai"
@@ -2128,12 +2087,19 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 0,
+          "scanned": 1,
           "kept": 0,
-          "rejects": {},
+          "rejects": {
+            "help_seeking": 1
+          },
           "error": null,
           "shared_request": true,
-          "reject_samples": [],
+          "reject_samples": [
+            {
+              "reason": "help_seeking",
+              "title": "I built a one-time-purchase writing tool instead of another subscription. Lookin"
+            }
+          ],
           "partition": "ai"
         },
         {
@@ -2143,40 +2109,40 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 15,
-          "kept": 0,
+          "scanned": 18,
+          "kept": 3,
           "rejects": {
-            "question": 2,
-            "help_seeking": 2,
-            "no_numeric_fact": 10,
-            "promo": 1
+            "question": 4,
+            "no_numeric_fact": 9,
+            "promo": 1,
+            "help_seeking": 1
           },
           "error": null,
           "shared_request": true,
           "reject_samples": [
             {
               "reason": "question",
-              "title": "How did you find your first customers outside your personal network?"
-            },
-            {
-              "reason": "help_seeking",
-              "title": "Google says there's no way to pay for a better local ranking. Here's what its ow"
+              "title": "Do businesses buy Google review removal?"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "our SEO finally started moving after months of publishing. here's what we change"
+              "title": "my one day off became a bottleneck for every bill"
+            },
+            {
+              "reason": "question",
+              "title": "Paying international contractors in stablecoins: what does your monthly process "
             },
             {
               "reason": "no_numeric_fact",
-              "title": "The sticky notes kept falling off my wall, so I built one for my phone."
+              "title": "I grew my SEO agency to €1.6M a year mostly with cold email"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Your landing has just 3 seconds to explain your business"
+              "title": "Claude will make your app production ready, but only the parts you know to ask f"
             },
             {
-              "reason": "help_seeking",
-              "title": "tried scaling my freelance business, now having second thoughts"
+              "reason": "promo",
+              "title": "How would you approach finding a stable remote role with a startup? (Not self-pr"
             }
           ],
           "partition": "ai"
@@ -2188,9 +2154,11 @@
           "status": 200,
           "attempts": 0,
           "ms": 0,
-          "scanned": 3,
+          "scanned": 5,
           "kept": 0,
           "rejects": {
+            "help_seeking": 1,
+            "question": 1,
             "no_numeric_fact": 2,
             "body_too_short": 1
           },
@@ -2198,16 +2166,24 @@
           "shared_request": true,
           "reject_samples": [
             {
-              "reason": "no_numeric_fact",
-              "title": "Stepping Back"
+              "reason": "help_seeking",
+              "title": "Feedback Friday: Rate My Ideas | October 23, 2026"
+            },
+            {
+              "reason": "question",
+              "title": "Have you ever stopped selling a service that was still making money?"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Scared to pull the trigger (start)"
+              "title": "I started today at 1am"
             },
             {
               "reason": "body_too_short",
-              "title": "Thankful Thursday: Free Resources and Tools | October 22, 2026"
+              "title": "What process automation would improve your business quality of life?"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "RTWS - PR Success Story Case Study"
             }
           ],
           "partition": "ai"
@@ -2218,13 +2194,11 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 4948,
-          "scanned": 18,
+          "ms": 3153,
+          "scanned": 9,
           "kept": 0,
           "rejects": {
-            "no_numeric_fact": 15,
-            "tech_news": 1,
-            "question": 2
+            "no_numeric_fact": 9
           },
           "error": null,
           "ratelimit": {
@@ -2235,27 +2209,27 @@
           "reject_samples": [
             {
               "reason": "no_numeric_fact",
-              "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions"
+              "title": "Now Google says it might use your Gmail and Google Photos data to target ads"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Hedra is a 3D open world game I wrote from scratch while in highschool"
+              "title": "Dessa: the most authentic full-duplex speech model ever built"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents"
+              "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "A farewell to Arc browser"
+              "title": "UUIDv7 doesn't have the properties you think it does"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Getting ready to operate GNU Taler in Germany"
+              "title": "Today, we hacked what we'd set out to hack: the iPhone"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Every AI model has the same \"controversial\" take on humans"
+              "title": "Apple Music 404 Not Found"
             }
           ],
           "partition": "ai"
@@ -2266,16 +2240,15 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 4706,
+          "ms": 58,
           "scanned": 20,
           "kept": 0,
           "rejects": {
-            "no_numeric_fact": 18,
-            "question": 1,
-            "tech_news": 1
+            "no_numeric_fact": 19,
+            "question": 1
           },
           "error": null,
-          "waited_ms": 7994,
+          "waited_ms": 7993,
           "ratelimit": {
             "used": null,
             "remaining": null,
@@ -2284,27 +2257,27 @@
           "reject_samples": [
             {
               "reason": "no_numeric_fact",
+              "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Show HN: Swurf – Swipe through the real web"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Show HN: Making a smart TV dumb and then smart"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Show HN: Impossible Machines: declaratively program the physical world"
+            },
+            {
+              "reason": "no_numeric_fact",
               "title": "Show HN: UI micro interactions prompts for AI"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Show HN: Uberblok – an interactive museum of ZFS internals"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Show HN: Sumi.css – CSS Framework"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Show HN: SimCity, but with Permits"
-            },
-            {
-              "reason": "question",
-              "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?"
+              "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key"
             }
           ],
           "partition": "ai"
@@ -2358,16 +2331,16 @@
         "shown": 46
       },
       "ai": {
-        "total": 24,
-        "with_use": 24,
+        "total": 26,
+        "with_use": 26,
         "verdicts": {
-          "worth": 3,
-          "save": 21
+          "save": 23,
+          "worth": 3
         },
         "ungrounded": 0,
         "dropped_no_use": 0,
-        "useful_before_display_cap": 24,
-        "shown": 24
+        "useful_before_display_cap": 26,
+        "shown": 26
       },
       "invest": {
         "total": 0,
@@ -2393,7 +2366,7 @@
     },
     "title_model": "qwen2.5:1.5b",
     "title_budget_exhausted": false,
-    "title_zh_attempted": 28,
+    "title_zh_attempted": 30,
     "title_phase_s": 0
   },
   "today_points": [
@@ -2413,9 +2386,9 @@
     },
     {
       "part": "ai",
-      "text": "李泽湘系团队做了款贴在手机背后的墨水屏Agent，获祥峰、五源、源码等投资｜硬…",
-      "id": "ai-zh-07e736690f2c",
-      "url": "https://36kr.com/p/4034229489701764?f=rss",
+      "text": "AI副业：自述收入 $48 MRR，渠道 Linkedin",
+      "id": "ai-community-ai-reddit-saas-c8e9e90d76c3",
+      "url": "https://www.reddit.com/r/SaaS/comments/1xdouvn/1100_people_signed_up_for_my_transcription_saas/",
       "verdict": "worth"
     },
     {
@@ -2430,7 +2403,7 @@
     "model": "qwen2.5:1.5b",
     "ollama_ok": false,
     "local_llm": 0,
-    "fallback": 84,
+    "fallback": 86,
     "distinct_fix": 0,
     "unfaithful_reject": 0,
     "number_check": {
@@ -2440,8 +2413,8 @@
   },
   "partitions": {
     "jobs": 56,
-    "ai": 24,
-    "invest": 33,
+    "ai": 26,
+    "invest": 31,
     "growth": 4
   },
   "caps": {
@@ -2503,14 +2476,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:51d",
-          "too_old:135d",
-          "too_old:226d",
-          "too_old:291d",
-          "too_old:341d",
-          "too_old:376d",
-          "too_old:404d",
-          "too_old:411d"
+          "too_old:52d",
+          "too_old:136d",
+          "too_old:227d",
+          "too_old:292d",
+          "too_old:342d",
+          "too_old:377d",
+          "too_old:405d",
+          "too_old:412d"
         ]
       },
       "tdinh_me": {
@@ -2536,14 +2509,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:54d",
-          "too_old:134d",
-          "too_old:329d",
-          "too_old:378d",
-          "too_old:494d",
-          "too_old:688d",
-          "too_old:699d",
-          "too_old:818d"
+          "too_old:55d",
+          "too_old:135d",
+          "too_old:330d",
+          "too_old:379d",
+          "too_old:495d",
+          "too_old:689d",
+          "too_old:700d",
+          "too_old:819d"
         ]
       },
       "lxfater": {
@@ -2607,14 +2580,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:328d",
-          "too_old:331d",
-          "too_old:399d",
-          "too_old:506d",
-          "too_old:588d",
-          "too_old:624d",
-          "too_old:692d",
-          "too_old:706d"
+          "too_old:329d",
+          "too_old:332d",
+          "too_old:400d",
+          "too_old:507d",
+          "too_old:589d",
+          "too_old:625d",
+          "too_old:693d",
+          "too_old:707d"
         ]
       },
       "farnamstreet": {
@@ -2702,139 +2675,71 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:300d",
-          "too_old:307d",
-          "too_old:314d",
-          "too_old:321d",
-          "too_old:896d",
-          "too_old:957d",
-          "too_old:973d",
-          "too_old:1001d"
+          "too_old:301d",
+          "too_old:308d",
+          "too_old:315d",
+          "too_old:322d",
+          "too_old:897d",
+          "too_old:958d",
+          "too_old:974d",
+          "too_old:1002d"
         ]
       },
       "dannypostmaa": {
         "ok": true,
         "partition": "ai",
-        "feed_ok": null,
+        "feed_ok": {
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
+          "type": "youtube_rss",
+          "scanned": 2
+        },
         "feeds_tried": [
           {
             "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
             "type": "youtube_rss",
-            "ok": false,
-            "error": "HTTP 404"
-          },
-          {
-            "url": "https://youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-            "type": "youtube_rss",
-            "ok": false,
-            "error": "HTTP 404"
-          },
-          {
-            "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-            "type": "youtube_rss",
-            "ok": false,
-            "error": "HTTP 404"
-          },
-          {
-            "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
-            "type": "youtube_rss",
-            "ok": false,
-            "error": "HTTP 404"
-          },
-          {
-            "url": "https://www.dannypostma.com/",
-            "type": "html_list",
-            "ok": false,
-            "error": "html_list_empty_or_blocked"
-          },
-          {
-            "url": "https://www.dannypostma.com/blog/",
-            "type": "html_list",
-            "ok": false,
-            "error": "html_list_empty_or_blocked"
-          },
-          {
-            "url": "https://www.dannypostma.com/archive",
-            "type": "html_list",
-            "ok": false,
-            "error": "html_list_empty_or_blocked"
-          },
-          {
-            "url": "https://www.dannypostma.com/archive?sort=new",
-            "type": "html_list",
-            "ok": false,
-            "error": "html_list_empty_or_blocked"
+            "ok": true,
+            "scanned": 2
           }
         ],
         "kept": 0,
-        "dropped": 0,
+        "dropped": 2,
         "fallback": true,
         "used_last_good": false,
         "html_list": null,
         "x_api": null,
-        "drop_reasons": []
+        "drop_reasons": [
+          "too_old:49d",
+          "too_old:70d"
+        ]
       },
       "damengchen": {
         "ok": true,
         "partition": "ai",
-        "feed_ok": null,
+        "feed_ok": {
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+          "type": "youtube_rss",
+          "scanned": 4
+        },
         "feeds_tried": [
           {
             "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
             "type": "youtube_rss",
-            "ok": false,
-            "error": "HTTP 404"
-          },
-          {
-            "url": "https://youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-            "type": "youtube_rss",
-            "ok": false,
-            "error": "HTTP 404"
-          },
-          {
-            "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-            "type": "youtube_rss",
-            "ok": false,
-            "error": "HTTP 404"
-          },
-          {
-            "url": "https://www.youtube.com/feeds/videos.xml/?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
-            "type": "youtube_rss",
-            "ok": false,
-            "error": "HTTP 404"
-          },
-          {
-            "url": "https://damon.vc/",
-            "type": "html_list",
-            "ok": false,
-            "error": "html_list_empty_or_blocked"
-          },
-          {
-            "url": "https://damon.vc/blog/",
-            "type": "html_list",
-            "ok": false,
-            "error": "fetch failed"
-          },
-          {
-            "url": "https://damon.vc/archive",
-            "type": "html_list",
-            "ok": false,
-            "error": "HTTP 404"
-          },
-          {
-            "url": "https://damon.vc/archive?sort=new",
-            "type": "html_list",
-            "ok": false,
-            "error": "HTTP 404"
+            "ok": true,
+            "scanned": 4
           }
         ],
         "kept": 0,
-        "dropped": 0,
+        "dropped": 4,
         "fallback": true,
         "used_last_good": false,
         "html_list": null,
         "x_api": null,
-        "drop_reasons": []
+        "drop_reasons": [
+          "too_old:965d",
+          "too_old:979d",
+          "too_old:983d",
+          "too_old:989d"
+        ]
       },
       "PutThisOn": {
         "ok": true,
@@ -2883,14 +2788,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:2481d",
-          "too_old:2564d",
-          "too_old:2767d",
-          "too_old:2831d",
-          "too_old:2838d",
-          "too_old:2845d",
-          "too_old:2852d",
-          "too_old:2926d"
+          "too_old:2482d",
+          "too_old:2565d",
+          "too_old:2768d",
+          "too_old:2832d",
+          "too_old:2839d",
+          "too_old:2846d",
+          "too_old:2853d",
+          "too_old:2927d"
         ]
       },
       "tibo_maker": {
@@ -2950,8 +2855,8 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:2147d",
-          "too_old:2321d"
+          "too_old:2148d",
+          "too_old:2322d"
         ]
       },
       "CalNewport": {
@@ -2970,17 +2875,18 @@
             "scanned": 8
           }
         ],
-        "kept": 4,
-        "dropped": 4,
+        "kept": 3,
+        "dropped": 5,
         "fallback": false,
         "used_last_good": false,
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
           "growth_politics_title",
-          "too_old:52d",
-          "too_old:59d",
-          "too_old:73d"
+          "too_old:46d",
+          "too_old:53d",
+          "too_old:60d",
+          "too_old:74d"
         ]
       },
       "naval": {
@@ -3006,14 +2912,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:112d",
-          "too_old:143d",
-          "too_old:146d",
-          "too_old:146d",
-          "too_old:148d",
-          "too_old:164d",
-          "too_old:171d",
-          "too_old:177d"
+          "too_old:113d",
+          "too_old:144d",
+          "too_old:147d",
+          "too_old:147d",
+          "too_old:149d",
+          "too_old:165d",
+          "too_old:172d",
+          "too_old:178d"
         ]
       },
       "yongfook": {
@@ -3063,41 +2969,73 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:51d",
-          "too_old:57d",
-          "too_old:64d",
-          "too_old:77d"
+          "too_old:52d",
+          "too_old:58d",
+          "too_old:65d",
+          "too_old:78d"
         ]
       },
       "RyanHoliday": {
         "ok": true,
         "partition": "growth",
-        "feed_ok": {
-          "url": "https://ryanholiday.net/feed/",
-          "type": "blog_rss",
-          "scanned": 10
-        },
+        "feed_ok": null,
         "feeds_tried": [
           {
             "url": "https://ryanholiday.net/feed/",
             "type": "blog_rss",
-            "ok": true,
-            "scanned": 10
+            "ok": false,
+            "error": "HTTP 415"
+          },
+          {
+            "url": "https://www.ryanholiday.net/feed/",
+            "type": "blog_rss",
+            "ok": false,
+            "error": "HTTP 415"
+          },
+          {
+            "url": "https://ryanholiday.net/",
+            "type": "html_list",
+            "ok": false,
+            "error": "html_list_empty_or_blocked"
+          },
+          {
+            "url": "https://ryanholiday.net/blog/",
+            "type": "html_list",
+            "ok": false,
+            "error": "html_list_empty_or_blocked"
+          },
+          {
+            "url": "https://ryanholiday.net/archive",
+            "type": "html_list",
+            "ok": false,
+            "error": "html_list_empty_or_blocked"
+          },
+          {
+            "url": "https://ryanholiday.net/archive?sort=new",
+            "type": "html_list",
+            "ok": false,
+            "error": "html_list_empty_or_blocked"
+          },
+          {
+            "url": "https://dailystoic.com/",
+            "type": "html_list",
+            "ok": false,
+            "error": "html_list_empty_or_blocked"
+          },
+          {
+            "url": "https://dailystoic.com/blog/",
+            "type": "html_list",
+            "ok": false,
+            "error": "HTTP 404"
           }
         ],
-        "kept": 5,
-        "dropped": 5,
-        "fallback": false,
+        "kept": 0,
+        "dropped": 0,
+        "fallback": true,
         "used_last_good": false,
         "html_list": null,
         "x_api": null,
-        "drop_reasons": [
-          "too_old:49d",
-          "too_old:55d",
-          "too_old:63d",
-          "too_old:77d",
-          "too_old:98d"
-        ]
+        "drop_reasons": []
       },
       "gregisenberg": {
         "ok": true,
@@ -3156,31 +3094,31 @@
         "feed_ok": {
           "url": "https://thebootstrappedfounder.com/feed/",
           "type": "blog_rss",
-          "scanned": 10
+          "scanned": 20
         },
         "feeds_tried": [
           {
             "url": "https://thebootstrappedfounder.com/feed/",
             "type": "blog_rss",
             "ok": true,
-            "scanned": 10
+            "scanned": 20
           }
         ],
         "kept": 0,
-        "dropped": 10,
+        "dropped": 20,
         "fallback": true,
         "used_last_good": false,
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:202d",
-          "too_old:216d",
-          "too_old:223d",
-          "too_old:251d",
-          "too_old:258d",
-          "too_old:265d",
-          "too_old:272d",
-          "too_old:279d"
+          "too_old:203d",
+          "too_old:217d",
+          "too_old:224d",
+          "too_old:252d",
+          "too_old:259d",
+          "too_old:266d",
+          "too_old:273d",
+          "too_old:280d"
         ]
       },
       "AliAbdaal": {
@@ -3206,14 +3144,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:624d",
-          "too_old:631d",
-          "too_old:639d",
-          "too_old:646d",
-          "too_old:654d",
-          "too_old:657d",
-          "too_old:661d",
-          "too_old:664d"
+          "too_old:625d",
+          "too_old:632d",
+          "too_old:640d",
+          "too_old:647d",
+          "too_old:655d",
+          "too_old:658d",
+          "too_old:662d",
+          "too_old:665d"
         ]
       },
       "nathanbarry": {
@@ -3301,13 +3239,13 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:46d",
           "too_old:47d",
-          "too_old:47d",
-          "too_old:47d",
-          "too_old:47d",
-          "too_old:47d",
-          "too_old:47d"
+          "too_old:48d",
+          "too_old:48d",
+          "too_old:48d",
+          "too_old:48d",
+          "too_old:48d",
+          "too_old:48d"
         ]
       },
       "nichepursuits": {
@@ -3333,14 +3271,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:50d",
-          "too_old:57d",
-          "too_old:64d",
-          "too_old:71d",
-          "too_old:78d",
-          "too_old:85d",
-          "too_old:92d",
-          "too_old:99d"
+          "too_old:51d",
+          "too_old:58d",
+          "too_old:65d",
+          "too_old:72d",
+          "too_old:79d",
+          "too_old:86d",
+          "too_old:93d",
+          "too_old:100d"
         ]
       },
       "startupsfortherestofus": {
@@ -3366,14 +3304,14 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:51d",
-          "too_old:58d",
-          "too_old:65d",
-          "too_old:72d",
-          "too_old:79d",
-          "too_old:86d",
-          "too_old:93d",
-          "too_old:100d"
+          "too_old:52d",
+          "too_old:59d",
+          "too_old:66d",
+          "too_old:73d",
+          "too_old:80d",
+          "too_old:87d",
+          "too_old:94d",
+          "too_old:101d"
         ]
       },
       "askamanager": {
@@ -3423,8 +3361,8 @@
         "html_list": null,
         "x_api": null,
         "drop_reasons": [
-          "too_old:53d",
-          "too_old:66d"
+          "too_old:54d",
+          "too_old:67d"
         ]
       },
       "artofmanliness": {
@@ -3443,7 +3381,7 @@
             "scanned": 10
           }
         ],
-        "kept": 10,
+        "kept": 9,
         "dropped": 0,
         "fallback": false,
         "used_last_good": false,
@@ -3508,6 +3446,18 @@
         "type": "blog_rss"
       },
       {
+        "handle": "dannypostmaa",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
+        "scanned": 2,
+        "type": "youtube_rss"
+      },
+      {
+        "handle": "damengchen",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMW6ar7F7IVlPNykRzzNDNA",
+        "scanned": 4,
+        "type": "youtube_rss"
+      },
+      {
         "handle": "PutThisOn",
         "url": "https://putthison.com/feed/",
         "scanned": 10,
@@ -3556,15 +3506,9 @@
         "type": "blog_rss"
       },
       {
-        "handle": "RyanHoliday",
-        "url": "https://ryanholiday.net/feed/",
-        "scanned": 10,
-        "type": "blog_rss"
-      },
-      {
         "handle": "arvidkahl",
         "url": "https://thebootstrappedfounder.com/feed/",
-        "scanned": 10,
+        "scanned": 20,
         "type": "blog_rss"
       },
       {
@@ -3640,28 +3584,15 @@
         ]
       },
       {
-        "handle": "dannypostmaa",
+        "handle": "RyanHoliday",
         "errors": [
-          "HTTP 404",
-          "HTTP 404",
-          "HTTP 404",
-          "HTTP 404",
+          "HTTP 415",
+          "HTTP 415",
           "html_list_empty_or_blocked",
           "html_list_empty_or_blocked",
           "html_list_empty_or_blocked",
-          "html_list_empty_or_blocked"
-        ]
-      },
-      {
-        "handle": "damengchen",
-        "errors": [
-          "HTTP 404",
-          "HTTP 404",
-          "HTTP 404",
-          "HTTP 404",
           "html_list_empty_or_blocked",
-          "fetch failed",
-          "HTTP 404",
+          "html_list_empty_or_blocked",
           "HTTP 404"
         ]
       },
@@ -3694,9 +3625,9 @@
         ]
       }
     ],
-    "posts_kept": 95,
-    "posts_dropped": 149,
-    "fallbacks": 15,
+    "posts_kept": 88,
+    "posts_dropped": 161,
+    "fallbacks": 16,
     "last_good_reused": 0,
     "html_list_ok": [
       {
@@ -3712,9 +3643,9 @@
     "sample_kept": [
       {
         "handle": "levelsio",
-        "title": "If you say this as a European you're instantly banished from any social setting in Western Europe",
-        "published_at": "2026-10-22T00:00:00.000Z",
-        "url": "https://levels.io/banished-for-saying-this-europe"
+        "title": "I recommend taking your VPS off the public internet with Tailscale and Cloudflare Tunnel",
+        "published_at": "2026-10-23T00:00:00.000Z",
+        "url": "https://levels.io/vps-tailscale-cloudflare-tunnel"
       },
       {
         "handle": "marc_louvion",
@@ -3760,14 +3691,14 @@
   },
   "quality": {
     "articles_in": {
-      "ai": 71,
+      "ai": 74,
       "invest": 0,
-      "growth": 60
+      "growth": 54
     },
     "posts_in": {
-      "ai": 67,
+      "ai": 69,
       "invest": 0,
-      "growth": 59
+      "growth": 53
     },
     "near_dup_drops": {
       "jobs": 0,
@@ -3782,7 +3713,8 @@
         "theory_demote": 0,
         "business_boost": 25,
         "x_bonus": 0,
-        "frames": 5
+        "frames": 5,
+        "no_business_demote": 1
       },
       "invest": {
         "dropped_technical": [],
@@ -3804,7 +3736,7 @@
     "summary_distinct_fixes": 0,
     "summary_unfaithful_rejects": 0,
     "rss_reject_reasons": {
-      "ai_no_practice_signal": 26,
+      "ai_no_practice_signal": 28,
       "growth_no_pillar": 14,
       "fetch_fail": 1
     },
@@ -3823,7 +3755,7 @@
       "by_partition": {
         "jobs": {
           "source_keep": {},
-          "decay_count": 22,
+          "decay_count": 21,
           "max_keep_drops": 0,
           "exempt": {
             "rsi": 0,
@@ -3836,7 +3768,7 @@
               "source_id": null,
               "title": "Senior Game Designer, Balancing & Economy - Unpublished R&D Product",
               "published_at": "2026-10-08T12:00:00+08:00",
-              "age_days": 14,
+              "age_days": 15,
               "penalty": 8,
               "score_before": 89,
               "score_after": 81
@@ -3846,7 +3778,7 @@
               "source_id": null,
               "title": "Game Designer, System - Unpublished R&D Product (Contract)",
               "published_at": "2026-10-08T12:00:00+08:00",
-              "age_days": 14,
+              "age_days": 15,
               "penalty": 8,
               "score_before": 87,
               "score_after": 79
@@ -3856,7 +3788,7 @@
               "source_id": null,
               "title": "System & Economy Designer (Intermediate/Senior)",
               "published_at": "2026-09-10T12:00:00+08:00",
-              "age_days": 42,
+              "age_days": 43,
               "penalty": 20,
               "score_before": 86,
               "score_after": 66
@@ -3866,7 +3798,7 @@
               "source_id": null,
               "title": "[REMOTE] Senior LiveOps Developer - Mobile Games",
               "published_at": "2026-10-12T12:00:00+08:00",
-              "age_days": 10,
+              "age_days": 11,
               "penalty": 8,
               "score_before": 82,
               "score_after": 74
@@ -3876,7 +3808,7 @@
               "source_id": null,
               "title": "Game Designer, Combat - Unpublished R&D Product (Contract)",
               "published_at": "2026-10-08T12:00:00+08:00",
-              "age_days": 14,
+              "age_days": 15,
               "penalty": 8,
               "score_before": 82,
               "score_after": 74
@@ -3886,7 +3818,7 @@
               "source_id": null,
               "title": "Senior Combat Designer [CA]",
               "published_at": "2023-02-14T12:00:00+08:00",
-              "age_days": 1346,
+              "age_days": 1347,
               "penalty": 35,
               "score_before": 80,
               "score_after": 45
@@ -3896,7 +3828,7 @@
               "source_id": null,
               "title": "Senior Game Designer - Systems & Economy - Fully Remote",
               "published_at": "2026-08-25T12:00:00+08:00",
-              "age_days": 58,
+              "age_days": 59,
               "penalty": 20,
               "score_before": 72,
               "score_after": 52
@@ -3906,27 +3838,17 @@
               "source_id": null,
               "title": "Senior Game Designer / Product Builder (AI Games)",
               "published_at": "2026-10-05T12:00:00+08:00",
-              "age_days": 17,
+              "age_days": 18,
               "penalty": 8,
               "score_before": 72,
               "score_after": 64
-            },
-            {
-              "id": "jobs-693008?gh_jid=4981693008",
-              "source_id": null,
-              "title": "Senior Economy Designer - Monster Hunter Now",
-              "published_at": "2026-08-25T12:00:00+08:00",
-              "age_days": 58,
-              "penalty": 20,
-              "score_before": 67,
-              "score_after": 47
             },
             {
               "id": "jobs-3-41a3-9eb1-7d0ac54ac89e",
               "source_id": null,
               "title": "Product Economy Manager",
               "published_at": "2026-08-09T12:00:00+08:00",
-              "age_days": 74,
+              "age_days": 75,
               "penalty": 20,
               "score_before": 67,
               "score_after": 47
@@ -3936,17 +3858,27 @@
               "source_id": null,
               "title": "Live Ops Manager - MARVEL Strike Force",
               "published_at": "2026-09-23T12:00:00+08:00",
-              "age_days": 29,
-              "penalty": 8,
+              "age_days": 30,
+              "penalty": 20,
               "score_before": 63,
-              "score_after": 55
+              "score_after": 43
             },
             {
               "id": "jobs-ition/?gh_jid=4969404101",
               "source_id": null,
               "title": "Monetization Manager",
               "published_at": "2026-09-15T12:00:00+08:00",
-              "age_days": 37,
+              "age_days": 38,
+              "penalty": 20,
+              "score_before": 63,
+              "score_after": 43
+            },
+            {
+              "id": "jobs-0-44a0-82ab-df13a7f1c5a7",
+              "source_id": null,
+              "title": "Live Ops Designer, Hay Day",
+              "published_at": "2026-07-29T12:00:00+08:00",
+              "age_days": 86,
               "penalty": 20,
               "score_before": 63,
               "score_after": 43
@@ -3956,11 +3888,11 @@
         },
         "ai": {
           "source_keep": {
-            "zh-36kr": {
+            "zh-huxiu": {
               "max_keep": 10,
-              "kept": 2,
+              "kept": 1,
               "dropped": 0,
-              "candidates": 2
+              "candidates": 1
             },
             "kol:levelsio": {
               "max_keep": 10,
@@ -3980,7 +3912,13 @@
               "dropped": 0,
               "candidates": 7
             },
-            "zh-woshipm": {
+            "ai-reddit-saas": {
+              "max_keep": 4,
+              "kept": 3,
+              "dropped": 0,
+              "candidates": 3
+            },
+            "zh-36kr": {
               "max_keep": 10,
               "kept": 3,
               "dropped": 0,
@@ -3988,9 +3926,21 @@
             },
             "zh-geekpark": {
               "max_keep": 10,
-              "kept": 2,
+              "kept": 3,
               "dropped": 0,
-              "candidates": 2
+              "candidates": 3
+            },
+            "zh-v2ex-create": {
+              "max_keep": 10,
+              "kept": 1,
+              "dropped": 0,
+              "candidates": 1
+            },
+            "zh-tmtpost": {
+              "max_keep": 10,
+              "kept": 1,
+              "dropped": 0,
+              "candidates": 1
             },
             "kol:tibo_maker": {
               "max_keep": 10,
@@ -4010,35 +3960,35 @@
               "dropped": 0,
               "candidates": 7
             },
-            "ai-reddit-saas": {
-              "max_keep": 4,
-              "kept": 4,
-              "dropped": 0,
-              "candidates": 4
-            },
             "ai-simonw-atom": {
               "max_keep": 4,
               "kept": 4,
               "dropped": 0,
               "candidates": 4
             },
-            "zh-leiphone": {
+            "zh-woshipm": {
               "max_keep": 10,
               "kept": 1,
               "dropped": 0,
               "candidates": 1
             },
-            "zh-v2ex-create": {
+            "zh-leiphone": {
               "max_keep": 10,
               "kept": 2,
               "dropped": 0,
               "candidates": 2
             },
-            "zh-tmtpost": {
-              "max_keep": 10,
-              "kept": 2,
+            "ai-reddit-era": {
+              "max_keep": 3,
+              "kept": 3,
               "dropped": 0,
-              "candidates": 2
+              "candidates": 3
+            },
+            "ai-levelsio-rss": {
+              "max_keep": 2,
+              "kept": 1,
+              "dropped": 0,
+              "candidates": 1
             },
             "kol:marc_louvion": {
               "max_keep": 10,
@@ -4047,7 +3997,7 @@
               "candidates": 1
             }
           },
-          "decay_count": 29,
+          "decay_count": 30,
           "max_keep_drops": 0,
           "exempt": {
             "rsi": 0,
@@ -4056,31 +4006,21 @@
           },
           "decay_penalties_sample": [
             {
-              "id": "ai-post-levelsio-0c165450aea8",
+              "id": "ai-post-levelsio-37617f5096a3",
               "source_id": "kol:levelsio",
-              "title": "Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling ",
-              "published_at": "2026-10-15T00:00:00.000Z",
+              "title": "I'm scrambling to chase any remaining moats as AI companies suck up everything e",
+              "published_at": "2026-10-16T00:00:00.000Z",
               "age_days": 8,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
             },
             {
-              "id": "ai-post-levelsio-37617f5096a3",
-              "source_id": "kol:levelsio",
-              "title": "I'm scrambling to chase any remaining moats as AI companies suck up everything e",
-              "published_at": "2026-10-16T00:00:00.000Z",
+              "id": "ai-post-yongfook-81ee4c76a214",
+              "source_id": "kol:yongfook",
+              "title": "How to Set Up Bannerbear MCP in Codex",
+              "published_at": "2026-10-16T05:48:00.000Z",
               "age_days": 7,
-              "penalty": 8,
-              "score_before": 68,
-              "score_after": 60
-            },
-            {
-              "id": "ai-post-tibo_maker-c88d24fb792e",
-              "source_id": "kol:tibo_maker",
-              "title": "How to make the most of AI",
-              "published_at": "2026-09-24T00:00:00.000Z",
-              "age_days": 29,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -4090,7 +4030,7 @@
               "source_id": "kol:yongfook",
               "title": "Turn Podcast Episodes into Vertical Social Clips with Bannerbear Workflows (Join",
               "published_at": "2026-09-30T03:02:00.000Z",
-              "age_days": 22,
+              "age_days": 23,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -4100,7 +4040,7 @@
               "source_id": "kol:yongfook",
               "title": "How to Automate Branded Shorts in Minutes (Bannerbear Workflows Tutorial)",
               "published_at": "2026-09-29T09:00:00.000Z",
-              "age_days": 23,
+              "age_days": 24,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -4110,7 +4050,7 @@
               "source_id": "kol:noahkagan",
               "title": "AI made my goals easier. It also killed the fun.",
               "published_at": "2026-10-15T19:11:05.000Z",
-              "age_days": 7,
+              "age_days": 8,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -4120,7 +4060,7 @@
               "source_id": "kol:nichepursuits",
               "title": "How Jason Zigelbaum Is Running a Nearly $2M ARR SaaS as a Solo Founder",
               "published_at": "2026-09-30T14:02:25.000Z",
-              "age_days": 22,
+              "age_days": 23,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -4130,7 +4070,7 @@
               "source_id": "kol:startupsfortherestofus",
               "title": "Episode 853 | How to Become the SaaS That AI Recommends",
               "published_at": "2026-10-06T10:00:45.000Z",
-              "age_days": 16,
+              "age_days": 17,
               "penalty": 8,
               "score_before": 68,
               "score_after": 60
@@ -4140,7 +4080,7 @@
               "source_id": "kol:levelsio",
               "title": "We must pace the frontier in Europe because we're advancing too fast",
               "published_at": "2026-10-16T00:00:00.000Z",
-              "age_days": 7,
+              "age_days": 8,
               "penalty": 8,
               "score_before": 60,
               "score_after": 52
@@ -4150,7 +4090,7 @@
               "source_id": "kol:tibo_maker",
               "title": "I have 200k followers on X. This is how you can too.",
               "published_at": "2026-10-15T00:00:00.000Z",
-              "age_days": 8,
+              "age_days": 9,
               "penalty": 8,
               "score_before": 60,
               "score_after": 52
@@ -4160,7 +4100,7 @@
               "source_id": "kol:tibo_maker",
               "title": "$36,000 of coaching for $0",
               "published_at": "2026-10-08T00:00:00.000Z",
-              "age_days": 15,
+              "age_days": 16,
               "penalty": 8,
               "score_before": 60,
               "score_after": 52
@@ -4170,7 +4110,17 @@
               "source_id": "kol:tibo_maker",
               "title": "Does running ads actually make money?",
               "published_at": "2026-10-01T00:00:00.000Z",
-              "age_days": 22,
+              "age_days": 23,
+              "penalty": 8,
+              "score_before": 60,
+              "score_after": 52
+            },
+            {
+              "id": "ai-post-nichepursuits-85ff28b73b05",
+              "source_id": "kol:nichepursuits",
+              "title": "How Veronica Llorca-Smith Built a Six-Figure Business With 6+ Income Streams",
+              "published_at": "2026-10-14T14:02:07.000Z",
+              "age_days": 9,
               "penalty": 8,
               "score_before": 60,
               "score_after": 52
@@ -4194,9 +4144,9 @@
           "source_keep": {
             "kol:artofmanliness": {
               "max_keep": 10,
-              "kept": 10,
+              "kept": 9,
               "dropped": 0,
-              "candidates": 10
+              "candidates": 9
             },
             "kol:developgoodhabits": {
               "max_keep": 10,
@@ -4206,9 +4156,9 @@
             },
             "kol:CalNewport": {
               "max_keep": 10,
-              "kept": 4,
+              "kept": 3,
               "dropped": 0,
-              "candidates": 4
+              "candidates": 3
             },
             "kol:bakadesuyo": {
               "max_keep": 10,
@@ -4234,12 +4184,6 @@
               "dropped": 0,
               "candidates": 5
             },
-            "kol:RyanHoliday": {
-              "max_keep": 10,
-              "kept": 5,
-              "dropped": 0,
-              "candidates": 5
-            },
             "growth-jamesclear": {
               "max_keep": 1,
               "kept": 1,
@@ -4247,12 +4191,12 @@
               "candidates": 1
             }
           },
-          "decay_count": 28,
+          "decay_count": 20,
           "max_keep_drops": 0,
           "exempt": {
             "rsi": 0,
             "seed": 3,
-            "account": 20
+            "account": 21
           },
           "decay_penalties_sample": [
             {
@@ -4260,7 +4204,7 @@
               "source_id": "kol:artofmanliness",
               "title": "3 Great-Looking Watches That Cost Under $100",
               "published_at": "2026-10-15T13:58:13.000Z",
-              "age_days": 7,
+              "age_days": 8,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -4270,7 +4214,7 @@
               "source_id": "kol:artofmanliness",
               "title": "Podcast #1,137: Brandon Flowers, Frontman of the Killers, on Family, Faith, and ",
               "published_at": "2026-10-13T12:29:52.000Z",
-              "age_days": 9,
+              "age_days": 10,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -4280,7 +4224,7 @@
               "source_id": "kol:artofmanliness",
               "title": "26 New Rules of Digital Etiquette",
               "published_at": "2026-10-12T19:49:18.000Z",
-              "age_days": 10,
+              "age_days": 11,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -4290,17 +4234,7 @@
               "source_id": "kol:artofmanliness",
               "title": "The 6 Fire Lays Every Man Should Know",
               "published_at": "2026-10-11T17:22:28.000Z",
-              "age_days": 11,
-              "penalty": 8,
-              "score_before": 55,
-              "score_after": 47
-            },
-            {
-              "id": "growth-post-artofmanliness-4b5f8815d4f0",
-              "source_id": "kol:artofmanliness",
-              "title": "Odds & Ends: October 9, 2026",
-              "published_at": "2026-10-09T18:45:26.000Z",
-              "age_days": 13,
+              "age_days": 12,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -4310,16 +4244,6 @@
               "source_id": "kol:artofmanliness",
               "title": "Podcast #1,136: Silence, Solitude, Stillness — The Spiritual Disciplines We Need",
               "published_at": "2026-10-06T16:57:36.000Z",
-              "age_days": 16,
-              "penalty": 8,
-              "score_before": 55,
-              "score_after": 47
-            },
-            {
-              "id": "growth-post-artofmanliness-dcc417ed1c69",
-              "source_id": "kol:artofmanliness",
-              "title": "Field-Tested Advice for Time-Crunched Dads",
-              "published_at": "2026-10-05T16:54:32.000Z",
               "age_days": 17,
               "penalty": 8,
               "score_before": 55,
@@ -4330,7 +4254,7 @@
               "source_id": "kol:CalNewport",
               "title": "It’s Time to Investigate the AI Labs",
               "published_at": "2026-09-28T10:00:00.000Z",
-              "age_days": 24,
+              "age_days": 25,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -4340,7 +4264,7 @@
               "source_id": "kol:bakadesuyo",
               "title": "This Is How To Get What You Want In Life: 6 Secrets To High-Agency",
               "published_at": "2026-10-11T14:59:53.000Z",
-              "age_days": 11,
+              "age_days": 12,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -4350,7 +4274,7 @@
               "source_id": "kol:bakadesuyo",
               "title": "How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory",
               "published_at": "2026-09-27T16:25:55.000Z",
-              "age_days": 25,
+              "age_days": 26,
               "penalty": 8,
               "score_before": 55,
               "score_after": 47
@@ -4360,7 +4284,7 @@
               "source_id": "kol:ScottHYoung",
               "title": "The Best Way to Take Notes",
               "published_at": "2026-10-13T22:35:17.000Z",
-              "age_days": 9,
+              "age_days": 10,
               "penalty": 8,
               "score_before": 45,
               "score_after": 37
@@ -4370,10 +4294,30 @@
               "source_id": "kol:ScottHYoung",
               "title": "The Simple Method That Boosts Memory by 50%",
               "published_at": "2026-10-06T21:33:47.000Z",
-              "age_days": 16,
+              "age_days": 17,
               "penalty": 8,
               "score_before": 45,
               "score_after": 37
+            },
+            {
+              "id": "growth-post-ScottHYoung-5e2df814d903",
+              "source_id": "kol:ScottHYoung",
+              "title": "Reach the Top 1% of Your Field (Deliberate Practice)",
+              "published_at": "2026-09-30T16:54:51.000Z",
+              "age_days": 23,
+              "penalty": 8,
+              "score_before": 45,
+              "score_after": 37
+            },
+            {
+              "id": "growth-post-bakadesuyo-bfd2f0a63be9",
+              "source_id": "kol:bakadesuyo",
+              "title": "This Is How To Find Meaning In Life: 5 Secrets From Research",
+              "published_at": "2026-09-14T02:32:39.000Z",
+              "age_days": 39,
+              "penalty": 20,
+              "score_before": 43,
+              "score_after": 23
             }
           ],
           "max_keep_drops_sample": []

@@ -1,71 +1,128 @@
 [
   {
-    "id": "ai-zh-07e736690f2c",
+    "id": "ai-community-ai-reddit-saas-c8e9e90d76c3",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "李泽湘系团队做了款贴在手机背后的墨水屏Agent，获祥峰、五源、源码等投资｜硬氪首发",
-    "summary": "Rian告诉硬氪，“AI硬件的价值不在于让用户做更多事，而在于帮用户少做无关的事 官方数据显示，自Scribe发货以来，有42%的硬件激活用户转化为Flowtica的订阅付费用户。",
-    "source": "36氪",
-    "source_url": "https://36kr.com/p/4034229489701764?f=rss",
-    "published_at": "2026-10-21 11:03:55 +0800",
+    "title": "1100+ people signed up for my transcription SaaS. 89% used it. Only 6 pay. Here's what I'm changing.",
+    "summary": "I built a tool that does transcription, subtitles, translation, editing, and formatting.",
+    "source": "r/SaaS",
+    "source_url": "https://www.reddit.com/r/SaaS/comments/1xdouvn/1100_people_signed_up_for_my_transcription_saas/",
+    "published_at": "2026-10-23T20:16:56.000Z",
     "tags": [
-      "中文",
-      "36氪"
+      "reddit",
+      "r/SaaS",
+      "做法",
+      "收入",
+      "用户/流量数",
+      "踩坑/复盘",
+      "获客渠道"
     ],
-    "score": 90,
-    "why": "看 AI 硬件订阅转化：官方称 Scribe 发货后约 42% 激活用户转为 Flowtica 付费订阅",
-    "deep_link": "https://36kr.com/p/4034229489701764?f=rss",
+    "score": 84,
+    "why": "转化率参照：转写 SaaS 自 4 月约 1000+ 注册，但只有 6 人付费（约 $48 MRR）——工具型产品别默认用户会订阅",
+    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xdouvn/1100_people_signed_up_for_my_transcription_saas/",
     "extra": {},
-    "blurb": "Rian告诉硬氪，“AI硬件的价值不在于让用户做更多事，而在于帮用户少做无关的事 官方数据显示，自Scribe发货以来，有42%的硬件激活用户转化为Flowtica的订阅付费用户。",
-    "url": "https://36kr.com/p/4034229489701764?f=rss",
-    "name": "李泽湘系团队做了款贴在手机背后的墨水屏Agent，获祥峰、五源、源码等投资｜硬氪首发",
-    "lang": "zh",
-    "posted_at": "2026-10-21",
+    "blurb": "I built a tool that does transcription, subtitles, translation, editing, and formatting.",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xdouvn/1100_people_signed_up_for_my_transcription_saas/",
+    "name": "1100+ people signed up for my transcription SaaS. 89% used it. Only 6 pay. Here's what I'm changing.",
+    "lang": "EN",
+    "posted_at": "2026-10-23",
     "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-36kr",
-    "zh_reader": {
-      "verdict": "worth",
-      "use": "解决：Rian告诉硬氪，“AI硬件的价值不在于让用户做更多事，而在于帮用户少做无关的事；模式/数字：官方数据显示，自Scribe发货以来，有42%的硬件激活用户转化为Flowtica的订阅付费用户。",
-      "lines": {
-        "model": "怎么赚钱：官方数据显示，自Scribe发货以来，有42%的硬件激活用户转化为Flowtica的订阅付费用户。",
-        "problem": "解决：Rian告诉硬氪，“AI硬件的价值不在于让用户做更多事，而在于帮用户少做无关的事"
-      },
-      "evidence": [
-        "Rian告诉硬氪，“AI硬件的价值不在于让用户做更多事，而在于帮用户少做无关的事",
-        "官方数据显示，自Scribe发货以来，有42%的硬件激活用户转化为Flowtica的订阅付费用户。",
-        "42%"
-      ],
-      "point": "李泽湘系团队做了款贴在手机背后的墨水屏Agent，获祥峰、五源、源码等投资｜硬…"
-    },
-    "title_orig": "李泽湘系团队做了款贴在手机背后的墨水屏Agent，获祥峰、五源、源码等投资｜硬氪首发",
-    "source_excerpt": "Rian告诉硬氪，“AI硬件的价值不在于让用户做更多事，而在于帮用户少做无关的事 官方数据显示，自Scribe发货以来，有42%的硬件激活用户转化为Flowtica的订阅付费用户。 作者｜黄楠 编辑｜袁斯来 硬氪获悉，「Flowtica AI」日前已完成新一轮数千万元融资，投资方为祥峰资本、源码资本、五源资本、清水湾基金。山与资本担任独家财务顾问。 过去两年，AI硬件赛道经历了一轮密集的产品迭代。录音卡、翻译耳机、AI眼镜等，几乎每一个能够被大模型增强的物理形态，都有团队在尝试。 而一个尴尬的事实是：AI的能力边界在快速扩张，但普通用户调动它的效率并没有同步提升。用户依然需要主动打开App、输入指令、复制粘贴结果。AI在云端飞速进化，但落到真实工作流里，仍然隔着一段很长的操作路径。 Codex+ChatGPT Work周活跃用户增长曲线（图源/Open AI公开数据整理） Flowtica最早切入的，正是这段路径里最具体的一环—",
-    "_score_raw": 80,
+    "_origin": "community_rss",
+    "_source_id": "ai-reddit-saas",
+    "title_orig": "1100+ people signed up for my transcription SaaS. 89% used it. Only 6 pay. Here's what I'm changing.",
+    "source_excerpt": "I built a tool that does transcription, subtitles, translation, editing, and formatting. The product solves their immediate problem, but that doesn't mean they need a subscription. 6 paying subscribers, approximately $48 MRR. Around 1,000 signups since April. (Rest from Linkedin, X, ChatGPT, Directories etc) I'll share the results after November 14, including what failed.",
+    "_feed_type": "reddit_rss",
+    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+    "_score_raw": 74,
     "_decay_penalty": 0,
     "_decay_exempt": null,
     "_ai_business": true,
     "_practical_delta": 10,
-    "summary_zh": "Rian告诉硬氪，“AI硬件的价值不在于让用户做更多事，而在于帮用户少做无关的事 官方数据显示，自Scribe发货以来，有42%的硬件激活用户转化为Flowtica的订阅付费用户。",
+    "summary_zh": "I built a tool that does transcription, subtitles, translation, editing, and formatting.",
     "highlights": [
-      "作者｜黄楠 编辑｜袁斯来 硬氪获悉，「Flowtica…",
-      "山与资本担任独家财务顾问。",
-      "过去两年，AI硬件赛道经历了一轮密集的产品迭代。"
+      "The product solves their immediate problem…",
+      "(Rest from Linkedin, X, ChatGPT…"
     ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "worth",
-      "use": "看 AI 硬件订阅转化：官方称 Scribe 发货后约 42% 激活用户转为 Flowtica 付费订阅",
+      "use": "转化率参照：转写 SaaS 自 4 月约 1000+ 注册，但只有 6 人付费（约 $48 MRR）——工具型产品别默认用户会订阅",
       "lines": {
-        "model": "怎么赚钱：官方数据显示，自Scribe发货以来，有42%的硬件激活用户转化为Flowtica的订阅付费用户。",
-        "problem": "解决：Rian告诉硬氪，“AI硬件的价值不在于让用户做更多事，而在于帮用户少做无关的事"
+        "problem": "原帖这样描述：「I built a tool that does transcription, subtitles, translation, editing, and formatting.」",
+        "model": "原帖写到：「The product solves their immediate problem, but that doesn't mean they need a subscription.」",
+        "value": "作者自述收入「$48 MRR」；数据「6 paying subscribers」；获客渠道「Linkedin」；踩坑/复盘「what failed」",
+        "note": "数字均为发帖人自述，未经核实"
       },
       "evidence": [
-        "Rian告诉硬氪，“AI硬件的价值不在于让用户做更多事，而在于帮用户少做无关的事",
-        "官方数据显示，自Scribe发货以来，有42%的硬件激活用户转化为Flowtica的订阅付费用户。",
-        "42%"
+        "I built a tool that does transcription, subtitles, translation, editing, and formatting.",
+        "The product solves their immediate problem, but that doesn't mean they need a subscription.",
+        "$48 MRR",
+        "6 paying subscribers",
+        "Linkedin",
+        "what failed",
+        "6 paying subscribers, approximately $48 MRR. Around 1,000 signups since April."
       ],
-      "point": "李泽湘系团队做了款贴在手机背后的墨水屏Agent，获祥峰、五源、源码等投资｜硬…",
+      "point": "AI副业：自述收入 $48 MRR，渠道 Linkedin",
+      "verdict_label": "值得看",
+      "title": ""
+    }
+  },
+  {
+    "id": "ai-community-ai-reddit-era-7d68f8378afd",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "My solo iOS app since August: 65 people hit the paywall, 5 paid, 4 left. The one who stayed never opens the app",
+    "summary": "In total the app has made about $78 on the App Store.",
+    "source": "r/EntrepreneurRideAlong",
+    "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xddzfd/my_solo_ios_app_since_august_65_people_hit_the/",
+    "published_at": "2026-10-23T13:25:45.000Z",
+    "tags": [
+      "reddit",
+      "r/EntrepreneurRideAlong",
+      "定价",
+      "收入"
+    ],
+    "score": 72,
+    "why": "付费墙样本：solo iOS app 65 人看到付费墙、5 人付费、4 人流失，$5/月起，App Store 累计约 $78",
+    "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xddzfd/my_solo_ios_app_since_august_65_people_hit_the/",
+    "extra": {},
+    "blurb": "In total the app has made about $78 on the App Store.",
+    "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xddzfd/my_solo_ios_app_since_august_65_people_hit_the/",
+    "name": "My solo iOS app since August: 65 people hit the paywall, 5 paid, 4 left. The one who stayed never opens the app",
+    "lang": "EN",
+    "posted_at": "2026-10-23",
+    "evidence_missing": false,
+    "_origin": "community_rss",
+    "_source_id": "ai-reddit-era",
+    "title_orig": "My solo iOS app since August: 65 people hit the paywall, 5 paid, 4 left. The one who stayed never opens the app",
+    "source_excerpt": "It starts at $5/month. In total the app has made about $78 on the App Store.",
+    "_feed_type": "reddit_rss",
+    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+    "_score_raw": 62,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_ai_business": true,
+    "_practical_delta": 10,
+    "summary_zh": "In total the app has made about $78 on the App Store.",
+    "highlights": [],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "worth",
+      "use": "付费墙样本：solo iOS app 65 人看到付费墙、5 人付费、4 人流失，$5/月起，App Store 累计约 $78",
+      "lines": {
+        "model": "原帖写到：「It starts at $5/month.」",
+        "value": "作者自述收入「$78」；定价「$5/month」",
+        "note": "数字均为发帖人自述，未经核实"
+      },
+      "evidence": [
+        "It starts at $5/month.",
+        "$78",
+        "$5/month",
+        "It starts at $5/month. In total the app has made about $78 on the App Store."
+      ],
+      "point": "AI副业：自述收入 $78",
       "verdict_label": "值得看",
       "title": ""
     }
@@ -149,6 +206,74 @@
     }
   },
   {
+    "id": "ai-zh-5c8b0b517851",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "巨头们的新战役：抬高AI制药，抢占AI4S",
+    "summary": "晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决 本文来自微信公众号： 潮涌AI ，作者：潮涌AI编辑部 10月20日，OpenAI在官网上挂出一则简短的收购公告，对象是一家叫Orchestra Bio的公司。",
+    "source": "虎嗅",
+    "source_url": "https://www.huxiu.com/article/4900070.html?f=rss",
+    "published_at": "Sat, 24 Oct 2026 07:15:58 +0800",
+    "tags": [
+      "中文",
+      "虎嗅"
+    ],
+    "score": 90,
+    "why": "AI 制药赛道行情：晶泰科技上半年收入 3.94 亿元，文中还列了 Anthropic 约 $4 亿收购 Coefficient Bio 等巨头布局",
+    "deep_link": "https://www.huxiu.com/article/4900070.html?f=rss",
+    "extra": {},
+    "blurb": "晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决 本文来自微信公众号： 潮涌AI ，作者：潮涌AI编辑部 10月20日，OpenAI在官网上挂出一则简短的收购公告，对象是一家叫Orchestra Bio的公司。",
+    "url": "https://www.huxiu.com/article/4900070.html?f=rss",
+    "name": "巨头们的新战役：抬高AI制药，抢占AI4S",
+    "lang": "zh",
+    "posted_at": "Sat, 24 Oc",
+    "evidence_missing": false,
+    "_origin": "zh_media",
+    "_source_id": "zh-huxiu",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "模式/数字：晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决",
+      "lines": {
+        "model": "怎么赚钱：晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决"
+      },
+      "evidence": [
+        "晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决",
+        "3.94亿元"
+      ],
+      "point": "巨头们的新战役：抬高AI制药，抢占AI4S"
+    },
+    "title_orig": "巨头们的新战役：抬高AI制药，抢占AI4S",
+    "source_excerpt": "晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决 本文来自微信公众号： 潮涌AI ，作者：潮涌AI编辑部 10月20日，OpenAI在官网上挂出一则简短的收购公告，对象是一家叫Orchestra Bio的公司。 这家公司成立四年，公开融资约2000万美元，专做帮药企协调药物开发流程的AI agent，不设计分子，也不做临床，交易金额没有披露。 把这笔交易和今年的其他投资动作放在一起，不难看出巨头集体下场AI制药的趋势。 先看海外，4月，Anthropic花约4亿美元股票买下Coefficient Bio，一家成立八个月、团队十个人左右的AI药物发现公司；5月，谷歌旗下的Isomorphic Labs完成21亿美元B轮融资，10月又传出正在以400到500亿美元的估值谈新一轮。 再看国内，9月，字节分拆出去的Anew Labs完成2.9亿美元首轮融资，投后估值15亿美元；腾讯则在2月公开了一项由AI设计的GLP-1短肽专",
+    "_score_raw": 80,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_ai_business": true,
+    "_practical_delta": 10,
+    "summary_zh": "晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决 本文来自微信公众号： 潮涌AI ，作者：潮涌AI编辑部 10月20日，OpenAI在官网上挂出一则简短的收购公告，对象是一家叫Orchestra Bio的公司。",
+    "highlights": [
+      "这家公司成立四年，公开融资约2000万美元，专做帮药企协调药物开发流程的AI…",
+      "把这笔交易和今年的其他投资动作放在一起，不难看出巨头集体下场AI制药的趋势。",
+      "先看海外，4月，Anthropic花约4亿美元股票买下Coefficient…"
+    ],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "save",
+      "use": "AI 制药赛道行情：晶泰科技上半年收入 3.94 亿元，文中还列了 Anthropic 约 $4 亿收购 Coefficient Bio 等巨头布局",
+      "lines": {
+        "model": "怎么赚钱：晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决"
+      },
+      "evidence": [
+        "晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决",
+        "3.94亿元",
+        "4月，Anthropic花约4亿美元股票买下Coefficient Bio，一家成立八个月、团队十个人左右的AI药物发现公司"
+      ],
+      "point": "巨头们的新战役：抬高AI制药，抢占AI4S",
+      "verdict_label": "收藏",
+      "title": ""
+    }
+  },
+  {
     "id": "ai-post-startupsfortherestofus-244b93751ec1",
     "partition": "ai",
     "type": "post",
@@ -212,6 +337,142 @@
           "quote": "10 ways"
         }
       ],
+      "verdict_label": "收藏",
+      "title": ""
+    }
+  },
+  {
+    "id": "ai-zh-357cdbaff607",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "智元两年投出47笔融资，多数投给了自家机器人的上游",
+    "summary": "启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。",
+    "source": "钛媒体",
+    "source_url": "https://www.tmtpost.com/8178163.html",
+    "published_at": "Fri, 23 Oct 2026 18:19:48 +0800",
+    "tags": [
+      "中文",
+      "钛媒体"
+    ],
+    "score": 82,
+    "why": "具身智能产业链打法：智元 2024.8–2026.10 作为投资方出现在 47 起投融资事件，多投自家整机上游；旗下启元Q1/T1 定价 19999 元起",
+    "deep_link": "https://www.tmtpost.com/8178163.html",
+    "extra": {},
+    "blurb": "启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。",
+    "url": "https://www.tmtpost.com/8178163.html",
+    "name": "智元两年投出47笔融资，多数投给了自家机器人的上游",
+    "lang": "zh",
+    "posted_at": "Fri, 23 Oc",
+    "evidence_missing": false,
+    "_origin": "zh_media",
+    "_source_id": "zh-tmtpost",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "模式/数字：启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。",
+      "lines": {
+        "model": "怎么赚钱：启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。"
+      },
+      "evidence": [
+        "启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。",
+        "19999元"
+      ],
+      "point": "智元两年投出47笔融资，多数投给了自家机器人的上游"
+    },
+    "title_orig": "智元两年投出47笔融资，多数投给了自家机器人的上游",
+    "source_excerpt": "启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。 （本文作者为 财能圈，钛媒体经授权发布） 文 | 财能圈 10月20日，具身智能芯片公司芯际无限完成Pre-A轮融资。智元联合安徽省汽车创新中心、国元股权、合肥包河创投等现身投资方名单，融资金额未披露。 金额没有公开，但投资方的位置更值得琢磨。据科创板日报引用相关数据显示，2024年8月至2026年10月，智元作为投资方出现在47起投融资事件中，多集中在早期、小体量、位于智元整机上游的关键节点。需要说明的是，47起为事件数，同一公司的多轮融资被分别计数。 一家成立三年多的机器人公司，以这个密度对外投资，在具身智能赛道并不多见。操盘这套打法的人，是从华为计算产品线走出来的邓泰华。 操盘手是来自华为的&ldquo;老炮&rdquo; 资料显示，邓泰华1995年考入电子科技大学，就读计算机通信（信息与通信工程）专业",
+    "_score_raw": 72,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_ai_business": true,
+    "_practical_delta": 10,
+    "summary_zh": "启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。",
+    "highlights": [
+      "（本文作者为 财能圈，钛媒体经授权发布） 文 | 财能圈 10月20日，具身智能芯片公司芯际无限完成Pre-A轮融资。",
+      "智元联合安徽省汽车创新中心、国元股权、合肥包河创投等现身投资方名单，融资金额未披露。",
+      "金额没有公开，但投资方的位置更值得琢磨。"
+    ],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "save",
+      "use": "具身智能产业链打法：智元 2024.8–2026.10 作为投资方出现在 47 起投融资事件，多投自家整机上游；旗下启元Q1/T1 定价 19999 元起",
+      "lines": {
+        "model": "怎么赚钱：启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。"
+      },
+      "evidence": [
+        "启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。",
+        "19999元",
+        "2024年8月至2026年10月，智元作为投资方出现在47起投融资事件中，多集中在早期、小体量、位于智元整机上游的关键节点。"
+      ],
+      "point": "智元两年投出47笔融资，多数投给了自家机器人的上游",
+      "verdict_label": "收藏",
+      "title": ""
+    }
+  },
+  {
+    "id": "ai-zh-7c86d2a7b9c3",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "AI房产经纪人，第一单成交了",
+    "summary": "这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。",
+    "source": "36氪",
+    "source_url": "https://36kr.com/p/4037778327720835?f=rss",
+    "published_at": "2026-10-23 09:21:49 +0800",
+    "tags": [
+      "中文",
+      "36氪"
+    ],
+    "score": 82,
+    "why": "AI 替代中介的模式样本：珠海一套 195 万元二手房由 AI 经纪人撮合成交，不收佣金，省下约 4 万元中介费",
+    "deep_link": "https://36kr.com/p/4037778327720835?f=rss",
+    "extra": {},
+    "blurb": "这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。",
+    "url": "https://36kr.com/p/4037778327720835?f=rss",
+    "name": "AI房产经纪人，第一单成交了",
+    "lang": "zh",
+    "posted_at": "2026-10-23",
+    "evidence_missing": false,
+    "_origin": "zh_media",
+    "_source_id": "zh-36kr",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "模式/数字：这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。",
+      "lines": {
+        "model": "怎么赚钱：这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。"
+      },
+      "evidence": [
+        "这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。",
+        "4万元"
+      ],
+      "point": "AI房产经纪人，第一单成交了"
+    },
+    "title_orig": "AI房产经纪人，第一单成交了",
+    "source_excerpt": "这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。 10月15日，卖方王女士和买方刘先生正式签订了珠海华发新城6期一套二手房的买卖合同，然后顺利办理过户手续。这套总价195万元的房子买卖，是国内AI经纪人主导的第一单交易。 这笔交易的线上挂牌、客户匹配、房源验真、输出小区成交参考价、线上议价等交易核心环节全由AI经纪人“易居小新”提供服务，真人只出现在线下实地带看、专业合同鉴证、过户服务等环节。 这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。 从“辅助”角色到真正站到了交易撮合的核心位置，AI终于迈出了关键一步。 当前国内房产经纪领域的AI应用分为两条完全不同路线。主流模式是AI作为提升效率和服务的工具，辅助经纪人作业。AI是中介的外挂，不改变原有商业模式，佣金规则不变，交易决策权",
+    "_score_raw": 72,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_ai_business": true,
+    "_practical_delta": 10,
+    "summary_zh": "这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。",
+    "highlights": [
+      "10月15日，卖方王女士和买方刘先生正式签订了珠海华发新城6期一套二手房的买卖合同，然后顺利办理过户手续。",
+      "这套总价195万元的房子买卖，是国内AI经纪人主导的第一单交易。",
+      "这笔交易的线上挂牌、客户匹配、房源验真、输出小区成交参考价、线上议价等交易核心环节全由AI经纪人“易居小新”提供服务…"
+    ],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "save",
+      "use": "AI 替代中介的模式样本：珠海一套 195 万元二手房由 AI 经纪人撮合成交，不收佣金，省下约 4 万元中介费",
+      "lines": {
+        "model": "怎么赚钱：这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。"
+      },
+      "evidence": [
+        "这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。",
+        "4万元",
+        "这套总价195万元的房子买卖，是国内AI经纪人主导的第一单交易。"
+      ],
+      "point": "AI房产经纪人，第一单成交了",
       "verdict_label": "收藏",
       "title": ""
     }
@@ -356,124 +617,269 @@
     }
   },
   {
-    "id": "ai-community-ai-reddit-saas-3f929a5778a6",
+    "id": "ai-community-ai-reddit-saas-56c78aaea365",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "I made my free trial card-required and it almost doubled my sales",
-    "summary": "On top of that most of my traffic was coming from SEO, which brought 15-20 signups a day but only 2-3 of them were my ICP",
+    "title": "4 reasons a SaaS stays stuck under 20 customers",
+    "summary": "test: how many days between signup and the moment someone feels the product worked? if its more than one day thats where your churn comes from.",
     "source": "r/SaaS",
-    "source_url": "https://www.reddit.com/r/SaaS/comments/1xcimzs/i_made_my_free_trial_cardrequired_and_it_almost/",
-    "published_at": "2026-10-22T13:30:45.000Z",
+    "source_url": "https://www.reddit.com/r/SaaS/comments/1xdhawx/4_reasons_a_saas_stays_stuck_under_20_customers/",
+    "published_at": "2026-10-23T15:32:54.000Z",
     "tags": [
       "reddit",
       "r/SaaS",
       "用户/流量数",
-      "获客渠道"
+      "踩坑/复盘"
     ],
-    "score": 77,
-    "why": "可直接试的定价打法：作者把免费试用改为必须绑卡，销量近乎翻倍；此前 SEO 每天 15–20 个注册里只有 2–3 个是目标客户",
-    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xcimzs/i_made_my_free_trial_cardrequired_and_it_almost/",
+    "score": 74,
+    "why": "SaaS 卡在 20 个客户以下时对照看：帖子列 4 个原因，比如从注册到感到产品有用超过 1 天就会流失",
+    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xdhawx/4_reasons_a_saas_stays_stuck_under_20_customers/",
     "extra": {},
-    "blurb": "On top of that most of my traffic was coming from SEO, which brought 15-20 signups a day but only 2-3 of them were my ICP",
-    "url": "https://www.reddit.com/r/SaaS/comments/1xcimzs/i_made_my_free_trial_cardrequired_and_it_almost/",
-    "name": "I made my free trial card-required and it almost doubled my sales",
+    "blurb": "test: how many days between signup and the moment someone feels the product worked? if its more than one day thats where your churn comes from.",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xdhawx/4_reasons_a_saas_stays_stuck_under_20_customers/",
+    "name": "4 reasons a SaaS stays stuck under 20 customers",
     "lang": "EN",
-    "posted_at": "2026-10-22",
+    "posted_at": "2026-10-23",
     "evidence_missing": false,
     "_origin": "community_rss",
     "_source_id": "ai-reddit-saas",
-    "title_orig": "I made my free trial card-required and it almost doubled my sales",
-    "source_excerpt": "On top of that most of my traffic was coming from SEO, which brought 15-20 signups a day but only 2-3 of them were my ICP",
+    "title_orig": "4 reasons a SaaS stays stuck under 20 customers",
+    "source_excerpt": "test: how many days between signup and the moment someone feels the product worked? if its more than one day thats where your churn comes from. “freelance designers with 3 to 8 clients a month who chase late payments” is a person and you know what to say to them.",
     "_feed_type": "reddit_rss",
     "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-    "_score_raw": 67,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "On top of that most of my traffic was coming from SEO, which brought 15-20 signups a day but only 2-3 of them were my ICP",
-    "highlights": [],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "可直接试的定价打法：作者把免费试用改为必须绑卡，销量近乎翻倍；此前 SEO 每天 15–20 个注册里只有 2–3 个是目标客户",
-      "lines": {
-        "value": "数据「20 signups」；获客渠道「SEO」",
-        "note": "数字均为发帖人自述，未经核实"
-      },
-      "evidence": [
-        "20 signups",
-        "SEO"
-      ],
-      "point": "AI副业：数据 20 signups，渠道 SEO",
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-zh-dd1153f2bb8f",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "从找场景到做 Skill：AI 赋能落地的一套拆解方法",
-    "summary": "直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM 直播里被问最多的两个问题：找不到能上 AI 的场景，场景塞过来又不知道怎么拆。",
-    "source": "人人都是产品经理",
-    "source_url": "https://www.woshipm.com/ai/6482891.html",
-    "published_at": "Thu, 22 Oct 2026 09:55:04 +0000",
-    "tags": [
-      "中文",
-      "人人都是产品经理"
-    ],
-    "score": 74,
-    "why": "可照做的拆解法：用销售线索分层示例，AI 两分钟拆出 12 个节点（读 Excel→校验→打分→SLA 分级→回写 CRM），适合套到自己的重复流程",
-    "deep_link": "https://www.woshipm.com/ai/6482891.html",
-    "extra": {},
-    "blurb": "直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM 直播里被问最多的两个问题：找不到能上 AI 的场景，场景塞过来又不知道怎么拆。",
-    "url": "https://www.woshipm.com/ai/6482891.html",
-    "name": "从找场景到做 Skill：AI 赋能落地的一套拆解方法",
-    "lang": "zh",
-    "posted_at": "Thu, 22 Oc",
-    "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-woshipm",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "原文数字：直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM",
-      "lines": {
-        "fact": "原文数字：直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM"
-      },
-      "evidence": [
-        "直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM",
-        "12 个"
-      ],
-      "point": "从找场景到做 Skill：AI 赋能落地的一套拆解方法"
-    },
-    "title_orig": "从找场景到做 Skill：AI 赋能落地的一套拆解方法",
-    "source_excerpt": "直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM 直播里被问最多的两个问题：找不到能上 AI 的场景，场景塞过来又不知道怎么拆。这篇把方法捋成文字版，先判断环节适不适合 AI，再拆成 IPO 原子化节点，最后决定哪些做成 Skill。 昨晚直播讲了两个多小时 AI 赋能怎么落地，这篇是整理后的文字版。 全文由 MiMo 基于录音妙记撰写整理，可能有未修正的转录错别字，我通读了一遍问题不大。 直播里被问得最多的就两个问题：找不到可以引入 AI 的场景；场景被塞过来，不知道怎么拆。 下面按直播的顺序把方法捋成文字。 给业务加 AI，不用先做一个 AI 产品 2025 年还常见的做法，是拿一个场景做成应用：搭个 Dify 工作流，包一层界面，交给业务用。今天没必要这么做了。 更好的策略是给员",
     "_score_raw": 64,
     "_decay_penalty": 0,
     "_decay_exempt": null,
     "_ai_business": true,
     "_practical_delta": 10,
-    "summary_zh": "直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM 直播里被问最多的两个问题：找不到能上 AI 的场景，场景塞过来又不知道怎么拆。",
+    "summary_zh": "test: how many days between signup and the moment someone feels the product worked? if its more than one day thats where your churn comes from.",
     "highlights": [
-      "这篇把方法捋成文字版，先判断环节适不适合 AI，再拆成 IPO 原子化节点，最后决定哪些做成 Skill。",
-      "昨晚直播讲了两个多小时 AI 赋能怎么落地，这篇是整理后的文字版。",
-      "全文由 MiMo 基于录音妙记撰写整理，可能有未修正的转录错别字，我通读了一遍问题不大。"
+      "“freelance designers with 3 to 8 clients a month who chase…"
     ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "可照做的拆解法：用销售线索分层示例，AI 两分钟拆出 12 个节点（读 Excel→校验→打分→SLA 分级→回写 CRM），适合套到自己的重复流程",
+      "use": "SaaS 卡在 20 个客户以下时对照看：帖子列 4 个原因，比如从注册到感到产品有用超过 1 天就会流失",
       "lines": {
-        "fact": "原文数字：直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM"
+        "value": "数据「20 customers」；踩坑/复盘「churn」",
+        "note": "数字均为发帖人自述，未经核实"
       },
       "evidence": [
-        "直播里我拿销售线索分层演示了一遍，AI 两分钟拆出 12 个节点：读 Excel、字段校验、缺失字段丢给人补全、抽取线索信息、权重打分、SLA 分级、映射到销售、输出跟进建议、组装回写 CRM",
-        "12 个"
+        "20 customers",
+        "churn"
       ],
-      "point": "从找场景到做 Skill：AI 赋能落地的一套拆解方法",
+      "point": "AI副业：数据 20 customers",
+      "verdict_label": "收藏",
+      "title": ""
+    }
+  },
+  {
+    "id": "ai-zh-654789075b86",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元",
+    "summary": "目前，不少AI眼镜上的摄像头主要承担多模态感知的功能，帮助AI看见了用户面前的物 产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元。",
+    "source": "36氪",
+    "source_url": "https://36kr.com/p/4037858588284034?f=rss",
+    "published_at": "2026-10-23 10:43:56 +0800",
+    "tags": [
+      "中文",
+      "36氪"
+    ],
+    "score": 74,
+    "why": "AI 硬件众筹参照：前 OPPO 团队做的 AI 旅行眼镜众筹超 $40 万，切的是旅行这个具体付费场景",
+    "deep_link": "https://36kr.com/p/4037858588284034?f=rss",
+    "extra": {},
+    "blurb": "目前，不少AI眼镜上的摄像头主要承担多模态感知的功能，帮助AI看见了用户面前的物 产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元。",
+    "url": "https://36kr.com/p/4037858588284034?f=rss",
+    "name": "产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元",
+    "lang": "zh",
+    "posted_at": "2026-10-23",
+    "evidence_missing": false,
+    "_origin": "zh_media",
+    "_source_id": "zh-36kr",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "解决：目前，不少AI眼镜上的摄像头主要承担多模态感知的功能，帮助AI看见了用户面前的物；数字：产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元。",
+      "lines": {
+        "fact": "原文数字：产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元。",
+        "problem": "解决：目前，不少AI眼镜上的摄像头主要承担多模态感知的功能，帮助AI看见了用户面前的物"
+      },
+      "evidence": [
+        "目前，不少AI眼镜上的摄像头主要承担多模态感知的功能，帮助AI看见了用户面前的物",
+        "产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元。",
+        "40万美元"
+      ],
+      "point": "产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元"
+    },
+    "title_orig": "产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元",
+    "source_excerpt": "目前，不少AI眼镜上的摄像头主要承担多模态感知的功能，帮助AI看见了用户面前的物 产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元。 作者 | 邱晓芬 编辑 | 袁斯来 过去几年，AI眼镜称得上消费电子行业里最跌宕起伏的品类之一。 它最初沿着AR方向前进，显示、光波导和空间计算被视为通往下一代计算平台的必经之路，但重量、功耗、成本和量产难度很快构成现实约束。生成式AI兴起后，眼镜又被包装成“随身Agent”和“全天候感知入口”，甚至被赋予替代手机的想象。 如今，行业的几条路线仍在同时演进。Meta已经从无显示的拍摄类智能眼镜，进一步推出带显示和腕带交互的Meta Ray-Ban Display；Google也宣布，搭载Gemini的智能眼镜计划于2026年秋季推出。 对于资源有限的创业公司而言，一个更现实的问题是：应该追逐一副无所不能的通用眼镜，还是先找到一个用户愿意付费的具体场景？ 深圳艾普梦光学科技有限公司（下称",
+    "_score_raw": 64,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_ai_business": true,
+    "_practical_delta": 10,
+    "summary_zh": "目前，不少AI眼镜上的摄像头主要承担多模态感知的功能，帮助AI看见了用户面前的物 产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元。",
+    "highlights": [
+      "作者 | 邱晓芬 编辑 | 袁斯来 过去几年，AI眼镜称得上消费电子行业里最跌宕起伏的品类之一。",
+      "它最初沿着AR方向前进，显示、光波导和空间计算被视为通往下一代计算平台的必经之路，但重量、功耗、成本和量产难度很快构成…",
+      "生成式AI兴起后，眼镜又被包装成“随身Agent”和“全天候感知入口”，甚至被赋予替代手机的想象。"
+    ],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "save",
+      "use": "AI 硬件众筹参照：前 OPPO 团队做的 AI 旅行眼镜众筹超 $40 万，切的是旅行这个具体付费场景",
+      "lines": {
+        "fact": "原文数字：产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元。",
+        "problem": "解决：目前，不少AI眼镜上的摄像头主要承担多模态感知的功能，帮助AI看见了用户面前的物"
+      },
+      "evidence": [
+        "目前，不少AI眼镜上的摄像头主要承担多模态感知的功能，帮助AI看见了用户面前的物",
+        "产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元。",
+        "40万美元"
+      ],
+      "point": "产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元",
+      "verdict_label": "收藏",
+      "title": ""
+    }
+  },
+  {
+    "id": "ai-zh-22157d23f01e",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "“AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家",
+    "summary": "薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转 AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。",
+    "source": "雷峰网",
+    "source_url": "https://www.leiphone.com/category/industrynews/tZI7pYBhiFduVfr6.html",
+    "published_at": "Fri, 23 Oct 2026 10:43:00 +0800",
+    "tags": [
+      "中文",
+      "雷峰网"
+    ],
+    "score": 74,
+    "why": "看大平台怎么用 AI 帮商家增长：美团外卖「AI 店长」让部分试用商家增长超 30%，将免费赠送全国商家",
+    "deep_link": "https://www.leiphone.com/category/industrynews/tZI7pYBhiFduVfr6.html",
+    "extra": {},
+    "blurb": "薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转 AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。",
+    "url": "https://www.leiphone.com/category/industrynews/tZI7pYBhiFduVfr6.html",
+    "name": "“AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家",
+    "lang": "zh",
+    "posted_at": "Fri, 23 Oc",
+    "evidence_missing": false,
+    "_origin": "zh_media",
+    "_source_id": "zh-leiphone",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "解决：薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转；数字：AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。",
+      "lines": {
+        "fact": "原文数字：AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。",
+        "problem": "解决：薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转"
+      },
+      "evidence": [
+        "薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转",
+        "AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。",
+        "30%"
+      ],
+      "point": "“AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家"
+    },
+    "title_orig": "“AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家",
+    "source_excerpt": "薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转 AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。 10月22日，在2026年美团外卖产业大会上，美团正式发布“妙手外卖版·袋鼠管家”。美团外卖总经理薛冰宣布，将向全国餐饮商家免费提供一个懂外卖经营的“AI店长”。 大会披露的数据显示，2026年上半年餐饮商家的外卖营收增速超过全国餐饮平均营收，薛冰表示，“外卖行业进入积极向好，美团将帮助商家做好店型、运营、产品创新，实现更有含金量的增长”。 据悉，“妙手外卖版”是美团外卖近期为商家研发的AI经营产品，能力覆盖经营诊断、门店巡检、商品运营、新店运营等核心场景，能结合美团和商家数据提供分析与建议，并协助商家执行、跟进结果。 此前，已有数万中小商家将“妙手外卖版”率先用于日常经营。河北元氏县一家鸡公煲店铺通过“妙手外卖版”进行店铺诊断，在调整菜单、优化活动后，周订单量环比上涨超3",
+    "_score_raw": 64,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_ai_business": true,
+    "_practical_delta": 10,
+    "summary_zh": "薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转 AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。",
+    "highlights": [
+      "10月22日，在2026年美团外卖产业大会上，美团正式发布“妙手外卖版·袋鼠管家”。",
+      "美团外卖总经理薛冰宣布，将向全国餐饮商家免费提供一个懂外卖经营的“AI店长”。",
+      "大会披露的数据显示，2026年上半年餐饮商家的外卖营收增速超过全国餐饮平均营收，薛冰表示，“外卖行业进入积极向好，美团…"
+    ],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "save",
+      "use": "看大平台怎么用 AI 帮商家增长：美团外卖「AI 店长」让部分试用商家增长超 30%，将免费赠送全国商家",
+      "lines": {
+        "fact": "原文数字：AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。",
+        "problem": "解决：薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转"
+      },
+      "evidence": [
+        "薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转",
+        "AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。",
+        "30%"
+      ],
+      "point": "“AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家",
+      "verdict_label": "收藏",
+      "title": ""
+    }
+  },
+  {
+    "id": "ai-zh-88bea5674c78",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "硬氪首发丨理想AI眼镜操盘手开启儿童硬件创业，获数千万元天使轮融资",
+    "summary": "2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。",
+    "source": "36氪",
+    "source_url": "https://36kr.com/p/4037856792581256?f=rss",
+    "published_at": "2026-10-23 10:41:18 +0800",
+    "tags": [
+      "中文",
+      "36氪"
+    ],
+    "score": 74,
+    "why": "AI 儿童硬件融资样本：理想眼镜前操盘手（首销 3 万台 48 小时售罄）创立「物外智趣」，获数千万元天使轮",
+    "deep_link": "https://36kr.com/p/4037856792581256?f=rss",
+    "extra": {},
+    "blurb": "2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。",
+    "url": "https://36kr.com/p/4037856792581256?f=rss",
+    "name": "硬氪首发丨理想AI眼镜操盘手开启儿童硬件创业，获数千万元天使轮融资",
+    "lang": "zh",
+    "posted_at": "2026-10-23",
+    "evidence_missing": false,
+    "_origin": "zh_media",
+    "_source_id": "zh-36kr",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "原文数字：2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。",
+      "lines": {
+        "fact": "原文数字：2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。"
+      },
+      "evidence": [
+        "2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。",
+        "48小时"
+      ],
+      "point": "硬氪首发丨理想AI眼镜操盘手开启儿童硬件创业，获数千万元天使轮融资"
+    },
+    "title_orig": "硬氪首发丨理想AI眼镜操盘手开启儿童硬件创业，获数千万元天使轮融资",
+    "source_excerpt": "2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。 作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，儿童AI硬件公司「物外智趣」近日完成数千万元人民币天使轮融资，投资方包括柏睿资本、天使投资人高秉强教授以及高锋耐心资本。 本轮融资将主要用于产品研发、AI体验建设及核心团队扩充。据悉，物外智趣将持续推进后续融资，由棕榈资本担任财务顾问。 「物外智趣」成立于2026年2月，团队核心成员均来自理想汽车，有着丰富的C端产品研发经验，兼具软件体验打磨与硬件量产交付能力。 公司创始人王紫崴在理想期间先后负责产品与品牌战略、理想同学AI产品、智能眼镜Livis，完整操盘过多款软硬件产品从0到1的产品创新和落地。2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。 王紫崴表示，「物外智趣」的首款产品的定位是——为儿童打造一款“随身早教专家”。 产品形态上，「物外智趣」首款硬件产品形态为轻便极",
+    "_score_raw": 64,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_ai_business": true,
+    "_practical_delta": 10,
+    "summary_zh": "2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。",
+    "highlights": [
+      "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，儿童AI硬件公司「物外智趣」近日完成数千万元人民币天使轮融资，投资方包括…",
+      "本轮融资将主要用于产品研发、AI体验建设及核心团队扩充。",
+      "据悉，物外智趣将持续推进后续融资，由棕榈资本担任财务顾问。"
+    ],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "save",
+      "use": "AI 儿童硬件融资样本：理想眼镜前操盘手（首销 3 万台 48 小时售罄）创立「物外智趣」，获数千万元天使轮",
+      "lines": {
+        "fact": "原文数字：2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。"
+      },
+      "evidence": [
+        "2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。",
+        "48小时",
+        "硬氪获悉，儿童AI硬件公司「物外智趣」近日完成数千万元人民币天使轮融资"
+      ],
+      "point": "硬氪首发丨理想AI眼镜操盘手开启儿童硬件创业，获数千万元天使轮融资",
       "verdict_label": "收藏",
       "title": ""
     }
@@ -546,135 +952,57 @@
     }
   },
   {
-    "id": "ai-zh-e3208fbb8e20",
+    "id": "ai-community-ai-reddit-era-938fbad52a79",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心",
-    "summary": "同一天，它还发布了一款1099元起的AI耳夹式耳机。",
-    "source": "雷峰网",
-    "source_url": "https://www.leiphone.com/category/weiwu/ft2h4iM9MlbukXOj.html",
-    "published_at": "Thu, 22 Oct 2026 16:14:00 +0800",
+    "title": "From zero to 981 users, but only $59 in revenue. The gap nobody talks about.",
+    "summary": "$1 MRR 981 new customers 846 active customers 24 active trials",
+    "source": "r/EntrepreneurRideAlong",
+    "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xdn6oh/from_zero_to_981_users_but_only_59_in_revenue_the/",
+    "published_at": "2026-10-23T19:12:57.000Z",
     "tags": [
-      "中文",
-      "雷峰网"
+      "reddit",
+      "r/EntrepreneurRideAlong",
+      "收入",
+      "用户/流量数"
     ],
-    "score": 74,
-    "why": "大厂 AI 硬件定价：千问同日发布 AI 耳夹式耳机，1099 元起，可作 AI 硬件定价参照",
-    "deep_link": "https://www.leiphone.com/category/weiwu/ft2h4iM9MlbukXOj.html",
+    "score": 72,
+    "why": "用户≠收入样本：981 个用户只换来约 $59 收入，帖里讨论免费用户到付费之间的断层",
+    "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xdn6oh/from_zero_to_981_users_but_only_59_in_revenue_the/",
     "extra": {},
-    "blurb": "同一天，它还发布了一款1099元起的AI耳夹式耳机。",
-    "url": "https://www.leiphone.com/category/weiwu/ft2h4iM9MlbukXOj.html",
-    "name": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心",
-    "lang": "zh",
-    "posted_at": "Thu, 22 Oc",
+    "blurb": "$1 MRR 981 new customers 846 active customers 24 active trials",
+    "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xdn6oh/from_zero_to_981_users_but_only_59_in_revenue_the/",
+    "name": "From zero to 981 users, but only $59 in revenue. The gap nobody talks about.",
+    "lang": "EN",
+    "posted_at": "2026-10-23",
     "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-leiphone",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "原文数字：同一天，它还发布了一款1099元起的AI耳夹式耳机。",
-      "lines": {
-        "fact": "原文数字：同一天，它还发布了一款1099元起的AI耳夹式耳机。"
-      },
-      "evidence": [
-        "同一天，它还发布了一款1099元起的AI耳夹式耳机。",
-        "1099元"
-      ],
-      "point": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心"
-    },
-    "title_orig": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心",
-    "source_excerpt": "同一天，它还发布了一款1099元起的AI耳夹式耳机。 一副44g的眼镜能做什么？会议开始前自动录音，骑行时根据心率提醒你调整呼吸，在咖啡店看一眼外文菜单就知道你想问哪道菜，甚至点头就能完成支付。 这是千问日前发布的AI眼镜N1 Pro给出的答案。同一天，它还发布了一款1099元起的AI耳夹式耳机。三款硬件同日开售，眼镜到手价2218元起，耳机1099元起。 价格本身已经足够有信号意义。但真正值得讨论的，不是价格，而是千问想通过这些硬件做什么，以及这条路究竟能不能走通。 01 跨过工具与助手的距离 过去几年AI眼镜留给消费者的印象并不好。它像一个需要不停被唤醒的语音助手，戴在脸上，但存在感全靠你主动去喊它。用户买回去的新鲜感过去之后，大多数产品的长期使用率低得惊人。雷鸟创新CEO李宏伟曾公开表示，2025年各类AI眼镜上线了超过200个新功能，但用户长期使用比例连6%都不到。 千问这次选择了一条不同的路。N1 Pro搭载了一套全",
-    "_score_raw": 64,
+    "_origin": "community_rss",
+    "_source_id": "ai-reddit-era",
+    "title_orig": "From zero to 981 users, but only $59 in revenue. The gap nobody talks about.",
+    "source_excerpt": "$1 MRR 981 new customers 846 active customers 24 active trials",
+    "_feed_type": "reddit_rss",
+    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+    "_score_raw": 62,
     "_decay_penalty": 0,
     "_decay_exempt": null,
     "_ai_business": true,
     "_practical_delta": 10,
-    "summary_zh": "同一天，它还发布了一款1099元起的AI耳夹式耳机。",
-    "highlights": [
-      "会议开始前自动录音，骑行时根据心率提醒你调整呼吸，在咖啡店看一眼外文菜单就知道你想问哪道菜，甚至点头就能完成支付。",
-      "这是千问日前发布的AI眼镜N1 Pro给出的答案。",
-      "三款硬件同日开售，眼镜到手价2218元起，耳机1099元起。"
-    ],
+    "summary_zh": "$1 MRR 981 new customers 846 active customers 24 active trials",
+    "highlights": [],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "大厂 AI 硬件定价：千问同日发布 AI 耳夹式耳机，1099 元起，可作 AI 硬件定价参照",
+      "use": "用户≠收入样本：981 个用户只换来约 $59 收入，帖里讨论免费用户到付费之间的断层",
       "lines": {
-        "fact": "原文数字：同一天，它还发布了一款1099元起的AI耳夹式耳机。"
+        "value": "作者自述收入「$59 in revenue」；数据「981 users」",
+        "note": "数字均为发帖人自述，未经核实"
       },
       "evidence": [
-        "同一天，它还发布了一款1099元起的AI耳夹式耳机。",
-        "1099元"
+        "$59 in revenue",
+        "981 users"
       ],
-      "point": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心",
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-post-levelsio-0c165450aea8",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs",
-    "summary": "Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs",
-    "source": "@levelsio / Pieter Levels",
-    "source_url": "https://levels.io/data-brokers-buying-saas-data",
-    "published_at": "2026-10-15T00:00:00.000Z",
-    "tags": [
-      "公开营收",
-      "indie",
-      "mrr",
-      "SaaS"
-    ],
-    "score": 70,
-    "why": "数据资产变现警示：称数据经纪商愿出 $10 万–$200 万买 SaaS 数据集转卖 AI 实验室——注意用户数据合规",
-    "deep_link": "https://levels.io/data-brokers-buying-saas-data",
-    "extra": {},
-    "blurb": "Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs",
-    "url": "https://levels.io/data-brokers-buying-saas-data",
-    "handle": "levelsio",
-    "name": "Pieter Levels",
-    "lang": "EN",
-    "posted_at": "2026-10-15",
-    "tier": "S",
-    "evidence_missing": false,
-    "_origin": "kol_rss",
-    "_source_id": "kol:levelsio",
-    "title_orig": "Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs",
-    "source_excerpt": "Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs",
-    "person_id": "levelsio",
-    "person_handle": "levelsio",
-    "person_name": "Pieter Levels",
-    "_feed_type": "blog_rss",
-    "_feed_url": "https://levels.io/rss/",
-    "_score_raw": 68,
-    "_decay_penalty": 8,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs",
-    "highlights": [
-      "来源：Pieter Levels"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "数据资产变现警示：称数据经纪商愿出 $10 万–$200 万买 SaaS 数据集转卖 AI 实验室——注意用户数据合规",
-      "lines": {
-        "value": "原文数字：金额「Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs」"
-      },
-      "evidence": [
-        "Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs"
-      ],
-      "point": "案例数字：$100,000 to $2,000,000",
-      "concrete": [
-        {
-          "kind": "money",
-          "quote": "$100,000"
-        }
-      ],
+      "point": "AI副业：自述收入 $59 in revenue",
       "verdict_label": "收藏",
       "title": ""
     }
@@ -752,120 +1080,61 @@
     }
   },
   {
-    "id": "ai-community-ai-reddit-saas-a8fe4845cdfe",
+    "id": "ai-rss-ai-levelsio-rss-0c165450aea8",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "5 months in and yet to land a single paid user",
-    "summary": "queries and there are some signups as well like a total of 30 users.",
-    "source": "r/SaaS",
-    "source_url": "https://www.reddit.com/r/SaaS/comments/1xcjlz4/5_months_in_and_yet_to_land_a_single_paid_user/",
-    "published_at": "2026-10-22T14:08:58.000Z",
+    "title": "Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs",
+    "summary": "Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs",
+    "source": "@levelsio",
+    "source_url": "https://levels.io/data-brokers-buying-saas-data",
+    "published_at": "2026-10-15T00:00:00.000Z",
     "tags": [
-      "reddit",
-      "r/SaaS",
-      "用户/流量数"
+      "saas"
     ],
-    "score": 67,
-    "why": "避坑样本：做了 5 个月、累计约 30 个注册用户仍 0 付费，帖内有获客与定价反思",
-    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xcjlz4/5_months_in_and_yet_to_land_a_single_paid_user/",
+    "score": 62,
+    "why": "数据资产变现警示：称数据经纪商愿出 $10 万–$200 万买 SaaS 数据集转卖 AI 实验室——注意用户数据合规",
+    "deep_link": "https://levels.io/data-brokers-buying-saas-data",
     "extra": {},
-    "blurb": "queries and there are some signups as well like a total of 30 users.",
-    "url": "https://www.reddit.com/r/SaaS/comments/1xcjlz4/5_months_in_and_yet_to_land_a_single_paid_user/",
-    "name": "5 months in and yet to land a single paid user",
-    "lang": "EN",
-    "posted_at": "2026-10-22",
+    "blurb": "Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs",
+    "url": "https://levels.io/data-brokers-buying-saas-data",
+    "handle": "levelsio",
+    "name": "Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs",
+    "posted_at": "2026-10-15",
     "evidence_missing": false,
-    "_origin": "community_rss",
-    "_source_id": "ai-reddit-saas",
-    "title_orig": "5 months in and yet to land a single paid user",
-    "source_excerpt": "queries and there are some signups as well like a total of 30 users.",
-    "_feed_type": "reddit_rss",
-    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-    "_score_raw": 57,
-    "_decay_penalty": 0,
+    "_origin": "rss",
+    "_source_id": "ai-levelsio-rss",
+    "title_orig": "Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs",
+    "source_excerpt": "独立/Agent：saas；加分：AI建造/工具实践",
+    "person_id": "levelsio",
+    "person_handle": "levelsio",
+    "person_name": "Pieter Levels",
+    "_score_raw": 60,
+    "_decay_penalty": 8,
     "_decay_exempt": null,
     "_ai_business": true,
     "_practical_delta": 10,
-    "summary_zh": "queries and there are some signups as well like a total of 30 users.",
-    "highlights": [],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "避坑样本：做了 5 个月、累计约 30 个注册用户仍 0 付费，帖内有获客与定价反思",
-      "lines": {
-        "value": "数据「30 users」",
-        "note": "数字均为发帖人自述，未经核实"
-      },
-      "evidence": [
-        "30 users"
-      ],
-      "point": "AI副业：数据 30 users",
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-zh-55d0f321aa15",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "巴克莱将裁员5000人，借助人工智能削减成本",
-    "summary": "巴克莱将裁减5000个岗位，以借助人工智能降低成本，成为又一家因新技术逐渐渗透整个银行业而缩减员工规模的大型银行。",
-    "source": "36氪",
-    "source_url": "https://36kr.com/newsflashes/4037207118091141?f=rss",
-    "published_at": "2026-10-23 07:48:19 +0800",
-    "tags": [
-      "中文",
-      "36氪"
-    ],
-    "score": 64,
-    "why": "AI 降本落地：巴克莱计划裁减约 5000 个岗位、用 AI 压成本，银行业 AI 替代在加速",
-    "deep_link": "https://36kr.com/newsflashes/4037207118091141?f=rss",
-    "extra": {},
-    "blurb": "巴克莱将裁减5000个岗位，以借助人工智能降低成本，成为又一家因新技术逐渐渗透整个银行业而缩减员工规模的大型银行。",
-    "url": "https://36kr.com/newsflashes/4037207118091141?f=rss",
-    "name": "巴克莱将裁员5000人，借助人工智能削减成本",
-    "lang": "zh",
-    "posted_at": "2026-10-23",
-    "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-36kr",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "原文数字：巴克莱将裁员5000人，借助人工智能削减成本。",
-      "lines": {
-        "fact": "原文数字：巴克莱将裁员5000人，借助人工智能削减成本。"
-      },
-      "evidence": [
-        "巴克莱将裁员5000人，借助人工智能削减成本。",
-        "5000人"
-      ],
-      "point": "巴克莱将裁员5000人，借助人工智能削减成本"
-    },
-    "title_orig": "巴克莱将裁员5000人，借助人工智能削减成本",
-    "source_excerpt": "巴克莱将裁员5000人，借助人工智能削减成本。 巴克莱将裁减5000个岗位，以借助人工智能降低成本，成为又一家因新技术逐渐渗透整个银行业而缩减员工规模的大型银行。此次裁员相当于这家总部位于伦敦的银行总员工人数的约5%，其中约60%的削减来自支持职能，包括开发人员。5000个岗位中包括该行上半年已削减的1000个职位。此前巴克莱今年早些时候公布的费用高于预期，此次裁员是其控制成本举措的一部分。（新浪财经）",
-    "_score_raw": 64,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "summary_zh": "巴克莱将裁减5000个岗位，以借助人工智能降低成本，成为又一家因新技术逐渐渗透整个银行业而缩减员工规模的大型银行。",
+    "summary_zh": "Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs",
     "highlights": [
-      "此次裁员相当于这家总部位于伦敦的银行总员工人数的约5%，其中约60%的削减来自支持职能，包括开发人员。",
-      "5000个岗位中包括该行上半年已削减的1000个职位。",
-      "此前巴克莱今年早些时候公布的费用高于预期，此次裁员是其控制成本举措的一部分。"
+      "来源：Pieter Levels"
     ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "AI 降本落地：巴克莱计划裁减约 5000 个岗位、用 AI 压成本，银行业 AI 替代在加速",
+      "use": "数据资产变现警示：称数据经纪商愿出 $10 万–$200 万买 SaaS 数据集转卖 AI 实验室——注意用户数据合规",
       "lines": {
-        "fact": "原文数字：巴克莱将裁员5000人，借助人工智能削减成本。"
+        "value": "原文数字：金额「Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs」"
       },
       "evidence": [
-        "巴克莱将裁员5000人，借助人工智能削减成本。",
-        "5000人"
+        "Data brokers are buying SaaS data sets for $100,000 to $2,000,000 and reselling them to AI labs"
       ],
-      "point": "巴克莱将裁员5000人，借助人工智能削减成本",
+      "point": "案例数字：$100,000 to $2,000,000",
+      "concrete": [
+        {
+          "kind": "money",
+          "quote": "$100,000"
+        }
+      ],
       "verdict_label": "收藏",
       "title": ""
     }
