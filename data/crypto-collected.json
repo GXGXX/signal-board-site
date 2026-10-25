@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-24T00:11:33.803Z",
+  "generated_at": "2026-10-25T00:02:02.994Z",
   "cards": [
     {
-      "id": "crypto-market-2026-10-24",
+      "id": "crypto-market-2026-10-25",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "大盘 · BTC $80,972（24h -0.20%）· ETH $2,382（+0.04%）",
-      "title_orig": "大盘 · BTC $80,972（24h -0.20%）· ETH $2,382（+0.04%）",
+      "title": "大盘 · BTC $80,812（24h -0.36%）· ETH $2,357（-1.18%）",
+      "title_orig": "大盘 · BTC $80,812（24h -0.36%）· ETH $2,357（-1.18%）",
       "source": "CoinGecko 公开 API（/global + /coins/markets）",
       "source_url": "https://www.coingecko.com/",
       "url": "https://www.coingecko.com/",
-      "published_at": "2026-10-24T00:10:51.000Z",
+      "published_at": "2026-10-25T00:00:58.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -29,18 +29,18 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "今日币圈整体横盘；总市值 $2.73T（24h -0.23%），BTC 占比 59.5%，先看大盘再看单币异动",
-        "title": "大盘 · BTC $80,972（24h -0.20%）· ETH $2,382（+0.04%）",
+        "use": "今日币圈整体横盘；总市值 $2.72T（24h -0.30%），BTC 占比 59.5%，先看大盘再看单币异动",
+        "title": "大盘 · BTC $80,812（24h -0.36%）· ETH $2,357（-1.18%）",
         "lines": {
-          "value": "BTC 7d -0.74%；ETH 7d -1.58%",
+          "value": "BTC 7d -0.57%；ETH 7d -1.44%",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "bitcoin current_price: 80972, price_change_percentage_24h: -0.20",
-          "ethereum current_price: 2381.97, price_change_percentage_24h: 0.04",
-          "total_market_cap.usd: 2733208702031, market_cap_percentage.btc: 59.5 (24h 变化取前100币 market_cap_change_percentage_24h 按市值加权 = -0.23)"
+          "bitcoin current_price: 80812, price_change_percentage_24h: -0.36",
+          "ethereum current_price: 2356.79, price_change_percentage_24h: -1.18",
+          "total_market_cap.usd: 2724699452943, market_cap_percentage.btc: 59.5 (24h 变化取前100币 market_cap_change_percentage_24h 按市值加权 = -0.30)"
         ],
-        "point": "币圈：今日币圈整体横盘；总市值 $2.73T（24h -0.23%），BTC 占比 59.5%，先看大盘再看单币异动"
+        "point": "币圈：今日币圈整体横盘；总市值 $2.72T（24h -0.30%），BTC 占比 59.5%，先看大盘再看单币异动"
       }
     },
     {
@@ -73,17 +73,17 @@
         "use": "美股+宏观一屏看：指数波动不大，宏观面没有明显新信号（助手解读，非原文）",
         "title": "美股收盘（2026-10-23）· 标普500 -0.52% · 纳指 -0.21% · 费城半导体 +0.44%",
         "lines": {
-          "fact": "原文数据：标普500 -0.52%；纳指 -0.21%；费城半导体 +0.44%；VIX 19.45；10年期美债 4.99%；美元指数 +0.14%",
+          "fact": "原文数据：标普500 -0.52%；纳指 -0.21%；费城半导体 +0.44%；VIX 19.45；10年期美债 4.99%；美元指数 +0.20%",
           "impact": "指数、利率、美元都没有大幅变化",
           "note": "非投资建议；只作趋势感知，不荐个股"
         },
         "evidence": [
           "^GSPC close: 7,623.680, previous close: 7,663.430",
-          "^IXIC close: 25,955.342, previous close: 26,008.859",
-          "^SOX close: 10,779.464, previous close: 10,731.980",
+          "^IXIC close: 25,955.340, previous close: 26,008.859",
+          "^SOX close: 10,779.460, previous close: 10,731.980",
           "^VIX close: 19.450, previous close: 19.030",
           "^TNX close: 4.988, previous close: 4.953",
-          "DX-Y.NYB close: 101.752, previous close: 101.610"
+          "DX-Y.NYB close: 101.810, previous close: 101.610"
         ],
         "point": "美股：美股+宏观一屏看：指数波动不大，宏观面没有明显新信号（助手解读，非原文）"
       }
@@ -135,16 +135,16 @@
       }
     },
     {
-      "id": "crypto-us-ai-chip-2026-10-22",
+      "id": "crypto-us-ai-chip-2026-10-23",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "AI/芯片龙头（2026-10-22）· AMD -8.10% / ARM -7.28% / META -6.98% / ASML -6.93% / MU -6.26%",
-      "title_orig": "AI/芯片龙头（2026-10-22）· AMD -8.10% / ARM -7.28% / META -6.98% / ASML -6.93% / MU -6.26%",
+      "title": "AI/芯片龙头（2026-10-23）· MU +2.46% / AMD +1.74% / TSM +1.49% / GOOGL -1.24% / META -0.96%",
+      "title_orig": "AI/芯片龙头（2026-10-23）· MU +2.46% / AMD +1.74% / TSM +1.49% / GOOGL -1.24% / META -0.96%",
       "source": "Yahoo Finance 公开 chart 接口（日线收盘）",
       "source_url": "https://finance.yahoo.com/sectors/technology/semiconductors/",
       "url": "https://finance.yahoo.com/sectors/technology/semiconductors/",
-      "published_at": "2026-10-23T00:00:00.000Z",
+      "published_at": "2026-10-24T00:00:00.000Z",
       "tags": [
         "美股",
         "AI/芯片龙头"
@@ -161,20 +161,20 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "美股观察",
-        "use": "AI 主线温度计：15 只龙头里 1 涨 14 跌，波动最大的是 AMD（-8.10%）；AI 交易冷热也会传导到 AI 概念币（助手解读，非原文）",
-        "title": "AI/芯片龙头（2026-10-22）· AMD -8.10% / ARM -7.28% / META -6.98% / ASML -6.93% / MU -6.26%",
+        "use": "AI 主线温度计：15 只龙头里 8 涨 7 跌，波动最大的是 MU（+2.46%）；AI 交易冷热也会传导到 AI 概念币（助手解读，非原文）",
+        "title": "AI/芯片龙头（2026-10-23）· MU +2.46% / AMD +1.74% / TSM +1.49% / GOOGL -1.24% / META -0.96%",
         "lines": {
-          "fact": "原文数据：AMD -8.10%，ARM -7.28%，META -6.98%，ASML -6.93%，MU -6.26%，AMZN -4.57%，TSM -4.52%，NVDA -4.40%，AVGO -4.31%，GOOGL -3.15%，TSLA -3.08%，ORCL -2.78%，PLTR -2.74%，MSFT -2.23%，AAPL +1.23%",
+          "fact": "原文数据：MU +2.46%，AMD +1.74%，TSM +1.49%，GOOGL -1.24%，META -0.96%，AMZN -0.95%，ASML +0.72%，MSFT +0.66%，TSLA -0.63%，NVDA -0.59%，ORCL +0.49%，AVGO -0.48%，PLTR +0.29%，AAPL -0.14%，ARM +0.11%",
           "note": "非投资建议；只作趋势感知，不荐个股"
         },
         "evidence": [
-          "AMD close: 507.93, previous close: 552.72",
-          "ARM close: 210.10, previous close: 226.59",
-          "META close: 648.85, previous close: 697.52",
-          "ASML close: 1,560.54, previous close: 1,676.69",
-          "MU close: 856.49, previous close: 913.67"
+          "MU close: 877.55, previous close: 856.49",
+          "AMD close: 516.79, previous close: 507.93",
+          "TSM close: 418.51, previous close: 412.35",
+          "GOOGL close: 320.21, previous close: 324.22",
+          "META close: 642.62, previous close: 648.85"
         ],
-        "point": "美股：AI 主线温度计：15 只龙头里 1 涨 14 跌，波动最大的是 AMD（-8.10%）；AI 交易冷热也会传导到 AI 概念币（助手解读，非原文）"
+        "point": "美股：AI 主线温度计：15 只龙头里 8 涨 7 跌，波动最大的是 MU（+2.46%）；AI 交易冷热也会传导到 AI 概念币（助手解读，非原文）"
       }
     },
     {
@@ -266,16 +266,16 @@
       }
     },
     {
-      "id": "crypto-movers-涨-2026-10-24",
+      "id": "crypto-movers-涨-2026-10-25",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "前100市值涨幅榜 · AKE +19.52% / PEPE +3.65% / BCH +2.18%（24h）",
-      "title_orig": "前100市值涨幅榜 · AKE +19.52% / PEPE +3.65% / BCH +2.18%（24h）",
+      "title": "前100市值涨幅榜 · XMR +5.41% / ZRO +3.22% / LIT +3.13%（24h）",
+      "title_orig": "前100市值涨幅榜 · XMR +5.41% / ZRO +3.22% / LIT +3.13%（24h）",
       "source": "CoinGecko 公开 API（/coins/markets 前100）",
       "source_url": "https://www.coingecko.com/en/crypto-gainers-losers",
       "url": "https://www.coingecko.com/en/crypto-gainers-losers",
-      "published_at": "2026-10-24T00:10:51.000Z",
+      "published_at": "2026-10-25T00:00:58.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -294,59 +294,17 @@
         "verdict": "worth",
         "verdict_label": "币圈观察",
         "use": "大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐",
-        "title": "前100市值涨幅榜 · AKE +19.52% / PEPE +3.65% / BCH +2.18%（24h）",
+        "title": "前100市值涨幅榜 · XMR +5.41% / ZRO +3.22% / LIT +3.13%（24h）",
         "lines": {
-          "value": "Akedo $0.03732，24h 成交 $45.0M，市值排名 #82（流通仅占总量 23%，低流通盘易暴涨暴跌）；Pepe $0.000004550，24h 成交 $673.8M，市值排名 #51；Bitcoin Cash $280，24h 成交 $179.8M，市值排名 #22",
+          "value": "Monero $616，24h 成交 $107.6M，市值排名 #13；LayerZero $1.760，24h 成交 $52.0M，市值排名 #89；Lighter $3.230，24h 成交 $60.3M，市值排名 #83（流通仅占总量 25%，低流通盘易暴涨暴跌）",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "akedo current_price: 0.03732086, price_change_percentage_24h: 19.52, total_volume: 45038894, circulating_supply: 22796250000, total_supply: 100000000000",
-          "pepe current_price: 0.00000455, price_change_percentage_24h: 3.65, total_volume: 673801220, circulating_supply: 420690000000000, total_supply: 420690000000000",
-          "bitcoin-cash current_price: 280.43, price_change_percentage_24h: 2.18, total_volume: 179773289, circulating_supply: 20106950, total_supply: 20106953"
+          "monero current_price: 615.79, price_change_percentage_24h: 5.41, total_volume: 107588677, circulating_supply: 18822002, total_supply: 18822002",
+          "layerzero current_price: 1.76, price_change_percentage_24h: 3.22, total_volume: 51966844, circulating_supply: 399976128, total_supply: 1000000000",
+          "lighter current_price: 3.23, price_change_percentage_24h: 3.13, total_volume: 60258992, circulating_supply: 250000000, total_supply: 981909280"
         ],
         "point": "币圈：大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐"
-      }
-    },
-    {
-      "id": "crypto-movers-跌-2026-10-24",
-      "partition": "invest",
-      "type": "card",
-      "category": "投资观察",
-      "title": "前100市值跌幅榜 · WLD -12.41% / LIT -7.34% / AERO -7.23%（24h）",
-      "title_orig": "前100市值跌幅榜 · WLD -12.41% / LIT -7.34% / AERO -7.23%（24h）",
-      "source": "CoinGecko 公开 API（/coins/markets 前100）",
-      "source_url": "https://www.coingecko.com/en/crypto-gainers-losers",
-      "url": "https://www.coingecko.com/en/crypto-gainers-losers",
-      "published_at": "2026-10-24T00:10:51.000Z",
-      "tags": [
-        "加密",
-        "高风险",
-        "异动"
-      ],
-      "score": 88,
-      "risk": "high",
-      "lang": "zh",
-      "_origin": "crypto",
-      "_crypto_kind": "异动",
-      "_market": "crypto",
-      "extra": {
-        "disclaimer": "非投资建议；加密高风险"
-      },
-      "reader": {
-        "verdict": "worth",
-        "verdict_label": "币圈观察",
-        "use": "大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接",
-        "title": "前100市值跌幅榜 · WLD -12.41% / LIT -7.34% / AERO -7.23%（24h）",
-        "lines": {
-          "value": "Worldcoin $0.4766，24h 成交 $324.4M，市值排名 #54；Lighter $3.130，24h 成交 $83.2M，市值排名 #86（流通仅占总量 25%，低流通盘易暴涨暴跌）；Aerodrome Finance $0.7288，24h 成交 $41.9M，市值排名 #98",
-          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
-        },
-        "evidence": [
-          "worldcoin-wld current_price: 0.476594, price_change_percentage_24h: -12.41, total_volume: 324367829, circulating_supply: 3821275213, total_supply: 10000000000",
-          "lighter current_price: 3.13, price_change_percentage_24h: -7.34, total_volume: 83169376, circulating_supply: 250000000, total_supply: 981909280",
-          "aerodrome-finance current_price: 0.72885, price_change_percentage_24h: -7.23, total_volume: 41916984, circulating_supply: 849950402, total_supply: 2006874385"
-        ],
-        "point": "币圈：大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接"
       }
     },
     {
@@ -379,11 +337,11 @@
         "use": "大票单日跌 11.2% 以上通常有消息（财报/指引/评级/监管），先分清个股利空还是板块退潮，不急着抄底（助手解读，非原文）",
         "title": "美股大市值跌幅榜（2026-10-23，市值≥$200亿）· BE -11.24% / CRDO -9.51% / FIX -9.26% / T -7.96%",
         "lines": {
-          "fact": "原文数据：Bloom Energy Corporation（BE）-11.24%，市值 $56.93B；Credo Technology Group Holding （CRDO）-9.51%，市值 $27.68B；Comfort Systems USA, Inc.（FIX）-9.26%，市值 $40.86B；AT&T Inc.（T）-7.96%，市值 $140.99B",
+          "fact": "原文数据：Bloom Energy Corporation（BE）-11.24%，市值 $57.13B；Credo Technology Group Holding （CRDO）-9.51%，市值 $27.68B；Comfort Systems USA, Inc.（FIX）-9.26%，市值 $40.86B；AT&T Inc.（T）-7.96%，市值 $140.99B",
           "note": "非投资建议；只作趋势感知，不荐个股"
         },
         "evidence": [
-          "BE regularMarketChangePercent: -11.24, marketCap: 56932139008",
+          "BE regularMarketChangePercent: -11.24, marketCap: 57127346176",
           "CRDO regularMarketChangePercent: -9.51, marketCap: 27683436544",
           "FIX regularMarketChangePercent: -9.26, marketCap: 40855687168",
           "T regularMarketChangePercent: -7.96, marketCap: 140994396160"
@@ -392,16 +350,16 @@
       }
     },
     {
-      "id": "crypto-funding-2026-10-24",
+      "id": "crypto-funding-2026-10-25",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "永续资金费率（OKX）· BTC +0.0100% / ETH +0.0018% / SOL +0.0039%",
-      "title_orig": "永续资金费率（OKX）· BTC +0.0100% / ETH +0.0018% / SOL +0.0039%",
+      "title": "永续资金费率（OKX）· BTC +0.0022% / ETH +0.0013% / SOL +0.0043%",
+      "title_orig": "永续资金费率（OKX）· BTC +0.0022% / ETH +0.0013% / SOL +0.0043%",
       "source": "OKX 公开 API（public/funding-rate + open-interest）",
       "source_url": "https://www.okx.com/trade-market/funding/swap",
       "url": "https://www.okx.com/trade-market/funding/swap",
-      "published_at": "2026-10-24T08:00:00.000Z",
+      "published_at": "2026-10-25T08:00:00.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -420,15 +378,15 @@
         "verdict": "worth",
         "verdict_label": "币圈观察",
         "use": "合约情绪：费率都在常态区间（<0.03%/8h），合约市场没有明显一边倒（助手解读，非原文；只看情绪，不建议开合约）",
-        "title": "永续资金费率（OKX）· BTC +0.0100% / ETH +0.0018% / SOL +0.0039%",
+        "title": "永续资金费率（OKX）· BTC +0.0022% / ETH +0.0013% / SOL +0.0043%",
         "lines": {
-          "value": "BTC 永续持仓 $2.49B；ETH 永续持仓 $1.40B；SOL 永续持仓 $303.4M",
+          "value": "BTC 永续持仓 $2.42B；ETH 永续持仓 $1.43B；SOL 永续持仓 $310.8M",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "BTC-USDT-SWAP fundingRate: 0.0001000000000000, oiUsd: 2490387070",
-          "ETH-USDT-SWAP fundingRate: 0.0000184243848726, oiUsd: 1397576418",
-          "SOL-USDT-SWAP fundingRate: 0.0000394803083262, oiUsd: 303374444"
+          "BTC-USDT-SWAP fundingRate: 0.0000221669495942, oiUsd: 2415223444",
+          "ETH-USDT-SWAP fundingRate: 0.0000133477601062, oiUsd: 1434339289",
+          "SOL-USDT-SWAP fundingRate: 0.0000428154782393, oiUsd: 310804854"
         ],
         "point": "币圈：合约情绪：费率都在常态区间（<0.03%/8h），合约市场没有明显一边倒（助手解读，非原文；只看情绪，不建议开合约）"
       }
@@ -480,16 +438,16 @@
       }
     },
     {
-      "id": "crypto-earn-JlPy50c3JjPXJzcw",
+      "id": "crypto-earn-NlJi50c3JjPXJzcw",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Another AI power stock plunges 11% despite earnings beat",
-      "title_orig": "Another AI power stock plunges 11% despite earnings beat",
+      "title": "Meta Stock Fell 7% in a Day After a Revenue Beat. Time to Sell or Load Up?",
+      "title_orig": "Meta Stock Fell 7% in a Day After a Revenue Beat. Time to Sell or Load Up?",
       "source": "Yahoo Finance RSS",
-      "source_url": "https://www.thestreet.com/investing/stocks/another-ai-power-stock-plunges-11-despite-earnings-beat-bloom-energy-be?.tsrc=rss",
-      "url": "https://www.thestreet.com/investing/stocks/another-ai-power-stock-plunges-11-despite-earnings-beat-bloom-energy-be?.tsrc=rss",
-      "published_at": "2026-10-23T23:37:52.000Z",
+      "source_url": "https://www.tikr.com/blog/meta-stock-fell-7-in-a-day-after-a-revenue-beat-time-to-sell-or-load-up?ref=yahoofinance&.tsrc=rss",
+      "url": "https://www.tikr.com/blog/meta-stock-fell-7-in-a-day-after-a-revenue-beat-time-to-sell-or-load-up?ref=yahoofinance&.tsrc=rss",
+      "published_at": "2026-10-24T20:43:41.000Z",
       "tags": [
         "美股",
         "财报"
@@ -506,17 +464,18 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "美股观察",
-        "use": "10/24 Another AI power 财报超预期（11%）：说明同行业需求仍在，板块情绪偏正面（助手解读，非原文）",
+        "use": "10/25 Meta 财报超预期（7%）：说明AI/科技股需求仍在，板块情绪偏正面（助手解读，非原文）",
         "title": "",
         "lines": {
-          "fact": "原文数据：Another AI power stock plunges 11% despite earnings beat",
+          "fact": "原文数据：Key Stats for Meta StockCurrent Price: $642.",
           "impact": "超预期/上调指引说明需求仍在，同板块情绪偏正面",
           "note": "非投资建议；只作趋势感知，不荐个股"
         },
         "evidence": [
-          "Another AI power stock plunges 11% despite earnings beat"
+          "Meta Stock Fell 7% in a Day After a Revenue Beat. Time to Sell or Load Up?",
+          "Key Stats for Meta StockCurrent Price: $642."
         ],
-        "point": "美股：10/24 Another AI power 财报超预期（11%）：说明同行业需求仍在，板块情绪偏正面（助手解读，非原文）"
+        "point": "美股：10/25 Meta 财报超预期（7%）：说明AI/科技股需求仍在，板块情绪偏正面（助手解读，非原文）"
       }
     },
     {
@@ -560,16 +519,16 @@
       }
     },
     {
-      "id": "crypto-zh-3Mzk4ZTMxYTE5ODk",
+      "id": "crypto-zh-4YWI4MzVmYjFmY2Y",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Initia遭攻击后，Upbit与Bithumb暂停INIT充提并发布警示",
-      "title_orig": "Initia遭攻击后，Upbit与Bithumb暂停INIT充提并发布警示",
+      "title": "安全机构：X100遭持续攻击，攻击者已套取约485万枚USDT",
+      "title_orig": "安全机构：X100遭持续攻击，攻击者已套取约485万枚USDT",
       "source": "PANews",
-      "source_url": "https://www.panewslab.com/zh/articles/01a16995-5a5b-710b-91cb-7398e31a1989",
-      "url": "https://www.panewslab.com/zh/articles/01a16995-5a5b-710b-91cb-7398e31a1989",
-      "published_at": "2026-10-23T16:25:58.000Z",
+      "source_url": "https://www.panewslab.com/zh/articles/01a16e71-0062-7380-a3d9-8ab835fb1fcf",
+      "url": "https://www.panewslab.com/zh/articles/01a16e71-0062-7380-a3d9-8ab835fb1fcf",
+      "published_at": "2026-10-24T15:04:21.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -587,30 +546,31 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "钱包/安全事件：Initia遭攻击后，Upbit与Bithumb暂停INIT充提并发布警示——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）",
+        "use": "钱包/安全事件：安全机构：X100遭持续攻击，攻击者已套取约485万枚USDT——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）",
         "title": "",
         "lines": {
-          "fact": "原文数据：此前，Initia官方宣布因安全事件暂停L1及其Rollup运行，安全研究员Spreek称攻击者通过漏洞增发代币，已套现约260万美元。",
+          "fact": "原文数据：据安全机构Blockaid监测，以太坊上的X100遭遇攻击，截至其22:49发布警报时，攻击仍在持续，两笔交易已套取约485万枚USDT。",
           "impact": "先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "此前，Initia官方宣布因安全事件暂停L1及其Rollup运行，安全研究员Spreek称攻击者通过漏洞增发代币，已套现约260万美元。"
+          "安全机构：X100遭持续攻击，攻击者已套取约485万枚USDT",
+          "据安全机构Blockaid监测，以太坊上的X100遭遇攻击，截至其22:49发布警报时，攻击仍在持续，两笔交易已套取约485万枚USDT。"
         ],
-        "point": "币圈：钱包/安全事件：Initia遭攻击后，Upbit与Bithumb暂停INIT充提并发布警示——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）"
+        "point": "币圈：钱包/安全事件：安全机构：X100遭持续攻击，攻击者已套取约485万枚USDT——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）"
       }
     },
     {
-      "id": "crypto-zh-hMDkyNWNlZGMzZWM",
+      "id": "crypto-zh-yZTZjYWI5MGEwOWI",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Initia链疑似遭攻击，黑客已套现约260万美元，仍有资金在转移",
-      "title_orig": "Initia链疑似遭攻击，黑客已套现约260万美元，仍有资金在转移",
+      "title": "Initia披露攻击细节：MoveVM缓存漏洞致约270万美元被转出",
+      "title_orig": "Initia披露攻击细节：MoveVM缓存漏洞致约270万美元被转出",
       "source": "PANews",
-      "source_url": "https://www.panewslab.com/zh/articles/01a1696f-2bd1-7690-ba20-a0925cedc3ec",
-      "url": "https://www.panewslab.com/zh/articles/01a1696f-2bd1-7690-ba20-a0925cedc3ec",
-      "published_at": "2026-10-23T15:44:15.000Z",
+      "source_url": "https://www.panewslab.com/zh/articles/01a16d51-3faa-7744-bb97-2e6cab90a09b",
+      "url": "https://www.panewslab.com/zh/articles/01a16d51-3faa-7744-bb97-2e6cab90a09b",
+      "published_at": "2026-10-24T09:50:03.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -628,31 +588,30 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "钱包/安全事件：Initia链疑似遭攻击，黑客已套现约260万美元，仍有资金在转移——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）",
+        "use": "钱包/安全事件：Initia披露攻击细节：MoveVM缓存漏洞致约270万美元被转出——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）",
         "title": "",
         "lines": {
-          "fact": "原文数据：截至目前，黑客已套现约260万美元，仍有更多资金处于转移过程中。",
+          "fact": "原文数据：Initia披露攻击细节：MoveVM缓存漏洞致约270万美元被转出",
           "impact": "先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Initia链疑似遭攻击，黑客已套现约260万美元，仍有资金在转移",
-          "截至目前，黑客已套现约260万美元，仍有更多资金处于转移过程中。"
+          "Initia披露攻击细节：MoveVM缓存漏洞致约270万美元被转出"
         ],
-        "point": "币圈：钱包/安全事件：Initia链疑似遭攻击，黑客已套现约260万美元，仍有资金在转移——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）"
+        "point": "币圈：钱包/安全事件：Initia披露攻击细节：MoveVM缓存漏洞致约270万美元被转出——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）"
       }
     },
     {
-      "id": "crypto-trending-2026-10-24",
+      "id": "crypto-trending-2026-10-25",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "CoinGecko 热搜 · IRYS +265.10% / PENGU -0.56% / BTC -0.21% / NEAR -3.95%",
-      "title_orig": "CoinGecko 热搜 · IRYS +265.10% / PENGU -0.56% / BTC -0.21% / NEAR -3.95%",
+      "title": "CoinGecko 热搜 · HYPE -0.48% / BSC +62.24% / PENGU -1.69% / QTC -11.89%",
+      "title_orig": "CoinGecko 热搜 · HYPE -0.48% / BSC +62.24% / PENGU -1.69% / QTC -11.89%",
       "source": "CoinGecko 公开 API（/search/trending）",
       "source_url": "https://www.coingecko.com/en/highlights/trending-crypto",
       "url": "https://www.coingecko.com/en/highlights/trending-crypto",
-      "published_at": "2026-10-24T00:11:33.803Z",
+      "published_at": "2026-10-25T00:02:02.994Z",
       "tags": [
         "加密",
         "高风险",
@@ -670,42 +629,42 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 IRYS、PENGU、BTC、NEAR",
-        "title": "CoinGecko 热搜 · IRYS +265.10% / PENGU -0.56% / BTC -0.21% / NEAR -3.95%",
+        "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 HYPE、PENGU",
+        "title": "CoinGecko 热搜 · HYPE -0.48% / BSC +62.24% / PENGU -1.69% / QTC -11.89%",
         "lines": {
-          "value": "Irys（市值排名 #213）、Pudgy Penguins（市值排名 #113）、Bitcoin（市值排名 #1）、NEAR Protocol（市值排名 #19）、Hyperliquid（市值排名 #11）、Lighter（市值排名 #86）、Ethena（市值排名 #39）、Quantus（市值排名 #704）、Derive（市值排名 #122）、Bittensor（市值排名 #37）、Render（市值排名 #80）、Axis Robotics（市值排名 #402）、Quant（市值排名 #41）、Sui（市值排名 #29）、Pump.fun（市值排名 #50）",
+          "value": "Hyperliquid（市值排名 #11）、Binance Super CZ（市值排名 #785）、Pudgy Penguins（市值排名 #115）、Quantus（市值排名 #760）、Solana（市值排名 #7）、Pearl（市值排名 #91）、NEAR Protocol（市值排名 #21）、Pump.fun（市值排名 #50）、Pons（市值排名 #200）、Bittensor（市值排名 #37）、Bitcoin（市值排名 #1）、Arbitrum（市值排名 #71）、Derive（市值排名 #122）、币安人生 (BinanceLife)（市值排名 #109）、Backpack（市值排名 #157）",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "irys market_cap_rank: 213, price_change_percentage_24h.usd: 265.10",
-          "pudgy-penguins market_cap_rank: 113, price_change_percentage_24h.usd: -0.56",
-          "bitcoin market_cap_rank: 1, price_change_percentage_24h.usd: -0.21",
-          "near market_cap_rank: 19, price_change_percentage_24h.usd: -3.95"
+          "hyperliquid market_cap_rank: 11, price_change_percentage_24h.usd: -0.48",
+          "binance-super-cz-2 market_cap_rank: 785, price_change_percentage_24h.usd: 62.24",
+          "pudgy-penguins market_cap_rank: 115, price_change_percentage_24h.usd: -1.69",
+          "quantus market_cap_rank: 760, price_change_percentage_24h.usd: -11.89"
         ],
-        "point": "币圈：散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 IRYS、PENGU、BTC、NEAR"
+        "point": "币圈：散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 HYPE、PENGU"
       }
     },
     {
-      "id": "crypto-zh-wNjkyOTlhZWY2NGQ",
+      "id": "crypto-zh-0ZTA3YzczNzFiYjA",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Cysic更新跨链桥安全事件进展：拟10月底前销毁720万枚CYS",
-      "title_orig": "Cysic更新跨链桥安全事件进展：拟10月底前销毁720万枚CYS",
+      "title": "数据：某巨鲸持有约2.14亿美元ETH多单，清算价分别为2256及2227美元",
+      "title_orig": "数据：某巨鲸持有约2.14亿美元ETH多单，清算价分别为2256及2227美元",
       "source": "PANews",
-      "source_url": "https://www.panewslab.com/zh/articles/01a16905-4860-73dc-9f92-069299aef64d",
-      "url": "https://www.panewslab.com/zh/articles/01a16905-4860-73dc-9f92-069299aef64d",
-      "published_at": "2026-10-23T13:48:36.000Z",
+      "source_url": "https://www.panewslab.com/zh/articles/01a16ea3-aa97-723f-8778-4e07c7371bb0",
+      "url": "https://www.panewslab.com/zh/articles/01a16ea3-aa97-723f-8778-4e07c7371bb0",
+      "published_at": "2026-10-24T15:59:42.000Z",
       "tags": [
         "加密",
         "高风险",
-        "钱包/安全事件"
+        "机构/公司买币"
       ],
       "score": 80,
       "risk": "high",
       "lang": "en",
       "_origin": "crypto",
-      "_crypto_kind": "钱包/安全事件",
+      "_crypto_kind": "机构/公司买币",
       "_market": "crypto",
       "extra": {
         "disclaimer": "非投资建议；加密高风险"
@@ -713,31 +672,31 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "钱包/安全事件：Cysic更新跨链桥安全事件进展：拟10月底前销毁720万枚CYS——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）",
+        "use": "机构/公司买币：数据：某巨鲸持有约2.14亿美元ETH多单，清算价分别为2256及2227美元——公司真实落地买币，对短线情绪偏正面，但不等于价格会涨（助手解读，非原文）",
         "title": "",
         "lines": {
-          "fact": "原文数据：Cysic 发布跨链桥安全事件进展，表示计划于 10 月底前从基金会储备中销毁 720 万枚 CYS，以抵消未经授权增发造成的影响，并使代币供应量重新符合其代币经济模型。",
-          "impact": "先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压",
+          "fact": "原文数据：据Lookonchain于北京时间23:36披露，某巨鲸在两个账户中合计持有93,184枚ETH多头仓位，按其监测时价格计算价值约2.14亿美元，两处仓位清算价分别为2,256.45美元和2,226.53美元。",
+          "impact": "公司真实落地买币，对短线情绪偏正面，但不等于价格会涨",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Cysic更新跨链桥安全事件进展：拟10月底前销毁720万枚CYS",
-          "Cysic 发布跨链桥安全事件进展，表示计划于 10 月底前从基金会储备中销毁 720 万枚 CYS，以抵消未经授权增发造成的影响，并使代币供应量重新符合其代币经济模型。"
+          "数据：某巨鲸持有约2.14亿美元ETH多单，清算价分别为2256及2227美元",
+          "据Lookonchain于北京时间23:36披露，某巨鲸在两个账户中合计持有93,184枚ETH多头仓位，按其监测时价格计算价值约2.14亿美元，两处仓位清算价分别为2,256.45美元和2,226.53美元。"
         ],
-        "point": "币圈：钱包/安全事件：Cysic更新跨链桥安全事件进展：拟10月底前销毁720万枚CYS——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）"
+        "point": "币圈：机构/公司买币：数据：某巨鲸持有约2.14亿美元ETH多单，清算价分别为2256及2227美元——公司真实落地买币，对短线情绪偏正面，但不等于价格会涨（助手解读，非原文）"
       }
     },
     {
-      "id": "crypto-zh-2MTQ3MWVhM2U4OGI",
+      "id": "crypto-zh-kYTQ2ZmU5ZjdjY2M",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "苹果总市值超越英伟达",
-      "title_orig": "苹果总市值超越英伟达",
+      "title": "美股下周迎财报高峰与美联储议息，AI行情面临考验",
+      "title_orig": "美股下周迎财报高峰与美联储议息，AI行情面临考验",
       "source": "PANews",
-      "source_url": "https://www.panewslab.com/zh/articles/01a168fa-1260-77c9-84bf-61471ea3e88b",
-      "url": "https://www.panewslab.com/zh/articles/01a168fa-1260-77c9-84bf-61471ea3e88b",
-      "published_at": "2026-10-23T13:36:21.000Z",
+      "source_url": "https://www.panewslab.com/zh/articles/01a16dd4-cac3-72e8-a1f4-da46fe9f7ccc",
+      "url": "https://www.panewslab.com/zh/articles/01a16dd4-cac3-72e8-a1f4-da46fe9f7ccc",
+      "published_at": "2026-10-24T12:13:44.000Z",
       "tags": [
         "美股",
         "美股动向"
@@ -754,30 +713,30 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "美股观察",
-        "use": "美股动向：苹果总市值超越英伟达——影响美股科技/芯片板块情绪，也常传导到币圈风险偏好（助手解读，非原文）",
+        "use": "美股动向：美股下周迎财报高峰与美联储议息，AI行情面临考验——影响美股科技/芯片板块情绪，也常传导到币圈风险偏好（助手解读，非原文）",
         "title": "",
         "lines": {
-          "fact": "原文数据：据币安行情，美股盘初，苹果股价上涨0.84%，报351.132美元/股，总市值报5.12万亿美元。",
+          "fact": "原文数据：今年超大规模云厂商的资本支出预计约8000亿美元。",
           "impact": "影响美股科技/芯片板块情绪，也常传导到币圈风险偏好",
           "note": "非投资建议；只作趋势感知，不荐个股"
         },
         "evidence": [
-          "据币安行情，美股盘初，苹果股价上涨0.84%，报351.132美元/股，总市值报5.12万亿美元。"
+          "今年超大规模云厂商的资本支出预计约8000亿美元。"
         ],
-        "point": "美股：美股动向：苹果总市值超越英伟达——影响美股科技/芯片板块情绪，也常传导到币圈风险偏好（助手解读，非原文）"
+        "point": "美股：美股动向：美股下周迎财报高峰与美联储议息，AI行情面临考验——影响美股科技/芯片板块情绪，也常传导到币圈风险偏好（助手解读，非原文）"
       }
     },
     {
-      "id": "crypto-stables-2026-10-23",
+      "id": "crypto-stables-2026-10-24",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "稳定币总量 $303.24B · 7日 -0.64% · 30日 -0.62%",
-      "title_orig": "稳定币总量 $303.24B · 7日 -0.64% · 30日 -0.62%",
+      "title": "稳定币总量 $302.79B · 7日 -0.68% · 30日 -0.54%",
+      "title_orig": "稳定币总量 $302.79B · 7日 -0.68% · 30日 -0.54%",
       "source": "DefiLlama 公开 API（stablecoincharts/all）",
       "source_url": "https://defillama.com/stablecoins",
       "url": "https://defillama.com/stablecoins",
-      "published_at": "2026-10-23T00:00:00.000Z",
+      "published_at": "2026-10-24T00:00:00.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -796,75 +755,35 @@
         "verdict": "worth",
         "verdict_label": "币圈观察",
         "use": "稳定币在收缩：场内资金流出，反弹持续性要打折扣",
-        "title": "稳定币总量 $303.24B · 7日 -0.64% · 30日 -0.62%",
+        "title": "稳定币总量 $302.79B · 7日 -0.68% · 30日 -0.54%",
         "lines": {
-          "value": "7日变化 $-1.96B（数据日 2026-10-23）",
+          "value": "7日变化 $-2.07B（数据日 2026-10-24）",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "date: 1792713600 (2026-10-23), totalCirculatingUSD.peggedUSD: 303243866632",
-          "7 days earlier totalCirculatingUSD.peggedUSD: 305201015402"
+          "date: 1792800000 (2026-10-24), totalCirculatingUSD.peggedUSD: 302793993343",
+          "7 days earlier totalCirculatingUSD.peggedUSD: 304867339315"
         ],
         "point": "币圈：稳定币在收缩：场内资金流出，反弹持续性要打折扣"
       }
     },
     {
-      "id": "crypto-zh-iNzFjNzMxZjgwNTc",
+      "id": "crypto-zh-lYjZlZjA3MzVlZTU",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "美股裂成两大阵营：AI股暴跌，多数成分股却在上涨",
-      "title_orig": "美股裂成两大阵营：AI股暴跌，多数成分股却在上涨",
+      "title": "曾以均价80.97美元买入20万枚ETH的某地址7小时前向Kraken转入1000 ETH，价值约240万美元",
+      "title_orig": "曾以均价80.97美元买入20万枚ETH的某地址7小时前向Kraken转入1000 ETH，价值约240万美元",
       "source": "PANews",
-      "source_url": "https://www.panewslab.com/zh/articles/01a16810-b18e-7087-93d6-b71c731f8057",
-      "url": "https://www.panewslab.com/zh/articles/01a16810-b18e-7087-93d6-b71c731f8057",
-      "published_at": "2026-10-23T09:21:26.000Z",
-      "tags": [
-        "美股",
-        "美股动向"
-      ],
-      "score": 78,
-      "risk": "medium",
-      "lang": "en",
-      "_origin": "crypto",
-      "_crypto_kind": "美股动向",
-      "_market": "us",
-      "extra": {
-        "disclaimer": "非投资建议"
-      },
-      "reader": {
-        "verdict": "worth",
-        "verdict_label": "美股观察",
-        "use": "美股动向：美股裂成两大阵营：AI股暴跌，多数成分股却在上涨——影响美股科技/芯片板块情绪，也常传导到币圈风险偏好（助手解读，非原文）",
-        "title": "",
-        "lines": {
-          "fact": "原文数据：周四，标普500指数下跌1.2%，创7月以来最差单日表现，纳斯达克综合指数更是重挫2.6%；",
-          "impact": "影响美股科技/芯片板块情绪，也常传导到币圈风险偏好",
-          "note": "非投资建议；只作趋势感知，不荐个股"
-        },
-        "evidence": [
-          "周四，标普500指数下跌1.2%，创7月以来最差单日表现，纳斯达克综合指数更是重挫2.6%；"
-        ],
-        "point": "美股：美股动向：美股裂成两大阵营：AI股暴跌，多数成分股却在上涨——影响美股科技/芯片板块情绪，也常传导到币圈风险偏好（助手解读，非原文）"
-      }
-    },
-    {
-      "id": "crypto-zh-kZDZiNmM0YzliZTY",
-      "partition": "invest",
-      "type": "card",
-      "category": "投资观察",
-      "title": "英国上市公司The Smarter Web Company增持20枚比特币，目前共持有2850枚",
-      "title_orig": "英国上市公司The Smarter Web Company增持20枚比特币，目前共持有2850枚",
-      "source": "PANews",
-      "source_url": "https://www.panewslab.com/zh/articles/01a167d1-7c6e-7024-b534-dd6b6c4c9be6",
-      "url": "https://www.panewslab.com/zh/articles/01a167d1-7c6e-7024-b534-dd6b6c4c9be6",
-      "published_at": "2026-10-23T08:12:24.000Z",
+      "source_url": "https://www.panewslab.com/zh/articles/01a16c01-714d-771e-a4a9-eb6ef0735ee5",
+      "url": "https://www.panewslab.com/zh/articles/01a16c01-714d-771e-a4a9-eb6ef0735ee5",
+      "published_at": "2026-10-24T03:43:16.000Z",
       "tags": [
         "加密",
         "高风险",
         "机构/公司买币"
       ],
-      "score": 77,
+      "score": 78,
       "risk": "high",
       "lang": "en",
       "_origin": "crypto",
@@ -876,41 +795,83 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "机构/公司买币：英国上市公司The Smarter Web Company增持20枚比特币，目…——公司真实落地买币，对短线情绪偏正面，但不等于价格会涨（助手解读，非原文）",
+        "use": "机构/公司买币：曾以均价80.97美元买入20万枚ETH的某地址7小时前向Kraken转入10…——公司真实落地买币，对短线情绪偏正面，但不等于价格会涨（助手解读，非原文）",
         "title": "",
         "lines": {
-          "fact": "原文数据：据 Bitcoin Treasuries 监测，英国上市公司 The Smarter Web Company 增持 20 枚比特币，目前共持有 2,850 枚比特币，在比特币持仓企业排名中位列第 30 位。",
+          "fact": "原文数据：据 Ai 姨监测，地址 0x11A…5c992 在 7 小时前向 Kraken 充值 1000 ETH，价值约 240 万美元。",
           "impact": "公司真实落地买币，对短线情绪偏正面，但不等于价格会涨",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "英国上市公司The Smarter Web Company增持20枚比特币，目前共持有2850枚",
-          "据 Bitcoin Treasuries 监测，英国上市公司 The Smarter Web Company 增持 20 枚比特币，目前共持有 2,850 枚比特币，在比特币持仓企业排名中位列第 30 位。"
+          "曾以均价80.97美元买入20万枚ETH的某地址7小时前向Kraken转入1000 ETH，价值约240万美元",
+          "据 Ai 姨监测，地址 0x11A…5c992 在 7 小时前向 Kraken 充值 1000 ETH，价值约 240 万美元。"
         ],
-        "point": "币圈：机构/公司买币：英国上市公司The Smarter Web Company增持20枚比特币，目…——公司真实落地买币，对短线情绪偏正面，但不等于价格会涨（助手解读，非原文）"
+        "point": "币圈：机构/公司买币：曾以均价80.97美元买入20万枚ETH的某地址7小时前向Kraken转入10…——公司真实落地买币，对短线情绪偏正面，但不等于价格会涨（助手解读，非原文）"
       }
     },
     {
-      "id": "crypto-zh-xNTI2MTg4YTUxZDQ",
+      "id": "crypto-zh-lZDY4ZTUzZDI3Nzk",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "某巨鲸卖出ETH抄底仓后转战原油多头，油价上涨4%带来190万美元浮盈",
-      "title_orig": "某巨鲸卖出ETH抄底仓后转战原油多头，油价上涨4%带来190万美元浮盈",
+      "title": "数据：Pump.fun24小时收入约198万美元，超过Hyperliquid位列第三",
+      "title_orig": "数据：Pump.fun24小时收入约198万美元，超过Hyperliquid位列第三",
       "source": "PANews",
-      "source_url": "https://www.panewslab.com/zh/articles/01a1693e-ff8a-7572-924f-1526188a51d4",
-      "url": "https://www.panewslab.com/zh/articles/01a1693e-ff8a-7572-924f-1526188a51d4",
-      "published_at": "2026-10-23T14:51:38.000Z",
+      "source_url": "https://www.panewslab.com/zh/articles/01a16e06-2013-77ec-a0da-ed68e53d2779",
+      "url": "https://www.panewslab.com/zh/articles/01a16e06-2013-77ec-a0da-ed68e53d2779",
+      "published_at": "2026-10-24T13:07:37.000Z",
       "tags": [
         "加密",
         "高风险",
-        "巨鲸动向"
+        "热点叙事"
+      ],
+      "score": 77,
+      "risk": "high",
+      "lang": "en",
+      "_origin": "crypto",
+      "_crypto_kind": "热点叙事",
+      "_market": "crypto",
+      "extra": {
+        "disclaimer": "非投资建议；加密高风险"
+      },
+      "reader": {
+        "verdict": "worth",
+        "verdict_label": "币圈观察",
+        "use": "热点叙事：数据：Pump.fun24小时收入约198万美元，超过Hyperliquid位…——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）",
+        "title": "",
+        "lines": {
+          "fact": "原文数据：DefiLlama数据显示，Pump.fun过去24小时收入约198万美元，高于Hyperliquid的196万美元，在其收入排行榜中位列第三，仅次于Tether的1728万美元和Circle的688万美元。",
+          "impact": "资金和话题正在往这里走，热点轮动快，看热度不等于值得买",
+          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
+        },
+        "evidence": [
+          "数据：Pump.fun24小时收入约198万美元，超过Hyperliquid位列第三",
+          "DefiLlama数据显示，Pump.fun过去24小时收入约198万美元，高于Hyperliquid的196万美元，在其收入排行榜中位列第三，仅次于Tether的1728万美元和Circle的688万美元。"
+        ],
+        "point": "币圈：热点叙事：数据：Pump.fun24小时收入约198万美元，超过Hyperliquid位…——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）"
+      }
+    },
+    {
+      "id": "crypto-revenue-2026-10-25",
+      "partition": "invest",
+      "type": "card",
+      "category": "投资观察",
+      "title": "协议收入异动 · Papertrade $1.7M/日（较7日前 -68.40%） / Polymarket International $1.1M/日（较7日前 +135.61%） / Collector Crypt $529,648/日（较7日前 -52.14%）",
+      "title_orig": "协议收入异动 · Papertrade $1.7M/日（较7日前 -68.40%） / Polymarket International $1.1M/日（较7日前 +135.61%） / Collector Crypt $529,648/日（较7日前 -52.14%）",
+      "source": "DefiLlama 公开 API（overview/fees, dailyRevenue）",
+      "source_url": "https://defillama.com/revenue",
+      "url": "https://defillama.com/revenue",
+      "published_at": "2026-10-25T00:02:02.994Z",
+      "tags": [
+        "加密",
+        "高风险",
+        "链上"
       ],
       "score": 76,
       "risk": "high",
-      "lang": "en",
+      "lang": "zh",
       "_origin": "crypto",
-      "_crypto_kind": "巨鲸动向",
+      "_crypto_kind": "链上",
       "_market": "crypto",
       "extra": {
         "disclaimer": "非投资建议；加密高风险"
@@ -918,73 +879,31 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "巨鲸动向：某巨鲸卖出ETH抄底仓后转战原油多头，油价上涨4%带来190万美元浮盈——大户资金方向，仅作情绪参考，单个地址动作不代表趋势（助手解读，非原文）",
-        "title": "",
+        "use": "真实使用量变化：收入暴增的协议/链通常是当下资金和话题在的地方，收入下滑说明热度退潮",
+        "title": "协议收入异动 · Papertrade $1.7M/日（较7日前 -68.40%） / Polymarket International $1.1M/日（较7日前 +135.61%） / Collector Crypt $529,648/日（较7日前 -52.14%）",
         "lines": {
-          "fact": "原文数据：据链上分析师余烬监测，3天前卖出低位抄底ETH仓位的巨鲸，在转向做多原油后，目前浮盈已达190万美元。",
-          "impact": "大户资金方向，仅作情绪参考，单个地址动作不代表趋势",
+          "value": "Papertrade（Derivatives）、Polymarket International（Prediction Market）、Collector Crypt（Physical TCG）",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "某巨鲸卖出ETH抄底仓后转战原油多头，油价上涨4%带来190万美元浮盈",
-          "据链上分析师余烬监测，3天前卖出低位抄底ETH仓位的巨鲸，在转向做多原油后，目前浮盈已达190万美元。"
+          "Papertrade total24h: 1723206, change_7d: -68.40",
+          "Polymarket International total24h: 1051227, change_7d: 135.61",
+          "Collector Crypt total24h: 529648, change_7d: -52.14"
         ],
-        "point": "币圈：巨鲸动向：某巨鲸卖出ETH抄底仓后转战原油多头，油价上涨4%带来190万美元浮盈——大户资金方向，仅作情绪参考，单个地址动作不代表趋势（助手解读，非原文）"
+        "point": "币圈：真实使用量变化：收入暴增的协议/链通常是当下资金和话题在的地方，收入下滑说明热度退潮"
       }
     },
     {
-      "id": "crypto-zh-5MDk4MGJmMjdkY2E",
+      "id": "crypto-news-saW9uLXdhbGxldHM",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "某巨鲸过去5小时向CEX存入4000枚比特币，价值3.27亿美元",
-      "title_orig": "某巨鲸过去5小时向CEX存入4000枚比特币，价值3.27亿美元",
-      "source": "PANews",
-      "source_url": "https://www.panewslab.com/zh/articles/01a1685f-529e-7283-b653-90980bf27dca",
-      "url": "https://www.panewslab.com/zh/articles/01a1685f-529e-7283-b653-90980bf27dca",
-      "published_at": "2026-10-23T10:47:19.000Z",
-      "tags": [
-        "加密",
-        "高风险",
-        "巨鲸动向"
-      ],
-      "score": 75,
-      "risk": "high",
-      "lang": "en",
-      "_origin": "crypto",
-      "_crypto_kind": "巨鲸动向",
-      "_market": "crypto",
-      "extra": {
-        "disclaimer": "非投资建议；加密高风险"
-      },
-      "reader": {
-        "verdict": "worth",
-        "verdict_label": "币圈观察",
-        "use": "巨鲸动向：某巨鲸过去5小时向CEX存入4000枚比特币，价值3.27亿美元——大户资金方向，仅作情绪参考，单个地址动作不代表趋势（助手解读，非原文）",
-        "title": "",
-        "lines": {
-          "fact": "原文数据：据 Lookonchain 监测，某巨鲸过去 5 小时向币安和 Deribit 存入 4000 枚比特币，价值 3.27 亿美元。",
-          "impact": "大户资金方向，仅作情绪参考，单个地址动作不代表趋势",
-          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
-        },
-        "evidence": [
-          "某巨鲸过去5小时向CEX存入4000枚比特币，价值3.27亿美元",
-          "据 Lookonchain 监测，某巨鲸过去 5 小时向币安和 Deribit 存入 4000 枚比特币，价值 3.27 亿美元。"
-        ],
-        "point": "币圈：巨鲸动向：某巨鲸过去5小时向CEX存入4000枚比特币，价值3.27亿美元——大户资金方向，仅作情绪参考，单个地址动作不代表趋势（助手解读，非原文）"
-      }
-    },
-    {
-      "id": "crypto-news-b3VzLW91dGZsb3dz",
-      "partition": "invest",
-      "type": "card",
-      "category": "投资观察",
-      "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
-      "title_orig": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
-      "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
-      "published_at": "2026-10-23T08:02:35.000Z",
+      "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+      "title_orig": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+      "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+      "published_at": "2026-10-24T13:01:02.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -1002,72 +921,29 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "安全事件（India · $16 million）：涉事协议/代币短线有抛压，相关仓位先查是否受影响",
+        "use": "宏观联动（Hong Kong’s Biggest · 3 Million）：利率/美元变化正在传导到币价",
         "title": "",
         "lines": {
-          "value": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+          "value": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
-          "CoinDCX denies its active wallets were hacked after sleuths flagged $16 million in outflows from addresses linked to the India-based exchange."
+          "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets"
         ],
-        "point": "币圈：安全事件（India · $16 million）：涉事协议/代币短线有抛压，相关仓位先查是否受影响"
+        "point": "币圈：宏观联动（Hong Kong’s Biggest · 3 Million）：利率/美元变化正在传导到币价"
       }
     },
     {
-      "id": "crypto-zh-jOGY5ZTJmYWFjYjQ",
+      "id": "crypto-news-ODAwMDAtNDMxNjA4",
       "partition": "invest",
       "type": "card",
       "category": "投资观察",
-      "title": "Orochi Network再获800万美元融资，累计融资额达2000万美元",
-      "title_orig": "Orochi Network再获800万美元融资，累计融资额达2000万美元",
-      "source": "PANews",
-      "source_url": "https://www.panewslab.com/zh/articles/01a1688d-faae-779c-bba5-c8f9e2faacb4",
-      "url": "https://www.panewslab.com/zh/articles/01a1688d-faae-779c-bba5-c8f9e2faacb4",
-      "published_at": "2026-10-23T11:38:17.000Z",
-      "tags": [
-        "加密",
-        "高风险",
-        "热点叙事"
-      ],
-      "score": 74,
-      "risk": "high",
-      "lang": "en",
-      "_origin": "crypto",
-      "_crypto_kind": "热点叙事",
-      "_market": "crypto",
-      "extra": {
-        "disclaimer": "非投资建议；加密高风险"
-      },
-      "reader": {
-        "verdict": "worth",
-        "verdict_label": "币圈观察",
-        "use": "热点叙事：Orochi Network再获800万美元融资，累计融资额达2000万美元——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）",
-        "title": "",
-        "lines": {
-          "fact": "原文数据：Orochi Network宣布新增融资800万美元，使累计融资额达到2000万美元，资金将用于建设面向现实世界资产（RWA）代币化的可验证数据基础设施。",
-          "impact": "资金和话题正在往这里走，热点轮动快，看热度不等于值得买",
-          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
-        },
-        "evidence": [
-          "Orochi Network再获800万美元融资，累计融资额达2000万美元",
-          "Orochi Network宣布新增融资800万美元，使累计融资额达到2000万美元，资金将用于建设面向现实世界资产（RWA）代币化的可验证数据基础设施。"
-        ],
-        "point": "币圈：热点叙事：Orochi Network再获800万美元融资，累计融资额达2000万美元——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）"
-      }
-    },
-    {
-      "id": "crypto-news-dG5lcl9pbmJvdW5k",
-      "partition": "invest",
-      "type": "card",
-      "category": "投资观察",
-      "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-      "title_orig": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-      "source": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-10-23T10:13:06.000Z",
+      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+      "title_orig": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
+      "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
+      "published_at": "2026-10-24T17:44:36.000Z",
       "tags": [
         "加密",
         "高风险",
@@ -1085,221 +961,17 @@
       "reader": {
         "verdict": "worth",
         "verdict_label": "币圈观察",
-        "use": "安全事件（Cysic · 10%）：涉事协议/代币短线有抛压，相关仓位先查是否受影响",
+        "use": "价格走弱（Crypto · $404 million / $80,000）：留意是个币利空还是全市场风险偏好下降",
         "title": "",
         "lines": {
-          "value": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+          "value": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
           "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
         },
         "evidence": [
-          "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-          "The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain."
+          "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+          "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data."
         ],
-        "point": "币圈：安全事件（Cysic · 10%）：涉事协议/代币短线有抛压，相关仓位先查是否受影响"
-      }
-    },
-    {
-      "id": "crypto-zh-yMTc2YTM4MWI5MTI",
-      "partition": "invest",
-      "type": "card",
-      "category": "投资观察",
-      "title": "九成收入靠 Meme 币，估值却向 Pump 看齐：Meteora 该值多少？",
-      "title_orig": "九成收入靠 Meme 币，估值却向 Pump 看齐：Meteora 该值多少？",
-      "source": "PANews",
-      "source_url": "https://www.panewslab.com/zh/articles/01a1682e-39c4-740a-b40f-2176a381b912",
-      "url": "https://www.panewslab.com/zh/articles/01a1682e-39c4-740a-b40f-2176a381b912",
-      "published_at": "2026-10-23T10:58:00.000Z",
-      "tags": [
-        "加密",
-        "高风险",
-        "热点叙事"
-      ],
-      "score": 73,
-      "risk": "high",
-      "lang": "en",
-      "_origin": "crypto",
-      "_crypto_kind": "热点叙事",
-      "_market": "crypto",
-      "extra": {
-        "disclaimer": "非投资建议；加密高风险"
-      },
-      "reader": {
-        "verdict": "worth",
-        "verdict_label": "币圈观察",
-        "use": "热点叙事：九成收入靠 Meme 币，估值却向 Pump 看齐：Meteora 该值多少？——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）",
-        "title": "",
-        "lines": {
-          "fact": "原文数据：Meteora 捕获 Solana 成熟 memecoin 流动性，占 Fomo 路由量 30%，收入九成来自 memecoin，估值仅 3.7 亿美元，市场低估其底座角色。",
-          "impact": "资金和话题正在往这里走，热点轮动快，看热度不等于值得买",
-          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
-        },
-        "evidence": [
-          "Meteora 捕获 Solana 成熟 memecoin 流动性，占 Fomo 路由量 30%，收入九成来自 memecoin，估值仅 3.7 亿美元，市场低估其底座角色。"
-        ],
-        "point": "币圈：热点叙事：九成收入靠 Meme 币，估值却向 Pump 看齐：Meteora 该值多少？——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）"
-      }
-    },
-    {
-      "id": "crypto-news-dG5lcl9pbmJvdW5k",
-      "partition": "invest",
-      "type": "card",
-      "category": "投资观察",
-      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-      "title_orig": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-      "source": "Cointelegraph",
-      "source_url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-10-23T18:39:02.000Z",
-      "tags": [
-        "加密",
-        "高风险",
-        "新闻"
-      ],
-      "score": 72,
-      "risk": "high",
-      "lang": "en",
-      "_origin": "crypto",
-      "_crypto_kind": "新闻",
-      "_market": "crypto",
-      "extra": {
-        "disclaimer": "非投资建议；加密高风险"
-      },
-      "reader": {
-        "verdict": "worth",
-        "verdict_label": "币圈观察",
-        "use": "安全事件（Initia · $2.6M）：涉事协议/代币短线有抛压，相关仓位先查是否受影响",
-        "title": "",
-        "lines": {
-          "value": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
-        },
-        "evidence": [
-          "Initia halts blockchain after exploit reportedly drains over $2.6M"
-        ],
-        "point": "币圈：安全事件（Initia · $2.6M）：涉事协议/代币短线有抛压，相关仓位先查是否受影响"
-      }
-    },
-    {
-      "id": "crypto-news-Zsb3dzLTQyNjQ4Mw",
-      "partition": "invest",
-      "type": "card",
-      "category": "投资观察",
-      "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
-      "title_orig": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
-      "url": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
-      "published_at": "2026-10-23T11:39:45.000Z",
-      "tags": [
-        "加密",
-        "高风险",
-        "新闻"
-      ],
-      "score": 71,
-      "risk": "high",
-      "lang": "en",
-      "_origin": "crypto",
-      "_crypto_kind": "新闻",
-      "_market": "crypto",
-      "extra": {
-        "disclaimer": "非投资建议；加密高风险"
-      },
-      "reader": {
-        "verdict": "worth",
-        "verdict_label": "币圈观察",
-        "use": "机构资金流向（Bitcoin ETFs · $636 million）：ETF 资金方向会影响 BTC/ETH 短线承接力",
-        "title": "",
-        "lines": {
-          "value": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
-          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
-        },
-        "evidence": [
-          "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
-          "BlackRock's IBIT led Thursday's net outflows with $254.1 million, while four other funds also witnessed withdrawals."
-        ],
-        "point": "币圈：机构资金流向（Bitcoin ETFs · $636 million）：ETF 资金方向会影响 BTC/ETH 短线承接力"
-      }
-    },
-    {
-      "id": "crypto-news-sLW9mZi00MjM5OTA",
-      "partition": "invest",
-      "type": "card",
-      "category": "投资观察",
-      "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
-      "title_orig": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
-      "url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
-      "published_at": "2026-10-23T02:21:30.000Z",
-      "tags": [
-        "加密",
-        "高风险",
-        "新闻"
-      ],
-      "score": 70,
-      "risk": "high",
-      "lang": "en",
-      "_origin": "crypto",
-      "_crypto_kind": "新闻",
-      "_market": "crypto",
-      "extra": {
-        "disclaimer": "非投资建议；加密高风险"
-      },
-      "reader": {
-        "verdict": "worth",
-        "verdict_label": "币圈观察",
-        "use": "价格走弱（Bitcoin · $81,500）：留意是个币利空还是全市场风险偏好下降",
-        "title": "",
-        "lines": {
-          "value": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
-          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
-        },
-        "evidence": [
-          "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
-          "The Wall Street sell-off extended to Asian equities on Friday morning, with South Korea's Kospi down 2.3% and Japan's Nikkei 225 down 1.6%."
-        ],
-        "point": "币圈：价格走弱（Bitcoin · $81,500）：留意是个币利空还是全市场风险偏好下降"
-      }
-    },
-    {
-      "id": "crypto-news-1uZWFyLXVzZDEwMA",
-      "partition": "invest",
-      "type": "card",
-      "category": "投资观察",
-      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-      "title_orig": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
-      "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
-      "published_at": "2026-10-23T03:13:01.000Z",
-      "tags": [
-        "加密",
-        "高风险",
-        "新闻"
-      ],
-      "score": 69,
-      "risk": "high",
-      "lang": "en",
-      "_origin": "crypto",
-      "_crypto_kind": "新闻",
-      "_market": "crypto",
-      "extra": {
-        "disclaimer": "非投资建议；加密高风险"
-      },
-      "reader": {
-        "verdict": "worth",
-        "verdict_label": "币圈观察",
-        "use": "价格走强（Bitcoin · $100）：看成交是否放大来判断能否延续，不追高",
-        "title": "",
-        "lines": {
-          "value": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-          "note": "非投资建议；加密高风险；只作趋势感知，不是买卖信号"
-        },
-        "evidence": [
-          "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-          "Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus."
-        ],
-        "point": "币圈：价格走强（Bitcoin · $100）：看成交是否放大来判断能否延续，不追高"
+        "point": "币圈：价格走弱（Crypto · $404 million / $80,000）：留意是个币利空还是全市场风险偏好下降"
       }
     }
   ]

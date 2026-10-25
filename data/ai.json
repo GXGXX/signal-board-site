@@ -1,133 +1,5 @@
 [
   {
-    "id": "ai-community-ai-reddit-saas-c8e9e90d76c3",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "1100+ people signed up for my transcription SaaS. 89% used it. Only 6 pay. Here's what I'm changing.",
-    "summary": "I built a tool that does transcription, subtitles, translation, editing, and formatting.",
-    "source": "r/SaaS",
-    "source_url": "https://www.reddit.com/r/SaaS/comments/1xdouvn/1100_people_signed_up_for_my_transcription_saas/",
-    "published_at": "2026-10-23T20:16:56.000Z",
-    "tags": [
-      "reddit",
-      "r/SaaS",
-      "做法",
-      "收入",
-      "用户/流量数",
-      "踩坑/复盘",
-      "获客渠道"
-    ],
-    "score": 84,
-    "why": "转化率参照：转写 SaaS 自 4 月约 1000+ 注册，但只有 6 人付费（约 $48 MRR）——工具型产品别默认用户会订阅",
-    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xdouvn/1100_people_signed_up_for_my_transcription_saas/",
-    "extra": {},
-    "blurb": "I built a tool that does transcription, subtitles, translation, editing, and formatting.",
-    "url": "https://www.reddit.com/r/SaaS/comments/1xdouvn/1100_people_signed_up_for_my_transcription_saas/",
-    "name": "1100+ people signed up for my transcription SaaS. 89% used it. Only 6 pay. Here's what I'm changing.",
-    "lang": "EN",
-    "posted_at": "2026-10-23",
-    "evidence_missing": false,
-    "_origin": "community_rss",
-    "_source_id": "ai-reddit-saas",
-    "title_orig": "1100+ people signed up for my transcription SaaS. 89% used it. Only 6 pay. Here's what I'm changing.",
-    "source_excerpt": "I built a tool that does transcription, subtitles, translation, editing, and formatting. The product solves their immediate problem, but that doesn't mean they need a subscription. 6 paying subscribers, approximately $48 MRR. Around 1,000 signups since April. (Rest from Linkedin, X, ChatGPT, Directories etc) I'll share the results after November 14, including what failed.",
-    "_feed_type": "reddit_rss",
-    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-    "_score_raw": 74,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "I built a tool that does transcription, subtitles, translation, editing, and formatting.",
-    "highlights": [
-      "The product solves their immediate problem…",
-      "(Rest from Linkedin, X, ChatGPT…"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "worth",
-      "use": "转化率参照：转写 SaaS 自 4 月约 1000+ 注册，但只有 6 人付费（约 $48 MRR）——工具型产品别默认用户会订阅",
-      "lines": {
-        "problem": "原帖这样描述：「I built a tool that does transcription, subtitles, translation, editing, and formatting.」",
-        "model": "原帖写到：「The product solves their immediate problem, but that doesn't mean they need a subscription.」",
-        "value": "作者自述收入「$48 MRR」；数据「6 paying subscribers」；获客渠道「Linkedin」；踩坑/复盘「what failed」",
-        "note": "数字均为发帖人自述，未经核实"
-      },
-      "evidence": [
-        "I built a tool that does transcription, subtitles, translation, editing, and formatting.",
-        "The product solves their immediate problem, but that doesn't mean they need a subscription.",
-        "$48 MRR",
-        "6 paying subscribers",
-        "Linkedin",
-        "what failed",
-        "6 paying subscribers, approximately $48 MRR. Around 1,000 signups since April."
-      ],
-      "point": "AI副业：自述收入 $48 MRR，渠道 Linkedin",
-      "verdict_label": "值得看",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-community-ai-reddit-era-7d68f8378afd",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "My solo iOS app since August: 65 people hit the paywall, 5 paid, 4 left. The one who stayed never opens the app",
-    "summary": "In total the app has made about $78 on the App Store.",
-    "source": "r/EntrepreneurRideAlong",
-    "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xddzfd/my_solo_ios_app_since_august_65_people_hit_the/",
-    "published_at": "2026-10-23T13:25:45.000Z",
-    "tags": [
-      "reddit",
-      "r/EntrepreneurRideAlong",
-      "定价",
-      "收入"
-    ],
-    "score": 72,
-    "why": "付费墙样本：solo iOS app 65 人看到付费墙、5 人付费、4 人流失，$5/月起，App Store 累计约 $78",
-    "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xddzfd/my_solo_ios_app_since_august_65_people_hit_the/",
-    "extra": {},
-    "blurb": "In total the app has made about $78 on the App Store.",
-    "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xddzfd/my_solo_ios_app_since_august_65_people_hit_the/",
-    "name": "My solo iOS app since August: 65 people hit the paywall, 5 paid, 4 left. The one who stayed never opens the app",
-    "lang": "EN",
-    "posted_at": "2026-10-23",
-    "evidence_missing": false,
-    "_origin": "community_rss",
-    "_source_id": "ai-reddit-era",
-    "title_orig": "My solo iOS app since August: 65 people hit the paywall, 5 paid, 4 left. The one who stayed never opens the app",
-    "source_excerpt": "It starts at $5/month. In total the app has made about $78 on the App Store.",
-    "_feed_type": "reddit_rss",
-    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-    "_score_raw": 62,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "In total the app has made about $78 on the App Store.",
-    "highlights": [],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "worth",
-      "use": "付费墙样本：solo iOS app 65 人看到付费墙、5 人付费、4 人流失，$5/月起，App Store 累计约 $78",
-      "lines": {
-        "model": "原帖写到：「It starts at $5/month.」",
-        "value": "作者自述收入「$78」；定价「$5/month」",
-        "note": "数字均为发帖人自述，未经核实"
-      },
-      "evidence": [
-        "It starts at $5/month.",
-        "$78",
-        "$5/month",
-        "It starts at $5/month. In total the app has made about $78 on the App Store."
-      ],
-      "point": "AI副业：自述收入 $78",
-      "verdict_label": "值得看",
-      "title": ""
-    }
-  },
-  {
     "id": "ai-post-marc_louvion-21e883977fa1",
     "partition": "ai",
     "type": "post",
@@ -143,7 +15,7 @@
       "saas",
       "SaaS"
     ],
-    "score": 38,
+    "score": 18,
     "why": "连续创业样本：一人做 36 个产品，公开累计收入约 $3M（自述）",
     "deep_link": "https://marclou.beehiiv.com/p/i-ve-made-3m-with-my-36-startups",
     "extra": {},
@@ -159,12 +31,17 @@
     "_source_id": "kol:marc_louvion",
     "title_orig": "I've made $3M with my 36 startups",
     "source_excerpt": "My 10-year solopreneur story.",
+    "highlights": [
+      "来源：Marc Lou"
+    ],
+    "summary_zh": "I've made $3M with my 36 startups",
+    "summary_source": "fallback",
     "person_id": "marc_louvion",
     "person_handle": "marc_louvion",
     "person_name": "Marc Lou",
     "_feed_type": "blog_rss",
     "_feed_url": "https://rss.beehiiv.com/feeds/eFrYnr889a.xml",
-    "_score_raw": 48,
+    "_score_raw": 28,
     "_decay_penalty": 20,
     "_decay_exempt": null,
     "_ai_business": true,
@@ -174,11 +51,6 @@
       "proof": "$3M"
     },
     "_practical_delta": 10,
-    "summary_zh": "I've made $3M with my 36 startups",
-    "highlights": [
-      "来源：Marc Lou"
-    ],
-    "summary_source": "fallback",
     "reader": {
       "verdict": "worth",
       "use": "连续创业样本：一人做 36 个产品，公开累计收入约 $3M（自述）",
@@ -206,69 +78,68 @@
     }
   },
   {
-    "id": "ai-zh-5c8b0b517851",
+    "id": "ai-zh-3e2c46d83039",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "巨头们的新战役：抬高AI制药，抢占AI4S",
-    "summary": "晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决 本文来自微信公众号： 潮涌AI ，作者：潮涌AI编辑部 10月20日，OpenAI在官网上挂出一则简短的收购公告，对象是一家叫Orchestra Bio的公司。",
-    "source": "虎嗅",
-    "source_url": "https://www.huxiu.com/article/4900070.html?f=rss",
-    "published_at": "Sat, 24 Oct 2026 07:15:58 +0800",
+    "title": "从角色聊天到互动叙事世界，AI原生娱乐的下一站",
+    "summary": "字节旗下猫箱一季度内购收入超2200万美元，登顶中国iOS生成式AI应用； 字节旗下猫箱一季度内购收入超2200万美元，登顶中国iOS生成式AI应用；同期Character.AI申请Chapter 11，每月亏损800万至900万美元。",
+    "source": "人人都是产品经理",
+    "source_url": "https://www.woshipm.com/ai/6483642.html",
+    "published_at": "Sat, 24 Oct 2026 02:18:44 +0000",
     "tags": [
       "中文",
-      "虎嗅"
+      "人人都是产品经理"
     ],
     "score": 90,
-    "why": "AI 制药赛道行情：晶泰科技上半年收入 3.94 亿元，文中还列了 Anthropic 约 $4 亿收购 Coefficient Bio 等巨头布局",
-    "deep_link": "https://www.huxiu.com/article/4900070.html?f=rss",
+    "why": "AI 角色聊天变现对照：字节「猫箱」一季度内购超 $2200 万登顶中国 iOS 生成式 AI；同期 Character.AI 申请 Chapter 11、月亏 $800–900 万",
+    "deep_link": "https://www.woshipm.com/ai/6483642.html",
     "extra": {},
-    "blurb": "晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决 本文来自微信公众号： 潮涌AI ，作者：潮涌AI编辑部 10月20日，OpenAI在官网上挂出一则简短的收购公告，对象是一家叫Orchestra Bio的公司。",
-    "url": "https://www.huxiu.com/article/4900070.html?f=rss",
-    "name": "巨头们的新战役：抬高AI制药，抢占AI4S",
+    "blurb": "字节旗下猫箱一季度内购收入超2200万美元，登顶中国iOS生成式AI应用； 字节旗下猫箱一季度内购收入超2200万美元，登顶中国iOS生成式AI应用；同期Character.AI申请Chapter 11，每月亏损800万至900万美元。",
+    "url": "https://www.woshipm.com/ai/6483642.html",
+    "name": "从角色聊天到互动叙事世界，AI原生娱乐的下一站",
     "lang": "zh",
     "posted_at": "Sat, 24 Oc",
     "evidence_missing": false,
     "_origin": "zh_media",
-    "_source_id": "zh-huxiu",
+    "_source_id": "zh-woshipm",
     "zh_reader": {
       "verdict": "save",
-      "use": "模式/数字：晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决",
+      "use": "模式/数字：字节旗下猫箱一季度内购收入超2200万美元，登顶中国iOS生成式AI应用；",
       "lines": {
-        "model": "怎么赚钱：晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决"
+        "model": "怎么赚钱：字节旗下猫箱一季度内购收入超2200万美元，登顶中国iOS生成式AI应用；"
       },
       "evidence": [
-        "晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决",
-        "3.94亿元"
+        "字节旗下猫箱一季度内购收入超2200万美元，登顶中国iOS生成式AI应用；",
+        "2200万美元"
       ],
-      "point": "巨头们的新战役：抬高AI制药，抢占AI4S"
+      "point": "从角色聊天到互动叙事世界，AI原生娱乐的下一站"
     },
-    "title_orig": "巨头们的新战役：抬高AI制药，抢占AI4S",
-    "source_excerpt": "晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决 本文来自微信公众号： 潮涌AI ，作者：潮涌AI编辑部 10月20日，OpenAI在官网上挂出一则简短的收购公告，对象是一家叫Orchestra Bio的公司。 这家公司成立四年，公开融资约2000万美元，专做帮药企协调药物开发流程的AI agent，不设计分子，也不做临床，交易金额没有披露。 把这笔交易和今年的其他投资动作放在一起，不难看出巨头集体下场AI制药的趋势。 先看海外，4月，Anthropic花约4亿美元股票买下Coefficient Bio，一家成立八个月、团队十个人左右的AI药物发现公司；5月，谷歌旗下的Isomorphic Labs完成21亿美元B轮融资，10月又传出正在以400到500亿美元的估值谈新一轮。 再看国内，9月，字节分拆出去的Anew Labs完成2.9亿美元首轮融资，投后估值15亿美元；腾讯则在2月公开了一项由AI设计的GLP-1短肽专",
+    "title_orig": "从角色聊天到互动叙事世界，AI原生娱乐的下一站",
+    "source_excerpt": "字节旗下猫箱一季度内购收入超2200万美元，登顶中国iOS生成式AI应用； 字节旗下猫箱一季度内购收入超2200万美元，登顶中国iOS生成式AI应用；同期Character.AI申请Chapter 11，每月亏损800万至900万美元。角色聊天之后，互动叙事世界成为下一站。 虚拟角色的新生活。 Sensor Tower发布的2026年全球AI应用趋势报告显示，字节跳动旗下的猫箱位居第一季度中国iOS生成式AI应用收入榜首，累计内购收入超过2200万美元。 而几乎同一时期，海外这一领域的代表产品Character.AI却迎来了艰难时刻。10月12日，Character.AI宣布启动美国Chapter 11破产保护程序，计划通过法院监督出售资产。 路透社披露，该公司仍拥有大约1200万用户，每月亏损却达到800万至900万美元。 一边有产品靠虚拟角色获得可观收入，另一边却有知名平台因成本、诉讼和运营压力寻求出售，AI陪伴的商业前景",
     "_score_raw": 80,
     "_decay_penalty": 0,
     "_decay_exempt": null,
     "_ai_business": true,
     "_practical_delta": 10,
-    "summary_zh": "晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决 本文来自微信公众号： 潮涌AI ，作者：潮涌AI编辑部 10月20日，OpenAI在官网上挂出一则简短的收购公告，对象是一家叫Orchestra Bio的公司。",
+    "summary_zh": "字节旗下猫箱一季度内购收入超2200万美元，登顶中国iOS生成式AI应用； 字节旗下猫箱一季度内购收入超2200万美元，登顶中国iOS生成式AI应用；同期Character.AI申请Chapter 11，每月亏损800万至900万美元。",
     "highlights": [
-      "这家公司成立四年，公开融资约2000万美元，专做帮药企协调药物开发流程的AI…",
-      "把这笔交易和今年的其他投资动作放在一起，不难看出巨头集体下场AI制药的趋势。",
-      "先看海外，4月，Anthropic花约4亿美元股票买下Coefficient…"
+      "角色聊天之后，互动叙事世界成为下一站。",
+      "Sensor Tower发布的2026年全球AI应用趋势报告显示，字节跳动旗下的猫箱位居第一季度中国iOS生成式AI应…",
+      "而几乎同一时期，海外这一领域的代表产品Character.AI却迎来了艰难时刻。"
     ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "AI 制药赛道行情：晶泰科技上半年收入 3.94 亿元，文中还列了 Anthropic 约 $4 亿收购 Coefficient Bio 等巨头布局",
+      "use": "AI 角色聊天变现对照：字节「猫箱」一季度内购超 $2200 万登顶中国 iOS 生成式 AI；同期 Character.AI 申请 Chapter 11、月亏 $800–900 万",
       "lines": {
-        "model": "怎么赚钱：晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决"
+        "model": "怎么赚钱：字节旗下猫箱一季度内购收入超2200万美元，登顶中国iOS生成式AI应用；"
       },
       "evidence": [
-        "晶泰科技上半年的收入是3.94亿元，其中AI4S智慧解决",
-        "3.94亿元",
-        "4月，Anthropic花约4亿美元股票买下Coefficient Bio，一家成立八个月、团队十个人左右的AI药物发现公司"
+        "字节旗下猫箱一季度内购收入超2200万美元，登顶中国iOS生成式AI应用；",
+        "2200万美元"
       ],
-      "point": "巨头们的新战役：抬高AI制药，抢占AI4S",
+      "point": "从角色聊天到互动叙事世界，AI原生娱乐的下一站",
       "verdict_label": "收藏",
       "title": ""
     }
@@ -337,142 +208,6 @@
           "quote": "10 ways"
         }
       ],
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-zh-357cdbaff607",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "智元两年投出47笔融资，多数投给了自家机器人的上游",
-    "summary": "启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。",
-    "source": "钛媒体",
-    "source_url": "https://www.tmtpost.com/8178163.html",
-    "published_at": "Fri, 23 Oct 2026 18:19:48 +0800",
-    "tags": [
-      "中文",
-      "钛媒体"
-    ],
-    "score": 82,
-    "why": "具身智能产业链打法：智元 2024.8–2026.10 作为投资方出现在 47 起投融资事件，多投自家整机上游；旗下启元Q1/T1 定价 19999 元起",
-    "deep_link": "https://www.tmtpost.com/8178163.html",
-    "extra": {},
-    "blurb": "启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。",
-    "url": "https://www.tmtpost.com/8178163.html",
-    "name": "智元两年投出47笔融资，多数投给了自家机器人的上游",
-    "lang": "zh",
-    "posted_at": "Fri, 23 Oc",
-    "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-tmtpost",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "模式/数字：启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。",
-      "lines": {
-        "model": "怎么赚钱：启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。"
-      },
-      "evidence": [
-        "启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。",
-        "19999元"
-      ],
-      "point": "智元两年投出47笔融资，多数投给了自家机器人的上游"
-    },
-    "title_orig": "智元两年投出47笔融资，多数投给了自家机器人的上游",
-    "source_excerpt": "启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。 （本文作者为 财能圈，钛媒体经授权发布） 文 | 财能圈 10月20日，具身智能芯片公司芯际无限完成Pre-A轮融资。智元联合安徽省汽车创新中心、国元股权、合肥包河创投等现身投资方名单，融资金额未披露。 金额没有公开，但投资方的位置更值得琢磨。据科创板日报引用相关数据显示，2024年8月至2026年10月，智元作为投资方出现在47起投融资事件中，多集中在早期、小体量、位于智元整机上游的关键节点。需要说明的是，47起为事件数，同一公司的多轮融资被分别计数。 一家成立三年多的机器人公司，以这个密度对外投资，在具身智能赛道并不多见。操盘这套打法的人，是从华为计算产品线走出来的邓泰华。 操盘手是来自华为的&ldquo;老炮&rdquo; 资料显示，邓泰华1995年考入电子科技大学，就读计算机通信（信息与通信工程）专业",
-    "_score_raw": 72,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。",
-    "highlights": [
-      "（本文作者为 财能圈，钛媒体经授权发布） 文 | 财能圈 10月20日，具身智能芯片公司芯际无限完成Pre-A轮融资。",
-      "智元联合安徽省汽车创新中心、国元股权、合肥包河创投等现身投资方名单，融资金额未披露。",
-      "金额没有公开，但投资方的位置更值得琢磨。"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "具身智能产业链打法：智元 2024.8–2026.10 作为投资方出现在 47 起投融资事件，多投自家整机上游；旗下启元Q1/T1 定价 19999 元起",
-      "lines": {
-        "model": "怎么赚钱：启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。"
-      },
-      "evidence": [
-        "启元Q1身高88厘米、重16公斤、可折叠，启元T1支持轮足与四足形态切换，两款产品9月20日发售，定价19999元起。",
-        "19999元",
-        "2024年8月至2026年10月，智元作为投资方出现在47起投融资事件中，多集中在早期、小体量、位于智元整机上游的关键节点。"
-      ],
-      "point": "智元两年投出47笔融资，多数投给了自家机器人的上游",
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-zh-7c86d2a7b9c3",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "AI房产经纪人，第一单成交了",
-    "summary": "这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。",
-    "source": "36氪",
-    "source_url": "https://36kr.com/p/4037778327720835?f=rss",
-    "published_at": "2026-10-23 09:21:49 +0800",
-    "tags": [
-      "中文",
-      "36氪"
-    ],
-    "score": 82,
-    "why": "AI 替代中介的模式样本：珠海一套 195 万元二手房由 AI 经纪人撮合成交，不收佣金，省下约 4 万元中介费",
-    "deep_link": "https://36kr.com/p/4037778327720835?f=rss",
-    "extra": {},
-    "blurb": "这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。",
-    "url": "https://36kr.com/p/4037778327720835?f=rss",
-    "name": "AI房产经纪人，第一单成交了",
-    "lang": "zh",
-    "posted_at": "2026-10-23",
-    "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-36kr",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "模式/数字：这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。",
-      "lines": {
-        "model": "怎么赚钱：这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。"
-      },
-      "evidence": [
-        "这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。",
-        "4万元"
-      ],
-      "point": "AI房产经纪人，第一单成交了"
-    },
-    "title_orig": "AI房产经纪人，第一单成交了",
-    "source_excerpt": "这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。 10月15日，卖方王女士和买方刘先生正式签订了珠海华发新城6期一套二手房的买卖合同，然后顺利办理过户手续。这套总价195万元的房子买卖，是国内AI经纪人主导的第一单交易。 这笔交易的线上挂牌、客户匹配、房源验真、输出小区成交参考价、线上议价等交易核心环节全由AI经纪人“易居小新”提供服务，真人只出现在线下实地带看、专业合同鉴证、过户服务等环节。 这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。 从“辅助”角色到真正站到了交易撮合的核心位置，AI终于迈出了关键一步。 当前国内房产经纪领域的AI应用分为两条完全不同路线。主流模式是AI作为提升效率和服务的工具，辅助经纪人作业。AI是中介的外挂，不改变原有商业模式，佣金规则不变，交易决策权",
-    "_score_raw": 72,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。",
-    "highlights": [
-      "10月15日，卖方王女士和买方刘先生正式签订了珠海华发新城6期一套二手房的买卖合同，然后顺利办理过户手续。",
-      "这套总价195万元的房子买卖，是国内AI经纪人主导的第一单交易。",
-      "这笔交易的线上挂牌、客户匹配、房源验真、输出小区成交参考价、线上议价等交易核心环节全由AI经纪人“易居小新”提供服务…"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "AI 替代中介的模式样本：珠海一套 195 万元二手房由 AI 经纪人撮合成交，不收佣金，省下约 4 万元中介费",
-      "lines": {
-        "model": "怎么赚钱：这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。"
-      },
-      "evidence": [
-        "这笔交易还有特殊的一点：AI经纪人不收成交佣金，卖方把原本按传统模式要付给中介的4万元佣金，全部让利给了房子的下一任主人。",
-        "4万元",
-        "这套总价195万元的房子买卖，是国内AI经纪人主导的第一单交易。"
-      ],
-      "point": "AI房产经纪人，第一单成交了",
       "verdict_label": "收藏",
       "title": ""
     }
@@ -617,59 +352,137 @@
     }
   },
   {
-    "id": "ai-community-ai-reddit-saas-56c78aaea365",
+    "id": "ai-zh-14e49361a4f2",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "4 reasons a SaaS stays stuck under 20 customers",
-    "summary": "test: how many days between signup and the moment someone feels the product worked? if its more than one day thats where your churn comes from.",
-    "source": "r/SaaS",
-    "source_url": "https://www.reddit.com/r/SaaS/comments/1xdhawx/4_reasons_a_saas_stays_stuck_under_20_customers/",
-    "published_at": "2026-10-23T15:32:54.000Z",
+    "title": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题",
+    "summary": "文｜邓咏仪 编辑｜张雨忻 近一个月，包括Muse、Instinct在内的Personal AI产品引起全球轰动，成为最受关注的AI创业赛道。",
+    "source": "36氪",
+    "source_url": "https://36kr.com/p/4039749830120583?f=rss",
+    "published_at": "2026-10-24 18:50:23 +0800",
     "tags": [
-      "reddit",
-      "r/SaaS",
-      "用户/流量数",
-      "踩坑/复盘"
+      "中文",
+      "36氪"
     ],
     "score": 74,
-    "why": "SaaS 卡在 20 个客户以下时对照看：帖子列 4 个原因，比如从注册到感到产品有用超过 1 天就会流失",
-    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xdhawx/4_reasons_a_saas_stays_stuck_under_20_customers/",
+    "why": "Personal AI 融资样本：Today AI 拿约 $2 亿融资；文中对照 Muse 上线 22 天破 500 万下载",
+    "deep_link": "https://36kr.com/p/4039749830120583?f=rss",
     "extra": {},
-    "blurb": "test: how many days between signup and the moment someone feels the product worked? if its more than one day thats where your churn comes from.",
-    "url": "https://www.reddit.com/r/SaaS/comments/1xdhawx/4_reasons_a_saas_stays_stuck_under_20_customers/",
-    "name": "4 reasons a SaaS stays stuck under 20 customers",
-    "lang": "EN",
-    "posted_at": "2026-10-23",
+    "blurb": "文｜邓咏仪 编辑｜张雨忻 近一个月，包括Muse、Instinct在内的Personal AI产品引起全球轰动，成为最受关注的AI创业赛道。",
+    "url": "https://36kr.com/p/4039749830120583?f=rss",
+    "name": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题",
+    "lang": "zh",
+    "posted_at": "2026-10-24",
     "evidence_missing": false,
-    "_origin": "community_rss",
-    "_source_id": "ai-reddit-saas",
-    "title_orig": "4 reasons a SaaS stays stuck under 20 customers",
-    "source_excerpt": "test: how many days between signup and the moment someone feels the product worked? if its more than one day thats where your churn comes from. “freelance designers with 3 to 8 clients a month who chase late payments” is a person and you know what to say to them.",
-    "_feed_type": "reddit_rss",
-    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+    "_origin": "zh_media",
+    "_source_id": "zh-36kr",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "原文数字：拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题。",
+      "lines": {
+        "fact": "原文数字：拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题。"
+      },
+      "evidence": [
+        "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题。",
+        "2亿美金"
+      ],
+      "point": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题"
+    },
+    "title_orig": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题",
+    "source_excerpt": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题。 文｜邓咏仪 编辑｜张雨忻 近一个月，包括Muse、Instinct在内的Personal AI产品引起全球轰动，成为最受关注的AI创业赛道。其中，Muse上线22天就突破500万次下载——ChatGPT当年花了56天才达到这一数字——难得地为AI应用赛道争了一口气。 一家AI公司Today AI也许比Muse探索得更早。 创始人齐俊元曾创办Teambition，之后在阿里、字节等大厂负责过各类产品。今年初组建团队后，Today AI自9月9日起陆续上线了国际版和国内版本。 用一句话概括，Today希望做的是用户的“私人助理”。通过用户授权Today的信息、应用数据后，Today将会在持续对话中积累记忆，目标是成为一个以“人”而非任务来组织的通用助手。 和其他Personal AI产品相比，Today尤其强调AI助手要“像人”。 这个坚持体现在产品的",
     "_score_raw": 64,
     "_decay_penalty": 0,
     "_decay_exempt": null,
     "_ai_business": true,
     "_practical_delta": 10,
-    "summary_zh": "test: how many days between signup and the moment someone feels the product worked? if its more than one day thats where your churn comes from.",
+    "summary_zh": "文｜邓咏仪 编辑｜张雨忻 近一个月，包括Muse、Instinct在内的Personal AI产品引起全球轰动，成为最受关注的AI创业赛道。",
     "highlights": [
-      "“freelance designers with 3 to 8 clients a month who chase…"
+      "其中，Muse上线22天就突破500万次下载——ChatGPT当年花了56天才达到这一数字——难得地为AI应用赛道争了…",
+      "一家AI公司Today AI也许比Muse探索得更早。",
+      "创始人齐俊元曾创办Teambition，之后在阿里、字节等大厂负责过各类产品。"
     ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "SaaS 卡在 20 个客户以下时对照看：帖子列 4 个原因，比如从注册到感到产品有用超过 1 天就会流失",
+      "use": "Personal AI 融资样本：Today AI 拿约 $2 亿融资；文中对照 Muse 上线 22 天破 500 万下载",
       "lines": {
-        "value": "数据「20 customers」；踩坑/复盘「churn」",
-        "note": "数字均为发帖人自述，未经核实"
+        "fact": "原文数字：拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题。"
       },
       "evidence": [
-        "20 customers",
-        "churn"
+        "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题。",
+        "2亿美金",
+        "Muse上线22天就突破500万次下载"
       ],
-      "point": "AI副业：数据 20 customers",
+      "point": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题",
+      "verdict_label": "收藏",
+      "title": ""
+    }
+  },
+  {
+    "id": "ai-zh-df944dd91e88",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "信通院报告：大模型价格回升明显，词元价格较去年下半年翻倍，日均消耗量增长3倍",
+    "summary": "中国信息通信研究院近日发布的《大模型词元服务性能监测报告（2026年）》显示，词元服务呈现量价齐升态势，其中国内的词元价格较去年下半年翻倍，但量的增长达到3倍。",
+    "source": "36氪",
+    "source_url": "https://36kr.com/newsflashes/4039392032117641?f=rss",
+    "published_at": "2026-10-24 14:25:06 +0800",
+    "tags": [
+      "中文",
+      "36氪"
+    ],
+    "score": 74,
+    "why": "大模型 API 定价风向：信通院称国内词元均价较去年下半年翻倍（约 6.8→13.46 元），日均消耗量增长约 3 倍——做 AI 产品要按涨价后成本重算毛利",
+    "deep_link": "https://36kr.com/newsflashes/4039392032117641?f=rss",
+    "extra": {},
+    "blurb": "中国信息通信研究院近日发布的《大模型词元服务性能监测报告（2026年）》显示，词元服务呈现量价齐升态势，其中国内的词元价格较去年下半年翻倍，但量的增长达到3倍。",
+    "url": "https://36kr.com/newsflashes/4039392032117641?f=rss",
+    "name": "信通院报告：大模型价格回升明显，词元价格较去年下半年翻倍，日均消耗量增长3倍",
+    "lang": "zh",
+    "posted_at": "2026-10-24",
+    "evidence_missing": false,
+    "_origin": "zh_media",
+    "_source_id": "zh-36kr",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "原文数字：信通院报告：大模型价格回升明显，词元价格较去年下半年翻倍，日均消耗量增长3倍。",
+      "lines": {
+        "fact": "原文数字：信通院报告：大模型价格回升明显，词元价格较去年下半年翻倍，日均消耗量增长3倍。"
+      },
+      "evidence": [
+        "信通院报告：大模型价格回升明显，词元价格较去年下半年翻倍，日均消耗量增长3倍。",
+        "3倍"
+      ],
+      "point": "信通院报告：大模型价格回升明显，词元价格较去年下半年翻倍，日均消耗量增长3倍"
+    },
+    "title_orig": "信通院报告：大模型价格回升明显，词元价格较去年下半年翻倍，日均消耗量增长3倍",
+    "source_excerpt": "信通院报告：大模型价格回升明显，词元价格较去年下半年翻倍，日均消耗量增长3倍。 中国信息通信研究院近日发布的《大模型词元服务性能监测报告（2026年）》显示，词元服务呈现量价齐升态势，其中国内的词元价格较去年下半年翻倍，但量的增长达到3倍。2026年6月，国内词元日均消耗量约500万亿，是2025年12月的近4倍。越来越多模型即服务（MaaS）平台厂商通过公有云API方式供给大模型词元服务，而用户对词元服务性能缺乏直观判断依据、面临选型困难，是该报告开展的背景。经历过去两年价格战后，2026年国内外模型服务价格明显上涨：归一化（注：把各家不同的计价方式，折算到同一个统一口径上，让价格可以横向比较）均价从2025年下半年的6.8元涨至今年的13.46元，涨幅接近一倍；但国外价格仍显著高于国内，2026年以来发布的典型模型平均归一价格约为117.8元。 (澎湃新闻)",
+    "_score_raw": 64,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_ai_business": true,
+    "_practical_delta": 10,
+    "summary_zh": "中国信息通信研究院近日发布的《大模型词元服务性能监测报告（2026年）》显示，词元服务呈现量价齐升态势，其中国内的词元价格较去年下半年翻倍，但量的增长达到3倍。",
+    "highlights": [
+      "2026年6月，国内词元日均消耗量约500万亿，是2025年12月的近4倍。",
+      "越来越多模型即服务（MaaS）平台厂商通过公有云API方式供给大模型词元服务，而用户对词元服务性能缺乏直观判断依据、面…",
+      "经历过去两年价格战后，2026年国内外模型服务价格明显上涨：归一化（注：把各家不同的计价方式，折算到同一个统一口径上…"
+    ],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "save",
+      "use": "大模型 API 定价风向：信通院称国内词元均价较去年下半年翻倍（约 6.8→13.46 元），日均消耗量增长约 3 倍——做 AI 产品要按涨价后成本重算毛利",
+      "lines": {
+        "fact": "原文数字：信通院报告：大模型价格回升明显，词元价格较去年下半年翻倍，日均消耗量增长3倍。"
+      },
+      "evidence": [
+        "信通院报告：大模型价格回升明显，词元价格较去年下半年翻倍，日均消耗量增长3倍。",
+        "3倍",
+        "归一化（注：把各家不同的计价方式，折算到同一个统一口径上，让价格可以横向比较）均价从2025年下半年的6.8元涨至今年的13.46元，涨幅接近一倍"
+      ],
+      "point": "信通院报告：大模型价格回升明显，词元价格较去年下半年翻倍，日均消耗量增长3倍",
       "verdict_label": "收藏",
       "title": ""
     }
@@ -715,7 +528,7 @@
       "point": "产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元"
     },
     "title_orig": "产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元",
-    "source_excerpt": "目前，不少AI眼镜上的摄像头主要承担多模态感知的功能，帮助AI看见了用户面前的物 产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元。 作者 | 邱晓芬 编辑 | 袁斯来 过去几年，AI眼镜称得上消费电子行业里最跌宕起伏的品类之一。 它最初沿着AR方向前进，显示、光波导和空间计算被视为通往下一代计算平台的必经之路，但重量、功耗、成本和量产难度很快构成现实约束。生成式AI兴起后，眼镜又被包装成“随身Agent”和“全天候感知入口”，甚至被赋予替代手机的想象。 如今，行业的几条路线仍在同时演进。Meta已经从无显示的拍摄类智能眼镜，进一步推出带显示和腕带交互的Meta Ray-Ban Display；Google也宣布，搭载Gemini的智能眼镜计划于2026年秋季推出。 对于资源有限的创业公司而言，一个更现实的问题是：应该追逐一副无所不能的通用眼镜，还是先找到一个用户愿意付费的具体场景？ 深圳艾普梦光学科技有限公司（下称",
+    "source_excerpt": "目前，不少AI眼镜上的摄像头主要承担多模态感知的功能，帮助AI看见了用户面前的物 产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元。 作者 | 邱晓芬 编辑 | 袁斯来 过去几年，AI眼镜称得上消费电子行业里最跌宕起伏的品类之一。 它最初沿着AR方向前进，显示、光波导和空间计算被视为通往下一代计算平台的必经之路，但重量、功耗、成本和量产难度很快构成现实约束。生成式AI兴起后，眼镜又被包装成“��身Agent”和“全天候感知入口”，甚至被赋予替代手机的想象。 如今，行业的几条路线仍在同时演进。Meta已经从无显示的拍摄类智能眼镜，进一步推出带显示和腕带交互的Meta Ray-Ban Display；Google也宣布，搭载Gemini的智能眼镜计划于2026年秋季推出。 对于资源有限的创业公司而言，一个更现实的问题是：应该追逐一副无所不能的通用眼镜，还是先找到一个用户愿意付费的具体场景？ 深圳艾普梦光学科技有限公司（下",
     "_score_raw": 64,
     "_decay_penalty": 0,
     "_decay_exempt": null,
@@ -725,7 +538,7 @@
     "highlights": [
       "作者 | 邱晓芬 编辑 | 袁斯来 过去几年，AI眼镜称得上消费电子行业里最跌宕起伏的品类之一。",
       "它最初沿着AR方向前进，显示、光波导和空间计算被视为通往下一代计算平台的必经之路，但重量、功耗、成本和量产难度很快构成…",
-      "生成式AI兴起后，眼镜又被包装成“随身Agent”和“全天候感知入口”，甚至被赋予替代手机的想象。"
+      "生成式AI兴起后，眼镜又被包装成“��身Agent”和“全天候感知入口”，甚至被赋予替代手机的想象。"
     ],
     "summary_source": "fallback",
     "reader": {
@@ -741,145 +554,6 @@
         "40万美元"
       ],
       "point": "产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元",
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-zh-22157d23f01e",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "“AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家",
-    "summary": "薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转 AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。",
-    "source": "雷峰网",
-    "source_url": "https://www.leiphone.com/category/industrynews/tZI7pYBhiFduVfr6.html",
-    "published_at": "Fri, 23 Oct 2026 10:43:00 +0800",
-    "tags": [
-      "中文",
-      "雷峰网"
-    ],
-    "score": 74,
-    "why": "看大平台怎么用 AI 帮商家增长：美团外卖「AI 店长」让部分试用商家增长超 30%，将免费赠送全国商家",
-    "deep_link": "https://www.leiphone.com/category/industrynews/tZI7pYBhiFduVfr6.html",
-    "extra": {},
-    "blurb": "薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转 AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。",
-    "url": "https://www.leiphone.com/category/industrynews/tZI7pYBhiFduVfr6.html",
-    "name": "“AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家",
-    "lang": "zh",
-    "posted_at": "Fri, 23 Oc",
-    "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-leiphone",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "解决：薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转；数字：AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。",
-      "lines": {
-        "fact": "原文数字：AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。",
-        "problem": "解决：薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转"
-      },
-      "evidence": [
-        "薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转",
-        "AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。",
-        "30%"
-      ],
-      "point": "“AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家"
-    },
-    "title_orig": "“AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家",
-    "source_excerpt": "薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转 AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。 10月22日，在2026年美团外卖产业大会上，美团正式发布“妙手外卖版·袋鼠管家”。美团外卖总经理薛冰宣布，将向全国餐饮商家免费提供一个懂外卖经营的“AI店长”。 大会披露的数据显示，2026年上半年餐饮商家的外卖营收增速超过全国餐饮平均营收，薛冰表示，“外卖行业进入积极向好，美团将帮助商家做好店型、运营、产品创新，实现更有含金量的增长”。 据悉，“妙手外卖版”是美团外卖近期为商家研发的AI经营产品，能力覆盖经营诊断、门店巡检、商品运营、新店运营等核心场景，能结合美团和商家数据提供分析与建议，并协助商家执行、跟进结果。 此前，已有数万中小商家将“妙手外卖版”率先用于日常经营。河北元氏县一家鸡公煲店铺通过“妙手外卖版”进行店铺诊断，在调整菜单、优化活动后，周订单量环比上涨超3",
-    "_score_raw": 64,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转 AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。",
-    "highlights": [
-      "10月22日，在2026年美团外卖产业大会上，美团正式发布“妙手外卖版·袋鼠管家”。",
-      "美团外卖总经理薛冰宣布，将向全国餐饮商家免费提供一个懂外卖经营的“AI店长”。",
-      "大会披露的数据显示，2026年上半年餐饮商家的外卖营收增速超过全国餐饮平均营收，薛冰表示，“外卖行业进入积极向好，美团…"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "看大平台怎么用 AI 帮商家增长：美团外卖「AI 店长」让部分试用商家增长超 30%，将免费赠送全国商家",
-      "lines": {
-        "fact": "原文数字：AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。",
-        "problem": "解决：薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转"
-      },
-      "evidence": [
-        "薛冰将产品创新、店型创新和AI创新总结为“外卖效率三角”，美团将帮助商家把增长转",
-        "AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家。",
-        "30%"
-      ],
-      "point": "“AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家",
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-zh-88bea5674c78",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "硬氪首发丨理想AI眼镜操盘手开启儿童硬件创业，获数千万元天使轮融资",
-    "summary": "2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。",
-    "source": "36氪",
-    "source_url": "https://36kr.com/p/4037856792581256?f=rss",
-    "published_at": "2026-10-23 10:41:18 +0800",
-    "tags": [
-      "中文",
-      "36氪"
-    ],
-    "score": 74,
-    "why": "AI 儿童硬件融资样本：理想眼镜前操盘手（首销 3 万台 48 小时售罄）创立「物外智趣」，获数千万元天使轮",
-    "deep_link": "https://36kr.com/p/4037856792581256?f=rss",
-    "extra": {},
-    "blurb": "2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。",
-    "url": "https://36kr.com/p/4037856792581256?f=rss",
-    "name": "硬氪首发丨理想AI眼镜操盘手开启儿童硬件创业，获数千万元天使轮融资",
-    "lang": "zh",
-    "posted_at": "2026-10-23",
-    "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-36kr",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "原文数字：2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。",
-      "lines": {
-        "fact": "原文数字：2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。"
-      },
-      "evidence": [
-        "2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。",
-        "48小时"
-      ],
-      "point": "硬氪首发丨理想AI眼镜操盘手开启儿童硬件创业，获数千万元天使轮融资"
-    },
-    "title_orig": "硬氪首发丨理想AI眼镜操盘手开启儿童硬件创业，获数千万元天使轮融资",
-    "source_excerpt": "2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。 作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，儿童AI硬件公司「物外智趣」近日完成数千万元人民币天使轮融资，投资方包括柏睿资本、天使投资人高秉强教授以及高锋耐心资本。 本轮融资将主要用于产品研发、AI体验建设及核心团队扩充。据悉，物外智趣将持续推进后续融资，由棕榈资本担任财务顾问。 「物外智趣」成立于2026年2月，团队核心成员均来自理想汽车，有着丰富的C端产品研发经验，兼具软件体验打磨与硬件量产交付能力。 公司创始人王紫崴在理想期间先后负责产品与品牌战略、理想同学AI产品、智能眼镜Livis，完整操盘过多款软硬件产品从0到1的产品创新和落地。2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。 王紫崴表示，「物外智趣」的首款产品的定位是——为儿童打造一款“随身早教专家”。 产品形态上，「物外智趣」首款硬件产品形态为轻便极",
-    "_score_raw": 64,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。",
-    "highlights": [
-      "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，儿童AI硬件公司「物外智趣」近日完成数千万元人民币天使轮融资，投资方包括…",
-      "本轮融资将主要用于产品研发、AI体验建设及核心团队扩充。",
-      "据悉，物外智趣将持续推进后续融资，由棕榈资本担任财务顾问。"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "AI 儿童硬件融资样本：理想眼镜前操盘手（首销 3 万台 48 小时售罄）创立「物外智趣」，获数千万元天使轮",
-      "lines": {
-        "fact": "原文数字：2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。"
-      },
-      "evidence": [
-        "2025年12月，其负责的理想眼镜上市销售，首销期3万台库存在48小时内售罄。",
-        "48小时",
-        "硬氪获悉，儿童AI硬件公司「物外智趣」近日完成数千万元人民币天使轮融资"
-      ],
-      "point": "硬氪首发丨理想AI眼镜操盘手开启儿童硬件创业，获数千万元天使轮融资",
       "verdict_label": "收藏",
       "title": ""
     }
@@ -952,62 +626,6 @@
     }
   },
   {
-    "id": "ai-community-ai-reddit-era-938fbad52a79",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "From zero to 981 users, but only $59 in revenue. The gap nobody talks about.",
-    "summary": "$1 MRR 981 new customers 846 active customers 24 active trials",
-    "source": "r/EntrepreneurRideAlong",
-    "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xdn6oh/from_zero_to_981_users_but_only_59_in_revenue_the/",
-    "published_at": "2026-10-23T19:12:57.000Z",
-    "tags": [
-      "reddit",
-      "r/EntrepreneurRideAlong",
-      "收入",
-      "用户/流量数"
-    ],
-    "score": 72,
-    "why": "用户≠收入样本：981 个用户只换来约 $59 收入，帖里讨论免费用户到付费之间的断层",
-    "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xdn6oh/from_zero_to_981_users_but_only_59_in_revenue_the/",
-    "extra": {},
-    "blurb": "$1 MRR 981 new customers 846 active customers 24 active trials",
-    "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xdn6oh/from_zero_to_981_users_but_only_59_in_revenue_the/",
-    "name": "From zero to 981 users, but only $59 in revenue. The gap nobody talks about.",
-    "lang": "EN",
-    "posted_at": "2026-10-23",
-    "evidence_missing": false,
-    "_origin": "community_rss",
-    "_source_id": "ai-reddit-era",
-    "title_orig": "From zero to 981 users, but only $59 in revenue. The gap nobody talks about.",
-    "source_excerpt": "$1 MRR 981 new customers 846 active customers 24 active trials",
-    "_feed_type": "reddit_rss",
-    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-    "_score_raw": 62,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "$1 MRR 981 new customers 846 active customers 24 active trials",
-    "highlights": [],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "用户≠收入样本：981 个用户只换来约 $59 收入，帖里讨论免费用户到付费之间的断层",
-      "lines": {
-        "value": "作者自述收入「$59 in revenue」；数据「981 users」",
-        "note": "数字均为发帖人自述，未经核实"
-      },
-      "evidence": [
-        "$59 in revenue",
-        "981 users"
-      ],
-      "point": "AI副业：自述收入 $59 in revenue",
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
     "id": "ai-post-nichepursuits-3d2ee4b3faae",
     "partition": "ai",
     "type": "post",
@@ -1075,6 +693,67 @@
           "quote": "$2M"
         }
       ],
+      "verdict_label": "收藏",
+      "title": ""
+    }
+  },
+  {
+    "id": "ai-zh-a863246eb8e4",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "全球最大独立AI影视公司Utopai Studios跻身独角兽行列",
+    "summary": "据媒体报道，全球最大独立AI影视公司Utopai Studios已达成估值10亿美元轮次的融资，跻身独角兽行列，并正在商谈估值为20亿至30亿美元轮次的投资意向。",
+    "source": "36氪",
+    "source_url": "https://36kr.com/newsflashes/4039455708058753?f=rss",
+    "published_at": "2026-10-24 13:46:50 +0800",
+    "tags": [
+      "中文",
+      "36氪"
+    ],
+    "score": 64,
+    "why": "AI 影视融资样本：Utopai Studios 达成约 $10 亿估值轮，并在谈 $20–30 亿意向",
+    "deep_link": "https://36kr.com/newsflashes/4039455708058753?f=rss",
+    "extra": {},
+    "blurb": "据媒体报道，全球最大独立AI影视公司Utopai Studios已达成估值10亿美元轮次的融资，跻身独角兽行列，并正在商谈估值为20亿至30亿美元轮次的投资意向。",
+    "url": "https://36kr.com/newsflashes/4039455708058753?f=rss",
+    "name": "全球最大独立AI影视公司Utopai Studios跻身独角兽行列",
+    "lang": "zh",
+    "posted_at": "2026-10-24",
+    "evidence_missing": false,
+    "_origin": "zh_media",
+    "_source_id": "zh-36kr",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "原文数字：据媒体报道，全球最大独立AI影视公司Utopai Studios已达成估值10亿美元轮次的融资，跻身独角兽行列，并正在商谈估值为20亿至30亿美元轮次的投资意向。",
+      "lines": {
+        "fact": "原文数字：据媒体报道，全球最大独立AI影视公司Utopai Studios已达成估值10亿美元轮次的融资，跻身独角兽行列，并正在商谈估值为20亿至30亿美元轮次的投资意向。"
+      },
+      "evidence": [
+        "据媒体报道，全球最大独立AI影视公司Utopai Studios已达成估值10亿美元轮次的融资，跻身独角兽行列，并正在商谈估值为20亿至30亿美元轮次的投资意向。",
+        "10亿美元"
+      ],
+      "point": "全球最大独立AI影视公司Utopai Studios跻身独角兽行列"
+    },
+    "title_orig": "全球最大独立AI影视公司Utopai Studios跻身独角兽行列",
+    "source_excerpt": "据媒体报道，全球最大独立AI影视公司Utopai Studios已达成估值10亿美元轮次的融资，跻身独角兽行列，并正在商谈估值为20亿至30亿美元轮次的投资意向。 据媒体报道，全球最大独立AI影视公司Utopai Studios已达成估值10亿美元轮次的融资，跻身独角兽行列，并正在商谈估值为20亿至30亿美元轮次的投资意向。",
+    "_score_raw": 64,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "summary_zh": "据媒体报道，全球最大独立AI影视公司Utopai Studios已达成估值10亿美元轮次的融资，跻身独角兽行列，并正在商谈估值为20亿至30亿美元轮次的投资意向。",
+    "highlights": [],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "save",
+      "use": "AI 影视融资样本：Utopai Studios 达成约 $10 亿估值轮，并在谈 $20–30 亿意向",
+      "lines": {
+        "fact": "原文数字：据媒体报道，全球最大独立AI影视公司Utopai Studios已达成估值10亿美元轮次的融资，跻身独角兽行列，并正在商谈估值为20亿至30亿美元轮次的投资意向。"
+      },
+      "evidence": [
+        "据媒体报道，全球最大独立AI影视公司Utopai Studios已达成估值10亿美元轮次的融资，跻身独角兽行列，并正在商谈估值为20亿至30亿美元轮次的投资意向。",
+        "10亿美元"
+      ],
+      "point": "全球最大独立AI影视公司Utopai Studios跻身独角兽行列",
       "verdict_label": "收藏",
       "title": ""
     }
@@ -1275,6 +954,73 @@
           "quote": "$1,000"
         }
       ],
+      "verdict_label": "收藏",
+      "title": ""
+    }
+  },
+  {
+    "id": "ai-zh-0a7c04ff9227",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "狂揽千亿融资之后，DeepSeek 具身投资版图浮出水面",
+    "summary": "10 月 22 日外媒报道，DeepSeek 完成约 1000 亿元人民币（约 150 亿美元）的新一轮巨额融资 梁文锋最近密集约见具身智能创业者，三张底牌已落桌：物理躯干、具身大脑、全身运控。",
+    "source": "人人都是产品经理",
+    "source_url": "https://www.woshipm.com/embodied/6483697.html",
+    "published_at": "Sat, 24 Oct 2026 08:01:13 +0000",
+    "tags": [
+      "中文",
+      "人人都是产品经理"
+    ],
+    "score": 54,
+    "why": "大模型厂动向：DeepSeek 新一轮融资约 1000 亿元人民币，梁文锋密集约见具身智能创业者——赛道资金和叙事在向机器人/具身迁",
+    "deep_link": "https://www.woshipm.com/embodied/6483697.html",
+    "extra": {},
+    "blurb": "10 月 22 日外媒报道，DeepSeek 完成约 1000 亿元人民币（约 150 亿美元）的新一轮巨额融资 梁文锋最近密集约见具身智能创业者，三张底牌已落桌：物理躯干、具身大脑、全身运控。",
+    "url": "https://www.woshipm.com/embodied/6483697.html",
+    "name": "狂揽千亿融资之后，DeepSeek 具身投资版图浮出水面",
+    "lang": "zh",
+    "posted_at": "Sat, 24 Oc",
+    "evidence_missing": false,
+    "_origin": "zh_media",
+    "_source_id": "zh-woshipm",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "原文数字：10 月 22 日外媒报道，DeepSeek 完成约 1000 亿元人民币（约 150 亿美元）的新一轮巨额融资",
+      "lines": {
+        "fact": "原文数字：10 月 22 日外媒报道，DeepSeek 完成约 1000 亿元人民币（约 150 亿美元）的新一轮巨额融资"
+      },
+      "evidence": [
+        "10 月 22 日外媒报道，DeepSeek 完成约 1000 亿元人民币（约 150 亿美元）的新一轮巨额融资",
+        "1000 亿元"
+      ],
+      "point": "狂揽千亿融资之后，DeepSeek 具身投资版图浮出水面"
+    },
+    "title_orig": "狂揽千亿融资之后，DeepSeek 具身投资版图浮出水面",
+    "source_excerpt": "10 月 22 日外媒报道，DeepSeek 完成约 1000 亿元人民币（约 150 亿美元）的新一轮巨额融资 梁文锋最近密集约见具身智能创业者，三张底牌已落桌：物理躯干、具身大脑、全身运控。刚完成约千亿元融资、投前估值约五千亿元的 DeepSeek，正把大模型带出虚拟世界。 梁文锋最近的行程表异常密集。 过去几周，这位一向低调的 DeepSeek 创始人频繁约见具身智能赛道的创业者，探讨的焦点始终围绕同一个命题：大模型如何走出数字虚拟世界，与物理现实展开交互。 10 月 12 日，凤凰网科技援引多位知情人士消息称，梁文锋正在内部推演切入具身智能的可行路径，究竟是另起炉灶自建团队研发，还是以资本手段战略切入。 对于以“想透再动手”著称的梁文锋而言，思考往往伴随着行动。外界刚察觉风向，三张底牌已悄然落桌：一张锚定“物理躯干”，一张构筑“具身大脑”的底层基座，另一张则卡位协调二者的“全身动态运控”。 驱动这一转向的，还有背后暴涨",
+    "_score_raw": 64,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_ai_no_business": true,
+    "_practical_delta": -10,
+    "summary_zh": "10 月 22 日外媒报道，DeepSeek 完成约 1000 亿元人民币（约 150 亿美元）的新一轮巨额融资 梁文锋最近密集约见具身智能创业者，三张底牌已落桌：物理躯干、具身大脑、全身运控。",
+    "highlights": [
+      "刚完成约千亿元融资、投前估值约五千亿元的 DeepSeek，正把大模型带出虚拟世界。",
+      "梁文锋最近的行程表异常密集。",
+      "过去几周，这位一向低调的 DeepSeek…"
+    ],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "save",
+      "use": "大模型厂动向：DeepSeek 新一轮融资约 1000 亿元人民币，梁文锋密集约见具身智能创业者——赛道资金和叙事在向机器人/具身迁",
+      "lines": {
+        "fact": "原文数字：10 月 22 日外媒报道，DeepSeek 完成约 1000 亿元人民币（约 150 亿美元）的新一轮巨额融资"
+      },
+      "evidence": [
+        "10 月 22 日外媒报道，DeepSeek 完成约 1000 亿元人民币（约 150 亿美元）的新一轮巨额融资",
+        "1000 亿元"
+      ],
+      "point": "狂揽千亿融资之后，DeepSeek 具身投资版图浮出水面",
       "verdict_label": "收藏",
       "title": ""
     }
