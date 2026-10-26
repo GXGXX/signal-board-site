@@ -1,149 +1,149 @@
 {
-  "generated_at": "2026-10-25T00:02:02.994Z",
+  "generated_at": "2026-10-26T00:03:53.212Z",
   "sources": {
     "coingecko_global": {
       "url": "https://api.coingecko.com/api/v3/global",
       "status": 200,
-      "ms": 194
+      "ms": 237
     },
     "coingecko_markets": {
       "url": "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&price_change_percentage=24h,7d",
       "status": 200,
-      "ms": 20
+      "ms": 91
     },
     "coingecko_trending": {
       "url": "https://api.coingecko.com/api/v3/search/trending",
       "status": 200,
-      "ms": 21
+      "ms": 25
     },
     "farside_btc": {
       "url": "https://farside.co.uk/btc/",
       "status": 200,
-      "ms": 565
+      "ms": 254
     },
     "farside_eth": {
       "url": "https://farside.co.uk/eth/",
       "status": 200,
-      "ms": 241
+      "ms": 243
     },
     "farside_sol": {
       "url": "https://farside.co.uk/sol/",
       "status": 200,
-      "ms": 184
+      "ms": 211
     },
     "defillama_stablecoins": {
       "url": "https://stablecoins.llama.fi/stablecoincharts/all",
       "status": 200,
-      "ms": 72
+      "ms": 58
     },
     "defillama_fees": {
       "url": "https://api.llama.fi/overview/fees?excludeTotalDataChart=true&excludeTotalDataChartBreakdown=true&dataType=dailyRevenue",
       "status": 200,
-      "ms": 54
+      "ms": 110
     },
     "coindesk": {
       "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
       "status": 200,
-      "ms": 168,
+      "ms": 98,
       "items": 25
     },
     "theblock": {
       "url": "https://www.theblock.co/rss.xml",
       "status": 200,
-      "ms": 60,
+      "ms": 62,
       "items": 19
     },
     "decrypt": {
       "url": "https://decrypt.co/feed",
       "status": 200,
-      "ms": 43,
+      "ms": 53,
       "items": 60
     },
     "cointelegraph": {
       "url": "https://cointelegraph.com/rss",
       "status": 200,
-      "ms": 47,
+      "ms": 66,
       "items": 30
     },
     "okx_funding_BTC": {
       "url": "https://www.okx.com/api/v5/public/funding-rate?instId=BTC-USDT-SWAP",
       "status": 200,
-      "ms": 222
+      "ms": 241
     },
     "okx_oi_BTC": {
       "url": "https://www.okx.com/api/v5/public/open-interest?instType=SWAP&instId=BTC-USDT-SWAP",
       "status": 200,
-      "ms": 198
+      "ms": 204
     },
     "okx_funding_ETH": {
       "url": "https://www.okx.com/api/v5/public/funding-rate?instId=ETH-USDT-SWAP",
       "status": 200,
-      "ms": 188
+      "ms": 206
     },
     "okx_oi_ETH": {
       "url": "https://www.okx.com/api/v5/public/open-interest?instType=SWAP&instId=ETH-USDT-SWAP",
       "status": 200,
-      "ms": 200
+      "ms": 204
     },
     "okx_funding_SOL": {
       "url": "https://www.okx.com/api/v5/public/funding-rate?instId=SOL-USDT-SWAP",
       "status": 200,
-      "ms": 185
+      "ms": 197
     },
     "okx_oi_SOL": {
       "url": "https://www.okx.com/api/v5/public/open-interest?instType=SWAP&instId=SOL-USDT-SWAP",
       "status": 200,
-      "ms": 197
+      "ms": 190
     },
     "yahoo_chart_^GSPC": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?range=5d&interval=1d",
       "status": 200,
-      "ms": 28
+      "ms": 76
     },
     "yahoo_chart_^IXIC": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?range=5d&interval=1d",
       "status": 200,
-      "ms": 119
+      "ms": 76
     },
     "yahoo_chart_^SOX": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ESOX?range=5d&interval=1d",
       "status": 200,
-      "ms": 61
+      "ms": 56
     },
     "yahoo_chart_^VIX": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EVIX?range=5d&interval=1d",
       "status": 200,
-      "ms": 60
+      "ms": 55
     },
     "yahoo_chart_^TNX": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ETNX?range=5d&interval=1d",
       "status": 200,
-      "ms": 58
+      "ms": 54
     },
     "yahoo_chart_DX-Y.NYB": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?range=5d&interval=1d",
       "status": 200,
-      "ms": 56
+      "ms": 48
     },
     "yahoo_chart_NVDA": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/NVDA?range=5d&interval=1d",
       "status": 200,
-      "ms": 65
+      "ms": 78
     },
     "yahoo_chart_AMD": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/AMD?range=5d&interval=1d",
       "status": 200,
-      "ms": 49
+      "ms": 51
     },
     "yahoo_chart_AVGO": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/AVGO?range=5d&interval=1d",
       "status": 200,
-      "ms": 81
+      "ms": 71
     },
     "yahoo_chart_TSM": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/TSM?range=5d&interval=1d",
       "status": 200,
-      "ms": 68
+      "ms": 73
     },
     "yahoo_chart_ASML": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/ASML?range=5d&interval=1d",
@@ -153,118 +153,119 @@
     "yahoo_chart_MU": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/MU?range=5d&interval=1d",
       "status": 200,
-      "ms": 78
+      "ms": 76
     },
     "yahoo_chart_ARM": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/ARM?range=5d&interval=1d",
       "status": 200,
-      "ms": 64
+      "ms": 53
     },
     "yahoo_chart_MSFT": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/MSFT?range=5d&interval=1d",
       "status": 200,
-      "ms": 73
+      "ms": 67
     },
     "yahoo_chart_GOOGL": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/GOOGL?range=5d&interval=1d",
       "status": 200,
-      "ms": 54
+      "ms": 61
     },
     "yahoo_chart_META": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/META?range=5d&interval=1d",
       "status": 200,
-      "ms": 55
+      "ms": 94
     },
     "yahoo_chart_AMZN": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/AMZN?range=5d&interval=1d",
       "status": 200,
-      "ms": 52
+      "ms": 51
     },
     "yahoo_chart_AAPL": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/AAPL?range=5d&interval=1d",
       "status": 200,
-      "ms": 130
+      "ms": 88
     },
     "yahoo_chart_TSLA": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/TSLA?range=5d&interval=1d",
       "status": 200,
-      "ms": 55
+      "ms": 53
     },
     "yahoo_chart_PLTR": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/PLTR?range=5d&interval=1d",
       "status": 200,
-      "ms": 58
+      "ms": 88
     },
     "yahoo_chart_ORCL": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/ORCL?range=5d&interval=1d",
       "status": 200,
-      "ms": 67
+      "ms": 62
     },
     "yahoo_day_gainers": {
       "url": "https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?scrIds=day_gainers&count=100",
       "status": 200,
-      "ms": 93
+      "ms": 96
     },
     "yahoo_day_losers": {
       "url": "https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?scrIds=day_losers&count=100",
       "status": 200,
-      "ms": 100
+      "ms": 113
     },
     "cnbc_earnings": {
       "url": "https://www.cnbc.com/id/15839135/device/rss/rss.html",
       "status": 200,
-      "ms": 435,
+      "ms": 74,
       "items": 30
     },
     "yahoo_rss_leaders": {
       "url": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=NVDA,AMD,AVGO,TSM,ASML,MU,MSFT,GOOGL,META,AMZN,AAPL,TSLA,NFLX,ORCL&region=US&lang=en-US",
       "status": 200,
-      "ms": 323,
-      "items": 20
+      "ms": 265,
+      "items": 19
     },
     "nasdaq_earnings": {
       "url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
       "status": "error",
       "error": "The operation was aborted due to timeout",
-      "ms": 25004
+      "ms": 25006
     },
     "wscn_global-channel": {
       "url": "https://api-one-wscn.awtmt.com/apiv1/content/lives?channel=global-channel&limit=100",
       "status": 200,
-      "ms": 1366
+      "ms": 1544
     },
     "wscn_us-stock-channel": {
       "url": "https://api-one-wscn.awtmt.com/apiv1/content/lives?channel=us-stock-channel&limit=100",
       "status": 200,
-      "ms": 1065
+      "ms": 1029
     },
     "panews_rss": {
       "url": "https://www.panewslab.com/rss.xml",
       "status": 200,
-      "ms": 1387,
+      "ms": 1446,
       "items": 100
     },
     "blockbeats_flash": {
       "url": "https://api.theblockbeats.news/v1/open-api/open-flash?size=50&page=1&lang=cn",
-      "status": 404,
-      "ms": 763
+      "status": "error",
+      "error": "fetch failed",
+      "ms": 8016
     },
     "odaily_rss": {
       "url": "https://rss.odaily.news/rss/newsflash",
       "status": 200,
-      "ms": 992
+      "ms": 720
     },
     "jin10_flash": {
       "url": "https://flash-api.jin10.com/get_flash_list?channel=-8200",
       "status": 502,
-      "ms": 1113
+      "ms": 1105
     }
   },
   "dropped": [
     {
       "source": "CoinGecko",
-      "title": "前100 跌幅榜",
-      "reason": "榜首 24h 变动 <5%，无异动"
+      "title": "热搜去重 ENA",
+      "reason": "已在涨跌幅榜，热搜去掉：ENA"
     },
     {
       "source": "Farside",
@@ -283,43 +284,58 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
       "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
-      "reason": "数字只在正文外，摘要里找不到可逐字引用的数字句"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-      "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
@@ -392,19 +408,24 @@
       "reason": "超过 24h，不是今天的新信息"
     },
     {
-      "source": "CoinDesk",
-      "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-      "reason": "超过 24h，不是今天的新信息"
+      "source": "The Block",
+      "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
+      "reason": "标题与价格/资金/监管/安全无关"
     },
     {
-      "source": "CoinDesk",
-      "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
+      "source": "The Block",
+      "title": "Keystone customers say breach exposed data the hardware wallet maker promised to delete",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "The Block",
+      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "The Block",
       "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "The Block",
@@ -482,29 +503,29 @@
       "reason": "超过 24h，不是今天的新信息"
     },
     {
-      "source": "The Block",
-      "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "The Block",
-      "title": "Dune launches onchain trading data feeds as tokenized markets expand",
-      "reason": "超过 24h，不是今天的新信息"
+      "source": "Decrypt",
+      "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
+      "reason": "no_concrete_number"
     },
     {
       "source": "Decrypt",
       "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Game Publishers Have Pushed to Cut Discs Since 2007, Infinity Ward Veteran Says",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
@@ -678,16 +699,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "Decrypt",
-      "title": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "Decrypt",
       "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!",
       "reason": "超过 24h，不是今天的新信息"
     },
@@ -785,6 +796,21 @@
       "source": "Decrypt",
       "title": "The White Whale up 10x in a week! Lighter TGE! Saylor buys $109M BTC!",
       "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+      "reason": "no_concrete_number"
     },
     {
       "source": "Cointelegraph",
@@ -920,26 +946,6 @@
       "source": "Cointelegraph",
       "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
       "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-      "reason": "与「Crypto longs lose $404 million in four hours as bitcoin brie」重复"
     },
     {
       "source": "CNBC Earnings",
@@ -1088,602 +1094,662 @@
     },
     {
       "source": "Yahoo Finance RSS",
-      "title": "Flying Cars, Smart Homes, and Cracks in the AI Boom",
+      "title": "Dow Jones Futures Rise With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?",
       "reason": "not_reported_result"
     },
     {
       "source": "Yahoo Finance RSS",
-      "title": "Amazon.com (AMZN) Cancels $427 Million Loudoun County Data Center Project",
+      "title": "Prediction: 2 Stocks That Will Be Worth More Than AMD 5 Years From Now",
       "reason": "not_reported_result"
     },
     {
       "source": "Yahoo Finance RSS",
-      "title": "Nvidia and 3 AI Infrastructure Stocks Backed by Hyperscaler Data Center Spending",
+      "title": "Down 17%, Is Meta a Buy on the Dip?",
       "reason": "not_reported_result"
     },
     {
       "source": "Yahoo Finance RSS",
-      "title": "Netflix Stock Has Always Overcome the Odds. Has It Finally Hit a Wall?",
+      "title": "Why Is Microsoft (MSFT) Central To AI Cyberattacks And Digital Patient Twins?",
       "reason": "not_reported_result"
     },
     {
       "source": "Yahoo Finance RSS",
-      "title": "Jim Cramer warns investors against going all-in on Warren Buffett",
+      "title": "3 Genius Quantum Computing Stocks to Buy Now",
       "reason": "opinion_or_preview"
     },
     {
       "source": "Yahoo Finance RSS",
-      "title": "3 AI Stocks To Watch In October 2026",
+      "title": "Meta Strikes 8-Year Deal to Keep Mark Zuckerberg in California as Billionaire Tax Looms: ‘Critically Important’ for Him to Remain in Leaders",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Amazon's $75 AI wearable hides a bigger $144-a-year bet",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Elon Musk Became the First Person Ever Confirmed With a Net Worth Above $1 Trillion in June 2026. Here's Why That Milestone Still Matters fo",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Apple's Market Cap Grew From $350 Billion to $4.6 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple'",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Can Bitcoin Double in Value During the Next Crypto Bull Market?",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "NuScale Power Trades Below $6 With the Only NRC-Certified Small Modular Reactor Design. Here's Why That Still Isn't Enough.",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Nu Holdings Earned More Than $1 Billion in a Quarter for the First Time. Now It's Launching in the U.S.",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Realty Income Yields 5.7%. Here's What $2,500 in Yearly Dividend Income Would Cost You.",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Vanguard S&P 500 ETF Long-Term Outlook: What Historical Trends Suggest for Patient Investors",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Stock Futures Are Rising Ahead of Fed Decision",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Corning Stock Has Lost Half Its Value Since June. Is It a Buy Before Its Next Report?",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Elon Musk Says 200+ AI Cloud Firms Face Wipeout: Will CoreWeave Survive?",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Stock-Split Watch: Is Sandisk Next?",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "5 Insurance Stocks to Buy for a Decade of Rising Dividends",
       "reason": "opinion_or_preview"
     },
     {
-      "source": "Yahoo Finance RSS",
-      "title": "What Does Netflix (NFLX) Leadership Shake Up Mean For Its Content Direction?",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "Here's How Many Shares of Apple Stock You'd Need for $100 in Yearly Dividends",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "UPS Stock Is Down 57% From Its Record. Is It a Buy Before Its Oct. 27 Report?",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "Forget the FDA Delay: 3 Reasons Exelixis Is Still a Buy",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "Stock-Split Watch: Is Palantir Next?",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "Forget Casgevy: CRISPR Therapeutics' Heart-Disease Data Could Matter More",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "Before You Buy the Vanguard S&P 500 ETF, There's 1 Sneaky Risk Investors Should Know",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "Cadence Design Systems (CDNS) Stock Looks Fully Valued Despite AI Hopes",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "This Dividend Winner Just Announced Its 676th Consecutive Monthly Dividend. Is It Worth a Look?",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "Is Berkshire Bending the Rules With Bending Spoons?",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "GE Vernova Stock Fell 11% in a Day. Here's What I Think It Could Be Worth by 2030.",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "Booking vs. Chewy: Do Pet Treats or Plane Tickets Make for a Better Stock in 2026?",
-      "reason": "not_reported_result"
-    },
-    {
       "source": "华尔街见闻 7x24",
-      "title": "泽连斯基称“星链”和“星盾”在乌运行速度已恢复",
+      "title": "中国即将发行或正在发行的地方政府债",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "iPhone Duo一机难求，加价空间却已大幅缩水",
+      "title": "中国即将发行或正在发行的国债和政策性金融债",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "华福证券陈兴：A股估值已充分消化谨慎预期，权益资产配置价值逐步凸显",
+      "title": "美团在港交所公告：建议发行人民币优先票据。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "金饰克价一个月跌去100元",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "也门胡塞武装：沙特空袭萨那和穆哈造成多人伤亡",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "中国电影节在塞内加尔开幕",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "中国国际广告节开幕，8家企业签署互联网营销宣传自律公约",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "俄军打击乌能源等设施 击落1297架固定翼无人机",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "特朗普在Truth Social上评论白宫新闻发布室：可能会将新闻（发布会）移至另一地点。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "中国驻欧盟使团介绍中国绿色发展及中欧绿色合作",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "CEIC2026消费电子创新大会发布《消费电子十大趋势》",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "乌克兰对俄导弹及军工供应链实施新一轮制裁",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "亿纬锂能：公司大圆柱电池已量产工厂均处于满产状态",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "亿纬锂能：公司四季度排产预计环比增长 产能已确定订满",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "李希在二十届中央第八轮巡视工作动员部署会上强调，深入学习贯彻习近平党建思想，以更高标准更实举措推动新征程巡视工作高质量发展。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "赵辰昕任河北省委副书记、省政府党组书记",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "脑机接口高质量数据集建设项目在武汉启动",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "据江西发布消息，江西省委决定：陈永奇同志任江西省政府党组书记。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "字节AI应用再整合：小云雀并入即梦",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "张雪将于明日在湖南麻阳挑战吉尼斯世界纪录",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "美国寻求加大参与打击墨西哥贩毒集团的行动。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "美航空航天局公布“阿耳忒弥斯3号”任务最新安排",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "沙特主导联军拦截胡塞武装射向利雅得的导弹",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "莫高义任云南省委书记",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "中国地震台网正式测定：10月24日16时39分在青海玉树州杂多县（北纬32.54度，东经93.97度）发生5.3级地震，震源深度10千米。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "俄乌同意局部停火 三方会谈或于下月举行",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "乌克兰表示，针对星链（Starlink）的所有限制均已解除。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "以色列军队在约旦河西岸展开军事行动",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "美国公布新一批UFO文件 神秘“黑三角”引关注",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "智元110台人形机器人同时跳舞，创吉尼斯世界纪录",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "伊朗军方誓言阻止美国军舰进入波斯湾。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "渝昆高铁全线铺轨完成",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "美情报称伊朗加大对美官员行动力度",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "唐登杰当选山西省委书记",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "过去24小时 西藏巴青地震余震增加391次 最大震级4.5级",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "中国地震台网正式测定：10月24日12时39分在新疆克孜勒苏州乌恰县（北纬39.90度，东经75.65度）发生3.7级地震，震源深度18千米。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "任泽平公众号因违规被禁止关注。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "刚果（金）一关键性埃博拉疫苗临床试验启动接种",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "台风“蔷琵”移入东海南部海域 两部门开展防汛防台风联合会商调度",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "美官员称美准备好与伊朗长期对峙",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "巴西总统候选人举行最后一轮电视辩论",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "诸葛宇杰任青海省委副书记、省政府党组书记",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "伊朗总统将于下周访俄并与普京会谈",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "蓝色预警持续！台风“蔷琵”已进入东海南部，华东局地有暴雨",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "胡塞武装称过去24小时沙特袭击也门124次",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "2026世界青年科学家峰会召开，多项成果对外发布",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "瓦努阿图发生7.2级地震",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "倪虹到建筑绿色低碳国家技术创新中心调研",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "西渝高铁城口任河特大桥顺利合龙",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "出于对伊朗因素的担忧，美国削减4个中东大使馆的人员配置，受影响的美国大使馆位于约旦、黎巴嫩、卡塔尔和阿联酋。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "王志军任湖南省委书记，沈晓明不再担任",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "百利天恒伦康依隆妥单抗III期研究登顶《柳叶刀》，重塑HR+HER2-乳腺癌后线治疗格局",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "青海玉树州杂多县发生4.2级地震",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "印尼塞梅鲁火山喷发，火山灰柱高约1000米",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "黄仁勋：没有哪个国家在制造业方面比中国更强",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "报道：为寻找星链替代方案，乌克兰与诺基亚及卫星制造商ICEYE达成合作",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "美国农业部修正9月玉米预测，引发更多数据可信度疑虑",
+      "title": "Datafolha民调预测：巴西总统卢拉在第二轮投票中赢得连任。",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "亚马逊CEO：公司云服务容量已售罄至2027年",
+      "title": "华泰证券A股策略：情绪出清下关注超跌反弹",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "卡塔尔谈判人员在德黑兰就局势降温斡旋",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "泽连斯基称三方会谈将讨论停止互袭能源设施等问题",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "民调机构AtlasIntel CEO表示，巴西总统卢拉将在第二轮投票中赢得连任。",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "英国宣布1亿英镑资金，用于与OpenAI、Anthropic、谷歌Deepmind成立AI生物安全实验室。",
+      "title": "巴西总统选举第二轮投票结束",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "北交所三季报前瞻：业绩分化显现，回购增持与分红合力稳信心",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "ESG评级百花齐放：分歧从何而来，共识如何构建",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "机构：关注三季报预期向好的超跌方向",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "多位券商首席最新研判：调整不改基本面，多重数据印证A股长期价值",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "利雅得机场重开数小时再遭袭击",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "Claude未经授权访问了付费公开数据，绕过付费墙获取了美国佐治亚州选民数据。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "提醒：日内请重点关注（以下均为北京时间）",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "各地重大项目刷新“进度条”，四季度稳增长加力",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "日本计划支持银行业为增长型投资提供资金。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "周一亚市盘初美股期货走高，标普500指数期货涨0.4%，纳斯达克100指数期货涨0.6%。",
+      "reason": "index_level_covered_by_panel"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "欧洲天然气价格在周一亚市盘初升至2022年以来的最高水平。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "武契奇承认败选：预计“学生名单-学生获胜”将赢得塞议会选举",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "巴西总统选举第二轮投票结束时间将延后两小时",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "特朗普：即将与加拿大达成协议",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "伊朗革命卫队发言人发文嘲讽美国中央司令部司令库珀上将对霍尔木兹海峡的走访，配图是一名美军军人在直升机上望向一艘起火油轮的画面。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "马斯克：债务市场环境严峻，200余家新型算力云企业将迎来整合",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "也门胡塞武装称用数十枚弹道导弹打击沙特境内目标",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "胡塞武装：对沙特多地发动三轮导弹打击作为报复",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "斯里兰卡：在近海国际水域救起40名伊朗船员",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "特朗普在美国密歇根拉票，自夸振兴汽车业",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "英国财政部与加拿大财政部发布联合声明。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "伊朗总统：1月份全国性的反政府抗议主要由社会问题引发。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "胡塞武装称沙特联军24小时内对也门多地发动数十次空袭",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "马斯克：乌克兰人和俄罗斯人之间无休止的杀戮必须停止。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "特朗普：美俄乌三方会谈“很快”就会举行",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "以色列议会选举在即，以军在约旦河西岸大举行动",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "欧洲多国爆发大规模抗议活动，千余人被捕",
+      "reason": "prediction_roundup_people_or_leverage"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "加蓬近海一钻井平台沉没，5人失踪",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "津巴布韦总统呼吁西方国家无条件解除制裁",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "“仅道歉是不够的”，蒙古国：考虑就草原火灾向涉事日企索赔",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "秘鲁政府延长首都等地紧急状态60天",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "西藏那曲巴青7.0级地震震区玛如乡二村受灾群众安置点活动板房顺利通电",
+      "reason": "prediction_roundup_people_or_leverage"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "韩国警方加强万圣节期间安保 严防踩踏事故",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "招商策略：A股多项指标已接近历史底部区间",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "报道：伊朗并未通过巴基斯坦向美国提交新方案",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "美国众议院议长迈克·约翰逊：周六与特朗普讨论了俄罗斯问题。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "阿布扎比王储将于10月26日至27日访问渥太华。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "上海国家会计学院：AI时代企业更需要将技术与财务有机结合",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "启元机器人第5000台个人机器人下线 每2.5分钟产出一台",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "研究：人类活动可能加剧大型湖泊湖啸风险",
+      "reason": "prediction_roundup_people_or_leverage"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "长城证券产业金融研究院首席经济学家团队：支撑力量持续增强，中长期投资价值显现",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "事关离岸信托申报纳税，北京青岛多地已向20余人发通知",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "武契奇：以负责任的态度面对选举结果",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "粤港澳推进大湾区人才高质量发展",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "申通快递：快递行业的“反内卷”预计有望持续",
+      "reason": "prediction_roundup_people_or_leverage"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "苏丹东部一金矿发生坍塌事故 致2死3伤",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "美媒：美国佛罗里达州一座大学体育场附近发生枪击事件，造成12人受伤",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "伊朗外长：霍尔木兹海峡“不会与过去相同”",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "中国地震台网正式测定：10月25日19时25分在西藏那曲市巴青县（北纬32.43度，东经93.99度）发生5.7级地震，震源深度10千米。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "青海玉树州杂多县附近发生5.6级左右地震",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "也门胡塞武装：7袭沙特境内目标，回应沙特空袭",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "伊朗军方称击落美军无人机",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "东山精密在港交所公告，发售价定为每股H股86.80港元，预期H股将于2026年10月28日上午九时正开始在联交所主板买卖。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "俄方称愿在11月4日后恢复俄美乌三方谈判",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "高盛将韩国Kospi指数12个月目标价下调25%，因对人工智能交易担忧加剧",
+      "reason": "prediction_roundup_people_or_leverage"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "沙特利雅得机场部分恢复运营",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "中国政府中东问题特使翟隽会见沙特外交部顾问哈立德亲王",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "特朗普称随时可能再打伊朗",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "利雅得机场拟重开，胡塞武装发警告",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "英国首相对恢复英欧人员自由流动持开放态度",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "沙特主导联军称拦截胡塞弹道导弹",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "我国成功发射卫星互联网低轨28组卫星",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "沙特首都传出巨响",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "日本小笠原群岛西部海域发生7.0级地震",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "马斯克称乌曾违规使用“星链”发动进攻",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "标普出台新规，3750亿美元基金将受影响",
       "reason": "us_not_market_move"
     },
     {
-      "source": "华尔街见闻 7x24",
-      "title": "美航天局加快推进月球基地建设，计划2028年实现载人登月",
+      "source": "PANews",
+      "title": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”",
       "reason": "no_concrete_number"
     },
     {
-      "source": "华尔街见闻 7x24",
-      "title": "综合多个消息源得知，美国正设法从中东岗位调离某些外交人员。",
+      "source": "PANews",
+      "title": "Claude未经授权绕过付费墙获取美国佐治亚州投票数据",
       "reason": "no_concrete_number"
     },
     {
-      "source": "华尔街见闻 7x24",
-      "title": "巴克莱：库存枯竭、需求复苏令实货市场收紧，尽管政策努力缓解柴油紧张状况，但短期石油风险仍坚定偏向上行。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "五角大楼“披萨指数”现分化：普通披萨店与酒吧客流走低，达美乐门店高于日常",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "标普：在地方阻力下，数据中心面临信用评级下调风险",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "美驻土耳其大使称周末可能打击伊朗，特朗普称对此不知情",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "美国联邦通信委员会宣布对某些设备给予有条件批准，批准了部分Bloom Energy和日立能源的设备。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "一油轮在霍尔木兹海峡附近遇袭 船舶单周通航量下降",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "巴西央行：批准多项决议，强化金融机构在提供和发放信贷方面的责任。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "以色列总理有关应对国际制裁言论引发国内担忧",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "古巴外长驳斥特朗普“顺道解决古巴”言论",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "周五（10月23日）纽约尾盘，标普500股指期货最终跌0.36%，道指期货跌1.13%，纳斯达克100股指期货涨0.16%。",
-      "reason": "index_level_covered_by_panel"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "我国成功发射遥感五十三号07-09星、遥感五十六号19-21星",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "太平洋瓦电将在美国纳帕及加利福尼亚州其他六个县实施停电",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "标普道琼斯指数公司：Howard Hughes Holdings Inc.（HHH）将被纳入标普小盘股600指数。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "土埃巴沙四国外长：以色列的占领行为是地区动荡根源",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "Meta Platforms收购AI数据平台Sundial（Axios）",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "中国地震台网自动测定：10月24日04时48分在台湾花莲县海域附近（北纬23.86度，东经121.91度）发生4.4级左右地震，最终结果以正式速报为准。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "美国得州就用户欺骗与儿童安全问题起诉OpenAI及其CEO",
+      "source": "PANews",
+      "title": "过去24小时全网合约爆仓1.09亿美元，多空双爆",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
-      "source": "华尔街见闻 7x24",
-      "title": "特斯拉：Roadster的界面受战斗机驾驶舱启发。",
+      "source": "PANews",
+      "title": "拉脱维亚拟于2027年上半年推出RWA代币化监管框架，商业地产与国债列入重点",
       "reason": "no_concrete_number"
     },
     {
-      "source": "华尔街见闻 7x24",
-      "title": "标普500指数的11个板块中，日用消费品板块收跌1.83%，可选消费、电信、金融、工业、保健板块至多跌1.39%，信息技术/科技板块涨0.35%，能源板块涨2.51%。",
-      "reason": "index_level_covered_by_panel"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
+      "source": "PANews",
+      "title": "欧洲央行官员：数字欧元将增强欧洲支付主权，试点计划明年启动",
       "reason": "no_concrete_number"
     },
     {
-      "source": "华尔街见闻 7x24",
-      "title": "中方：国际原子能机构应停止审议伊核问题",
+      "source": "PANews",
+      "title": "特朗普：该彻底消灭伊朗，还是达成协议？",
       "reason": "no_concrete_number"
     },
     {
-      "source": "华尔街见闻 7x24",
-      "title": "周五（10月23日），美股行业ETF多数下跌，全球航空业ETF收跌2.5%，可选消费ETF、金融业ETF、工业指数ETF、医疗业ETF至多跌1.66%，科技行业ETF涨0.49%，半导体ETF涨0.74%，能源业ETF涨2.6%。",
-      "reason": "index_level_covered_by_panel"
+      "source": "PANews",
+      "title": "但斌美股科技板块“大调仓”：加仓美光科技、闪迪以及英伟达",
+      "reason": "us_not_market_move"
     },
     {
-      "source": "华尔街见闻 7x24",
-      "title": "特朗普自曝打电话给谷歌CEO皮查伊：我想把大西洋改成美国洋，再把霍尔木兹海峡改成特朗普海峡",
+      "source": "PANews",
+      "title": "Strive CEO Matt Cole再次发图或暗示下周披露BTC增持数据",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
-      "source": "华尔街见闻 7x24",
-      "title": "特朗普在政治集会上讲话的原文摘录",
+      "source": "PANews",
+      "title": "一周预告 | Blast、Ebisu等项目停运；美联储公布决议；谷歌、三星等多家科技巨头发布财报",
       "reason": "no_concrete_number"
     },
     {
-      "source": "华尔街见闻 7x24",
-      "title": "美国商品期货交易委员会（CFTC）：10月20日当周，投机者所持COMEX黄金净多头头寸减少2,394手合约，至108,685手合约，创最近19周新低。",
+      "source": "PANews",
+      "title": "Anthony Pompliano：看好BTC、黄金与AI，预测市场和算力市场值得关注",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
-      "source": "华尔街见闻 7x24",
-      "title": "美国总统特朗普：我们可能对伊朗采取另一次行动。",
+      "source": "PANews",
+      "title": "国家信息安全漏洞共享平台发布PHP漏洞修复建议公告：信息系统运营单位应全面梳理网络资产",
       "reason": "no_concrete_number"
     },
     {
-      "source": "华尔街见闻 7x24",
-      "title": "伊朗革命卫队称，两艘油轮在试图经由霍尔木兹海峡以南一条未经授权的航线通行时触雷。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "美国商品期货交易委员会（CFTC）：10月20日当周，投机者将芝加哥期货交易所美国国债期货净空头头寸削减58,019手合约，至68,419手合约。",
+      "source": "PANews",
+      "title": "Tom Lee：99%金融活动仍依赖传统轨道，银行需警惕加密转型滞后",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
-      "source": "华尔街见闻 7x24",
-      "title": "美国商品期货交易委员会（CFTC）：10月20日当周，股票基金投机者将标普500指数芝加哥商业交易所（CME）净空头头寸削减42,221手合约，至348,674手合约。",
+      "source": "PANews",
+      "title": "DeGods创始人Frank澄清：主力永续合约钱包目前尚未整体盈利",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
-      "source": "华尔街见闻 7x24",
-      "title": "OpenAI：与众多云伙伴合作。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "OpenAI：在加强安全措施且断开互联网连接的情况下，恢复了前沿AI训练",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "特朗普：或与马斯克沟通乌克兰使用“星链”受限问题",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "诺和诺德Awiqli®获美国食品药品管理局（FDA）批准，成为首个且唯一用于10岁及以上2型糖尿病儿童的每周一次胰岛素。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "美国食品药品管理局（FDA）批准首个每周一次胰岛素用于治疗儿科患者2型糖尿病。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "参议员称，Meta计划中的商业条款更新可能损害美国企业利益",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "美国纽交所期权交易所因“技术问题”暂停交易",
+      "source": "PANews",
+      "title": "观点：比特币走势已重现2023年形态，若守住区间上沿或延续看涨趋势",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
-      "source": "华尔街见闻 7x24",
-      "title": "美国参议院Collins：9类产品将获加拿大关税豁免。",
+      "source": "PANews",
+      "title": "分析师警告XRP下行风险：巨鲸钱包数降至339个，交易所储备增加约5000万枚",
+      "reason": "whale_under_1m_usd"
+    },
+    {
+      "source": "PANews",
+      "title": "分析师：以太坊市值近三周缩水540亿美元，衍生品市场持续去杠杆",
+      "reason": "prediction_roundup_people_or_leverage"
+    },
+    {
+      "source": "PANews",
+      "title": "阿波罗首席经济学家：AI尚未给科技业以外的美国企业带来回报",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "PA日报 | 美股下周迎财报高峰与美联储议息，硬件钱包Keystone官网遭未授权访问",
+      "reason": "prediction_roundup_people_or_leverage"
+    },
+    {
+      "source": "PANews",
+      "title": "以色列正直党领导人：内塔尼亚胡的虚拟货币愿景对国家安全构成威胁",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "Solana联创提议引入验证者质押权重构建原生预言机，探索代币化资产定价新机制",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "Dragonfly合伙人质疑DFINITY的技术侵权指控：相关专利7月底才获批",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "分析：8万至8.1万美元是BTC长期做多加仓区间，目标仍看9.4万美元",
+      "reason": "prediction_roundup_people_or_leverage"
+    },
+    {
+      "source": "PANews",
+      "title": "麻吉大哥以太坊多单今晨遭全部强平后已再次入场，现仓位仅有115枚ETH",
+      "reason": "shill_leverage_scam_promo"
+    },
+    {
+      "source": "PANews",
+      "title": "Hyperliquid调整测试网操作优先级并添加支持代理签名的cDeposit2接口操作",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "ElizaOS创始人Shaw：Pump.fun所有合约的逆向工程已完成90%",
+      "reason": "prediction_roundup_people_or_leverage"
+    },
+    {
+      "source": "PANews",
+      "title": "野村证券：存储芯片短缺局面将持续至2028年，板块估值被严重低估",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "高盛警告：美联储12月加不加息，市场可能都没准备好",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "币安将上线PREDICT USDT永续合约盘前交易",
+      "reason": "prediction_roundup_people_or_leverage"
+    },
+    {
+      "source": "PANews",
+      "title": "英国宣布设立AI生物安全实验室",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "某交易员做多约2.7万枚ETH浮盈84.2万美元",
+      "reason": "prediction_roundup_people_or_leverage"
+    },
+    {
+      "source": "PANews",
+      "title": "fomo联创否认推出Solana生态代币发行平台：当前市场代币已经太多",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "江苏多所高校教职工工资将通过数字人民币钱包发放",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "下周宏观展望：美国三季度GDP与9月PCE同日落地，三大云巨头公布财报",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "三星电子与SK海力士将于下周发布第三季度财报",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "Pump.fun应用新增支持Monad",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "Bonk Guy：亏损八位数后曾因过度交易再损数百万美元，有时最佳操作就是空仓离场",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "瑞典政府办公厅将封禁ChatGPT和Claude，仅保留Microsoft Copilot",
       "reason": "no_concrete_number"
     },
     {
@@ -1705,214 +1771,14 @@
       "source": "PANews",
       "title": "FBI考虑对涉嫌窃听OpenAI的前工程师追加经济间谍指控",
       "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "Pump.fun应用接入Monad，支持USDC直接买入链上代币",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "美国大型银行制定AI风险应急预案，防范账户与运营中断",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "过去24小时全网合约爆仓8.46亿美元，主爆多单",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "PANews",
-      "title": "加密货币预测市场周交易额创下27亿美元新高",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "PANews",
-      "title": "英国FCA拟明确：根据价格、流动性等选择交易路径的加密应用或需获授权",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "比特币已实现市值回升，或为新资金入场信号",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "Tether挖矿开发套件MDK获比特大陆、嘉楠科技等15家机构支持",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "Gate 推出合约积分空投第 159 期，单人可领 0.014 QQQG 及 100 USDT 仓位体验券",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "PANews",
-      "title": "Electrum发布4.8.3修复严重安全问题，敦促所有用户立即升级",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "彭博扩展加密资产敞口分析功能，支持巴塞尔框架下风险分类与监管报告",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "RedotPay收购日本加密货币交易所BTCBOX",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "HTX已将俄罗斯列入禁止使用其服务的国家和地区名单",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "知情人士：美国两党批AI高管脱离民众，要求他们少说多做",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "Swell暂停swETH和rswETH存取，待修正净资产价值后恢复",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "PA日报 | 月之暗面发布Kimi K3.1 Pro；阿根廷法院撤销对总统米莱及其妹妹的LIBRA刑事调查",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "PANews",
-      "title": "Asia Market Daily: South Korea eyes crypto exchange entry into STO market (2026/10/24)",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "美SEC首次将代币化列为2027财年清算机构重点风险审查领域",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "加密货币要进“掩体模式”，AI真能破解钱包吗？",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "阿根廷总统米莱回应LIBRA案裁决，称遭政治与媒体“政变式”损害",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "慢雾：全网部署超1500个DarkSword钓鱼站点，涉及电商、虚假钱包等",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "Upbit将在韩元市场上线BMT代币",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "Meme日报，一图了解过去24小时热门Meme（2026.10.24）",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "PANews",
-      "title": "慢雾余弦：及时更新iPhone/iPad系统，警惕已安装的部分App被投毒DarkSword木马",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "月之暗面发布Kimi K3.1 Pro，新模型有何独特之处？",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "Circle 股东、孙宇晨先后起诉，特朗普家族加密生意 WLFI 争议不断",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "PANews",
-      "title": "Base：万事达卡采用基于x402和USDC的代理支付方案，并在Base上完成结算",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "Kraken母公司Payward已获在哈萨克斯坦开展业务的初步监管许可",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "Bithumb将在韩元市场上线AXIS代币",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "美国国税局计划11月底前推出改革后自愿披露制度，加密货币不设单独程序",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "一名中国公民因涉嫌参与针对美国公民的数百万美元加密货币诈骗案而被引渡",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "NEAR 与 ICP Dfinity 公链之争事件解析",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "OpenAI：红队测试中发现Brotli压缩库存在远程代码执行漏洞",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "Block发布仅用语音训练的对话模型Dessa，可在MacBook本地运行",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "PANews",
-      "title": "Lighter支持weETH作为永续合约保证金，全平台上限1000枚",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "PANews",
-      "title": "阿根廷法院撤销对总统米莱及其妹妹的LIBRA刑事调查",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "美股三大指数涨跌不一：SKHY上涨3.50%，Block（XYZ）下跌3.28%",
-      "reason": "index_level_covered_by_panel"
-    },
-    {
-      "source": "PANews",
-      "title": "OpenAI：内部模型曾借DNS配置错误接入外网，前沿训练暂停11天",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "曾以0.31美元均价购入10万枚ETH的鲸鱼6小时前卖出1000枚ETH",
-      "reason": "类别「机构/公司买币」上限"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "道指ETF收跌超1.2%，领跌美股大类资产类ETF，布油基金涨3%",
-      "reason": "与已收录卡同一事件"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "道指周五收跌超1.2%，标普逼近百日均线，本周纳指科技指数跌超1.8%、地区银行指数涨超3.9%",
-      "reason": "与已收录卡同一事件"
     }
   ],
   "kept": [
     {
-      "id": "crypto-market-2026-10-25",
-      "title": "大盘 · BTC $80,812（24h -0.36%）· ETH $2,357（-1.18%）",
+      "id": "crypto-market-2026-10-26",
+      "title": "大盘 · BTC $80,054（24h -0.86%）· ETH $2,327（-1.17%）",
       "source": "CoinGecko 公开 API（/global + /coins/markets）",
-      "use": "今日币圈整体横盘；总市值 $2.72T（24h -0.30%），BTC 占比 59.5%，先看大盘再看单币异动"
+      "use": "今日币圈整体横盘；总市值 $2.67T（24h -0.69%），BTC 占比 60.0%，先看大盘再看单币异动"
     },
     {
       "id": "crypto-us-index-2026-10-23",
@@ -1940,15 +1806,21 @@
     },
     {
       "id": "crypto-us-movers-涨-2026-10-23",
-      "title": "美股大市值涨幅榜（2026-10-23，市值≥$200亿）· GMAB +9.47% / VG +9.29% / CCI +9.06% / CRWD +8.25%",
+      "title": "美股大市值涨幅榜（2026-10-23，市值≥$200亿）· GMAB +9.48% / VG +9.29% / CCI +9.06% / CRWD +8.25%",
       "source": "Yahoo Finance 公开 screener（day_gainers）",
       "use": "大票单日涨 9.5% 以上通常有消息（财报/指引/评级/监管），先查原因，不追高（助手解读，非原文）"
     },
     {
-      "id": "crypto-movers-涨-2026-10-25",
-      "title": "前100市值涨幅榜 · XMR +5.41% / ZRO +3.22% / LIT +3.13%（24h）",
+      "id": "crypto-movers-涨-2026-10-26",
+      "title": "前100市值涨幅榜 · QNT +6.33% / ENA +6.00% / PYTH +5.40%（24h）",
       "source": "CoinGecko 公开 API（/coins/markets 前100）",
       "use": "大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐"
+    },
+    {
+      "id": "crypto-movers-跌-2026-10-26",
+      "title": "前100市值跌幅榜 · PEPE -5.10% / WLD -3.70% / XMR -3.42%（24h）",
+      "source": "CoinGecko 公开 API（/coins/markets 前100）",
+      "use": "大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接"
     },
     {
       "id": "crypto-us-movers-跌-2026-10-23",
@@ -1957,8 +1829,8 @@
       "use": "大票单日跌 11.2% 以上通常有消息（财报/指引/评级/监管），先分清个股利空还是板块退潮，不急着抄底（助手解读，非原文）"
     },
     {
-      "id": "crypto-funding-2026-10-25",
-      "title": "永续资金费率（OKX）· BTC +0.0022% / ETH +0.0013% / SOL +0.0043%",
+      "id": "crypto-funding-2026-10-26",
+      "title": "永续资金费率（OKX）· BTC +0.0068% / ETH +0.0034% / SOL +0.0020%",
       "source": "OKX 公开 API（public/funding-rate + open-interest）",
       "use": "合约情绪：费率都在常态区间（<0.03%/8h），合约市场没有明显一边倒（助手解读，非原文；只看情绪，不建议开合约）"
     },
@@ -1969,86 +1841,92 @@
       "use": "机构资金方向：已连续 1 个交易日净流出，近5日合计 −$30.3M"
     },
     {
-      "id": "crypto-earn-NlJi50c3JjPXJzcw",
-      "title": "Meta Stock Fell 7% in a Day After a Revenue Beat. Time to Sell or Load Up?",
-      "source": "Yahoo Finance RSS",
-      "use": "10/25 Meta 财报超预期（7%）：说明AI/科技股需求仍在，板块情绪偏正面（助手解读，非原文）"
-    },
-    {
       "id": "crypto-earn-hcm5pbmdzLmh0bWw",
       "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
       "source": "CNBC Earnings",
       "use": "10/22 Procter & Gamble earnings 财报超预期（4%）：说明同行业需求仍在，板块情绪偏正面（助手解读，非原文）"
     },
     {
-      "id": "crypto-zh-4YWI4MzVmYjFmY2Y",
-      "title": "安全机构：X100遭持续攻击，攻击者已套取约485万枚USDT",
+      "id": "crypto-zh-hN2ZmMjRjMDRkYWY",
+      "title": "CoinDCX：旧钱包基础设施遭攻击损失的1599万USDT由公司承担，用户资金安全",
       "source": "PANews",
-      "use": "钱包/安全事件：安全机构：X100遭持续攻击，攻击者已套取约485万枚USDT——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）"
+      "use": "钱包/安全事件：CoinDCX：旧钱包基础设施遭攻击损失的1599万USDT由公司承担，用户资…——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）"
     },
     {
-      "id": "crypto-zh-yZTZjYWI5MGEwOWI",
-      "title": "Initia披露攻击细节：MoveVM缓存漏洞致约270万美元被转出",
+      "id": "crypto-zh-xYzQ0Mjc0OGRjOTA",
+      "title": "Tether已冻结CoinDCX安全事件相关9个地址，涉及221.29万USDT",
       "source": "PANews",
-      "use": "钱包/安全事件：Initia披露攻击细节：MoveVM缓存漏洞致约270万美元被转出——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）"
+      "use": "钱包/安全事件：Tether已冻结CoinDCX安全事件相关9个地址，涉及221.29万USDT——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）"
     },
     {
-      "id": "crypto-trending-2026-10-25",
-      "title": "CoinGecko 热搜 · HYPE -0.48% / BSC +62.24% / PENGU -1.69% / QTC -11.89%",
+      "id": "crypto-trending-2026-10-26",
+      "title": "CoinGecko 热搜 · EVMZONE +22.69% / PEPINA +171.96% / DACITY -26.07% / PENGU -2.08%",
       "source": "CoinGecko 公开 API（/search/trending）",
-      "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 HYPE、PENGU"
+      "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PENGU"
     },
     {
-      "id": "crypto-zh-0ZTA3YzczNzFiYjA",
-      "title": "数据：某巨鲸持有约2.14亿美元ETH多单，清算价分别为2256及2227美元",
+      "id": "crypto-zh-5ZGIyMDQwNTUxMWI",
+      "title": "某神秘实体近日已累计买入3000.5枚ETH，价值约合706万美元",
       "source": "PANews",
-      "use": "机构/公司买币：数据：某巨鲸持有约2.14亿美元ETH多单，清算价分别为2256及2227美元——公司真实落地买币，对短线情绪偏正面，但不等于价格会涨（助手解读，非原文）"
+      "use": "机构/公司买币：某神秘实体近日已累计买入3000.5枚ETH，价值约合706万美元——公司真实落地买币，对短线情绪偏正面，但不等于价格会涨（助手解读，非原文）"
     },
     {
-      "id": "crypto-zh-kYTQ2ZmU5ZjdjY2M",
-      "title": "美股下周迎财报高峰与美联储议息，AI行情面临考验",
+      "id": "crypto-zh-yMTFhOWYxOWM1NjU",
+      "title": "持有3.97亿美元BTC及ETH多单的某巨鲸追加921万美元保证金，ETH清算价降至2181美元",
       "source": "PANews",
-      "use": "美股动向：美股下周迎财报高峰与美联储议息，AI行情面临考验——影响美股科技/芯片板块情绪，也常传导到币圈风险偏好（助手解读，非原文）"
+      "use": "机构/公司买币：持有3.97亿美元BTC及ETH多单的某巨鲸追加921万美元保证金，ETH清算…——公司真实落地买币，对短线情绪偏正面，但不等于价格会涨（助手解读，非原文）"
     },
     {
-      "id": "crypto-stables-2026-10-24",
-      "title": "稳定币总量 $302.79B · 7日 -0.68% · 30日 -0.54%",
+      "id": "crypto-stables-2026-10-25",
+      "title": "稳定币总量 $302.60B · 7日 -0.67% · 30日 -1.05%",
       "source": "DefiLlama 公开 API（stablecoincharts/all）",
       "use": "稳定币在收缩：场内资金流出，反弹持续性要打折扣"
     },
     {
-      "id": "crypto-zh-lYjZlZjA3MzVlZTU",
-      "title": "曾以均价80.97美元买入20万枚ETH的某地址7小时前向Kraken转入1000 ETH，价值约240万美元",
+      "id": "crypto-zh-zZjZmMWYyMzc3NGY",
+      "title": "数据：FF、CARDS等代币下周将迎来大额解锁，其中FF解锁价值约2070万美元",
       "source": "PANews",
-      "use": "机构/公司买币：曾以均价80.97美元买入20万枚ETH的某地址7小时前向Kraken转入10…——公司真实落地买币，对短线情绪偏正面，但不等于价格会涨（助手解读，非原文）"
+      "use": "代币解锁：数据：FF、CARDS等代币下周将迎来大额解锁，其中FF解锁价值约2070万美元——解锁量占流通比例大时短线有抛压，持有相关代币留意时间点（助手解读，非原文）"
     },
     {
-      "id": "crypto-zh-lZDY4ZTUzZDI3Nzk",
-      "title": "数据：Pump.fun24小时收入约198万美元，超过Hyperliquid位列第三",
+      "id": "crypto-zh-xZDhmMDVkOGVhZDg",
+      "title": "某WLD巨鲸去年盈利近100万美元，今年加大交易但利润已回吐殆尽",
       "source": "PANews",
-      "use": "热点叙事：数据：Pump.fun24小时收入约198万美元，超过Hyperliquid位…——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）"
+      "use": "巨鲸动向：某WLD巨鲸去年盈利近100万美元，今年加大交易但利润已回吐殆尽——大户资金方向，仅作情绪参考，单个地址动作不代表趋势（助手解读，非原文）"
     },
     {
-      "id": "crypto-revenue-2026-10-25",
-      "title": "协议收入异动 · Papertrade $1.7M/日（较7日前 -68.40%） / Polymarket International $1.1M/日（较7日前 +135.61%） / Collector Crypt $529,648/日（较7日前 -52.14%）",
+      "id": "crypto-revenue-2026-10-26",
+      "title": "协议收入异动 · Hyperliquid Perps $2.0M/日（较7日前 +55.93%） / Collector Crypt $761,071/日（较7日前 +100.57%）",
       "source": "DefiLlama 公开 API（overview/fees, dailyRevenue）",
       "use": "真实使用量变化：收入暴增的协议/链通常是当下资金和话题在的地方，收入下滑说明热度退潮"
     },
     {
-      "id": "crypto-news-saW9uLXdhbGxldHM",
-      "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
-      "source": "Decrypt",
-      "use": "宏观联动（Hong Kong’s Biggest · 3 Million）：利率/美元变化正在传导到币价"
+      "id": "crypto-zh-kZDMwYjcxNGZkOTA",
+      "title": "数据：Papertrade近7日收入达894万美元，位列全协议第五",
+      "source": "PANews",
+      "use": "热点叙事：数据：Papertrade近7日收入达894万美元，位列全协议第五——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）"
     },
     {
-      "id": "crypto-news-ODAwMDAtNDMxNjA4",
-      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
-      "source": "The Block",
-      "use": "价格走弱（Crypto · $404 million / $80,000）：留意是个币利空还是全市场风险偏好下降"
+      "id": "crypto-zh-yNTkxNjkzN2EyNDk",
+      "title": "美国参议员Lummis：加密募资新限制已纳入《CLARITY法案》",
+      "source": "PANews",
+      "use": "监管：美国参议员Lummis：加密募资新限制已纳入《CLARITY法案》——影响机构入场预期和相关代币情绪，落地前多是预期博弈（助手解读，非原文）"
+    },
+    {
+      "id": "crypto-news-ZS13ZWVrLXNsaWRl",
+      "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
+      "source": "Decrypt",
+      "use": "机构资金流向（Bitcoin ETFs Snap）：ETF 资金方向会影响 BTC/ETH 短线承接力"
+    },
+    {
+      "id": "crypto-zh-wNjYwYTM0YWEyODA",
+      "title": "英国加密监管与银行限制现落差，逾9,800名用户投诉转账受阻",
+      "source": "PANews",
+      "use": "监管：英国加密监管与银行限制现落差，逾9,800名用户投诉转账受阻——影响机构入场预期和相关代币情绪，落地前多是预期博弈（助手解读，非原文）"
     }
   ],
   "notes": [
-    "global 24h 市值变化 -2.49% 与前100加权 -0.30% 不符，改用前100加权"
+    "global 24h 市值变化 -4.33% 与前100加权 -0.69% 不符，改用前100加权"
   ],
   "farside_skipped": [
     {
