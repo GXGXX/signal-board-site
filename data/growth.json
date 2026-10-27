@@ -57,7 +57,7 @@
         "How To",
         "6 Secrets"
       ],
-      "point": "成长：要做决策、谈判或制定策略，讲具体方法",
+      "point": "谈判/决策被拿捏时看：从博弈论整理 6 条可执行要点",
       "verdict_label": "值得看",
       "title": ""
     }
@@ -119,67 +119,8 @@
         "forgetting",
         "How to"
       ],
-      "point": "成长：读书读完就忘，讲具体方法",
+      "point": "读书读完就忘时看：讲具体记忆/阅读方法，可直接试",
       "verdict_label": "值得看",
-      "title": ""
-    }
-  },
-  {
-    "id": "growth-post-askamanager-0c6619f67c0f",
-    "partition": "growth",
-    "type": "post",
-    "category": "个人提升",
-    "title": "new hire is demanding a promotion after a year",
-    "summary": "I hired a young employee, Frank, almost exactly a year ago in an entry-level administrative role.",
-    "source": "@askamanager / Alison Green (Ask a Manager)",
-    "source_url": "https://www.askamanager.org/2026/10/new-hire-is-demanding-a-promotion-after-a-year.html",
-    "published_at": "2026-10-21T16:29:38.000Z",
-    "tags": [
-      "职场",
-      "求职"
-    ],
-    "score": 53,
-    "why": "职场沟通：新员工入职一年就要求晋升，博主给出可对照的回复框架",
-    "deep_link": "https://www.askamanager.org/2026/10/new-hire-is-demanding-a-promotion-after-a-year.html",
-    "extra": {},
-    "blurb": "I hired a young employee, Frank, almost exactly a year ago in an entry-level administrative role.",
-    "url": "https://www.askamanager.org/2026/10/new-hire-is-demanding-a-promotion-after-a-year.html",
-    "handle": "askamanager",
-    "name": "Alison Green (Ask a Manager)",
-    "lang": "EN",
-    "posted_at": "2026-10-21",
-    "tier": "A",
-    "evidence_missing": false,
-    "_origin": "kol_rss",
-    "_source_id": "kol:askamanager",
-    "title_orig": "new hire is demanding a promotion after a year",
-    "source_excerpt": "A reader writes: I hired a young employee, Frank, almost exactly a year ago in an entry-level administrative role. He didn’t have a lot of relevant experience but his enthusiasm and passion was infectious, and so I made the call to invest time and resources to skill him up and to",
-    "person_id": "askamanager",
-    "person_handle": "askamanager",
-    "person_name": "Alison Green (Ask a Manager)",
-    "_feed_type": "blog_rss",
-    "_feed_url": "https://www.askamanager.org/feed",
-    "_score_raw": 53,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "summary_zh": "I hired a young employee, Frank, almost exactly a year ago in an entry-level administrative role.",
-    "highlights": [
-      "He didn’t have a lot of relevant experience but his…"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "watch",
-      "use": "职场沟通：新员工入职一年就要求晋升，博主给出可对照的回复框架",
-      "lines": {
-        "scenario": "求职、写求职信、面试或谈薪时",
-        "value": "一封读者来信，博主直接作答"
-      },
-      "evidence": [
-        "promotion",
-        "A reader writes"
-      ],
-      "point": "",
-      "verdict_label": "观望",
       "title": ""
     }
   },
@@ -239,7 +180,7 @@
         "interview",
         "A reader writes"
       ],
-      "point": "",
+      "point": "面试技巧：想单独再约用人经理问自己的问题时怎么开口，博主直接给答复",
       "verdict_label": "观望",
       "title": ""
     }
