@@ -1,20 +1,20 @@
 {
   "meta": {
-    "collected_at": "2026-10-27T00:04:50.018Z",
+    "collected_at": "2026-10-28T00:04:53.308Z",
     "ok": [
       {
         "id": "hitmarker_sitemap",
-        "count": 8,
-        "scanned": 437,
+        "count": 10,
+        "scanned": 435,
         "rejected": {
           "hub_or_junk": 0,
           "no_role_signal": 10,
           "noise_role": 0,
           "no_geo_low_role": 0,
           "below_threshold": 0,
-          "location_out_of_range": 202,
+          "location_out_of_range": 203,
           "page_unreadable": 0,
-          "too_old": 40
+          "too_old": 37
         }
       },
       {
@@ -37,24 +37,24 @@
           "noise_role": 0,
           "no_geo_low_role": 0,
           "below_threshold": 2,
-          "intern": 15,
-          "off_target_title": 18
+          "intern": 16,
+          "off_target_title": 19
         }
       },
       {
         "id": "riot_gh",
         "count": 5,
-        "scanned": 182,
+        "scanned": 184,
         "rejected": {
-          "off_role": 177
+          "off_role": 179
         }
       },
       {
         "id": "scopely_gh",
         "count": 10,
-        "scanned": 180,
+        "scanned": 181,
         "rejected": {
-          "off_role": 170
+          "off_role": 171
         }
       },
       {
@@ -76,9 +76,9 @@
       {
         "id": "supercell_ashby",
         "count": 3,
-        "scanned": 39,
+        "scanned": 38,
         "rejected": {
-          "off_role": 36
+          "off_role": 35
         }
       },
       {
@@ -92,9 +92,9 @@
       {
         "id": "hoyoverse_ashby",
         "count": 0,
-        "scanned": 21,
+        "scanned": 20,
         "rejected": {
-          "off_role": 21
+          "off_role": 20
         }
       },
       {
@@ -107,10 +107,10 @@
       },
       {
         "id": "ubisoft_sr",
-        "count": 3,
-        "scanned": 144,
+        "count": 4,
+        "scanned": 141,
         "rejected": {
-          "off_role": 141
+          "off_role": 137
         }
       },
       {
@@ -131,9 +131,9 @@
       {
         "id": "ai-simonw-atom",
         "partition": "ai",
-        "count": 11,
+        "count": 8,
         "scanned": 24,
-        "rejected": 13
+        "rejected": 16
       },
       {
         "id": "growth-jamesclear",
@@ -166,16 +166,16 @@
       {
         "id": "zh-36kr",
         "partition": "ai",
-        "count": 6,
+        "count": 3,
         "scanned": 30,
-        "rejected": 24
+        "rejected": 27
       },
       {
         "id": "zh-huxiu",
         "partition": "ai",
-        "count": 2,
-        "scanned": 15,
-        "rejected": 13
+        "count": 1,
+        "scanned": 13,
+        "rejected": 12
       },
       {
         "id": "zh-ifanr",
@@ -187,9 +187,9 @@
       {
         "id": "zh-woshipm",
         "partition": "ai",
-        "count": 3,
+        "count": 2,
         "scanned": 15,
-        "rejected": 12
+        "rejected": 13
       },
       {
         "id": "zh-geekpark",
@@ -201,9 +201,9 @@
       {
         "id": "zh-leiphone",
         "partition": "ai",
-        "count": 2,
+        "count": 3,
         "scanned": 20,
-        "rejected": 18
+        "rejected": 16
       },
       {
         "id": "zh-v2ex-create",
@@ -216,8 +216,8 @@
         "id": "zh-tmtpost",
         "partition": "ai",
         "count": 1,
-        "scanned": 17,
-        "rejected": 16
+        "scanned": 19,
+        "rejected": 18
       },
       {
         "id": "zh-infoq",
@@ -227,39 +227,11 @@
         "rejected": 18
       },
       {
-        "id": "ai-reddit-saas",
-        "partition": "ai",
-        "count": 4,
-        "scanned": 40,
-        "rejected": 36
-      },
-      {
-        "id": "ai-reddit-indiehackers",
-        "partition": "ai",
-        "count": 1,
-        "scanned": 2,
-        "rejected": 1
-      },
-      {
-        "id": "ai-reddit-era",
-        "partition": "ai",
-        "count": 3,
-        "scanned": 13,
-        "rejected": 10
-      },
-      {
-        "id": "ai-reddit-entrepreneur",
-        "partition": "ai",
-        "count": 0,
-        "scanned": 4,
-        "rejected": 4
-      },
-      {
         "id": "ai-hn-frontpage",
         "partition": "ai",
         "count": 0,
-        "scanned": 20,
-        "rejected": 20
+        "scanned": 16,
+        "rejected": 16
       },
       {
         "id": "ai-hn-show",
@@ -334,6 +306,11 @@
         "count": 1
       },
       {
+        "id": "kol:RyanHoliday",
+        "partition": "kol",
+        "count": 1
+      },
+      {
         "id": "kol:arvidkahl",
         "partition": "kol",
         "count": 1
@@ -386,6 +363,26 @@
         "error": "HTTP 403"
       },
       {
+        "id": "ai-reddit-saas",
+        "partition": "ai",
+        "error": "network: fetch failed"
+      },
+      {
+        "id": "ai-reddit-indiehackers",
+        "partition": "ai",
+        "error": "shared request failed: network: fetch failed"
+      },
+      {
+        "id": "ai-reddit-era",
+        "partition": "ai",
+        "error": "shared request failed: network: fetch failed"
+      },
+      {
+        "id": "ai-reddit-entrepreneur",
+        "partition": "ai",
+        "error": "shared request failed: network: fetch failed"
+      },
+      {
         "id": "kol:lxfater",
         "error": "html_list_empty_or_blocked;HTTP 404;HTTP 404;HTTP 404"
       },
@@ -395,15 +392,11 @@
       },
       {
         "id": "kol:dannypostmaa",
-        "error": "HTTP 404;HTTP 500;HTTP 404;HTTP 404;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked"
+        "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked"
       },
       {
         "id": "kol:damengchen",
         "error": "HTTP 404;HTTP 404;HTTP 404;HTTP 404;html_list_empty_or_blocked;HTTP 404;HTTP 404;HTTP 404"
-      },
-      {
-        "id": "kol:RyanHoliday",
-        "error": "HTTP 415;HTTP 415;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked;html_list_empty_or_blocked;HTTP 404"
       },
       {
         "id": "kol:gregisenberg",
@@ -424,32 +417,49 @@
       "noise_role": 0,
       "no_geo_low_role": 0,
       "below_threshold": 7,
-      "location_out_of_range": 202,
+      "location_out_of_range": 203,
       "page_unreadable": 0,
-      "too_old": 40,
-      "intern": 15,
-      "off_target_title": 18,
+      "too_old": 37,
+      "intern": 16,
+      "off_target_title": 19,
       "blacklist": 0,
       "rss_reasons": {
-        "ai_no_practice_signal": 30,
+        "ai_no_practice_signal": 32,
+        "ai_model_launch_dump": 1,
         "growth_no_pillar": 14,
         "fetch_fail": 1
       }
     },
     "score_threshold": 40,
-    "kept": 82,
+    "kept": 86,
     "articles_kept": {
-      "ai": 75,
+      "ai": 64,
       "invest": 0,
-      "growth": 55
+      "growth": 58
     },
     "rss_rejects_sample": [
       {
         "source": "ai-levelsio-rss",
         "partition": "ai",
         "reason": "ai_no_practice_signal",
+        "title": "An Uber driver told me he killed a car thief in São Paulo and didn't feel bad about it",
+        "url": "https://levels.io/uber-driver-killed-car-thief-sao-paulo",
+        "score": 0
+      },
+      {
+        "source": "ai-levelsio-rss",
+        "partition": "ai",
+        "reason": "ai_no_practice_signal",
         "title": "If you understand basic economics the only one winning here is Big AI and Big Tech",
         "url": "https://levels.io/only-big-ai-and-big-tech-winning",
+        "score": 0
+      },
+      {
+        "source": "ai-levelsio-rss",
+        "partition": "ai",
+        "reason": "ai_no_practice_signal",
+        "title": "I spent all day having Claude Code security audit every VPS I have",
+        "url": "https://levels.io/claude-code-security-audit-every-vps",
         "score": 0
       },
       {
@@ -565,19 +575,19 @@
         "score": 0
       },
       {
-        "source": "ai-levelsio-rss",
+        "source": "ai-simonw-atom",
         "partition": "ai",
         "reason": "ai_no_practice_signal",
-        "title": "Everyone will mostly use personal ephemeral software inside AI chat apps",
-        "url": "https://levels.io/personal-ephemeral-software-ai-apps",
+        "title": "Game Boy Color on My Conference Badge",
+        "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
         "score": 0
       },
       {
-        "source": "ai-levelsio-rss",
+        "source": "ai-simonw-atom",
         "partition": "ai",
-        "reason": "ai_no_practice_signal",
-        "title": "I discovered that thousands of bots monitor every new link posted on X",
-        "url": "https://levels.io/bots-monitor-new-links-on-x",
+        "reason": "ai_model_launch_dump",
+        "title": "GPT-6.1 Terra",
+        "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
         "score": 0
       },
       {
@@ -586,6 +596,14 @@
         "reason": "ai_no_practice_signal",
         "title": "Quoting Jason Koebler",
         "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+        "score": 0
+      },
+      {
+        "source": "ai-simonw-atom",
+        "partition": "ai",
+        "reason": "ai_no_practice_signal",
+        "title": "webframe: evaluated as a scraper and a sandbox",
+        "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
         "score": 0
       },
       {
@@ -725,40 +743,16 @@
         "source": "growth-putthison",
         "partition": "growth",
         "reason": "growth_no_pillar",
+        "title": "Inside Track: October 18th – October 24th Edition",
+        "url": "https://putthison.com/inside-track-october-18th-october-24th-edition/",
+        "score": 0
+      },
+      {
+        "source": "growth-putthison",
+        "partition": "growth",
+        "reason": "growth_no_pillar",
         "title": "Inside Track: October 11th – October 17th Edition",
         "url": "https://putthison.com/inside-track-october-11th-october-17th-edition-2/",
-        "score": 0
-      },
-      {
-        "source": "growth-putthison",
-        "partition": "growth",
-        "reason": "growth_no_pillar",
-        "title": "Inside Track: October 4th – October 10th Edition",
-        "url": "https://putthison.com/inside-track-october-4th-october-10th-edition-2/",
-        "score": 0
-      },
-      {
-        "source": "growth-putthison",
-        "partition": "growth",
-        "reason": "growth_no_pillar",
-        "title": "Jacket Season!",
-        "url": "https://putthison.com/jacket-season/",
-        "score": 0
-      },
-      {
-        "source": "growth-putthison",
-        "partition": "growth",
-        "reason": "growth_no_pillar",
-        "title": "Inside Track: September 27th – October 3rd Edition",
-        "url": "https://putthison.com/inside-track-september-27th-october-3rd-edition-2/",
-        "score": 0
-      },
-      {
-        "source": "growth-putthison",
-        "partition": "growth",
-        "reason": "growth_no_pillar",
-        "title": "It’s Almost Sweater Weather!",
-        "url": "https://putthison.com/its-almost-sweater-weather/",
         "score": 0
       }
     ],
@@ -813,14 +807,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:48d",
-            "too_old:55d",
-            "too_old:139d",
-            "too_old:230d",
-            "too_old:295d",
-            "too_old:345d",
-            "too_old:380d",
-            "too_old:408d"
+            "too_old:49d",
+            "too_old:56d",
+            "too_old:140d",
+            "too_old:231d",
+            "too_old:296d",
+            "too_old:346d",
+            "too_old:381d",
+            "too_old:409d"
           ]
         },
         "tdinh_me": {
@@ -846,14 +840,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:58d",
-            "too_old:138d",
-            "too_old:333d",
-            "too_old:382d",
-            "too_old:498d",
-            "too_old:692d",
-            "too_old:703d",
-            "too_old:822d"
+            "too_old:59d",
+            "too_old:139d",
+            "too_old:334d",
+            "too_old:383d",
+            "too_old:499d",
+            "too_old:693d",
+            "too_old:704d",
+            "too_old:823d"
           ]
         },
         "lxfater": {
@@ -917,14 +911,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:332d",
-            "too_old:335d",
-            "too_old:403d",
-            "too_old:510d",
-            "too_old:592d",
-            "too_old:628d",
-            "too_old:696d",
-            "too_old:710d"
+            "too_old:333d",
+            "too_old:336d",
+            "too_old:404d",
+            "too_old:511d",
+            "too_old:593d",
+            "too_old:629d",
+            "too_old:697d",
+            "too_old:711d"
           ]
         },
         "farnamstreet": {
@@ -1012,14 +1006,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:304d",
-            "too_old:311d",
-            "too_old:318d",
-            "too_old:325d",
-            "too_old:900d",
-            "too_old:961d",
-            "too_old:977d",
-            "too_old:1005d"
+            "too_old:305d",
+            "too_old:312d",
+            "too_old:319d",
+            "too_old:326d",
+            "too_old:901d",
+            "too_old:962d",
+            "too_old:978d",
+            "too_old:1006d"
           ]
         },
         "dannypostmaa": {
@@ -1037,7 +1031,7 @@
               "url": "https://youtube.com/feeds/videos.xml?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
               "type": "youtube_rss",
               "ok": false,
-              "error": "HTTP 500"
+              "error": "HTTP 404"
             },
             {
               "url": "https://youtube.com/feeds/videos.xml/?channel_id=UCNRlzk0c4DrMT_jd5sue9EQ",
@@ -1193,14 +1187,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:2485d",
-            "too_old:2568d",
-            "too_old:2771d",
-            "too_old:2835d",
-            "too_old:2842d",
-            "too_old:2849d",
-            "too_old:2856d",
-            "too_old:2930d"
+            "too_old:2486d",
+            "too_old:2569d",
+            "too_old:2772d",
+            "too_old:2836d",
+            "too_old:2843d",
+            "too_old:2850d",
+            "too_old:2857d",
+            "too_old:2931d"
           ]
         },
         "tibo_maker": {
@@ -1260,8 +1254,8 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:2151d",
-            "too_old:2325d"
+            "too_old:2152d",
+            "too_old:2326d"
           ]
         },
         "CalNewport": {
@@ -1287,12 +1281,12 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:46d",
             "too_old:47d",
-            "too_old:49d",
-            "too_old:56d",
-            "too_old:63d",
-            "too_old:77d"
+            "too_old:48d",
+            "too_old:50d",
+            "too_old:57d",
+            "too_old:64d",
+            "too_old:78d"
           ]
         },
         "naval": {
@@ -1318,14 +1312,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:115d",
-            "too_old:147d",
-            "too_old:149d",
+            "too_old:116d",
+            "too_old:148d",
             "too_old:150d",
-            "too_old:152d",
-            "too_old:168d",
-            "too_old:175d",
-            "too_old:181d"
+            "too_old:151d",
+            "too_old:153d",
+            "too_old:169d",
+            "too_old:176d",
+            "too_old:182d"
           ]
         },
         "yongfook": {
@@ -1375,16 +1369,20 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:55d",
-            "too_old:61d",
-            "too_old:68d",
-            "too_old:81d"
+            "too_old:56d",
+            "too_old:62d",
+            "too_old:69d",
+            "too_old:82d"
           ]
         },
         "RyanHoliday": {
           "ok": true,
           "partition": "growth",
-          "feed_ok": null,
+          "feed_ok": {
+            "url": "https://www.ryanholiday.net/feed/",
+            "type": "blog_rss",
+            "scanned": 10
+          },
           "feeds_tried": [
             {
               "url": "https://ryanholiday.net/feed/",
@@ -1395,53 +1393,24 @@
             {
               "url": "https://www.ryanholiday.net/feed/",
               "type": "blog_rss",
-              "ok": false,
-              "error": "HTTP 415"
-            },
-            {
-              "url": "https://ryanholiday.net/",
-              "type": "html_list",
-              "ok": false,
-              "error": "html_list_empty_or_blocked"
-            },
-            {
-              "url": "https://ryanholiday.net/blog/",
-              "type": "html_list",
-              "ok": false,
-              "error": "html_list_empty_or_blocked"
-            },
-            {
-              "url": "https://ryanholiday.net/archive",
-              "type": "html_list",
-              "ok": false,
-              "error": "html_list_empty_or_blocked"
-            },
-            {
-              "url": "https://ryanholiday.net/archive?sort=new",
-              "type": "html_list",
-              "ok": false,
-              "error": "html_list_empty_or_blocked"
-            },
-            {
-              "url": "https://dailystoic.com/",
-              "type": "html_list",
-              "ok": false,
-              "error": "html_list_empty_or_blocked"
-            },
-            {
-              "url": "https://dailystoic.com/blog/",
-              "type": "html_list",
-              "ok": false,
-              "error": "HTTP 404"
+              "ok": true,
+              "scanned": 10
             }
           ],
-          "kept": 0,
-          "dropped": 0,
-          "fallback": true,
+          "kept": 4,
+          "dropped": 6,
+          "fallback": false,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
-          "drop_reasons": []
+          "drop_reasons": [
+            "too_old:48d",
+            "too_old:54d",
+            "too_old:60d",
+            "too_old:68d",
+            "too_old:82d",
+            "too_old:103d"
+          ]
         },
         "gregisenberg": {
           "ok": true,
@@ -1517,14 +1486,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:206d",
-            "too_old:220d",
-            "too_old:227d",
-            "too_old:255d",
-            "too_old:262d",
-            "too_old:269d",
-            "too_old:276d",
-            "too_old:283d"
+            "too_old:207d",
+            "too_old:221d",
+            "too_old:228d",
+            "too_old:256d",
+            "too_old:263d",
+            "too_old:270d",
+            "too_old:277d",
+            "too_old:284d"
           ]
         },
         "AliAbdaal": {
@@ -1550,14 +1519,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:628d",
-            "too_old:635d",
-            "too_old:643d",
-            "too_old:650d",
-            "too_old:658d",
-            "too_old:661d",
-            "too_old:665d",
-            "too_old:668d"
+            "too_old:629d",
+            "too_old:636d",
+            "too_old:644d",
+            "too_old:651d",
+            "too_old:659d",
+            "too_old:662d",
+            "too_old:666d",
+            "too_old:669d"
           ]
         },
         "nathanbarry": {
@@ -1645,13 +1614,13 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:50d",
             "too_old:51d",
-            "too_old:51d",
-            "too_old:51d",
-            "too_old:51d",
-            "too_old:51d",
-            "too_old:51d"
+            "too_old:52d",
+            "too_old:52d",
+            "too_old:52d",
+            "too_old:52d",
+            "too_old:52d",
+            "too_old:52d"
           ]
         },
         "nichepursuits": {
@@ -1677,14 +1646,14 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:47d",
-            "too_old:54d",
-            "too_old:61d",
-            "too_old:68d",
-            "too_old:75d",
-            "too_old:82d",
-            "too_old:89d",
-            "too_old:96d"
+            "too_old:48d",
+            "too_old:55d",
+            "too_old:62d",
+            "too_old:69d",
+            "too_old:76d",
+            "too_old:83d",
+            "too_old:90d",
+            "too_old:97d"
           ]
         },
         "startupsfortherestofus": {
@@ -1703,21 +1672,21 @@
               "scanned": 20
             }
           ],
-          "kept": 6,
-          "dropped": 14,
+          "kept": 7,
+          "dropped": 13,
           "fallback": false,
           "used_last_good": false,
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:48d",
-            "too_old:55d",
-            "too_old:62d",
-            "too_old:69d",
-            "too_old:76d",
-            "too_old:83d",
-            "too_old:90d",
-            "too_old:97d"
+            "too_old:49d",
+            "too_old:56d",
+            "too_old:63d",
+            "too_old:70d",
+            "too_old:77d",
+            "too_old:84d",
+            "too_old:91d",
+            "too_old:98d"
           ]
         },
         "askamanager": {
@@ -1767,7 +1736,7 @@
           "html_list": null,
           "x_api": null,
           "drop_reasons": [
-            "too_old:57d"
+            "too_old:58d"
           ]
         },
         "artofmanliness": {
@@ -1899,6 +1868,12 @@
           "type": "blog_rss"
         },
         {
+          "handle": "RyanHoliday",
+          "url": "https://www.ryanholiday.net/feed/",
+          "scanned": 10,
+          "type": "blog_rss"
+        },
+        {
           "handle": "arvidkahl",
           "url": "https://thebootstrappedfounder.com/feed/",
           "scanned": 20,
@@ -1980,7 +1955,7 @@
           "handle": "dannypostmaa",
           "errors": [
             "HTTP 404",
-            "HTTP 500",
+            "HTTP 404",
             "HTTP 404",
             "HTTP 404",
             "html_list_empty_or_blocked",
@@ -1999,19 +1974,6 @@
             "html_list_empty_or_blocked",
             "HTTP 404",
             "HTTP 404",
-            "HTTP 404"
-          ]
-        },
-        {
-          "handle": "RyanHoliday",
-          "errors": [
-            "HTTP 415",
-            "HTTP 415",
-            "html_list_empty_or_blocked",
-            "html_list_empty_or_blocked",
-            "html_list_empty_or_blocked",
-            "html_list_empty_or_blocked",
-            "html_list_empty_or_blocked",
             "HTTP 404"
           ]
         },
@@ -2044,9 +2006,9 @@
           ]
         }
       ],
-      "posts_kept": 82,
-      "posts_dropped": 158,
-      "fallbacks": 17,
+      "posts_kept": 87,
+      "posts_dropped": 163,
+      "fallbacks": 16,
       "last_good_reused": 0,
       "html_list_ok": [
         {
@@ -2062,15 +2024,15 @@
       "sample_kept": [
         {
           "handle": "levelsio",
-          "title": "If you understand basic economics the only one winning here is Big AI and Big Tech",
-          "published_at": "2026-10-26T00:00:00.000Z",
-          "url": "https://levels.io/only-big-ai-and-big-tech-winning"
+          "title": "An Uber driver told me he killed a car thief in São Paulo and didn't feel bad about it",
+          "published_at": "2026-10-27T00:00:00.000Z",
+          "url": "https://levels.io/uber-driver-killed-car-thief-sao-paulo"
         },
         {
           "handle": "PutThisOn",
-          "title": "Inside Track: October 11th – October 17th Edition",
-          "published_at": "2026-10-21T06:53:03.000Z",
-          "url": "https://putthison.com/inside-track-october-11th-october-17th-edition-2/"
+          "title": "Inside Track: October 18th – October 24th Edition",
+          "published_at": "2026-10-27T03:18:17.000Z",
+          "url": "https://putthison.com/inside-track-october-18th-october-24th-edition/"
         },
         {
           "handle": "tibo_maker",
@@ -2094,162 +2056,56 @@
     },
     "community_rss": {
       "enabled": true,
-      "elapsed_ms": 15181,
-      "kept": 8,
+      "elapsed_ms": 49920,
+      "kept": 0,
       "report": [
         {
           "id": "ai-reddit-saas",
           "url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-          "ok": true,
-          "status": 200,
-          "attempts": 1,
-          "ms": 3598,
-          "scanned": 40,
-          "kept": 4,
-          "rejects": {
-            "no_numeric_fact": 15,
-            "question": 11,
-            "no_body": 4,
-            "help_seeking": 3,
-            "body_too_short": 2,
-            "over_max_items": 1
-          },
-          "error": null,
-          "ratelimit": {
-            "used": "1",
-            "remaining": "0.0",
-            "reset": "19"
-          },
-          "reject_samples": [
-            {
-              "reason": "no_numeric_fact",
-              "title": "350 commits and 2 months later | 67k MMR"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Months of hard work finally starting to pay off..."
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "I quit my dev job."
-            },
-            {
-              "reason": "question",
-              "title": "Why 90% of you think your SaaS failed (spoiler: you never actually launched a bu"
-            },
-            {
-              "reason": "question",
-              "title": "Should SaaS platforms support customers who want to pay with stablecoins?"
-            },
-            {
-              "reason": "question",
-              "title": "Am I the only one who hates having to book a sales call just to see what a SaaS "
-            }
-          ],
-          "partition": "ai"
+          "ok": false,
+          "status": 0,
+          "attempts": 3,
+          "ms": 37597,
+          "scanned": 0,
+          "kept": 0,
+          "rejects": {},
+          "error": "network: fetch failed"
         },
         {
           "id": "ai-reddit-indiehackers",
           "url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-          "ok": true,
-          "status": 200,
+          "ok": false,
+          "status": 0,
           "attempts": 0,
           "ms": 0,
-          "scanned": 2,
-          "kept": 1,
-          "rejects": {
-            "no_numeric_fact": 1
-          },
-          "error": null,
-          "shared_request": true,
-          "reject_samples": [
-            {
-              "reason": "no_numeric_fact",
-              "title": "I checked the DNS of 8,062 Show HN launches. 1 in 5 send email with Resend"
-            }
-          ],
-          "partition": "ai"
+          "scanned": 0,
+          "kept": 0,
+          "rejects": {},
+          "error": "shared request failed: network: fetch failed"
         },
         {
           "id": "ai-reddit-era",
           "url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-          "ok": true,
-          "status": 200,
+          "ok": false,
+          "status": 0,
           "attempts": 0,
           "ms": 0,
-          "scanned": 13,
-          "kept": 3,
-          "rejects": {
-            "no_numeric_fact": 5,
-            "question": 3,
-            "help_seeking": 1,
-            "tech_news": 1
-          },
-          "error": null,
-          "shared_request": true,
-          "reject_samples": [
-            {
-              "reason": "no_numeric_fact",
-              "title": "We stopped competing on price and started competing on honesty. Margins went up."
-            },
-            {
-              "reason": "question",
-              "title": "Would you take a $600 supplier discount if it meant having less cash available b"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Want to start a business but i only have money for my basic needs"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "2 weeks of only building what reddit comments ask for"
-            },
-            {
-              "reason": "question",
-              "title": "Where to Invest?"
-            },
-            {
-              "reason": "help_seeking",
-              "title": "The “ship it even if you’re embarrased” advice gets a lot less fun when real mon"
-            }
-          ],
-          "partition": "ai"
+          "scanned": 0,
+          "kept": 0,
+          "rejects": {},
+          "error": "shared request failed: network: fetch failed"
         },
         {
           "id": "ai-reddit-entrepreneur",
           "url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-          "ok": true,
-          "status": 200,
+          "ok": false,
+          "status": 0,
           "attempts": 0,
           "ms": 0,
-          "scanned": 4,
+          "scanned": 0,
           "kept": 0,
-          "rejects": {
-            "question": 1,
-            "body_too_short": 2,
-            "no_numeric_fact": 1
-          },
-          "error": null,
-          "shared_request": true,
-          "reject_samples": [
-            {
-              "reason": "question",
-              "title": "Why people still pay for software when free alternatives exist"
-            },
-            {
-              "reason": "body_too_short",
-              "title": "Monday mentorship: ask anything | October 26, 2026"
-            },
-            {
-              "reason": "body_too_short",
-              "title": "Medical supplier- how to get started"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "RTWS - Marketing and PR 101"
-            }
-          ],
-          "partition": "ai"
+          "rejects": {},
+          "error": "shared request failed: network: fetch failed"
         },
         {
           "id": "ai-hn-frontpage",
@@ -2257,12 +2113,13 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 2170,
-          "scanned": 20,
+          "ms": 2172,
+          "scanned": 16,
           "kept": 0,
           "rejects": {
-            "no_numeric_fact": 18,
-            "tech_news": 2
+            "no_numeric_fact": 12,
+            "tech_news": 2,
+            "question": 2
           },
           "error": null,
           "ratelimit": {
@@ -2273,27 +2130,27 @@
           "reject_samples": [
             {
               "reason": "no_numeric_fact",
-              "title": "The Exponential Time Hypothesis Is False [pdf]"
+              "title": "Tailscale SSH: Investigation and remediation update"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "Working with academic communities to build scientific understanding"
+              "title": "Survival LLM: AI assistant and emergency library that runs on your own computer"
+            },
+            {
+              "reason": "no_numeric_fact",
+              "title": "Discord will soon let anyone find public server messages through Google"
             },
             {
               "reason": "tech_news",
-              "title": "CorridorKey 2.0"
+              "title": "Introducing LFM3: Every Modality for Specialized Intelligence"
+            },
+            {
+              "reason": "tech_news",
+              "title": "Ghostty 1.4"
             },
             {
               "reason": "no_numeric_fact",
-              "title": "The EPA Is Quietly Killing Its Web Archive"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "US designates helium as a critical material"
-            },
-            {
-              "reason": "no_numeric_fact",
-              "title": "Type Server Protocol"
+              "title": "Classification of Finite Simple Groups Formalized in Lean"
             }
           ],
           "partition": "ai"
@@ -2304,7 +2161,7 @@
           "ok": true,
           "status": 200,
           "attempts": 1,
-          "ms": 1322,
+          "ms": 2139,
           "scanned": 20,
           "kept": 0,
           "rejects": {
@@ -2312,7 +2169,7 @@
             "help_seeking": 1
           },
           "error": null,
-          "waited_ms": 7992,
+          "waited_ms": 7979,
           "ratelimit": {
             "used": null,
             "remaining": null,
@@ -2398,7 +2255,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 88 · 命中：数值策划、mmo、persona_transferable",
       "blurb": "数值/经济向 · Guangzhou · 分88",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 88,
       "geo_uncertain": false
     },
@@ -2416,7 +2273,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 88 · 命中：数值策划、战斗数值",
       "blurb": "数值/经济向 · Guangzhou · 分88",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 88,
       "geo_uncertain": false
     },
@@ -2434,7 +2291,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 88 · 命中：数值策划、经济系统",
       "blurb": "数值/经济向 · Guangzhou · 分88",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 88,
       "geo_uncertain": false
     },
@@ -2452,6 +2309,25 @@
       "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 87",
       "posted_at": "2026-10-08",
       "score": 87,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Senior Game Designer - Systems & LiveOps (remote or on-site, full time)",
+      "company": "CoolGames",
+      "location": "Remote",
+      "source": "Hitmarker",
+      "url": "https://hitmarker.net/jobs/coolgames-senior-game-designer-systems-liveops-remote-or-on-site-full-time-5389482",
+      "keywords": [
+        "game designer",
+        "monetization",
+        "liveops"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：game designer、monetization、liveops · 地点来自岗位页：Remote",
+      "blurb": "系统向 · Remote · 分86",
+      "posted_at": "2026-10-26",
+      "score": 86,
       "geo_uncertain": false
     },
     {
@@ -2487,7 +2363,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、战斗数值",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 86,
       "geo_uncertain": false
     },
@@ -2506,7 +2382,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、经济投放、persona_transferable",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 86,
       "geo_uncertain": false
     },
@@ -2527,7 +2403,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、数值设计、经济投放",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 86,
       "geo_uncertain": false
     },
@@ -2547,7 +2423,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、经济系统、成长曲线",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 86,
       "geo_uncertain": false
     },
@@ -2567,7 +2443,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、数值设计、战斗数值",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 86,
       "geo_uncertain": false
     },
@@ -2589,7 +2465,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、战斗数值、资深数值策划",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 86,
       "geo_uncertain": false
     },
@@ -2611,7 +2487,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、游戏数值、数值设计",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 86,
       "geo_uncertain": false
     },
@@ -2632,7 +2508,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、经济系统、战斗数值",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 86,
       "geo_uncertain": false
     },
@@ -2650,7 +2526,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：数值策划、数值设计",
       "blurb": "数值/经济向 · Shenzhen · 分86",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 86,
       "geo_uncertain": false
     },
@@ -2668,7 +2544,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：经济系统、商业化策划",
       "blurb": "商业化向 · Shenzhen · 分86",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 86,
       "geo_uncertain": false
     },
@@ -2687,7 +2563,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：系统策划、systems+monetization、资深系统策划",
       "blurb": "商业化向 · Shenzhen · 分86",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 86,
       "geo_uncertain": false
     },
@@ -2706,7 +2582,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：系统策划、systems+monetization、资深系统策划",
       "blurb": "商业化向 · Shenzhen · 分86",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 86,
       "geo_uncertain": false
     },
@@ -2727,7 +2603,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：系统策划、养成、资源投放",
       "blurb": "系统向 · Shenzhen · 分86",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 86,
       "geo_uncertain": false
     },
@@ -2746,7 +2622,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：系统策划、养成、persona_transferable",
       "blurb": "系统向 · Shenzhen · 分86",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 86,
       "geo_uncertain": false
     },
@@ -2765,7 +2641,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 86 · 命中：系统策划、养成、persona_transferable",
       "blurb": "系统向 · Shenzhen · 分86",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 86,
       "geo_uncertain": false
     },
@@ -2850,7 +2726,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 80 · 命中：商业化策划、资源投放、persona_transferable",
       "blurb": "商业化向 · Shenzhen · 分80",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 80,
       "geo_uncertain": false
     },
@@ -2868,7 +2744,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 80 · 命中：数值策划、资深数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分80",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 80,
       "geo_uncertain": false
     },
@@ -2886,7 +2762,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 80 · 命中：数值策划、资深数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分80",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 80,
       "geo_uncertain": false
     },
@@ -2904,7 +2780,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 80 · 命中：数值策划、资深数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分80",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 80,
       "geo_uncertain": false
     },
@@ -2938,7 +2814,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 78 · 命中：系统策划、systems+monetization",
       "blurb": "系统向 · Shenzhen · 分78",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 78,
       "geo_uncertain": false
     },
@@ -2956,7 +2832,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 78 · 命中：系统策划、systems+monetization",
       "blurb": "系统向 · Shenzhen · 分78",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 78,
       "geo_uncertain": false
     },
@@ -2974,7 +2850,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 78 · 命中：系统策划、systems+monetization",
       "blurb": "系统向 · Shenzhen · 分78",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 78,
       "geo_uncertain": false
     },
@@ -2992,25 +2868,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 78 · 命中：系统策划、资深系统策划",
       "blurb": "系统向 · Guangzhou · 分78",
-      "posted_at": "2026-10-27",
-      "score": 78,
-      "geo_uncertain": false
-    },
-    {
-      "type": "job",
-      "category": "游戏招聘",
-      "title": "高级系统策划（率土之滨）（网易游戏（互娱））",
-      "company": "网易游戏招聘",
-      "location": "广州市",
-      "source": "网易游戏招聘",
-      "url": "https://hr.163.com/job-detail.html?id=77874",
-      "keywords": [
-        "系统策划",
-        "高级系统策划"
-      ],
-      "note": "公开页自动采集，请以官网为准 · 相关度 78 · 命中：系统策划、高级系统策划",
-      "blurb": "系统向 · Guangzhou · 分78",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 78,
       "geo_uncertain": false
     },
@@ -3028,7 +2886,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 78 · 命中：系统策划、资深系统策划",
       "blurb": "系统向 · Guangzhou · 分78",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 78,
       "geo_uncertain": false
     },
@@ -3046,7 +2904,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 78 · 命中：系统策划、资深系统策划",
       "blurb": "系统向 · Guangzhou · 分78",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 78,
       "geo_uncertain": false
     },
@@ -3066,7 +2924,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 76 · 命中：数值策划、资深数值策划、mmo",
       "blurb": "数值/经济向 · 上海市 · 分76",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 76,
       "geo_uncertain": false
     },
@@ -3084,8 +2942,26 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 76 · 命中：系统策划、资深系统策划",
       "blurb": "系统向 · Shenzhen · 分76",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 76,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Economy & Balancing Game Designer - Casual HTML5 Games (remote, fulltime)",
+      "company": "CoolGames",
+      "location": "Remote",
+      "source": "Hitmarker",
+      "url": "https://hitmarker.net/jobs/coolgames-economy-balancing-game-designer-casual-html5-games-remote-fulltime-5389484",
+      "keywords": [
+        "game designer",
+        "monetization"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 72 · 命中：game designer、monetization · 地点来自岗位页：Remote",
+      "blurb": "数值/经济向 · Remote · 分72",
+      "posted_at": "2026-10-26",
+      "score": 72,
       "geo_uncertain": false
     },
     {
@@ -3138,7 +3014,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 72 · 命中：系统策划、systems+monetization",
       "blurb": "系统向 · Shenzhen · 分72",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 72,
       "geo_uncertain": false
     },
@@ -3156,7 +3032,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 68 · 命中：数值策划、高级数值策划",
       "blurb": "数值/经济向 · 上海市 · 分68",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 68,
       "geo_uncertain": false
     },
@@ -3174,7 +3050,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 68 · 命中：数值策划、资深数值策划",
       "blurb": "数值/经济向 · 上海市 · 分68",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 68,
       "geo_uncertain": false
     },
@@ -3256,7 +3132,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 66 · 命中：系统策划、高级系统策划",
       "blurb": "系统向 · 上海市 · 分66",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 66,
       "geo_uncertain": false
     },
@@ -3274,7 +3150,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 66 · 命中：系统策划、资深系统策划",
       "blurb": "系统向 · 上海市 · 分66",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 66,
       "geo_uncertain": false
     },
@@ -3292,7 +3168,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 66 · 命中：系统策划、资深系统策划",
       "blurb": "系统向 · 上海市 · 分66",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 66,
       "geo_uncertain": false
     },
@@ -3421,7 +3297,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分62",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 62,
       "geo_uncertain": false
     },
@@ -3438,7 +3314,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分62",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 62,
       "geo_uncertain": false
     },
@@ -3455,7 +3331,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分62",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 62,
       "geo_uncertain": false
     },
@@ -3472,7 +3348,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分62",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 62,
       "geo_uncertain": false
     },
@@ -3489,7 +3365,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：数值策划",
       "blurb": "数值/经济向 · Guangzhou · 分62",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 62,
       "geo_uncertain": false
     },
@@ -3506,7 +3382,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：系统策划",
       "blurb": "系统向 · Guangzhou · 分62",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 62,
       "geo_uncertain": false
     },
@@ -3523,7 +3399,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：系统策划",
       "blurb": "系统向 · Guangzhou · 分62",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 62,
       "geo_uncertain": false
     },
@@ -3540,7 +3416,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：系统策划",
       "blurb": "系统向 · Guangzhou · 分62",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 62,
       "geo_uncertain": false
     },
@@ -3557,7 +3433,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 62 · 命中：系统策划",
       "blurb": "系统向 · Guangzhou · 分62",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 62,
       "geo_uncertain": false
     },
@@ -3574,7 +3450,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 60 · 命中：数值策划",
       "blurb": "数值/经济向 · Shenzhen · 分60",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 60,
       "geo_uncertain": false
     },
@@ -3629,6 +3505,22 @@
     {
       "type": "job",
       "category": "游戏招聘",
+      "title": "Stage Combat Designer - 6 mois (F/H/NB)",
+      "company": "Ubisoft",
+      "location": "Montpellier, FR",
+      "source": "Ubisoft 官方招聘",
+      "source_id": "ubisoft_sr",
+      "company_tier": "major",
+      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000157838959",
+      "keywords": [],
+      "note": "官方招聘接口（smartrecruiters）自动采集，请以官网为准 · 相关度 60",
+      "posted_at": "2026-10-26",
+      "score": 60,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
       "title": "System Designer - W/M/NB",
       "company": "Ubisoft",
       "location": "Paris, FR",
@@ -3655,7 +3547,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 60 · 命中：系统策划",
       "blurb": "系统向 · Shenzhen · 分60",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 60,
       "geo_uncertain": false
     },
@@ -3672,7 +3564,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 60 · 命中：系统策划",
       "blurb": "系统向 · Shenzhen · 分60",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 60,
       "geo_uncertain": false
     },
@@ -3689,7 +3581,7 @@
       ],
       "note": "公开页自动采集，请以官网为准 · 相关度 60 · 命中：系统策划",
       "blurb": "系统向 · Shenzhen · 分60",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "score": 60,
       "geo_uncertain": false
     },
@@ -3739,6 +3631,39 @@
       "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 60",
       "posted_at": "2026-10-23",
       "score": 60,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "Principal Systems Designer",
+      "company": "Scopely",
+      "location": "CA - Canada",
+      "source": "Scopely 官方招聘",
+      "source_id": "scopely_gh",
+      "company_tier": "major",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5413049008?gh_jid=5413049008",
+      "keywords": [],
+      "note": "官方招聘接口（greenhouse）自动采集，请以官网为准 · 相关度 60",
+      "posted_at": "2026-09-01",
+      "score": 60,
+      "geo_uncertain": false
+    },
+    {
+      "type": "job",
+      "category": "游戏招聘",
+      "title": "资深商业化策划（率土之滨）（网易游戏（互娱））",
+      "company": "网易游戏招聘",
+      "location": "广州市",
+      "source": "网易游戏招聘",
+      "url": "https://hr.163.com/job-detail.html?id=79352",
+      "keywords": [
+        "商业化策划"
+      ],
+      "note": "公开页自动采集，请以官网为准 · 相关度 56 · 命中：商业化策划",
+      "blurb": "商业化向 · Guangzhou · 分56",
+      "posted_at": "2026-10-28",
+      "score": 56,
       "geo_uncertain": false
     },
     {
@@ -3813,36 +3738,112 @@
   "articles": {
     "ai": [
       {
-        "id": "ai-community-ai-reddit-indiehackers-a65877d26980",
+        "id": "ai-zh-d6bfb7e65540",
         "partition": "ai",
         "type": "post",
         "category": "AI变现",
-        "title": "My side project made almost $8,000 this year. Here's what worked (and what didn't)",
-        "summary": "I only charged a small one-time fee for it. Since then I've made almost $8,000 from 116 payments by 83 customers. Other directories and sites, like Product Hunt, also brought in a few paying customers.",
-        "source": "r/indiehackers",
-        "source_url": "https://www.reddit.com/r/indiehackers/comments/1xfrmup/my_side_project_made_almost_8000_this_year_heres/",
-        "published_at": "2026-10-26T09:01:28.000Z",
+        "title": "从三个月到一百亿：AI产业链的金钱游戏",
+        "summary": " 假设你有一座年收入400亿美金的AI数据中心，现在它晚投产三个月。 本文来自微信公众号： 旧叔笔谈 ，作者：旧叔 一 10月21日，柏林。黄仁勋在GTC的台上算了一笔账。 假设你有一座年收入400亿美金的AI数据中心，现在它晚投产三个月。他说，这三个月的“代价”是100亿美元。 然后他补了一句：“100亿美元的收入，会让任何人感到焦虑。” 同一天，英伟达发布了一套叫DSX POD的东西。这是一款模块化的AI数据中心，它可以把计算设备和供电、散热、网络统统装进集装箱，在工厂里组装好、连好线、测完，再运到目的地。 按英伟达的说法，只要场地的电、冷、网都齐了，这套方案能把现场部署时间从六个月压缩到最快十四天。 一家卖芯片的公司，为什么要急着帮客户抢工期？ 这个问题显然值得多想一会儿。 二 一座吉瓦级的AI数据中心，总投资额大概要500亿美元，这个数字黄仁勋在GTC大会当天也提了。 500亿不是大风刮来的，它大部分是借来的，或者说是通",
+        "source_excerpt": " 假设你有一座年收入400亿美金的AI数据中心，现在它晚投产三个月。 本文来自微信公众号： 旧叔笔谈 ，作者：旧叔 一 10月21日，柏林。黄仁勋在GTC的台上算了一笔账。 假设你有一座年收入400亿美金的AI数据中心，现在它晚投产三个月。他说，这三个月的“代价”是100亿美元。 然后他补了一句：“100亿美元的收入，会让任何人感到焦虑。” 同一天，英伟达发布了一套叫DSX POD的东西。这是一款模块化的AI数据中心，它可以把计算设备和供电、散热、网络统统装进集装箱，在工厂里组装好、连好线、测完，再运到目的地。 按英伟达的说法，只要场地的电、冷、网都齐了，这套方案能把现场部署时间从六个月压缩到最快十四天。 一家卖芯片的公司，为什么要急着帮客户抢工期？ 这个问题显然值得多想一会儿。 二 一座吉瓦级的AI数据中心，总投资额大概要500亿美元，这个数字黄仁勋在GTC大会当天也提了。 500亿不是大风刮来的，它大部分是借来的，或者说是通",
+        "source": "虎嗅",
+        "source_url": "https://www.huxiu.com/article/4900937.html?f=rss",
+        "deep_link": "https://www.huxiu.com/article/4900937.html?f=rss",
+        "published_at": "Wed, 28 Oct 2026 00:07:22 +0800",
         "tags": [
-          "reddit",
-          "r/indiehackers",
-          "收入",
-          "踩坑/复盘",
-          "做法",
-          "用户/流量数",
-          "获客渠道"
+          "中文",
+          "虎嗅"
         ],
         "score": 80,
-        "why": "公开社区帖 · r/indiehackers · top/day 第1位 · 原帖含：收入、踩坑/复盘、做法、用户/流量数、获客渠道",
-        "deep_link": "https://www.reddit.com/r/indiehackers/comments/1xfrmup/my_side_project_made_almost_8000_this_year_heres/",
-        "blurb": "I only charged a small one-time fee for it. Since then I've made almost $8,000 from 116 payments by 83 customers. Other ",
-        "source_excerpt": "I only charged a small one-time fee for it. Since then I've made almost $8,000 from 116 payments by 83 customers. Other directories and sites, like Product Hunt, also brought in a few paying customers.",
-        "url": "https://www.reddit.com/r/indiehackers/comments/1xfrmup/my_side_project_made_almost_8000_this_year_heres/",
-        "lang": "EN",
-        "posted_at": "2026-10-26",
-        "_origin": "community_rss",
-        "_feed_type": "reddit_rss",
-        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-        "_source_id": "ai-reddit-indiehackers",
+        "why": "中文源 · 虎嗅 · 模式/数字：假设你有一座年收入400亿美金的AI数据中心，现在它晚投产三个月。",
+        "lang": "zh",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "模式/数字：假设你有一座年收入400亿美金的AI数据中心，现在它晚投产三个月。",
+          "lines": {
+            "model": "怎么赚钱：假设你有一座年收入400亿美金的AI数据中心，现在它晚投产三个月。"
+          },
+          "evidence": [
+            "假设你有一座年收入400亿美金的AI数据中心，现在它晚投产三个月。",
+            "400亿美金"
+          ],
+          "point": "从三个月到一百亿：AI产业链的金钱游戏"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-huxiu",
+        "_score_raw": 80,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-zh-339362d58129",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "新华投控战略投资九识：赋能智能驾驶与物理AI，共筑智慧物流“中国路”",
+        "summary": " 九识今年实现跨越式发展：成为行业首个百亿独角兽，实现全球首个L4级无图方案规模化量产，除车辆销售收入外，AI Driver服务年化收入预计年底突破1亿美元 10月23日，九识与新华社投资控股有限公司（新华投控）签署战略投资协议，达成深度战略合作。这是新华投控在智能驾驶和物理AI领域的首个产业直投项目。双方将在品牌塑造、智慧物流生态构建及海外拓展三方面强强联合。九识今年实现跨越式发展：成为行业首个百亿独角兽，实现全球首个L4级无图方案规模化量产，除车辆销售收入外，AI Driver服务年化收入预计年底突破1亿美元，业务落地全球20余个国家300多座城市，并获评国家级专精特新“小巨人”。新华投控表示，“投的不是一辆车，是一条路——一条智慧物流的中国路”。",
+        "source_excerpt": " 九识今年实现跨越式发展：成为行业首个百亿独角兽，实现全球首个L4级无图方案规模化量产，除车辆销售收入外，AI Driver服务年化收入预计年底突破1亿美元 10月23日，九识与新华社投资控股有限公司（新华投控）签署战略投资协议，达成深度战略合作。这是新华投控在智能驾驶和物理AI领域的首个产业直投项目。双方将在品牌塑造、智慧物流生态构建及海外拓展三方面强强联合。九识今年实现跨越式发展：成为行业首个百亿独角兽，实现全球首个L4级无图方案规模化量产，除车辆销售收入外，AI Driver服务年化收入预计年底突破1亿美元，业务落地全球20余个国家300多座城市，并获评国家级专精特新“小巨人”。新华投控表示，“投的不是一辆车，是一条路——一条智慧物流的中国路”。",
+        "source": "雷峰网",
+        "source_url": "https://www.leiphone.com/category/industrynews/orc621EEenIn4Myu.html",
+        "deep_link": "https://www.leiphone.com/category/industrynews/orc621EEenIn4Myu.html",
+        "published_at": "Tue, 27 Oct 2026 10:05:00 +0800",
+        "tags": [
+          "中文",
+          "雷峰网"
+        ],
+        "score": 80,
+        "why": "中文源 · 雷峰网 · 模式/数字：九识今年实现跨越式发展：成为行业首个百亿独角兽，实现全球首个L4级无图方案规模化量产，除车辆销售收入外，AI Driver服务年化收入预计年底突破1亿美元",
+        "lang": "zh",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "模式/数字：九识今年实现跨越式发展：成为行业首个百亿独角兽，实现全球首个L4级无图方案规模化量产，除车辆销售收入外，AI Driver服务年化收入预计年底突破1亿美元",
+          "lines": {
+            "model": "怎么赚钱：九识今年实现跨越式发展：成为行业首个百亿独角兽，实现全球首个L4级无图方案规模化量产，除车辆销售收入外，AI Driver服务年化收入预计年底突破1亿美元"
+          },
+          "evidence": [
+            "九识今年实现跨越式发展：成为行业首个百亿独角兽，实现全球首个L4级无图方案规模化量产，除车辆销售收入外，AI Driver服务年化收入预计年底突破1亿美元",
+            "1亿美元"
+          ],
+          "point": "新华投控战略投资九识：赋能智能驾驶与物理AI，共筑智慧物流“中国路”"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-leiphone",
+        "_score_raw": 80,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-zh-5b11fb81608a",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人",
+        "summary": " 优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下 （本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。 今年以来，具身智能行业持续升温，企业一边忙着融资、扩产，一边开始在人才市场上&ldquo;抢人&rdquo;。有公司为顶尖科学家开出上亿元年薪，也有企业把招聘范围延伸到应届生和在校博士，生怕错过下一个技术骨干。 今年春招期间，AI领域岗位量迎来爆发式增长，其中具身智能相关岗位的招聘需求更是暴增15倍，平均月薪达到6.2万元。 此前4月，优必选公开招募具身智能首席科学家，开出1500万元起步、最高1.24亿元的年薪总包。按照工作日折算，最高薪酬接近一天50万元。 这场重金求贤的背后，是整个行业在资本推动下的快速扩张。 数据显示，国内具身智能赛道今年上半年融资总额已突破900亿元，同比增长近5倍。 然而，",
+        "source_excerpt": " 优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下 （本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。 今年以来，具身智能行业持续升温，企业一边忙着融资、扩产，一边开始在人才市场上&ldquo;抢人&rdquo;。有公司为顶尖科学家开出上亿元年薪，也有企业把招聘范围延伸到应届生和在校博士，生怕错过下一个技术骨干。 今年春招期间，AI领域岗位量迎来爆发式增长，其中具身智能相关岗位的招聘需求更是暴增15倍，平均月薪达到6.2万元。 此前4月，优必选公开招募具身智能首席科学家，开出1500万元起步、最高1.24亿元的年薪总包。按照工作日折算，最高薪酬接近一天50万元。 这场重金求贤的背后，是整个行业在资本推动下的快速扩张。 数据显示，国内具身智能赛道今年上半年融资总额已突破900亿元，同比增长近5倍。 然而，",
+        "source": "钛媒体",
+        "source_url": "https://www.tmtpost.com/8183283.html",
+        "deep_link": "https://www.tmtpost.com/8183283.html",
+        "published_at": "Tue, 27 Oct 2026 18:19:20 +0800",
+        "tags": [
+          "中文",
+          "钛媒体"
+        ],
+        "score": 80,
+        "why": "中文源 · 钛媒体 · 模式/数字：优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下",
+        "lang": "zh",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "模式/数字：优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下",
+          "lines": {
+            "model": "怎么赚钱：优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下"
+          },
+          "evidence": [
+            "优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下",
+            "8.21亿元"
+          ],
+          "point": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-tmtpost",
         "_score_raw": 80,
         "_decay_penalty": 0,
         "_decay_exempt": null
@@ -3869,6 +3870,43 @@
         "blurb": "If you understand basic economics the only one winning here is Big AI and Big Tech",
         "url": "https://levels.io/only-big-ai-and-big-tech-winning",
         "posted_at": "2026-10-26",
+        "handle": "levelsio",
+        "name": "Pieter Levels",
+        "person_id": "levelsio",
+        "person_handle": "levelsio",
+        "person_name": "Pieter Levels",
+        "tier": "S",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:levelsio",
+        "_feed_url": "https://levels.io/rss/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 76,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-post-levelsio-b60d11b2656d",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "I spent all day having Claude Code security audit every VPS I have",
+        "summary": "",
+        "source": "@levelsio / Pieter Levels",
+        "source_url": "https://levels.io/claude-code-security-audit-every-vps",
+        "published_at": "2026-10-25T00:00:00.000Z",
+        "tags": [
+          "公开营收",
+          "indie",
+          "mrr",
+          "SaaS"
+        ],
+        "score": 76,
+        "why": "独立/Agent：公开营收、indie；加分：AI建造/工具实践；策展：自有产品矩阵+公开营收，是最清晰的 AI/独立变现建造者信号。",
+        "deep_link": "https://levels.io/claude-code-security-audit-every-vps",
+        "blurb": "I spent all day having Claude Code security audit every VPS I have",
+        "url": "https://levels.io/claude-code-security-audit-every-vps",
+        "posted_at": "2026-10-25",
         "handle": "levelsio",
         "name": "Pieter Levels",
         "person_id": "levelsio",
@@ -4033,72 +4071,35 @@
         "_decay_exempt": null
       },
       {
-        "id": "ai-post-startupsfortherestofus-244b93751ec1",
+        "id": "ai-zh-e9c585bcb1a6",
         "partition": "ai",
         "type": "post",
         "category": "AI变现",
-        "title": "Episode 855 | The Eight SaaS Moats that Still Work in the Age of AI",
-        "summary": "Which SaaS moats are left in 2026? In this episode, Rob Walling and Einar Vollset walk through the 10 ways AI is attacking SaaS companies, from customers vibe coding the app to per-seat revenue disappearing entirely. They then dig into the 8 moats they believe still work in the a",
-        "source": "@startupsfortherestofus / Startups For The Rest Of Us",
-        "source_url": "https://www.startupsfortherestofus.com/episodes/episode-855-the-eight-saas-moats-that-still-work-in-the-age-of-ai",
-        "published_at": "2026-10-20T10:00:46.000Z",
-        "tags": [
-          "indie",
-          "bootstrap",
-          "arr",
-          "SaaS"
-        ],
-        "score": 76,
-        "why": "独立/Agent：indie、bootstrap；加分：AI建造/工具实践；策展：自举 SaaS 案例播客，节目标题常含 ARR/定价话题。",
-        "deep_link": "https://www.startupsfortherestofus.com/episodes/episode-855-the-eight-saas-moats-that-still-work-in-the-age-of-ai",
-        "blurb": "Which SaaS moats are left in 2026? In this episode, Rob Walling and Einar Vollset walk through the 10 ways AI is attacki",
-        "url": "https://www.startupsfortherestofus.com/episodes/episode-855-the-eight-saas-moats-that-still-work-in-the-age-of-ai",
-        "posted_at": "2026-10-20",
-        "handle": "startupsfortherestofus",
-        "name": "Startups For The Rest Of Us",
-        "person_id": "startupsfortherestofus",
-        "person_handle": "startupsfortherestofus",
-        "person_name": "Startups For The Rest Of Us",
-        "tier": "A",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:startupsfortherestofus",
-        "_feed_url": "https://www.startupsfortherestofus.com/feed",
-        "_feed_type": "blog_rss",
-        "_score_raw": 76,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-zh-4a9e9d9d636a",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "一颗AI毫米波雷达，千里科技在补哪一环",
-        "summary": " 2026年上半年，千里科技智能辅助驾驶业务收入12.35亿元，占主营业务收入的24.3%，千里浩瀚已超百万搭载量 10月23日，千里科技发布了一颗AI毫米波雷达。在公开信息范围内，这是首个在雷达内部集成10 TOPS算力NPU的方案，雷达自身就能完成目标检测和分类，同时支持边缘侧、卫星与兼容三种工作模式。 这不是一次单纯的产品线扩充。 过去两年，智驾行业的竞争集中在模型上，谁的端到端更强，谁的数据闭环转得更快。但当模型的能力开始受限于传感器给到的原始信息，竞争就会往上游走一层，走到硬件。 这颗雷达要回答的问题，是当模型已经足够强，感知这一端还能不能被改写。 为什么雷达要开始装AI 智驾眼下有两个方向同时在推进。一个是高阶智驾往十几万的主流市场下沉，一个是L3级自动驾驶准备进入量产。这两个方向对技术的要求不一样，落到同一个词上都是安全。规模化要靠安全说服用户买单，L3对安全的要求还要再高一个量级。 在安全这个需求下，4D毫米波雷",
-        "source_excerpt": " 2026年上半年，千里科技智能辅助驾驶业务收入12.35亿元，占主营业务收入的24.3%，千里浩瀚已超百万搭载量 10月23日，千里科技发布了一颗AI毫米波雷达。在公开信息范围内，这是首个在雷达内部集成10 TOPS算力NPU的方案，雷达自身就能完成目标检测和分类，同时支持边缘侧、卫星与兼容三种工作模式。 这不是一次单纯的产品线扩充。 过去两年，智驾行业的竞争集中在模型上，谁的端到端更强，谁的数据闭环转得更快。但当模型的能力开始受限于传感器给到的原始信息，竞争就会往上游走一层，走到硬件。 这颗雷达要回答的问题，是当模型已经足够强，感知这一端还能不能被改写。 为什么雷达要开始装AI 智驾眼下有两个方向同时在推进。一个是高阶智驾往十几万的主流市场下沉，一个是L3级自动驾驶准备进入量产。这两个方向对技术的要求不一样，落到同一个词上都是安全。规模化要靠安全说服用户买单，L3对安全的要求还要再高一个量级。 在安全这个需求下，4D毫米波雷",
+        "title": "华为「天才少年」回应DeepSeek面试争议：想象中的「殿堂」，没能接住敬仰",
+        "summary": " 产品上线一年多，目前维权成功率在93%左右，今年以来产品增长明显提速，最近两个月的用户量和营收已经超过去年全年总和。 DeepSeek这座“金字塔尖的殿堂”跟想象中有点不一样 撰文 | 刘思洁 编辑 | 张薇 头图来源 | Nano Banana生图 封面来源|Unsplash 7月6日下午，华为首批“天才少年”李博杰在X等社交平台发文吐槽自己在DeepSeek的面试经历：面试是远程，二面写代码时，他的两块屏幕，一块是共享的编程界面，另一块放着是腾讯会议界面，因为习惯性瞟了眼电脑的另一块屏幕，被面试官怀疑抄袭，并被告知如果没办法自证清白，面试将无法继续。感到受到侮辱的他，当场终止了面试。 除此之外，DeepSeek整体的面试流程也让他感到不舒服——最初的笔试通过后，他多次催促，DeepSeek才在两周多后安排了一面；二面时，面试官又觉得他的回答都在描述研究问题而非工程问题，还需要现场进行coding面试。 李博杰在X上吐槽 关",
+        "source_excerpt": " 产品上线一年多，目前维权成功率在93%左右，今年以来产品增长明显提速，最近两个月的用户量和营收已经超过去年全年总和。 DeepSeek这座“金字塔尖的殿堂”跟想象中有点不一样 撰文 | 刘思洁 编辑 | 张薇 头图来源 | Nano Banana生图 封面来源|Unsplash 7月6日下午，华为首批“天才少年”李博杰在X等社交平台发文吐槽自己在DeepSeek的面试经历：面试是远程，二面写代码时，他的两块屏幕，一块是共享的编程界面，另一块放着是腾讯会议界面，因为习惯性瞟了眼电脑的另一块屏幕，被面试官怀疑抄袭，并被告知如果没办法自证清白，面试将无法继续。感到受到侮辱的他，当场终止了面试。 除此之外，DeepSeek整体的面试流程也让他感到不舒服——最初的笔试通过后，他多次催促，DeepSeek才在两周多后安排了一面；二面时，面试官又觉得他的回答都在描述研究问题而非工程问题，还需要现场进行coding面试。 李博杰在X上吐槽 关",
         "source": "36氪",
-        "source_url": "https://36kr.com/p/4040807584863111?f=rss",
-        "deep_link": "https://36kr.com/p/4040807584863111?f=rss",
-        "published_at": "2026-10-25 12:49:15 +0800",
+        "source_url": "https://36kr.com/p/4043725177001089?f=rss",
+        "deep_link": "https://36kr.com/p/4043725177001089?f=rss",
+        "published_at": "2026-10-27 14:37:20 +0800",
         "tags": [
           "中文",
           "36氪"
         ],
         "score": 72,
-        "why": "中文源 · 36氪 · 原文数字：2026年上半年，千里科技智能辅助驾驶业务收入12.35亿元，占主营业务收入的24.3%，千里浩瀚已超百万搭载量",
+        "why": "中文源 · 36氪 · 原文数字：产品上线一年多，目前维权成功率在93%左右，今年以来产品增长明显提速，最近两个月的用户量和营收已经超过去年全年总和。",
         "lang": "zh",
         "zh_reader": {
           "verdict": "save",
-          "use": "原文数字：2026年上半年，千里科技智能辅助驾驶业务收入12.35亿元，占主营业务收入的24.3%，千里浩瀚已超百万搭载量",
+          "use": "原文数字：产品上线一年多，目前维权成功率在93%左右，今年以来产品增长明显提速，最近两个月的用户量和营收已经超过去年全年总和。",
           "lines": {
-            "fact": "原文数字：2026年上半年，千里科技智能辅助驾驶业务收入12.35亿元，占主营业务收入的24.3%，千里浩瀚已超百万搭载量"
+            "fact": "原文数字：产品上线一年多，目前维权成功率在93%左右，今年以来产品增长明显提速，最近两个月的用户量和营收已经超过去年全年总和。"
           },
           "evidence": [
-            "2026年上半年，千里科技智能辅助驾驶业务收入12.35亿元，占主营业务收入的24.3%，千里浩瀚已超百万搭载量",
-            "12.35亿元"
+            "产品上线一年多，目前维权成功率在93%左右，今年以来产品增长明显提速，最近两个月的用户量和营收已经超过去年全年总和。",
+            "93%"
           ],
-          "point": "一颗AI毫米波雷达，千里科技在补哪一环"
+          "point": "华为「天才少年」回应DeepSeek面试争议：想象中的「殿堂」，没能接住敬仰"
         },
         "_origin": "zh_media",
         "_source_id": "zh-36kr",
@@ -4107,36 +4108,39 @@
         "_decay_exempt": null
       },
       {
-        "id": "ai-community-ai-reddit-saas-ce6419ba49de",
+        "id": "ai-zh-6f064ad650e8",
         "partition": "ai",
         "type": "post",
         "category": "AI变现",
-        "title": "We built products for 6 months and kept hitting the same wall: reaching customers. Here's what finally worked.",
-        "summary": "Before that I'd built a tool that tracked which companies were investing and growing, so you could reach them before they bought from someone else. So he offered the same thing to other small businesses and signed 6 paying customers in 2 weeks. He started sending cold emails for his own business, and it worked. Not because it didn't work, but because it didn't scale with one person doing everything.",
-        "source": "r/SaaS",
-        "source_url": "https://www.reddit.com/r/SaaS/comments/1xg1s5b/we_built_products_for_6_months_and_kept_hitting/",
-        "published_at": "2026-10-26T16:31:41.000Z",
+        "title": "这家全球汽零巨头，为何跨界做机器人？",
+        "summary": " 目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。 汽车产业链企业进入机器人领域正在成为行业新趋势。 一方面，整车和零部件价格战持续，企业利润承压，需要寻找新的业务方向。另一方面，以人形机器人为代表的机器人行业，被不少从业者和机构视为下一个阶段的增长主线。行业里广为流传的说法是，具身智能的上半场是自动驾驶，下半场是人形机器人。 在这样的判断下，包括小鹏、奇瑞、北汽、蔚来、比亚迪等在内的数十家车企，纷纷在机器人领域落子。 宁波的汽车零部件巨头企业「均胜电子」也加入战局。均胜电子早期靠汽车功能件起家，后来通过整合德国普瑞、群英、TechniSat，美国KSS、日本高田等优质资产，切入汽车电子与汽车安全领域，并结合中国市场进行二次创新，成为全球汽车零部件前三十强企业。目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。 2025年，均胜电子将业务方向调整为",
+        "source_excerpt": " 目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。 汽车产业链企业进入机器人领域正在成为行业新趋势。 一方面，整车和零部件价格战持续，企业利润承压，需要寻找新的业务方向。另一方面，以人形机器人为代表的机器人行业，被不少从业者和机构视为下一个阶段的增长主线。行业里广为流传的说法是，具身智能的上半场是自动驾驶，下半场是人形机器人。 在这样的判断下，包括小鹏、奇瑞、北汽、蔚来、比亚迪等在内的数十家车企，纷纷在机器人领域落子。 宁波的汽车零部件巨头企业「均胜电子」也加入战局。均胜电子早期靠汽车功能件起家，后来通过整合德国普瑞、群英、TechniSat，美国KSS、日本高田等优质资产，切入汽车电子与汽车安全领域，并结合中国市场进行二次创新，成为全球汽车零部件前三十强企业。目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。 2025年，均胜电子将业务方向调整为",
+        "source": "36氪",
+        "source_url": "https://36kr.com/p/4043530020115590?f=rss",
+        "deep_link": "https://36kr.com/p/4043530020115590?f=rss",
+        "published_at": "2026-10-27 10:56:53 +0800",
         "tags": [
-          "reddit",
-          "r/SaaS",
-          "做法",
-          "用户/流量数",
-          "获客渠道",
-          "踩坑/复盘"
+          "中文",
+          "36氪"
         ],
-        "score": 69,
-        "why": "公开社区帖 · r/SaaS · top/day 第17位 · 原帖含：做法、用户/流量数、获客渠道、踩坑/复盘",
-        "deep_link": "https://www.reddit.com/r/SaaS/comments/1xg1s5b/we_built_products_for_6_months_and_kept_hitting/",
-        "blurb": "Before that I'd built a tool that tracked which companies were investing and growing, so you could reach them before the",
-        "source_excerpt": "Before that I'd built a tool that tracked which companies were investing and growing, so you could reach them before they bought from someone else. So he offered the same thing to other small businesses and signed 6 paying customers in 2 weeks. He started sending cold emails for his own business, and it worked. Not because it didn't work, but because it didn't scale with one person doing everything.",
-        "url": "https://www.reddit.com/r/SaaS/comments/1xg1s5b/we_built_products_for_6_months_and_kept_hitting/",
-        "lang": "EN",
-        "posted_at": "2026-10-26",
-        "_origin": "community_rss",
-        "_feed_type": "reddit_rss",
-        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-        "_source_id": "ai-reddit-saas",
-        "_score_raw": 69,
+        "score": 72,
+        "why": "中文源 · 36氪 · 原文数字：目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。",
+        "lang": "zh",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "原文数字：目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。",
+          "lines": {
+            "fact": "原文数字：目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。"
+          },
+          "evidence": [
+            "目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。",
+            "600亿元"
+          ],
+          "point": "这家全球汽零巨头，为何跨界做机器人？"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-36kr",
+        "_score_raw": 72,
         "_decay_penalty": 0,
         "_decay_exempt": null
       },
@@ -4178,15 +4182,15 @@
         "_decay_exempt": null
       },
       {
-        "id": "ai-post-levelsio-37617f5096a3",
+        "id": "ai-post-levelsio-d7b10ac2644d",
         "partition": "ai",
         "type": "post",
         "category": "AI变现",
-        "title": "I'm scrambling to chase any remaining moats as AI companies suck up everything else",
+        "title": "An Uber driver told me he killed a car thief in São Paulo and didn't feel bad about it",
         "summary": "",
         "source": "@levelsio / Pieter Levels",
-        "source_url": "https://levels.io/scrambling-to-chase-remaining-moats",
-        "published_at": "2026-10-16T00:00:00.000Z",
+        "source_url": "https://levels.io/uber-driver-killed-car-thief-sao-paulo",
+        "published_at": "2026-10-27T00:00:00.000Z",
         "tags": [
           "公开营收",
           "indie",
@@ -4194,11 +4198,11 @@
           "SaaS"
         ],
         "score": 68,
-        "why": "独立/Agent：公开营收、indie；加分：AI建造/工具实践；策展：自有产品矩阵+公开营收，是最清晰的 AI/独立变现建造者信号。",
-        "deep_link": "https://levels.io/scrambling-to-chase-remaining-moats",
-        "blurb": "I'm scrambling to chase any remaining moats as AI companies suck up everything else",
-        "url": "https://levels.io/scrambling-to-chase-remaining-moats",
-        "posted_at": "2026-10-16",
+        "why": "独立/Agent：公开营收、indie；策展：自有产品矩阵+公开营收，是最清晰的 AI/独立变现建造者信号。",
+        "deep_link": "https://levels.io/uber-driver-killed-car-thief-sao-paulo",
+        "blurb": "An Uber driver told me he killed a car thief in São Paulo and didn't feel bad about it",
+        "url": "https://levels.io/uber-driver-killed-car-thief-sao-paulo",
+        "posted_at": "2026-10-27",
         "handle": "levelsio",
         "name": "Pieter Levels",
         "person_id": "levelsio",
@@ -4210,8 +4214,8 @@
         "_source_id": "kol:levelsio",
         "_feed_url": "https://levels.io/rss/",
         "_feed_type": "blog_rss",
-        "_score_raw": 76,
-        "_decay_penalty": 8,
+        "_score_raw": 68,
+        "_decay_penalty": 0,
         "_decay_exempt": null
       },
       {
@@ -4273,80 +4277,6 @@
         "blurb": "If you say this as a European you're instantly banished from any social setting in Western Europe",
         "url": "https://levels.io/banished-for-saying-this-europe",
         "posted_at": "2026-10-22",
-        "handle": "levelsio",
-        "name": "Pieter Levels",
-        "person_id": "levelsio",
-        "person_handle": "levelsio",
-        "person_name": "Pieter Levels",
-        "tier": "S",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:levelsio",
-        "_feed_url": "https://levels.io/rss/",
-        "_feed_type": "blog_rss",
-        "_score_raw": 68,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-post-levelsio-3ef47fd6dc5d",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "I pre-emptively disconnected all my sites and VPS servers from the web until PHP is patched",
-        "summary": "",
-        "source": "@levelsio / Pieter Levels",
-        "source_url": "https://levels.io/disconnected-sites-until-php-patch",
-        "published_at": "2026-10-21T00:00:00.000Z",
-        "tags": [
-          "公开营收",
-          "indie",
-          "mrr",
-          "SaaS"
-        ],
-        "score": 68,
-        "why": "独立/Agent：公开营收、indie；策展：自有产品矩阵+公开营收，是最清晰的 AI/独立变现建造者信号。",
-        "deep_link": "https://levels.io/disconnected-sites-until-php-patch",
-        "blurb": "I pre-emptively disconnected all my sites and VPS servers from the web until PHP is patched",
-        "url": "https://levels.io/disconnected-sites-until-php-patch",
-        "posted_at": "2026-10-21",
-        "handle": "levelsio",
-        "name": "Pieter Levels",
-        "person_id": "levelsio",
-        "person_handle": "levelsio",
-        "person_name": "Pieter Levels",
-        "tier": "S",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:levelsio",
-        "_feed_url": "https://levels.io/rss/",
-        "_feed_type": "blog_rss",
-        "_score_raw": 68,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-post-levelsio-205d3fc562c5",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "People won't update PHP fast enough and so many sites will get hacked",
-        "summary": "",
-        "source": "@levelsio / Pieter Levels",
-        "source_url": "https://levels.io/php-patches-too-slow-sites-hacked",
-        "published_at": "2026-10-21T00:00:00.000Z",
-        "tags": [
-          "公开营收",
-          "indie",
-          "mrr",
-          "SaaS"
-        ],
-        "score": 68,
-        "why": "独立/Agent：公开营收、indie；策展：自有产品矩阵+公开营收，是最清晰的 AI/独立变现建造者信号。",
-        "deep_link": "https://levels.io/php-patches-too-slow-sites-hacked",
-        "blurb": "People won't update PHP fast enough and so many sites will get hacked",
-        "url": "https://levels.io/php-patches-too-slow-sites-hacked",
-        "posted_at": "2026-10-21",
         "handle": "levelsio",
         "name": "Pieter Levels",
         "person_id": "levelsio",
@@ -4441,7 +4371,7 @@
         "type": "post",
         "category": "AI变现",
         "title": "How Jason Zigelbaum Is Running a Nearly $2M ARR SaaS as a Solo Founder",
-        "summary": "In this week's episode of the Niche Pursuits podcast, Jason Zigelbaum explains how he has grown Zigpoll into a one-person SaaS company approaching $2 million in annual revenue. Rather than relying on a large team or flashy marketing campaigns, he… The post How Jason Zigelbaum Is ",
+        "summary": "In this week’s episode of the Niche Pursuits podcast, Jason Zigelbaum explains how he has grown Zigpoll into a one-person SaaS company approaching $2 million in annual revenue. Rather than relying on a large team or flashy marketing campaigns, he… The post How Jason Zigelbaum Is ",
         "source": "@nichepursuits / Niche Pursuits",
         "source_url": "https://www.nichepursuits.com/jason-zigelbaum/",
         "published_at": "2026-09-30T14:02:25.000Z",
@@ -4454,7 +4384,7 @@
         "score": 68,
         "why": "独立/Agent：公开营收、indie；加分：AI建造/工具实践；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
         "deep_link": "https://www.nichepursuits.com/jason-zigelbaum/",
-        "blurb": "In this week's episode of the Niche Pursuits podcast, Jason Zigelbaum explains how he has grown Zigpoll into a one-perso",
+        "blurb": "In this week’s episode of the Niche Pursuits podcast, Jason Zigelbaum explains how he has grown Zigpoll into a one-perso",
         "url": "https://www.nichepursuits.com/jason-zigelbaum/",
         "posted_at": "2026-09-30",
         "handle": "nichepursuits",
@@ -4478,7 +4408,7 @@
         "type": "post",
         "category": "AI变现",
         "title": "How Craig Hewitt Grew Castos to $1M+ in Revenue",
-        "summary": "In this week's episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing. We cover why comparison pages and free tools are driving… The post How Craig Hewitt Grew Casto",
+        "summary": "In this week’s episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing. We cover why comparison pages and free tools are driving… The post How Craig Hewitt Grew Casto",
         "source": "@nichepursuits / Niche Pursuits",
         "source_url": "https://www.nichepursuits.com/craig-hewitt/",
         "published_at": "2026-10-21T14:03:10.000Z",
@@ -4491,7 +4421,7 @@
         "score": 68,
         "why": "独立/Agent：公开营收、indie；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
         "deep_link": "https://www.nichepursuits.com/craig-hewitt/",
-        "blurb": "In this week's episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content stra",
+        "blurb": "In this week’s episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content stra",
         "url": "https://www.nichepursuits.com/craig-hewitt/",
         "posted_at": "2026-10-21",
         "handle": "nichepursuits",
@@ -4507,6 +4437,43 @@
         "_feed_type": "blog_rss",
         "_score_raw": 68,
         "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-post-startupsfortherestofus-244b93751ec1",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "Episode 855 | The Eight SaaS Moats that Still Work in the Age of AI",
+        "summary": "Which SaaS moats are left in 2026? In this episode, Rob Walling and Einar Vollset walk through the 10 ways AI is attacking SaaS companies, from customers vibe coding the app to per-seat revenue disappearing entirely. They then dig into the 8 moats they believe still work in the a",
+        "source": "@startupsfortherestofus / Startups For The Rest Of Us",
+        "source_url": "https://www.startupsfortherestofus.com/episodes/episode-855-the-eight-saas-moats-that-still-work-in-the-age-of-ai",
+        "published_at": "2026-10-20T10:00:46.000Z",
+        "tags": [
+          "indie",
+          "bootstrap",
+          "arr",
+          "SaaS"
+        ],
+        "score": 68,
+        "why": "独立/Agent：indie、bootstrap；加分：AI建造/工具实践；策展：自举 SaaS 案例播客，节目标题常含 ARR/定价话题。",
+        "deep_link": "https://www.startupsfortherestofus.com/episodes/episode-855-the-eight-saas-moats-that-still-work-in-the-age-of-ai",
+        "blurb": "Which SaaS moats are left in 2026? In this episode, Rob Walling and Einar Vollset walk through the 10 ways AI is attacki",
+        "url": "https://www.startupsfortherestofus.com/episodes/episode-855-the-eight-saas-moats-that-still-work-in-the-age-of-ai",
+        "posted_at": "2026-10-20",
+        "handle": "startupsfortherestofus",
+        "name": "Startups For The Rest Of Us",
+        "person_id": "startupsfortherestofus",
+        "person_handle": "startupsfortherestofus",
+        "person_name": "Startups For The Rest Of Us",
+        "tier": "A",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:startupsfortherestofus",
+        "_feed_url": "https://www.startupsfortherestofus.com/feed",
+        "_feed_type": "blog_rss",
+        "_score_raw": 76,
+        "_decay_penalty": 8,
         "_decay_exempt": null
       },
       {
@@ -4547,500 +4514,75 @@
         "_decay_exempt": null
       },
       {
-        "id": "ai-community-ai-reddit-saas-47e32c5e54bf",
+        "id": "ai-post-startupsfortherestofus-6781f8412fdc",
         "partition": "ai",
         "type": "post",
         "category": "AI变现",
-        "title": "An update from the 40-year-old developer who couldn't figure out how to sell his software",
-        "summary": "I hope you all achieve whatever you're working toward, whether it's your first paying customer, your first $1K MRR, or something much bigger. I also spent a little money on advertising and managed to get around 1,000 users to try it.",
-        "source": "r/SaaS",
-        "source_url": "https://www.reddit.com/r/SaaS/comments/1xfohe4/an_update_from_the_40yearold_developer_who/",
-        "published_at": "2026-10-26T05:41:01.000Z",
+        "title": "Episode 856 | Key Learnings from MicroConf Europe 2026",
+        "summary": "What did you miss at our biggest MicroConf Europe ever? In this episode, Rob Walling and Derrick Reimer recap MicroConf Europe 2026 in Reykjavik, Iceland. They break down the talks on ranking in ChatGPT and AI SEO, Rob's eight moats that still work in the age of AI, and Corey Hai",
+        "source": "@startupsfortherestofus / Startups For The Rest Of Us",
+        "source_url": "https://www.startupsfortherestofus.com/episodes/episode-856-key-learnings-from-microconf-europe-2026",
+        "published_at": "2026-10-27T10:00:00.000Z",
         "tags": [
-          "reddit",
-          "r/SaaS",
-          "收入",
-          "用户/流量数"
+          "indie",
+          "bootstrap",
+          "arr",
+          "SaaS"
         ],
         "score": 68,
-        "why": "公开社区帖 · r/SaaS · top/day 第2位 · 原帖含：收入、用户/流量数",
-        "deep_link": "https://www.reddit.com/r/SaaS/comments/1xfohe4/an_update_from_the_40yearold_developer_who/",
-        "blurb": "I hope you all achieve whatever you're working toward, whether it's your first paying customer, your first $1K MRR, or s",
-        "source_excerpt": "I hope you all achieve whatever you're working toward, whether it's your first paying customer, your first $1K MRR, or something much bigger. I also spent a little money on advertising and managed to get around 1,000 users to try it.",
-        "url": "https://www.reddit.com/r/SaaS/comments/1xfohe4/an_update_from_the_40yearold_developer_who/",
+        "why": "独立/Agent：indie、bootstrap；策展：自举 SaaS 案例播客，节目标题常含 ARR/定价话题。",
+        "deep_link": "https://www.startupsfortherestofus.com/episodes/episode-856-key-learnings-from-microconf-europe-2026",
+        "blurb": "What did you miss at our biggest MicroConf Europe ever? In this episode, Rob Walling and Derrick Reimer recap MicroConf ",
+        "url": "https://www.startupsfortherestofus.com/episodes/episode-856-key-learnings-from-microconf-europe-2026",
+        "posted_at": "2026-10-27",
+        "handle": "startupsfortherestofus",
+        "name": "Startups For The Rest Of Us",
+        "person_id": "startupsfortherestofus",
+        "person_handle": "startupsfortherestofus",
+        "person_name": "Startups For The Rest Of Us",
+        "tier": "A",
         "lang": "EN",
-        "posted_at": "2026-10-26",
-        "_origin": "community_rss",
-        "_feed_type": "reddit_rss",
-        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-        "_source_id": "ai-reddit-saas",
+        "_origin": "kol_rss",
+        "_source_id": "kol:startupsfortherestofus",
+        "_feed_url": "https://www.startupsfortherestofus.com/feed",
+        "_feed_type": "blog_rss",
         "_score_raw": 68,
         "_decay_penalty": 0,
         "_decay_exempt": null
       },
       {
-        "id": "ai-zh-6ca605d2b55b",
+        "id": "ai-zh-c8b70517e02d",
         "partition": "ai",
         "type": "post",
         "category": "AI变现",
-        "title": "这场年轻人的咖啡局，聊聊「咖啡+AI」可以长出什么？",
-        "summary": " 有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。 城市节奏越快，咖啡越像年轻人的“日常开关”。白天靠咖啡续命，周末咖啡店是见面、拍照、遛猫、带娃、逛市集的空间。 “日咖夜酒”“奶茶咖啡化”之外，咖啡消费还在长出更多新组合：咖啡+烘焙、咖啡+宠物、咖啡+博物馆、咖啡+市集、咖啡+文创。有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。 咖啡越来越日常，但年轻人对咖啡的期待并不日常。精致的线上内容决定他们走进哪家店，线下场景的消费体验决定他们愿意待多久、下次还来不来。 不同的咖啡线下场景也在寻找自己的生存方式：社区咖啡嵌入生活半径，靠熟客和日常习惯形成复访；主题猫咖把宠物社交和情绪价值装进空间；博物馆、科技馆里的“科普咖啡厅”，成为科普体验和博物馆IP文创的载体；咖啡节则把咖啡、艺术、市集和青年文化聚在一起，短时间内制造城市话题和目的性到访。 以一杯咖啡为起点，走过六年时光， 由浙江云创蔚来集团主办的宁波咖啡",
-        "source_excerpt": " 有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。 城市节奏越快，咖啡越像年轻人的“日常开关”。白天靠咖啡续命，周末咖啡店是见面、拍照、遛猫、带娃、逛市集的空间。 “日咖夜酒”“奶茶咖啡化”之外，咖啡消费还在长出更多新组合：咖啡+烘焙、咖啡+宠物、咖啡+博物馆、咖啡+市集、咖啡+文创。有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。 咖啡越来越日常，但年轻人对咖啡的期待并不日常。精致的线上内容决定他们走进哪家店，线下场景的消费体验决定他们愿意待多久、下次还来不来。 不同的咖啡线下场景也在寻找自己的生存方式：社区咖啡嵌入生活半径，靠熟客和日常习惯形成复访；主题猫咖把宠物社交和情绪价值装进空间；博物馆、科技馆里的“科普咖啡厅”，成为科普体验和博物馆IP文创的载体；咖啡节则把咖啡、艺术、市集和青年文化聚在一起，短时间内制造城市话题和目的性到访。 以一杯咖啡为起点，走过六年时光， 由浙江云创蔚来集团主办的宁波咖啡",
-        "source": "36氪",
-        "source_url": "https://36kr.com/p/4042455475475586?f=rss",
-        "deep_link": "https://36kr.com/p/4042455475475586?f=rss",
-        "published_at": "2026-10-26 17:43:46 +0800",
+        "title": "Muse之后，灵光2.0让Personal Agent接手中国式日常",
+        "summary": " 比如想买一个预算6000元左右的西门子洗碗机，它可以在京东、淘宝、拼多多、抖音上持续比价； 机票和酒店订好，还是忍不住隔几天查查价格。降了，算算退改费用，看要不要重订；没降，过两天再看。花不了多少时间，却总得惦记着。 为了追剧开了会员，剧看完就没再打开，自动续费却一直没停。直到某天翻账单，才发现又扣了几个月的钱。 这些事务单次处理并不复杂，却一直需要反复关注。过去，AI可以帮忙查一次价格、分析一份账单，跟进工作仍然留给用户。现在，灵光想把这部分也接过去。 10月27日，蚂蚁集团发布灵光2.0，以 “能管事的个人AI助理”为定位，成为国内大厂首批落地的Personal Agent产品。 它想带来的变化很直接：不再是被动响应指令、完成单次任务，而是能主动发现需求、持续帮你管理事务。 Muse之后，全球Personal Agent竞争开始加速，国内大厂也在密集布局。灵光率先交出产品答卷，从盯票价、理账单等日常小事入手，让AI开始替用",
+        "source_excerpt": " 比如想买一个预算6000元左右的西门子洗碗机，它可以在京东、淘宝、拼多多、抖音上持续比价； 机票和酒店订好，还是忍不住隔几天查查价格。降了，算算退改费用，看要不要重订；没降，过两天再看。花不了多少时间，却总得惦记着。 为了追剧开了会员，剧看完就没再打开，自动续费却一直没停。直到某天翻账单，才发现又扣了几个月的钱。 这些事务单次处理并不复杂，却一直需要反复关注。过去，AI可以帮忙查一次价格、分析一份账单，跟进工作仍然留给用户。现在，灵光想把这部分也接过去。 10月27日，蚂蚁集团发布灵光2.0，以 “能管事的个人AI助理”为定位，成为国内大厂首批落地的Personal Agent产品。 它想带来的变化很直接：不再是被动响应指令、完成单次任务，而是能主动发现需求、持续帮你管理事务。 Muse之后，全球Personal Agent竞争开始加速，国内大厂也在密集布局。灵光率先交出产品答卷，从盯票价、理账单等日常小事入手，让AI开始替用",
+        "source": "雷峰网",
+        "source_url": "https://www.leiphone.com/category/industrynews/PubkEap5yOtdT59V.html",
+        "deep_link": "https://www.leiphone.com/category/industrynews/PubkEap5yOtdT59V.html",
+        "published_at": "Tue, 27 Oct 2026 17:56:00 +0800",
         "tags": [
           "中文",
-          "36氪"
+          "雷峰网"
         ],
         "score": 64,
-        "why": "中文源 · 36氪 · 原文数字：有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。",
+        "why": "中文源 · 雷峰网 · 原文数字：比如想买一个预算6000元左右的西门子洗碗机，它可以在京东、淘宝、拼多多、抖音上持续比价；",
         "lang": "zh",
         "zh_reader": {
           "verdict": "save",
-          "use": "原文数字：有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。",
+          "use": "原文数字：比如想买一个预算6000元左右的西门子洗碗机，它可以在京东、淘宝、拼多多、抖音上持续比价；",
           "lines": {
-            "fact": "原文数字：有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。"
+            "fact": "原文数字：比如想买一个预算6000元左右的西门子洗碗机，它可以在京东、淘宝、拼多多、抖音上持续比价；"
           },
           "evidence": [
-            "有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。",
-            "9.9元"
+            "比如想买一个预算6000元左右的西门子洗碗机，它可以在京东、淘宝、拼多多、抖音上持续比价；",
+            "6000元"
           ],
-          "point": "这场年轻人的咖啡局，聊聊「咖啡+AI」可以长出什么？"
+          "point": "Muse之后，灵光2.0让Personal Agent接手中国式日常"
         },
         "_origin": "zh_media",
-        "_source_id": "zh-36kr",
-        "_score_raw": 64,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-zh-062d9ccf1cb3",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "AI圈最神秘的一家公司，终于公开了它的“豪赌”",
-        "summary": " Vivix给外界的印象大致是：明星创业者刘宇，从算法、产品到品牌，所有业务线一直在激进招人，公司估值在一年里飞涨至13.2亿美元 文｜邓咏仪 编辑｜张雨忻 Vivix到底在做什么？这是过去一年多以来，AI圈对这家神秘公司的最大好奇。 Vivix给外界的印象大致是：明星创业者刘宇，从算法、产品到品牌，所有业务线一直在激进招人，公司估值在一年里飞涨至13.2亿美元，背后站满了背景华丽的投资人们。 但很少有人能说清楚这家公司到底在做什么。有人说，这是一个不做模型的纯AI产品公司，要做“下一个时代的抖音”，所以才频频推出如7verse、TipTap这样的互动娱乐产品。如果你在这段时间搜索Vivix——唯一可见的技术方向介绍，只有官网写着的“下一代视觉生成引擎”。 Vivix成立的19个月里，多模态领域的竞争烈度已然不逊于大语言模型（LLM），并且跑出了如Seedance这样的造富故事。 “我们很神秘吗？”7月，第一次见到Vivix创始",
-        "source_excerpt": " Vivix给外界的印象大致是：明星创业者刘宇，从算法、产品到品牌，所有业务线一直在激进招人，公司估值在一年里飞涨至13.2亿美元 文｜邓咏仪 编辑｜张雨忻 Vivix到底在做什么？这是过去一年多以来，AI圈对这家神秘公司的最大好奇。 Vivix给外界的印象大致是：明星创业者刘宇，从算法、产品到品牌，所有业务线一直在激进招人，公司估值在一年里飞涨至13.2亿美元，背后站满了背景华丽的投资人们。 但很少有人能说清楚这家公司到底在做什么。有人说，这是一个不做模型的纯AI产品公司，要做“下一个时代的抖音”，所以才频频推出如7verse、TipTap这样的互动娱乐产品。如果你在这段时间搜索Vivix——唯一可见的技术方向介绍，只有官网写着的“下一代视觉生成引擎”。 Vivix成立的19个月里，多模态领域的竞争烈度已然不逊于大语言模型（LLM），并且跑出了如Seedance这样的造富故事。 “我们很神秘吗？”7月，第一次见到Vivix创始",
-        "source": "36氪",
-        "source_url": "https://36kr.com/p/4026922691236484?f=rss",
-        "deep_link": "https://36kr.com/p/4026922691236484?f=rss",
-        "published_at": "2026-10-26 08:34:46 +0800",
-        "tags": [
-          "中文",
-          "36氪"
-        ],
-        "score": 64,
-        "why": "中文源 · 36氪 · 原文数字：Vivix给外界的印象大致是：明星创业者刘宇，从算法、产品到品牌，所有业务线一直在激进招人，公司估值在一年里飞涨至13.2亿美元",
-        "lang": "zh",
-        "zh_reader": {
-          "verdict": "save",
-          "use": "原文数字：Vivix给外界的印象大致是：明星创业者刘宇，从算法、产品到品牌，所有业务线一直在激进招人，公司估值在一年里飞涨至13.2亿美元",
-          "lines": {
-            "fact": "原文数字：Vivix给外界的印象大致是：明星创业者刘宇，从算法、产品到品牌，所有业务线一直在激进招人，公司估值在一年里飞涨至13.2亿美元"
-          },
-          "evidence": [
-            "Vivix给外界的印象大致是：明星创业者刘宇，从算法、产品到品牌，所有业务线一直在激进招人，公司估值在一年里飞涨至13.2亿美元",
-            "13.2亿美元"
-          ],
-          "point": "AI圈最神秘的一家公司，终于公开了它的“豪赌”"
-        },
-        "_origin": "zh_media",
-        "_source_id": "zh-36kr",
-        "_score_raw": 64,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-zh-61a5aa03f07e",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "Meta拟募资950亿美元，加码AI基础设施与超级智能",
-        "summary": " Meta拟募资950亿美元，加码AI基础设施与超级智能。 Meta周一表示，计划总共筹集950亿美元，以支持其在人工智能基础设施和超级智能方面的投资。宣布这一消息后，该公司股价在早盘交易中下跌1.6%。Meta在声明中表示，英伟达、Advanced Micro Devices和博通有意购买最多50亿美元的股票。（新浪财经）",
-        "source_excerpt": " Meta拟募资950亿美元，加码AI基础设施与超级智能。 Meta周一表示，计划总共筹集950亿美元，以支持其在人工智能基础设施和超级智能方面的投资。宣布这一消息后，该公司股价在早盘交易中下跌1.6%。Meta在声明中表示，英伟达、Advanced Micro Devices和博通有意购买最多50亿美元的股票。（新浪财经）",
-        "source": "36氪",
-        "source_url": "https://36kr.com/newsflashes/4043342836798597?f=rss",
-        "deep_link": "https://36kr.com/newsflashes/4043342836798597?f=rss",
-        "published_at": "2026-10-27 07:48:37 +0800",
-        "tags": [
-          "中文",
-          "36氪"
-        ],
-        "score": 64,
-        "why": "中文源 · 36氪 · 原文数字：Meta拟募资950亿美元，加码AI基础设施与超级智能。",
-        "lang": "zh",
-        "zh_reader": {
-          "verdict": "save",
-          "use": "原文数字：Meta拟募资950亿美元，加码AI基础设施与超级智能。",
-          "lines": {
-            "fact": "原文数字：Meta拟募资950亿美元，加码AI基础设施与超级智能。"
-          },
-          "evidence": [
-            "Meta拟募资950亿美元，加码AI基础设施与超级智能。",
-            "950亿美元"
-          ],
-          "point": "Meta拟募资950亿美元，加码AI基础设施与超级智能"
-        },
-        "_origin": "zh_media",
-        "_source_id": "zh-36kr",
-        "_score_raw": 64,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-zh-0407ea8d1003",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "博通与多家银行合作进行630亿美元AI融资",
-        "summary": " 博通与多家银行合作进行630亿美元AI融资。 美国银行、黑石、花旗和摩根士丹利等机构正与博通合作，共同设立一项总额达630亿美元的AI融资安排，为AI算力提供资金。博通将为该特殊目的实体（SPV）的第一留置权（优先担保）债务部分提供残值支持。从2027年开始，博通将通过该SPV供应XPU AI加速器，这些加速器随后将租赁给Anthropic使用。（财联社）",
-        "source_excerpt": " 博通与多家银行合作进行630亿美元AI融资。 美国银行、黑石、花旗和摩根士丹利等机构正与博通合作，共同设立一项总额达630亿美元的AI融资安排，为AI算力提供资金。博通将为该特殊目的实体（SPV）的第一留置权（优先担保）债务部分提供残值支持。从2027年开始，博通将通过该SPV供应XPU AI加速器，这些加速器随后将租赁给Anthropic使用。（财联社）",
-        "source": "36氪",
-        "source_url": "https://36kr.com/newsflashes/4043343350879106?f=rss",
-        "deep_link": "https://36kr.com/newsflashes/4043343350879106?f=rss",
-        "published_at": "2026-10-27 07:48:33 +0800",
-        "tags": [
-          "中文",
-          "36氪"
-        ],
-        "score": 64,
-        "why": "中文源 · 36氪 · 原文数字：博通与多家银行合作进行630亿美元AI融资。",
-        "lang": "zh",
-        "zh_reader": {
-          "verdict": "save",
-          "use": "原文数字：博通与多家银行合作进行630亿美元AI融资。",
-          "lines": {
-            "fact": "原文数字：博通与多家银行合作进行630亿美元AI融资。"
-          },
-          "evidence": [
-            "博通与多家银行合作进行630亿美元AI融资。",
-            "630亿美元"
-          ],
-          "point": "博通与多家银行合作进行630亿美元AI融资"
-        },
-        "_origin": "zh_media",
-        "_source_id": "zh-36kr",
-        "_score_raw": 64,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-zh-05377168253d",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "微软向约6万名员工开放自愿离职方案，AI巨额投入挤压人力预算",
-        "summary": " 微软向约6万名员工开放自愿离职方案，AI巨额投入挤压人力预算。 全球最大软件公司微软当地时间10月26日表示，将向约6万名员工提供自愿离职补偿方案，以削减成本，并为迎接AI时代调整人员结构。符合条件的员工超过其员工总数的四���之一。微软发言人称，美国、加拿大、印度和英国的部分副总裁及以下级别员工具备申请资格，接受方案者将获得与标准遣散方案相近的待遇。不过，并非所有业务线都在适用之列。据知情人士透露，Xbox、Windows、Copilot及财务等部门将全面参与此次计划，而从事数据中心、销售、市场营销、网络安全和量子计算等工作的部分员工则不具备资格。（财联社）",
-        "source_excerpt": " 微软向约6万名员工开放自愿离职方案，AI巨额投入挤压人力预算。 全球最大软件公司微软当地时间10月26日表示，将向约6万名员工提供自愿离职补偿方案，以削减成本，并为迎接AI时代调整人员结构。符合条件的员工超过其员工总数的四���之一。微软发言人称，美国、加拿大、印度和英国的部分副总裁及以下级别员工具备申请资格，接受方案者将获得与标准遣散方案相近的待遇。不过，并非所有业务线都在适用之列。据知情人士透露，Xbox、Windows、Copilot及财务等部门将全面参与此次计划，而从事数据中心、销售、市场营销、网络安全和量子计算等工作的部分员工则不具备资格。（财联社）",
-        "source": "36氪",
-        "source_url": "https://36kr.com/newsflashes/4043327445275784?f=rss",
-        "deep_link": "https://36kr.com/newsflashes/4043327445275784?f=rss",
-        "published_at": "2026-10-27 07:40:16 +0800",
-        "tags": [
-          "中文",
-          "36氪"
-        ],
-        "score": 64,
-        "why": "中文源 · 36氪 · 原文数字：微软向约6万名员工开放自愿离职方案，AI巨额投入挤压人力预算。",
-        "lang": "zh",
-        "zh_reader": {
-          "verdict": "save",
-          "use": "原文数字：微软向约6万名员工开放自愿离职方案，AI巨额投入挤压人力预算。",
-          "lines": {
-            "fact": "原文数字：微软向约6万名员工开放自愿离职方案，AI巨额投入挤压人力预算。"
-          },
-          "evidence": [
-            "微软向约6万名员工开放自愿离职方案，AI巨额投入挤压人力预算。",
-            "6万名"
-          ],
-          "point": "微软向约6万名员工开放自愿离职方案，AI巨额投入挤压人力预算"
-        },
-        "_origin": "zh_media",
-        "_source_id": "zh-36kr",
-        "_score_raw": 64,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-rss-ai-simonw-atom-9e167b288e1b",
-        "partition": "ai",
-        "type": "card",
-        "category": "AI变现",
-        "title": "Donating Agent Skills to the Agentic AI Foundation",
-        "summary": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foun",
-        "source": "@simonw / Simon Willison",
-        "source_url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-        "published_at": "2026-10-22T18:09:56.000Z",
-        "tags": [
-          "agent"
-        ],
-        "score": 64,
-        "why": "独立/Agent：agent；加分：AI建造/工具实践",
-        "deep_link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-        "blurb": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills op",
-        "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-        "posted_at": "2026-10-22",
-        "_origin": "rss",
-        "_source_id": "ai-simonw-atom",
-        "person_id": "simonw",
-        "person_handle": "simonw",
-        "person_name": "Simon Willison",
-        "handle": "simonw",
-        "_score_raw": 64,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-rss-ai-simonw-atom-4627b4fc817a",
-        "partition": "ai",
-        "type": "card",
-        "category": "AI变现",
-        "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-        "summary": "My latest vibe coded game experiment is a Command &amp; Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat ",
-        "source": "@simonw / Simon Willison",
-        "source_url": "https://simonwillison.net/2026/Oct/20/battledrones/",
-        "published_at": "2026-10-20T19:34:19.000Z",
-        "tags": [
-          "arr",
-          "vibe code",
-          "vibe coded"
-        ],
-        "score": 64,
-        "why": "独立/Agent：arr、vibe code；加分：AI建造/工具实践",
-        "deep_link": "https://simonwillison.net/2026/Oct/20/battledrones/",
-        "blurb": "My latest vibe coded game experiment is a Command &amp; Conquer style RTS (Real Time Strategy) game called Battle Drones",
-        "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
-        "posted_at": "2026-10-20",
-        "_origin": "rss",
-        "_source_id": "ai-simonw-atom",
-        "person_id": "simonw",
-        "person_handle": "simonw",
-        "person_name": "Simon Willison",
-        "handle": "simonw",
-        "_score_raw": 64,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-zh-8ffed9f49bea",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "AI大厂不相信明星员工",
-        "summary": " 几乎与陈广宇同时，Google DeepMind核心研究员姚顺宇被曝正在筹备创业，方向是RSI （递归自我改进） ，市场消息称他的新公司估值约20亿美元。 本文来自微信公众号： AI故事计划 ，作者：田密，编辑：张霞，题图来自：视觉中国 天才们有个规律，一出名，就离走人不远了。 前脚姚顺宇被曝离职创业，后脚陈广宇奔赴旧金山湾区。再往前，林俊旸凌晨一句&ldquo;bye my beloved qwen&rdquo;，单方面宣告与老东家通义千问解除关系。 那些进入到媒体视野的AI天才，总是组织里最不稳定的因素。一出名就走，是这场抢人大战里最鲜亮热闹的一环。 出名，个人的一次上市 &ldquo;感谢一切！尤其是当年相信并聘用一个16岁的我。&rdquo;10月15日，陈广宇在社交媒体上发帖，宣布离开Kimi。 评论区很快变成招聘现场。Anthropic研究员肖尔托&middot;道格拉斯公开喊话：&ldquo;还是计划去CMU吗？",
-        "source_excerpt": " 几乎与陈广宇同时，Google DeepMind核心研究员姚顺宇被曝正在筹备创业，方向是RSI （递归自我改进） ，市场消息称他的新公司估值约20亿美元。 本文来自微信公众号： AI故事计划 ，作者：田密，编辑：张霞，题图来自：视觉中国 天才们有个规律，一出名，就离走人不远了。 前脚姚顺宇被曝离职创业，后脚陈广宇奔赴旧金山湾区。再往前，林俊旸凌晨一句&ldquo;bye my beloved qwen&rdquo;，单方面宣告与老东家通义千问解除关系。 那些进入到媒体视野的AI天才，总是组织里最不稳定的因素。一出名就走，是这场抢人大战里最鲜亮热闹的一环。 出名，个人的一次上市 &ldquo;感谢一切！尤其是当年相信并聘用一个16岁的我。&rdquo;10月15日，陈广宇在社交媒体上发帖，宣布离开Kimi。 评论区很快变成招聘现场。Anthropic研究员肖尔托&middot;道格拉斯公开喊话：&ldquo;还是计划去CMU吗？",
-        "source": "虎嗅",
-        "source_url": "https://www.huxiu.com/article/4900398.html?f=rss",
-        "deep_link": "https://www.huxiu.com/article/4900398.html?f=rss",
-        "published_at": "Tue, 27 Oct 2026 07:25:47 +0800",
-        "tags": [
-          "中文",
-          "虎嗅"
-        ],
-        "score": 64,
-        "why": "中文源 · 虎嗅 · 原文数字：几乎与陈广宇同时，Google DeepMind核心研究员姚顺宇被曝正在筹备创业，方向是RSI （递归自我改进） ，市场消息称他的新公司估值约20亿美元。",
-        "lang": "zh",
-        "zh_reader": {
-          "verdict": "save",
-          "use": "原文数字：几乎与陈广宇同时，Google DeepMind核心研究员姚顺宇被曝正在筹备创业，方向是RSI （递归自我改进） ，市场消息称他的新公司估值约20亿美元。",
-          "lines": {
-            "fact": "原文数字：几乎与陈广宇同时，Google DeepMind核心研究员姚顺宇被曝正在筹备创业，方向是RSI （递归自我改进） ，市场消息称他的新公司估值约20亿美元。"
-          },
-          "evidence": [
-            "几乎与陈广宇同时，Google DeepMind核心研究员姚顺宇被曝正在筹备创业，方向是RSI （递归自我改进） ，市场消息称他的新公司估值约20亿美元。",
-            "20亿美元"
-          ],
-          "point": "AI大厂不相信明星员工"
-        },
-        "_origin": "zh_media",
-        "_source_id": "zh-huxiu",
-        "_score_raw": 64,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-zh-4cff725103f8",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "当知识不再稀缺：大模型时代企业知识管理的四重风险",
-        "summary": " 例如，贝壳的经纪人AI工具“来客”在成都站全面铺开后，经纪人的每单平均成交周期缩短27天。 本文来自微信公众号： 清华管理评论 ，责编：刘永选，作者：朱秀梅 陈柳阳，原文标题：《当知识不再稀缺——大模型时代企业知识管理的四重风险》 知识管理正在从效率问题演变为治理问题，其核心不是技术，而是人与机制。AI可以生成和整合知识，但不能判断知识该不该被信任，不能划定知识主权的边界，不能替人完成真正的学习。在AI时代，组织长远的知识竞争力最终取决于能否在拥抱技术效率的同时，构建起有效的治理体系，从“管理知识”迈向“驾驭AI知识”，真正把AI转化为组织竞争力。 知识不再稀缺 长期以来，企业知识管理面临两个经典难题：一是“不够”，大量经验掌握在少数专家手里，难以复制传承；二是“不通”，跨部门信息分散、术语不统一、经验沉淀不下来，新人需要长时间摸索。面对这一困境，企业知识管理主要集中在“获取、沉淀、共享、流动”等环节。 生成式AI显著降低了获",
-        "source_excerpt": " 例如，贝壳的经纪人AI工具“来客”在成都站全面铺开后，经纪人的每单平均成交周期缩短27天。 本文来自微信公众号： 清华管理评论 ，责编：刘永选，作者：朱秀梅 陈柳阳，原文标题：《当知识不再稀缺——大模型时代企业知识管理的四重风险》 知识管理正在从效率问题演变为治理问题，其核心不是技术，而是人与机制。AI可以生成和整合知识，但不能判断知识该不该被信任，不能划定知识主权的边界，不能替人完成真正的学习。在AI时代，组织长远的知识竞争力最终取决于能否在拥抱技术效率的同时，构建起有效的治理体系，从“管理知识”迈向“驾驭AI知识”，真正把AI转化为组织竞争力。 知识不再稀缺 长期以来，企业知识管理面临两个经典难题：一是“不够”，大量经验掌握在少数专家手里，难以复制传承；二是“不通”，跨部门信息分散、术语不统一、经验沉淀不下来，新人需要长时间摸索。面对这一困境，企业知识管理主要集中在“获取、沉淀、共享、流动”等环节。 生成式AI显著降低了获",
-        "source": "虎嗅",
-        "source_url": "https://www.huxiu.com/article/4900646.html?f=rss",
-        "deep_link": "https://www.huxiu.com/article/4900646.html?f=rss",
-        "published_at": "Tue, 27 Oct 2026 06:09:38 +0800",
-        "tags": [
-          "中文",
-          "虎嗅"
-        ],
-        "score": 64,
-        "why": "中文源 · 虎嗅 · 原文数字：例如，贝壳的经纪人AI工具“来客”在成都站全面铺开后，经纪人的每单平均成交周期缩短27天。",
-        "lang": "zh",
-        "zh_reader": {
-          "verdict": "save",
-          "use": "原文数字：例如，贝壳的经纪人AI工具“来客”在成都站全面铺开后，经纪人的每单平均成交周期缩短27天。",
-          "lines": {
-            "fact": "原文数字：例如，贝壳的经纪人AI工具“来客”在成都站全面铺开后，经纪人的每单平均成交周期缩短27天。"
-          },
-          "evidence": [
-            "例如，贝壳的经纪人AI工具“来客”在成都站全面铺开后，经纪人的每单平均成交周期缩短27天。",
-            "27天"
-          ],
-          "point": "当知识不再稀缺：大模型时代企业知识管理的四重风险"
-        },
-        "_origin": "zh_media",
-        "_source_id": "zh-huxiu",
-        "_score_raw": 64,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-zh-fea8eead4535",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "组织→业务→工程：FDE、AI产品、AI工程师的同与不同",
-        "summary": " 因为我们之前也说了：做AI原生组织转型就是找到那 20% 愿意拥抱 AI 的并且【有价值】的人，转化其中 40% 的【中间派】 从 AI Coding 到 AI Office，岗位合并正把应用层的研发统一成 AI 工程师，产品侧同步长出 AI 产品经理，中间多出一个 FDE。作者把三者的能力边界、SOP 与数据两个维度、十二象限的定位拆开讲清楚。 FDE 是近期的一个热词，我预测他在今明两年都会频繁出现，会是个热门岗位。 为什么呢？ 因为各个公司被小龙虾洗脑后，加之 AI Coding/AI Office 工具越发强大， 在先驱者尝到 AI 的甜头后 ，各行各业“见贤思与齐”，都陆续开始了 AI 转型，而结合近半年的线下 AI 陪跑/培训情况： 几乎所有的转型结果都是 岗位合并 ，而岗位合并一定会带来岗位消亡 比如，从研发体系来说，前端这次是真的“要死了”，并且不单是前端“要死了”，后端岗位也会迎来很大的变化，毕竟现在代码都不",
-        "source_excerpt": " 因为我们之前也说了：做AI原生组织转型就是找到那 20% 愿意拥抱 AI 的并且【有价值】的人，转化其中 40% 的【中间派】 从 AI Coding 到 AI Office，岗位合并正把应用层的研发统一成 AI 工程师，产品侧同步长出 AI 产品经理，中间多出一个 FDE。作者把三者的能力边界、SOP 与数据两个维度、十二象限的定位拆开讲清楚。 FDE 是近期的一个热词，我预测他在今明两年都会频繁出现，会是个热门岗位。 为什么呢？ 因为各个公司被小龙虾洗脑后，加之 AI Coding/AI Office 工具越发强大， 在先驱者尝到 AI 的甜头后 ，各行各业“见贤思与齐”，都陆续开始了 AI 转型，而结合近半年的线下 AI 陪跑/培训情况： 几乎所有的转型结果都是 岗位合并 ，而岗位合并一定会带来岗位消亡 比如，从研发体系来说，前端这次是真的“要死了”，并且不单是前端“要死了”，后端岗位也会迎来很大的变化，毕竟现在代码都不",
-        "source": "人人都是产品经理",
-        "source_url": "https://www.woshipm.com/ai/6484417.html",
-        "deep_link": "https://www.woshipm.com/ai/6484417.html",
-        "published_at": "Mon, 26 Oct 2026 09:45:02 +0000",
-        "tags": [
-          "中文",
-          "人人都是产品经理"
-        ],
-        "score": 64,
-        "why": "中文源 · 人人都是产品经理 · 原文数字：因为我们之前也说了：做AI原生组织转型就是找到那 20% 愿意拥抱 AI 的并且【有价值】的人，转化其中 40% 的【中间派】",
-        "lang": "zh",
-        "zh_reader": {
-          "verdict": "save",
-          "use": "原文数字：因为我们之前也说了：做AI原生组织转型就是找到那 20% 愿意拥抱 AI 的并且【有价值】的人，转化其中 40% 的【中间派】",
-          "lines": {
-            "fact": "原文数字：因为我们之前也说了：做AI原生组织转型就是找到那 20% 愿意拥抱 AI 的并且【有价值】的人，转化其中 40% 的【中间派】"
-          },
-          "evidence": [
-            "因为我们之前也说了：做AI原生组织转型就是找到那 20% 愿意拥抱 AI 的并且【有价值】的人，转化其中 40% 的【中间派】",
-            "20%"
-          ],
-          "point": "组织→业务→工程：FDE、AI产品、AI工程师的同与不同"
-        },
-        "_origin": "zh_media",
-        "_source_id": "zh-woshipm",
-        "_score_raw": 64,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-zh-99d0961b0ff7",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "谈 AI 时代的高级感产品：好看不等于贵，真正拉开价格的是三个看不见的地方",
-        "summary": " 但你的用户，那个天天用的人，看到的是第 80 个屏幕紧挨着第 1 个屏幕。 AI 让做出一个看起来还不错的产品变得很便宜，可价格还是上不去。设计师 Tim 提出商品化天花板：外观决定被选中，真正让人愿意多付钱的，是三条看不见的证据，得靠日常攒。 你有没有想过，现在用 AI 做出一个“看起来还不错”的产品，已经便宜到一天就能搞定，那为什么你的产品还是卖不上价？更扎心的是，别人的产品也看起来还不错，用户点开两三个应用，会觉得它们长得差不多，凭什么要多付钱给你。 这期视频的主讲人是设计师 Tim，他过去十年给 Spotify 等多家公司做过界面设计，现在专门帮已经在增长的创业公司把产品往“高级”那一档推。视频只有十来分钟，他围绕一个概念讲了三个地方：commodity ceiling（商品化天花板），也就是一个产品想让人觉得“值得多花钱”，必须先越过的那条线。他引用了不少研究和自己做过的案例，我听完觉得很有启发。我挑的是“AI 时代",
-        "source_excerpt": " 但你的用户，那个天天用的人，看到的是第 80 个屏幕紧挨着第 1 个屏幕。 AI 让做出一个看起来还不错的产品变得很便宜，可价格还是上不去。设计师 Tim 提出商品化天花板：外观决定被选中，真正让人愿意多付钱的，是三条看不见的证据，得靠日常攒。 你有没有想过，现在用 AI 做出一个“看起来还不错”的产品，已经便宜到一天就能搞定，那为什么你的产品还是卖不上价？更扎心的是，别人的产品也看起来还不错，用户点开两三个应用，会觉得它们长得差不多，凭什么要多付钱给你。 这期视频的主讲人是设计师 Tim，他过去十年给 Spotify 等多家公司做过界面设计，现在专门帮已经在增长的创业公司把产品往“高级”那一档推。视频只有十来分钟，他围绕一个概念讲了三个地方：commodity ceiling（商品化天花板），也就是一个产品想让人觉得“值得多花钱”，必须先越过的那条线。他引用了不少研究和自己做过的案例，我听完觉得很有启发。我挑的是“AI 时代",
-        "source": "人人都是产品经理",
-        "source_url": "https://www.woshipm.com/ucd/6484247.html",
-        "deep_link": "https://www.woshipm.com/ucd/6484247.html",
-        "published_at": "Mon, 26 Oct 2026 09:19:56 +0000",
-        "tags": [
-          "中文",
-          "人人都是产品经理"
-        ],
-        "score": 64,
-        "why": "中文源 · 人人都是产品经理 · 原文数字：但你的用户，那个天天用的人，看到的是第 80 个屏幕紧挨着第 1 个屏幕。",
-        "lang": "zh",
-        "zh_reader": {
-          "verdict": "save",
-          "use": "原文数字：但你的用户，那个天天用的人，看到的是第 80 个屏幕紧挨着第 1 个屏幕。",
-          "lines": {
-            "fact": "原文数字：但你的用户，那个天天用的人，看到的是第 80 个屏幕紧挨着第 1 个屏幕。"
-          },
-          "evidence": [
-            "但你的用户，那个天天用的人，看到的是第 80 个屏幕紧挨着第 1 个屏幕。",
-            "80 个"
-          ],
-          "point": "谈 AI 时代的高级感产品：好看不等于贵，真正拉开价格的是三个看不见的地方"
-        },
-        "_origin": "zh_media",
-        "_source_id": "zh-woshipm",
-        "_score_raw": 64,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-zh-daea7fe40dcf",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "AI办公三强争霸：腾讯靠生态，阿里靠场景，百度靠什么？",
-        "summary": " 百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。 百度搭子以“能干活”的差异化路线杀入AI办公战场，避开模型比拼，专攻系统操作与安全落地。面对腾讯WorkBuddy的生态规模与千问办公的场景深耕，它能否复制“自由画布”的内部整合经验，打破部门墙，将单点优势连成线？本文深度拆解百度搭子的机会与挑战。 10月21日，一场名为“搭子进行时”的百度搭子产品发布会，把这个略显口语化的名字，正式推到了AI办公牌桌的正中央。 百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。 最近 AI 办公的风口确实强劲，易观统计的20款桌面端AI原生办公智能体，9月合计月访问量突破3亿次，比三个月前翻了近5倍。 这种态势下，全身心发展 AI 的百度自然不会缺席，甚至可以说，这是它今年最认真的一次表态。 一、规模与场景的挑战 在这一轮AI办公的产品里",
-        "source_excerpt": " 百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。 百度搭子以“能干活”的差异化路线杀入AI办公战场，避开模型比拼，专攻系统操作与安全落地。面对腾讯WorkBuddy的生态规模与千问办公的场景深耕，它能否复制“自由画布”的内部整合经验，打破部门墙，将单点优势连成线？本文深度拆解百度搭子的机会与挑战。 10月21日，一场名为“搭子进行时”的百度搭子产品发布会，把这个略显口语化的名字，正式推到了AI办公牌桌的正中央。 百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。 最近 AI 办公的风口确实强劲，易观统计的20款桌面端AI原生办公智能体，9月合计月访问量突破3亿次，比三个月前翻了近5倍。 这种态势下，全身心发展 AI 的百度自然不会缺席，甚至可以说，这是它今年最认真的一次表态。 一、规模与场景的挑战 在这一轮AI办公的产品里",
-        "source": "人人都是产品经理",
-        "source_url": "https://www.woshipm.com/ai/6484396.html",
-        "deep_link": "https://www.woshipm.com/ai/6484396.html",
-        "published_at": "Mon, 26 Oct 2026 09:11:59 +0000",
-        "tags": [
-          "中文",
-          "人人都是产品经理"
-        ],
-        "score": 64,
-        "why": "中文源 · 人人都是产品经理 · 原文数字：百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。",
-        "lang": "zh",
-        "zh_reader": {
-          "verdict": "save",
-          "use": "原文数字：百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。",
-          "lines": {
-            "fact": "原文数字：百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。"
-          },
-          "evidence": [
-            "百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。",
-            "83%"
-          ],
-          "point": "AI办公三强争霸：腾讯靠生态，阿里靠场景，百度靠什么？"
-        },
-        "_origin": "zh_media",
-        "_source_id": "zh-woshipm",
-        "_score_raw": 64,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-zh-2b5ddd82c9b9",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具",
-        "summary": " 这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。 这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。科技巨头正抢着在假日季前，把 AI 小设备摆上货架。 大公司的打法很统一， 先造一个入口，再把 AI 慢慢塞进去 。但这周名单里的产品，走的是另一条路。NOPIA 把乐理做了只有一个八度的键盘，按一个键出一整个和弦。InstaSpot 把超声波清洗机缩成一支 65 克的笔。Nothing 在耳机上加了一个物理开关，可以一键切换道监听调音模式。这些原本属于专业设备的能力，正在被一件件压进可以随手带的小东西里。 而且它们做的方向越来越窄，这样意味着不用跟大厂比算力，只要把一个小痛点解得足够深。众筹页上的数字也说明有人买单，NOPIA 的目标是 5 万美元，最后筹到 161.9 ",
-        "source_excerpt": " 这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。 这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。科技巨头正抢着在假日季前，把 AI 小设备摆上货架。 大公司的打法很统一， 先造一个入口，再把 AI 慢慢塞进去 。但这周名单里的产品，走的是另一条路。NOPIA 把乐理做了只有一个八度的键盘，按一个键出一整个和弦。InstaSpot 把超声波清洗机缩成一支 65 克的笔。Nothing 在耳机上加了一个物理开关，可以一键切换道监听调音模式。这些原本属于专业设备的能力，正在被一件件压进可以随手带的小东西里。 而且它们做的方向越来越窄，这样意味着不用跟大厂比算力，只要把一个小痛点解得足够深。众筹页上的数字也说明有人买单，NOPIA 的目标是 5 万美元，最后筹到 161.9 ",
-        "source": "极客公园",
-        "source_url": "http://www.geekpark.net/news/372803",
-        "deep_link": "http://www.geekpark.net/news/372803",
-        "published_at": "Fri, 23 Oct 2026 14:03:13 +0800",
-        "tags": [
-          "中文",
-          "极客公园"
-        ],
-        "score": 64,
-        "why": "中文源 · 极客公园 · 原文数字：这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。",
-        "lang": "zh",
-        "zh_reader": {
-          "verdict": "save",
-          "use": "原文数字：这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。",
-          "lines": {
-            "fact": "原文数字：这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。"
-          },
-          "evidence": [
-            "这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。",
-            "149 美元"
-          ],
-          "point": "造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话…"
-        },
-        "_origin": "zh_media",
-        "_source_id": "zh-geekpark",
+        "_source_id": "zh-leiphone",
         "_score_raw": 64,
         "_decay_penalty": 0,
         "_decay_exempt": null
@@ -5083,75 +4625,178 @@
         "_decay_exempt": null
       },
       {
-        "id": "ai-zh-d9738a011198",
+        "id": "ai-zh-6ca605d2b55b",
         "partition": "ai",
         "type": "post",
         "category": "AI变现",
-        "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
-        "summary": " 争夺 20 万元总奖池。 从 Vibe Coding 到 Skill、Agent，AI 正打开新一轮创业窗口：一个人也能打造应用，一项技能也能成为产品。随着创作与开发门槛降低，新的机会正在浮现——让自己做出的 AI 产品，成为用户愿意付费的生意。 面向这股浪潮，10月24日，支付宝AI支付联合观猹发起“PAYATHON 2026”年度黑客松，邀请开发者带着应用、Skill 或 Agent 参赛：接入支付，把创意推向真实市场，争夺 20 万元总奖池。报名截至12月1日，线下决赛将于12月26日举行。 这场黑客松不只比创意与技术，更看产品在真实交易中的价值。这也是支付宝AI支付“开发者为先”产品战略的重要举措：通过持续降低AI产品的商业化门槛，让开发者更少为收款、交付与定价发愁，让好项目更快变成好生意。 五大赛道，把作品推向市场 一个独立应用、一项 Agent 技能，都可以成为参赛的起点。本次大赛面向个人开发者与团队，设置五大赛道",
-        "source_excerpt": " 争夺 20 万元总奖池。 从 Vibe Coding 到 Skill、Agent，AI 正打开新一轮创业窗口：一个人也能打造应用，一项技能也能成为产品。随着创作与开发门槛降低，新的机会正在浮现——让自己做出的 AI 产品，成为用户愿意付费的生意。 面向这股浪潮，10月24日，支付宝AI支付联合观猹发起“PAYATHON 2026”年度黑客松，邀请开发者带着应用、Skill 或 Agent 参赛：接入支付，把创意推向真实市场，争夺 20 万元总奖池。报名截至12月1日，线下决赛将于12月26日举行。 这场黑客松不只比创意与技术，更看产品在真实交易中的价值。这也是支付宝AI支付“开发者为先”产品战略的重要举措：通过持续降低AI产品的商业化门槛，让开发者更少为收款、交付与定价发愁，让好项目更快变成好生意。 五大赛道，把作品推向市场 一个独立应用、一项 Agent 技能，都可以成为参赛的起点。本次大赛面向个人开发者与团队，设置五大赛道",
-        "source": "雷峰网",
-        "source_url": "https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html",
-        "deep_link": "https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html",
-        "published_at": "Sat, 24 Oct 2026 16:49:00 +0800",
+        "title": "这场年轻人的咖啡局，聊聊「咖啡+AI」可以长出什么？",
+        "summary": " 有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。 城市节奏越快，咖啡越像年轻人的“日常开关”。白天靠咖啡续命，周末咖啡店是见面、拍照、遛猫、带娃、逛市集的空间。 “日咖夜酒”“奶茶咖啡化”之外，咖啡消费还在长出更多新组合：咖啡+烘焙、咖啡+宠物、咖啡+博物馆、咖啡+市集、咖啡+文创。有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。 咖啡越来越日常，但年轻人对咖啡的期待并不日常。精致的线上内容决定他们走进哪家店，线下场景的消费体验决定他们愿意待多久、下次还来不来。 不同的咖啡线下场景也在寻找自己的生存方式：社区咖啡嵌入生活半径，靠熟客和日常习惯形成复访；主题猫咖把宠物社交和情绪价值装进空间；博物馆、科技馆里的“科普咖啡厅”，成为科普体验和博物馆IP文创的载体；咖啡节则把咖啡、艺术、市集和青年文化聚在一起，短时间内制造城市话题和目的性到访。 以一杯咖啡为起点，走过六年时光， 由浙江云创蔚来集团主办的宁波咖啡",
+        "source_excerpt": " 有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。 城市节奏越快，咖啡越像年轻人的“日常开关”。白天靠咖啡续命，周末咖啡店是见面、拍照、遛猫、带娃、逛市集的空间。 “日咖夜酒”“奶茶咖啡化”之外，咖啡消费还在长出更多新组合：咖啡+烘焙、咖啡+宠物、咖啡+博物馆、咖啡+市集、咖啡+文创。有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。 咖啡越来越日常，但年轻人对咖啡的期待并不日常。精致的线上内容决定他们走进哪家店，线下场景的消费体验决定他们愿意待多久、下次还来不来。 不同的咖啡线下场景也在寻找自己的生存方式：社区咖啡嵌入生活半径，靠熟客和日常习惯形成复访；主题猫咖把宠物社交和情绪价值装进空间；博物馆、科技馆里的“科普咖啡厅”，成为科普体验和博物馆IP文创的载体；咖啡节则把咖啡、艺术、市集和青年文化聚在一起，短时间内制造城市话题和目的性到访。 以一杯咖啡为起点，走过六年时光， 由浙江云创蔚来集团主办的宁波咖啡",
+        "source": "36氪",
+        "source_url": "https://36kr.com/p/4042455475475586?f=rss",
+        "deep_link": "https://36kr.com/p/4042455475475586?f=rss",
+        "published_at": "2026-10-26 17:43:46 +0800",
         "tags": [
           "中文",
-          "雷峰网"
+          "36氪"
         ],
         "score": 64,
-        "why": "中文源 · 雷峰网 · 原文数字：争夺 20 万元总奖池。",
+        "why": "中文源 · 36氪 · 原文数字：有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。",
         "lang": "zh",
         "zh_reader": {
           "verdict": "save",
-          "use": "原文数字：争夺 20 万元总奖池。",
+          "use": "原文数字：有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。",
           "lines": {
-            "fact": "原文数字：争夺 20 万元总奖池。"
+            "fact": "原文数字：有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。"
           },
           "evidence": [
-            "争夺 20 万元总奖池。",
-            "20 万元"
+            "有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。",
+            "9.9元"
           ],
-          "point": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意"
+          "point": "这场年轻人的咖啡局，聊聊「咖啡+AI」可以长出什么？"
         },
         "_origin": "zh_media",
-        "_source_id": "zh-leiphone",
+        "_source_id": "zh-36kr",
         "_score_raw": 64,
         "_decay_penalty": 0,
         "_decay_exempt": null
       },
       {
-        "id": "ai-zh-5a376ce9efd6",
+        "id": "ai-rss-ai-simonw-atom-9e167b288e1b",
+        "partition": "ai",
+        "type": "card",
+        "category": "AI变现",
+        "title": "Donating Agent Skills to the Agentic AI Foundation",
+        "summary": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foun",
+        "source": "@simonw / Simon Willison",
+        "source_url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+        "published_at": "2026-10-22T18:09:56.000Z",
+        "tags": [
+          "agent"
+        ],
+        "score": 64,
+        "why": "独立/Agent：agent；加分：AI建造/工具实践",
+        "deep_link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+        "blurb": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills op",
+        "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+        "posted_at": "2026-10-22",
+        "_origin": "rss",
+        "_source_id": "ai-simonw-atom",
+        "person_id": "simonw",
+        "person_handle": "simonw",
+        "person_name": "Simon Willison",
+        "handle": "simonw",
+        "_score_raw": 64,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-zh-3743907d62c9",
         "partition": "ai",
         "type": "post",
         "category": "AI变现",
-        "title": "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding",
-        "summary": " 小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding。 当AI开始从屏幕走向现实世界，智能硬件的竞争逻辑也在发生变化。 过去，消费者购买一款AI硬件，往往是在选择厂商预先定义好的功能，品牌将预设功能打包交付，用户只能在厂商划定的框架内适配自身场景。但随着大模型能力不断增强，以及Vibe Coding的兴起，AI硬件的边界正在被重新定义：用户不再只是功能的使用者，也可以成为产品的创造者，普通人也能用自然语言亲手创造专属的AI硬件。 日前在2026观猹大会上，由小米技术委创新产品团队孵化的开源AI硬件HachimoDock首次公开亮相，这台巴掌大小的桌面设备，跳出了传统AI硬件定义的固有逻辑，可由用户按个人喜好自由改造，集成了个性化桌宠、语音操控电脑端Agent、智能家居联动、自定义组件创作等能力，试图成为大众入门Vibe Coding的第一台AI硬件，让更多人体会用自然语言创造一台万能桌面搭子的乐趣。 以桌宠为",
-        "source_excerpt": " 小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding。 当AI开始从屏幕走向现实世界，智能硬件的竞争逻辑也在发生变化。 过去，消费者购买一款AI硬件，往往是在选择厂商预先定义好的功能，品牌将预设功能打包交付，用户只能在厂商划定的框架内适配自身场景。但随着大模型能力不断增强，以及Vibe Coding的兴起，AI硬件的边界正在被重新定义：用户不再只是功能的使用者，也可以成为产品的创造者，普通人也能用自然语言亲手创造专属的AI硬件。 日前在2026观猹大会上，由小米技术委创新产品团队孵化的开源AI硬件HachimoDock首次公开亮相，这台巴掌大小的桌面设备，跳出了传统AI硬件定义的固有逻辑，可由用户按个人喜好自由改造，集成了个性化桌宠、语音操控电脑端Agent、智能家居联动、自定义组件创作等能力，试图成为大众入门Vibe Coding的第一台AI硬件，让更多人体会用自然语言创造一台万能桌面搭子的乐趣。 以桌宠为",
-        "source": "钛媒体",
-        "source_url": "https://www.tmtpost.com/8182406.html",
-        "deep_link": "https://www.tmtpost.com/8182406.html",
-        "published_at": "Mon, 26 Oct 2026 19:29:41 +0800",
+        "title": "Arc 让位 AI 浏览器，WorkBuddy 则让 AI 用上了旧浏览器",
+        "summary": " 安全、成本与法规相关讨论有 62 条，点赞量较低。 Arc 宣布 12 月 22 日关闭桌面端，工程与安全团队转向新浏览器 Dia；另一种做法是让 AI 进入人们已经在用的浏览器，把打开网页、来回切换、复制核对的步骤交给 Agent。 “未来的人机界面将以委托为基础，而非直接操作。”——尼古拉斯·尼葛洛庞帝《数字化生存》 10 月 22 日，Arc 宣布将于 12 月 22 日关闭桌面端，工程与安全团队转向新浏览器 Dia。用户可以把密码、书签、扩展和历史记录迁过去，继续使用熟悉的功能，也可以选择开启 AI。 将 AI 放进一款新浏览器，再邀请用户迁移，是一种产品选择。另一种做法，是让 AI 进入人们已经在用的浏览器。网站照常运行，账号和数据留在原处，打开网页、来回切换、复制和核对的步骤，可以交给 Agent。 后者未必要求用户换掉浏览器，却可能改变他们使用软件的习惯。过去，人要先找到合适的工具，再把任务拆成一连串操作；现在，",
+        "source_excerpt": " 安全、成本与法规相关讨论有 62 条，点赞量较低。 Arc 宣布 12 月 22 日关闭桌面端，工程与安全团队转向新浏览器 Dia；另一种做法是让 AI 进入人们已经在用的浏览器，把打开网页、来回切换、复制核对的步骤交给 Agent。 “未来的人机界面将以委托为基础，而非直接操作。”——尼古拉斯·尼葛洛庞帝《数字化生存》 10 月 22 日，Arc 宣布将于 12 月 22 日关闭桌面端，工程与安全团队转向新浏览器 Dia。用户可以把密码、书签、扩展和历史记录迁过去，继续使用熟悉的功能，也可以选择开启 AI。 将 AI 放进一款新浏览器，再邀请用户迁移，是一种产品选择。另一种做法，是让 AI 进入人们已经在用的浏览器。网站照常运行，账号和数据留在原处，打开网页、来回切换、复制和核对的步骤，可以交给 Agent。 后者未必要求用户换掉浏览器，却可能改变他们使用软件的习惯。过去，人要先找到合适的工具，再把任务拆成一连串操作；现在，",
+        "source": "人人都是产品经理",
+        "source_url": "https://www.woshipm.com/ai/6484817.html",
+        "deep_link": "https://www.woshipm.com/ai/6484817.html",
+        "published_at": "Tue, 27 Oct 2026 09:10:27 +0000",
         "tags": [
           "中文",
-          "钛媒体"
+          "人人都是产品经理"
         ],
         "score": 64,
-        "why": "中文源 · 钛媒体 · 原文数字：小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding。",
+        "why": "中文源 · 人人都是产品经理 · 原文数字：安全、成本与法规相关讨论有 62 条，点赞量较低。",
         "lang": "zh",
         "zh_reader": {
           "verdict": "save",
-          "use": "原文数字：小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding。",
+          "use": "原文数字：安全、成本与法规相关讨论有 62 条，点赞量较低。",
           "lines": {
-            "fact": "原文数字：小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding。"
+            "fact": "原文数字：安全、成本与法规相关讨论有 62 条，点赞量较低。"
           },
           "evidence": [
-            "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding。",
-            "150元"
+            "安全、成本与法规相关讨论有 62 条，点赞量较低。",
+            "62 条"
           ],
-          "point": "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding"
+          "point": "Arc 让位 AI 浏览器，WorkBuddy 则让 AI 用上了旧浏览器"
         },
         "_origin": "zh_media",
-        "_source_id": "zh-tmtpost",
+        "_source_id": "zh-woshipm",
+        "_score_raw": 64,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-zh-3cbe26257679",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "机器人集合店：有流量，钱难赚",
+        "summary": " 产品主要是能够提供语音互动的陪伴机器人，也有辅助儿童学习的益智机器人和围棋机器人，售价从399元到2399元不等。 机器人集合店越开越多，一年时间从深圳首店扩到全国二十余家、签约覆盖 23 座城市；商场里围观的人挤成一片，真正掏钱的却少，卖体验、租赁还是研学，这笔账目前还不好算清楚。 商场，迎来一批新的常驻嘉宾。 机器狗翻跟头、人形机器人跳舞，围观的人群举着手机拍个不停，孩子们挤到前排，想凑近摸一摸这些新奇的“家伙”。这样的场景越来越多地出现在各大商场里，机器人也成了吸引客流的新招牌。 此前，一些机器人厂商就在核心商圈开设品牌直营店，销售自家产品。如今，机器人门店有了新玩法：把不同品牌、不同类型的机器人集中到一家店里，做起了集合生意。 这类集合店有的主打体验和零售，有的借鉴汽车4S店模式，把销售、租赁、定制、研学等服务装进同一家店，甚至出现了6S、7S、9S店。 扩张的速度也很快。去年7月28日，全球首家机器人6S店才在深圳龙",
+        "source_excerpt": " 产品主要是能够提供语音互动的陪伴机器人，也有辅助儿童学习的益智机器人和围棋机器人，售价从399元到2399元不等。 机器人集合店越开越多，一年时间从深圳首店扩到全国二十余家、签约覆盖 23 座城市；商场里围观的人挤成一片，真正掏钱的却少，卖体验、租赁还是研学，这笔账目前还不好算清楚。 商场，迎来一批新的常驻嘉宾。 机器狗翻跟头、人形机器人跳舞，围观的人群举着手机拍个不停，孩子们挤到前排，想凑近摸一摸这些新奇的“家伙”。这样的场景越来越多地出现在各大商场里，机器人也成了吸引客流的新招牌。 此前，一些机器人厂商就在核心商圈开设品牌直营店，销售自家产品。如今，机器人门店有了新玩法：把不同品牌、不同类型的机器人集中到一家店里，做起了集合生意。 这类集合店有的主打体验和零售，有的借鉴汽车4S店模式，把销售、租赁、定制、研学等服务装进同一家店，甚至出现了6S、7S、9S店。 扩张的速度也很快。去年7月28日，全球首家机器人6S店才在深圳龙",
+        "source": "人人都是产品经理",
+        "source_url": "https://www.woshipm.com/embodied/6484709.html",
+        "deep_link": "https://www.woshipm.com/embodied/6484709.html",
+        "published_at": "Tue, 27 Oct 2026 07:38:36 +0000",
+        "tags": [
+          "中文",
+          "人人都是产品经理"
+        ],
+        "score": 64,
+        "why": "中文源 · 人人都是产品经理 · 原文数字：产品主要是能够提供语音互动的陪伴机器人，也有辅助儿童学习的益智机器人和围棋机器人，售价从399元到2399元不等。",
+        "lang": "zh",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "原文数字：产品主要是能够提供语音互动的陪伴机器人，也有辅助儿童学习的益智机器人和围棋机器人，售价从399元到2399元不等。",
+          "lines": {
+            "fact": "原文数字：产品主要是能够提供语音互动的陪伴机器人，也有辅助儿童学习的益智机器人和围棋机器人，售价从399元到2399元不等。"
+          },
+          "evidence": [
+            "产品主要是能够提供语音互动的陪伴机器人，也有辅助儿童学习的益智机器人和围棋机器人，售价从399元到2399元不等。",
+            "399元"
+          ],
+          "point": "机器人集合店：有流量，钱难赚"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-woshipm",
+        "_score_raw": 64,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-zh-0ddb20187f20",
+        "partition": "ai",
+        "type": "post",
+        "category": "AI变现",
+        "title": "启元机器人第 5000 台下线，从规模化量产迈向商业化验证",
+        "summary": " 据高全中介绍，部分已收货用户日均使用时长超过 1 小时，重度用户超 3 小时，日均有效交互超 150 次； 10 月 25 日，启元机器人第 5000 台个人机器人正式下线。从 9 月 20 日发售启元 Q1、T1 两款个人机器人，到一个月后完成 5000 台下线，启元在产能爬坡、制造体系与供应链协同上取得阶段性进展。 对仍处产业化早期的个人机器人行业而言，5000 台的意义不止于产量增长，更在于企业将研发阶段的技术能力转化为可复制的制造能力，并进一步连接产品交付、用户使用与软件迭代&mdash;&mdash;这是个人机器人从技术探索走向消费市场的关键环节，也是检验商业化能力的重要维度。 随着人工智能从数字世界走向物理世界，机器人产业的竞争正从技术展示延伸至工程化、产品化和商业化能力，启元此次量产实践提供了一个观察个人机器人产业化进程的具体样本。 01 一个月从 0 到 5000 台， 量产制造体系成形 「自产线启动以来，从 ",
+        "source_excerpt": " 据高全中介绍，部分已收货用户日均使用时长超过 1 小时，重度用户超 3 小时，日均有效交互超 150 次； 10 月 25 日，启元机器人第 5000 台个人机器人正式下线。从 9 月 20 日发售启元 Q1、T1 两款个人机器人，到一个月后完成 5000 台下线，启元在产能爬坡、制造体系与供应链协同上取得阶段性进展。 对仍处产业化早期的个人机器人行业而言，5000 台的意义不止于产量增长，更在于企业将研发阶段的技术能力转化为可复制的制造能力，并进一步连接产品交付、用户使用与软件迭代&mdash;&mdash;这是个人机器人从技术探索走向消费市场的关键环节，也是检验商业化能力的重要维度。 随着人工智能从数字世界走向物理世界，机器人产业的竞争正从技术展示延伸至工程化、产品化和商业化能力，启元此次量产实践提供了一个观察个人机器人产业化进程的具体样本。 01 一个月从 0 到 5000 台， 量产制造体系成形 「自产线启动以来，从 ",
+        "source": "极客公园",
+        "source_url": "http://www.geekpark.net/news/373003",
+        "deep_link": "http://www.geekpark.net/news/373003",
+        "published_at": "Tue, 27 Oct 2026 16:46:19 +0800",
+        "tags": [
+          "中文",
+          "极客公园"
+        ],
+        "score": 64,
+        "why": "中文源 · 极客公园 · 原文数字：据高全中介绍，部分已收货用户日均使用时长超过 1 小时，重度用户超 3 小时，日均有效交互超 150 次；",
+        "lang": "zh",
+        "zh_reader": {
+          "verdict": "save",
+          "use": "原文数字：据高全中介绍，部分已收货用户日均使用时长超过 1 小时，重度用户超 3 小时，日均有效交互超 150 次；",
+          "lines": {
+            "fact": "原文数字：据高全中介绍，部分已收货用户日均使用时长超过 1 小时，重度用户超 3 小时，日均有效交互超 150 次；"
+          },
+          "evidence": [
+            "据高全中介绍，部分已收货用户日均使用时长超过 1 小时，重度用户超 3 小时，日均有效交互超 150 次；",
+            "1 小时"
+          ],
+          "point": "启元机器人第 5000 台下线，从规模化量产迈向商业化验证"
+        },
+        "_origin": "zh_media",
+        "_source_id": "zh-geekpark",
         "_score_raw": 64,
         "_decay_penalty": 0,
         "_decay_exempt": null
@@ -5231,66 +4876,77 @@
         "_decay_exempt": null
       },
       {
-        "id": "ai-community-ai-reddit-era-beecf1fd00fb",
+        "id": "ai-post-levelsio-3ef47fd6dc5d",
         "partition": "ai",
         "type": "post",
         "category": "AI变现",
-        "title": "AI developers want to scale. I'm finding the real money is in the growers, not the showers",
-        "summary": "Build one little thing, charge $20 or $200 or $2,000 a month, get a bunch of customers, automate everything, and watch the money roll in. Because let's be honest, $15,000 or $20,000 is a LOT of money for a solo freelancer, especially one who's living on around $1,000 a month in Paraguay.",
-        "source": "r/EntrepreneurRideAlong",
-        "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xg37dy/ai_developers_want_to_scale_im_finding_the_real/",
-        "published_at": "2026-10-26T17:23:26.000Z",
+        "title": "I pre-emptively disconnected all my sites and VPS servers from the web until PHP is patched",
+        "summary": "",
+        "source": "@levelsio / Pieter Levels",
+        "source_url": "https://levels.io/disconnected-sites-until-php-patch",
+        "published_at": "2026-10-21T00:00:00.000Z",
         "tags": [
-          "reddit",
-          "r/EntrepreneurRideAlong",
-          "定价"
+          "公开营收",
+          "indie",
+          "mrr",
+          "SaaS"
         ],
-        "score": 63,
-        "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第3位 · 原帖含：定价",
-        "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xg37dy/ai_developers_want_to_scale_im_finding_the_real/",
-        "blurb": "Build one little thing, charge $20 or $200 or $2,000 a month, get a bunch of customers, automate everything, and watch t",
-        "source_excerpt": "Build one little thing, charge $20 or $200 or $2,000 a month, get a bunch of customers, automate everything, and watch the money roll in. Because let's be honest, $15,000 or $20,000 is a LOT of money for a solo freelancer, especially one who's living on around $1,000 a month in Paraguay.",
-        "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xg37dy/ai_developers_want_to_scale_im_finding_the_real/",
+        "score": 60,
+        "why": "独立/Agent：公开营收、indie；策展：自有产品矩阵+公开营收，是最清晰的 AI/独立变现建造者信号。",
+        "deep_link": "https://levels.io/disconnected-sites-until-php-patch",
+        "blurb": "I pre-emptively disconnected all my sites and VPS servers from the web until PHP is patched",
+        "url": "https://levels.io/disconnected-sites-until-php-patch",
+        "posted_at": "2026-10-21",
+        "handle": "levelsio",
+        "name": "Pieter Levels",
+        "person_id": "levelsio",
+        "person_handle": "levelsio",
+        "person_name": "Pieter Levels",
+        "tier": "S",
         "lang": "EN",
-        "posted_at": "2026-10-26",
-        "_origin": "community_rss",
-        "_feed_type": "reddit_rss",
-        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-        "_source_id": "ai-reddit-era",
-        "_score_raw": 63,
-        "_decay_penalty": 0,
+        "_origin": "kol_rss",
+        "_source_id": "kol:levelsio",
+        "_feed_url": "https://levels.io/rss/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 68,
+        "_decay_penalty": 8,
         "_decay_exempt": null
       },
       {
-        "id": "ai-community-ai-reddit-saas-bd02fddd38ca",
+        "id": "ai-post-levelsio-205d3fc562c5",
         "partition": "ai",
         "type": "post",
         "category": "AI变现",
-        "title": "Average CAC Tells You How You Got Here. Marginal CAC Tells You Whether to Keep Going - Blended CAC hid a 2.4x cost increase on our new customers. Here’s how to ",
-        "summary": "Paid search works at $8k/month, so they scale to $25k, then $60k. When you scale, you’re paying for the next 50 customers, not your history.",
-        "source": "r/SaaS",
-        "source_url": "https://www.reddit.com/r/SaaS/comments/1xfvh6m/average_cac_tells_you_how_you_got_here_marginal/",
-        "published_at": "2026-10-26T12:30:31.000Z",
+        "title": "People won't update PHP fast enough and so many sites will get hacked",
+        "summary": "",
+        "source": "@levelsio / Pieter Levels",
+        "source_url": "https://levels.io/php-patches-too-slow-sites-hacked",
+        "published_at": "2026-10-21T00:00:00.000Z",
         "tags": [
-          "reddit",
-          "r/SaaS",
-          "定价",
-          "用户/流量数"
+          "公开营收",
+          "indie",
+          "mrr",
+          "SaaS"
         ],
-        "score": 62,
-        "why": "公开社区帖 · r/SaaS · top/day 第36位 · 原帖含：定价、用户/流量数",
-        "deep_link": "https://www.reddit.com/r/SaaS/comments/1xfvh6m/average_cac_tells_you_how_you_got_here_marginal/",
-        "blurb": "Paid search works at $8k/month, so they scale to $25k, then $60k. When you scale, you’re paying for the next 50 customer",
-        "source_excerpt": "Paid search works at $8k/month, so they scale to $25k, then $60k. When you scale, you’re paying for the next 50 customers, not your history.",
-        "url": "https://www.reddit.com/r/SaaS/comments/1xfvh6m/average_cac_tells_you_how_you_got_here_marginal/",
+        "score": 60,
+        "why": "独立/Agent：公开营收、indie；策展：自有产品矩阵+公开营收，是最清晰的 AI/独立变现建造者信号。",
+        "deep_link": "https://levels.io/php-patches-too-slow-sites-hacked",
+        "blurb": "People won't update PHP fast enough and so many sites will get hacked",
+        "url": "https://levels.io/php-patches-too-slow-sites-hacked",
+        "posted_at": "2026-10-21",
+        "handle": "levelsio",
+        "name": "Pieter Levels",
+        "person_id": "levelsio",
+        "person_handle": "levelsio",
+        "person_name": "Pieter Levels",
+        "tier": "S",
         "lang": "EN",
-        "posted_at": "2026-10-26",
-        "_origin": "community_rss",
-        "_feed_type": "reddit_rss",
-        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-        "_source_id": "ai-reddit-saas",
-        "_score_raw": 62,
-        "_decay_penalty": 0,
+        "_origin": "kol_rss",
+        "_source_id": "kol:levelsio",
+        "_feed_url": "https://levels.io/rss/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 68,
+        "_decay_penalty": 8,
         "_decay_exempt": null
       },
       {
@@ -5351,43 +5007,6 @@
         "deep_link": "https://levels.io/never-agree-earn-out-selling",
         "blurb": "Never agree on an earn out when you sell your business",
         "url": "https://levels.io/never-agree-earn-out-selling",
-        "posted_at": "2026-10-18",
-        "handle": "levelsio",
-        "name": "Pieter Levels",
-        "person_id": "levelsio",
-        "person_handle": "levelsio",
-        "person_name": "Pieter Levels",
-        "tier": "S",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:levelsio",
-        "_feed_url": "https://levels.io/rss/",
-        "_feed_type": "blog_rss",
-        "_score_raw": 68,
-        "_decay_penalty": 8,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-post-levelsio-75d314d456bf",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "Warsaw is completely safe at 1am and there's a lot to learn from Poland",
-        "summary": "",
-        "source": "@levelsio / Pieter Levels",
-        "source_url": "https://levels.io/warsaw-safe-at-night-learn-poland",
-        "published_at": "2026-10-18T00:00:00.000Z",
-        "tags": [
-          "公开营收",
-          "indie",
-          "mrr",
-          "SaaS"
-        ],
-        "score": 60,
-        "why": "独立/Agent：公开营收、indie；策展：自有产品矩阵+公开营收，是最清晰的 AI/独立变现建造者信号。",
-        "deep_link": "https://levels.io/warsaw-safe-at-night-learn-poland",
-        "blurb": "Warsaw is completely safe at 1am and there's a lot to learn from Poland",
-        "url": "https://levels.io/warsaw-safe-at-night-learn-poland",
         "posted_at": "2026-10-18",
         "handle": "levelsio",
         "name": "Pieter Levels",
@@ -5558,7 +5177,7 @@
         "type": "post",
         "category": "AI变现",
         "title": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
-        "summary": "In this week's episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win. At 21, Maddox has already built a website generating $1,000 per day and sold it for $120,000. His current… The post How Maddox Schmidlkofer Bui",
+        "summary": "In this week’s episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win. At 21, Maddox has already built a website generating $1,000 per day and sold it for $120,000. His current… The post How Maddox Schmidlkofer Bui",
         "source": "@nichepursuits / Niche Pursuits",
         "source_url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
         "published_at": "2026-10-07T14:02:14.000Z",
@@ -5571,7 +5190,7 @@
         "score": 60,
         "why": "独立/Agent：公开营收、indie；策展：独立创业者案例访谈，标题里常带真实收入/ARR 数字。",
         "deep_link": "https://www.nichepursuits.com/maddox-schmidlkofer/",
-        "blurb": "In this week's episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entr",
+        "blurb": "In this week’s episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entr",
         "url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
         "posted_at": "2026-10-07",
         "handle": "nichepursuits",
@@ -5664,68 +5283,6 @@
         "_decay_exempt": null
       },
       {
-        "id": "ai-community-ai-reddit-era-e1fc68dac4ba",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "Update: our first-time founder app went from 40 to 80 sign-ups. The first 4 users never came back, so here’s what we changed",
-        "summary": "Last week we posted here when Brand School had 40 sign-ups after 5 days.",
-        "source": "r/EntrepreneurRideAlong",
-        "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xfxtyq/update_our_firsttime_founder_app_went_from_40_to/",
-        "published_at": "2026-10-26T14:07:47.000Z",
-        "tags": [
-          "reddit",
-          "r/EntrepreneurRideAlong",
-          "用户/流量数"
-        ],
-        "score": 60,
-        "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第8位 · 原帖含：用户/流量数",
-        "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xfxtyq/update_our_firsttime_founder_app_went_from_40_to/",
-        "blurb": "Last week we posted here when Brand School had 40 sign-ups after 5 days.",
-        "source_excerpt": "Last week we posted here when Brand School had 40 sign-ups after 5 days.",
-        "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xfxtyq/update_our_firsttime_founder_app_went_from_40_to/",
-        "lang": "EN",
-        "posted_at": "2026-10-26",
-        "_origin": "community_rss",
-        "_feed_type": "reddit_rss",
-        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-        "_source_id": "ai-reddit-era",
-        "_score_raw": 60,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-community-ai-reddit-era-708ba9183a69",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "Ride-along update: Bifurc, a free desktop API workspace, is live on three stores",
-        "summary": "I am already at 45 downloads",
-        "source": "r/EntrepreneurRideAlong",
-        "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xfxb97/ridealong_update_bifurc_a_free_desktop_api/",
-        "published_at": "2026-10-26T13:47:53.000Z",
-        "tags": [
-          "reddit",
-          "r/EntrepreneurRideAlong",
-          "用户/流量数"
-        ],
-        "score": 60,
-        "why": "公开社区帖 · r/EntrepreneurRideAlong · top/day 第9位 · 原帖含：用户/流量数",
-        "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xfxb97/ridealong_update_bifurc_a_free_desktop_api/",
-        "blurb": "I am already at 45 downloads",
-        "source_excerpt": "I am already at 45 downloads",
-        "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xfxb97/ridealong_update_bifurc_a_free_desktop_api/",
-        "lang": "EN",
-        "posted_at": "2026-10-26",
-        "_origin": "community_rss",
-        "_feed_type": "reddit_rss",
-        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-        "_source_id": "ai-reddit-era",
-        "_score_raw": 60,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
         "id": "ai-rss-ai-levelsio-rss-0c165450aea8",
         "partition": "ai",
         "type": "card",
@@ -5752,37 +5309,6 @@
         "handle": "levelsio",
         "_score_raw": 68,
         "_decay_penalty": 8,
-        "_decay_exempt": null
-      },
-      {
-        "id": "ai-community-ai-reddit-saas-a6607a4611e1",
-        "partition": "ai",
-        "type": "post",
-        "category": "AI变现",
-        "title": "three weeks of posting my api everywhere got me 25 users and zero customers",
-        "summary": "",
-        "source": "r/SaaS",
-        "source_url": "https://www.reddit.com/r/SaaS/comments/1xfs4xd/three_weeks_of_posting_my_api_everywhere_got_me/",
-        "published_at": "2026-10-26T09:32:08.000Z",
-        "tags": [
-          "reddit",
-          "r/SaaS",
-          "用户/流量数"
-        ],
-        "score": 57,
-        "why": "公开社区帖 · r/SaaS · top/day 第27位 · 原帖含：用户/流量数",
-        "deep_link": "https://www.reddit.com/r/SaaS/comments/1xfs4xd/three_weeks_of_posting_my_api_everywhere_got_me/",
-        "blurb": "",
-        "source_excerpt": "",
-        "url": "https://www.reddit.com/r/SaaS/comments/1xfs4xd/three_weeks_of_posting_my_api_everywhere_got_me/",
-        "lang": "EN",
-        "posted_at": "2026-10-26",
-        "_origin": "community_rss",
-        "_feed_type": "reddit_rss",
-        "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-        "_source_id": "ai-reddit-saas",
-        "_score_raw": 57,
-        "_decay_penalty": 0,
         "_decay_exempt": null
       },
       {
@@ -5894,6 +5420,37 @@
         "_feed_type": "blog_rss",
         "_score_raw": 76,
         "_decay_penalty": 20,
+        "_decay_exempt": null
+      },
+      {
+        "id": "ai-rss-ai-simonw-atom-4627b4fc817a",
+        "partition": "ai",
+        "type": "card",
+        "category": "AI变现",
+        "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+        "summary": "My latest vibe coded game experiment is a Command &amp; Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat ",
+        "source": "@simonw / Simon Willison",
+        "source_url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+        "published_at": "2026-10-20T19:34:19.000Z",
+        "tags": [
+          "arr",
+          "vibe code",
+          "vibe coded"
+        ],
+        "score": 56,
+        "why": "独立/Agent：arr、vibe code；加分：AI建造/工具实践",
+        "deep_link": "https://simonwillison.net/2026/Oct/20/battledrones/",
+        "blurb": "My latest vibe coded game experiment is a Command &amp; Conquer style RTS (Real Time Strategy) game called Battle Drones",
+        "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+        "posted_at": "2026-10-20",
+        "_origin": "rss",
+        "_source_id": "ai-simonw-atom",
+        "person_id": "simonw",
+        "person_handle": "simonw",
+        "person_name": "Simon Willison",
+        "handle": "simonw",
+        "_score_raw": 64,
+        "_decay_penalty": 8,
         "_decay_exempt": null
       },
       {
@@ -6542,15 +6099,15 @@
         "_decay_exempt": null
       },
       {
-        "id": "growth-post-developgoodhabits-a7cf06341f76",
+        "id": "growth-post-developgoodhabits-2bd29ad38f5d",
         "partition": "growth",
         "type": "post",
         "category": "个人提升",
-        "title": "35 SMART Goals Examples for All Areas of Your Life",
-        "summary": "What would you like your life to look like five, ten, or fifteen years from now? Maybe you want to advance your career, improve your health, strengthen your relationships, or feel more financially secure. Whatever your dreams may be, setting clear goals can help you turn those id",
+        "title": "8 SMART Goals Examples for Improving Your Interpersonal Skills",
+        "summary": "Strong interpersonal skills can make a big difference in how you connect with others, handle disagreements, and build lasting relationships. Whether you're communicating with coworkers, spending time with family, or meeting new people, knowing how to listen, express yourself clea",
         "source": "@developgoodhabits / Develop Good Habits",
-        "source_url": "https://www.developgoodhabits.com/smart-goals-examples/",
-        "published_at": "2026-10-22T05:14:48.000Z",
+        "source_url": "https://www.developgoodhabits.com/smart-goals-interpersonal/",
+        "published_at": "2026-10-27T07:34:59.000Z",
         "tags": [
           "ship",
           "习惯",
@@ -6558,10 +6115,10 @@
         ],
         "score": 78,
         "why": "独立/Agent：ship；成长栏目：习惯；策展：习惯/目标类步骤清单文章，标题写明步骤数。",
-        "deep_link": "https://www.developgoodhabits.com/smart-goals-examples/",
-        "blurb": "What would you like your life to look like five, ten, or fifteen years from now? Maybe you want to advance your career, ",
-        "url": "https://www.developgoodhabits.com/smart-goals-examples/",
-        "posted_at": "2026-10-22",
+        "deep_link": "https://www.developgoodhabits.com/smart-goals-interpersonal/",
+        "blurb": "Strong interpersonal skills can make a big difference in how you connect with others, handle disagreements, and build la",
+        "url": "https://www.developgoodhabits.com/smart-goals-interpersonal/",
+        "posted_at": "2026-10-27",
         "handle": "developgoodhabits",
         "name": "Develop Good Habits",
         "person_id": "developgoodhabits",
@@ -6611,6 +6168,41 @@
         "_feed_type": "blog_rss",
         "_score_raw": 78,
         "_decay_penalty": 8,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-artofmanliness-59db43677d67",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "Podcast #1,139: The New Dark Ages — The Death of Reading and the Dawn of the Post-Literate Society",
+        "summary": "You can’t help but notice, in yourself and in others, how much less people are reading these days. When it comes to content consumption, we’re often replacing articles and books with videos and, well, podcasts. My guest says that this shift is having consequences, not only for ou",
+        "source": "@artofmanliness / The Art of Manliness",
+        "source_url": "https://www.artofmanliness.com/culture/books/podcast-1139-the-new-dark-ages-the-death-of-reading-and-the-dawn-of-the-post-literate-society/",
+        "published_at": "2026-10-27T16:02:03.000Z",
+        "tags": [
+          "习惯",
+          "学习"
+        ],
+        "score": 63,
+        "why": "成长栏目：习惯；策展：习惯/效率/学习方法的实操长文，常给具体步骤。",
+        "deep_link": "https://www.artofmanliness.com/culture/books/podcast-1139-the-new-dark-ages-the-death-of-reading-and-the-dawn-of-the-post-literate-society/",
+        "blurb": "You can’t help but notice, in yourself and in others, how much less people are reading these days. When it comes to cont",
+        "url": "https://www.artofmanliness.com/culture/books/podcast-1139-the-new-dark-ages-the-death-of-reading-and-the-dawn-of-the-post-literate-society/",
+        "posted_at": "2026-10-27",
+        "handle": "artofmanliness",
+        "name": "The Art of Manliness",
+        "person_id": "artofmanliness",
+        "person_handle": "artofmanliness",
+        "person_name": "The Art of Manliness",
+        "tier": "B",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:artofmanliness",
+        "_feed_url": "https://www.artofmanliness.com/feed/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 63,
+        "_decay_penalty": 0,
         "_decay_exempt": null
       },
       {
@@ -6719,35 +6311,70 @@
         "_decay_exempt": null
       },
       {
-        "id": "growth-post-artofmanliness-804fe1ff2401",
+        "id": "growth-post-developgoodhabits-7e0b357ffbbf",
         "partition": "growth",
         "type": "post",
         "category": "个人提升",
-        "title": "Podcast #1,138: The Lost Art of Mingling — How to Talk to Anyone, Anywhere",
-        "summary": "It’s always been intimidating to enter a room where you don’t know everyone, or anyone, and to initiate conversation with people at a wedding, holiday party, or work event. But it’s never felt more potentially awkward and anxiety-generating than in an age dominated by screen-medi",
-        "source": "@artofmanliness / The Art of Manliness",
-        "source_url": "https://www.artofmanliness.com/social/social-skills/podcast-1138-the-lost-art-of-mingling-how-to-talk-to-anyone-anywhere/",
-        "published_at": "2026-10-20T13:35:19.000Z",
+        "title": "The Chinese Bamboo Tree Story: 5 Lessons on Patience and Success",
+        "summary": "Have you ever worked hard toward a goal, only to feel like you're getting nowhere? Maybe you've been trying to improve your health, earn better grades, or advance your career, but the results just aren't showing up. When your efforts don't seem to pay off, it's easy to lose motiv",
+        "source": "@developgoodhabits / Develop Good Habits",
+        "source_url": "https://www.developgoodhabits.com/chinese-bamboo-tree/",
+        "published_at": "2026-10-27T08:40:40.000Z",
         "tags": [
           "习惯",
           "学习"
         ],
         "score": 63,
-        "why": "成长栏目：习惯；策展：习惯/效率/学习方法的实操长文，常给具体步骤。",
-        "deep_link": "https://www.artofmanliness.com/social/social-skills/podcast-1138-the-lost-art-of-mingling-how-to-talk-to-anyone-anywhere/",
-        "blurb": "It’s always been intimidating to enter a room where you don’t know everyone, or anyone, and to initiate conversation wit",
-        "url": "https://www.artofmanliness.com/social/social-skills/podcast-1138-the-lost-art-of-mingling-how-to-talk-to-anyone-anywhere/",
-        "posted_at": "2026-10-20",
-        "handle": "artofmanliness",
-        "name": "The Art of Manliness",
-        "person_id": "artofmanliness",
-        "person_handle": "artofmanliness",
-        "person_name": "The Art of Manliness",
+        "why": "成长栏目：习惯；策展：习惯/目标类步骤清单文章，标题写明步骤数。",
+        "deep_link": "https://www.developgoodhabits.com/chinese-bamboo-tree/",
+        "blurb": "Have you ever worked hard toward a goal, only to feel like you're getting nowhere? Maybe you've been trying to improve y",
+        "url": "https://www.developgoodhabits.com/chinese-bamboo-tree/",
+        "posted_at": "2026-10-27",
+        "handle": "developgoodhabits",
+        "name": "Develop Good Habits",
+        "person_id": "developgoodhabits",
+        "person_handle": "developgoodhabits",
+        "person_name": "Develop Good Habits",
         "tier": "B",
         "lang": "EN",
         "_origin": "kol_rss",
-        "_source_id": "kol:artofmanliness",
-        "_feed_url": "https://www.artofmanliness.com/feed/",
+        "_source_id": "kol:developgoodhabits",
+        "_feed_url": "https://www.developgoodhabits.com/feed/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 63,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-developgoodhabits-6ec6b823e604",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "Do Probiotics Help with Weight Loss? 5 Best Options to Try",
+        "summary": "Your digestive health plays an important role in your overall well-being, and it's natural to wonder whether supporting your gut could also help with your weight loss goals. With so many supplements promising better digestion, improved metabolism, and easier weight management, fi",
+        "source": "@developgoodhabits / Develop Good Habits",
+        "source_url": "https://www.developgoodhabits.com/probiotic-weight-loss/",
+        "published_at": "2026-10-27T08:38:01.000Z",
+        "tags": [
+          "习惯",
+          "学习"
+        ],
+        "score": 63,
+        "why": "成长栏目：习惯；策展：习惯/目标类步骤清单文章，标题写明步骤数。",
+        "deep_link": "https://www.developgoodhabits.com/probiotic-weight-loss/",
+        "blurb": "Your digestive health plays an important role in your overall well-being, and it's natural to wonder whether supporting ",
+        "url": "https://www.developgoodhabits.com/probiotic-weight-loss/",
+        "posted_at": "2026-10-27",
+        "handle": "developgoodhabits",
+        "name": "Develop Good Habits",
+        "person_id": "developgoodhabits",
+        "person_handle": "developgoodhabits",
+        "person_name": "Develop Good Habits",
+        "tier": "B",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:developgoodhabits",
+        "_feed_url": "https://www.developgoodhabits.com/feed/",
         "_feed_type": "blog_rss",
         "_score_raw": 63,
         "_decay_penalty": 0,
@@ -6999,76 +6626,6 @@
         "_decay_exempt": null
       },
       {
-        "id": "growth-post-developgoodhabits-81cbb75df35d",
-        "partition": "growth",
-        "type": "post",
-        "category": "个人提升",
-        "title": "100 Inspiring Hard Work Quotes to Keep You Motivated",
-        "summary": "Success rarely happens overnight. Behind most meaningful achievements are countless hours of effort, moments of doubt, and the determination to keep going when things get tough. Sometimes, though, even the most motivated among us need a little reminder of why hard work matters. T",
-        "source": "@developgoodhabits / Develop Good Habits",
-        "source_url": "https://www.developgoodhabits.com/hard-work-quotes/",
-        "published_at": "2026-10-22T05:18:17.000Z",
-        "tags": [
-          "习惯",
-          "学习"
-        ],
-        "score": 63,
-        "why": "成长栏目：习惯；策展：习惯/目标类步骤清单文章，标题写明步骤数。",
-        "deep_link": "https://www.developgoodhabits.com/hard-work-quotes/",
-        "blurb": "Success rarely happens overnight. Behind most meaningful achievements are countless hours of effort, moments of doubt, a",
-        "url": "https://www.developgoodhabits.com/hard-work-quotes/",
-        "posted_at": "2026-10-22",
-        "handle": "developgoodhabits",
-        "name": "Develop Good Habits",
-        "person_id": "developgoodhabits",
-        "person_handle": "developgoodhabits",
-        "person_name": "Develop Good Habits",
-        "tier": "B",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:developgoodhabits",
-        "_feed_url": "https://www.developgoodhabits.com/feed/",
-        "_feed_type": "blog_rss",
-        "_score_raw": 63,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "growth-post-developgoodhabits-2d35a192b6e7",
-        "partition": "growth",
-        "type": "post",
-        "category": "个人提升",
-        "title": "11 Keystone Habits Examples to Change Your Life",
-        "summary": "Have you ever noticed how one small change in your daily routine can lead to several other positive changes? Maybe you start eating healthier, which gives you more energy to exercise. You begin exercising regularly, which helps you sleep better and feel more confident. Before you",
-        "source": "@developgoodhabits / Develop Good Habits",
-        "source_url": "https://www.developgoodhabits.com/what-are-keystone-habits/",
-        "published_at": "2026-10-21T07:47:25.000Z",
-        "tags": [
-          "习惯",
-          "学习"
-        ],
-        "score": 63,
-        "why": "成长栏目：习惯；策展：习惯/目标类步骤清单文章，标题写明步骤数。",
-        "deep_link": "https://www.developgoodhabits.com/what-are-keystone-habits/",
-        "blurb": "Have you ever noticed how one small change in your daily routine can lead to several other positive changes? Maybe you s",
-        "url": "https://www.developgoodhabits.com/what-are-keystone-habits/",
-        "posted_at": "2026-10-21",
-        "handle": "developgoodhabits",
-        "name": "Develop Good Habits",
-        "person_id": "developgoodhabits",
-        "person_handle": "developgoodhabits",
-        "person_name": "Develop Good Habits",
-        "tier": "B",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:developgoodhabits",
-        "_feed_url": "https://www.developgoodhabits.com/feed/",
-        "_feed_type": "blog_rss",
-        "_score_raw": 63,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
         "id": "growth-profile-dieworkwear",
         "partition": "growth",
         "type": "post",
@@ -7245,41 +6802,6 @@
         "_decay_exempt": "profile_fallback"
       },
       {
-        "id": "growth-profile-RyanHoliday",
-        "partition": "growth",
-        "type": "post",
-        "card_kind": "profile_fallback",
-        "category": "个人提升",
-        "title": "打开 @RyanHoliday 主页看最新",
-        "summary": "暂无稳定公开 RSS（all_feeds_failed）。不编造帖文——点进原主页自行查看近期更新。",
-        "source": "@RyanHoliday / Ryan Holiday",
-        "source_url": "https://x.com/RyanHoliday",
-        "published_at": null,
-        "tags": [
-          "主页深链",
-          "认知"
-        ],
-        "score": 55,
-        "why": "认知",
-        "why_pass": "斯多葛/决策实践框架可复述，书籍与日更均教育向；非 PUA、非操控术。",
-        "deep_link": "https://x.com/RyanHoliday",
-        "blurb": "认知",
-        "url": "https://x.com/RyanHoliday",
-        "posted_at": null,
-        "handle": "RyanHoliday",
-        "name": "Ryan Holiday",
-        "person_id": "RyanHoliday",
-        "person_handle": "RyanHoliday",
-        "person_name": "Ryan Holiday",
-        "tier": "A",
-        "lang": "EN",
-        "_origin": "kol_profile_fallback",
-        "_source_id": "kol:RyanHoliday:fallback",
-        "_score_raw": 55,
-        "_decay_penalty": 0,
-        "_decay_exempt": "profile_fallback"
-      },
-      {
         "id": "growth-profile-AliAbdaal",
         "partition": "growth",
         "type": "post",
@@ -7351,35 +6873,35 @@
         "_decay_exempt": null
       },
       {
-        "id": "growth-post-bakadesuyo-36eabbac6877",
+        "id": "growth-post-artofmanliness-804fe1ff2401",
         "partition": "growth",
         "type": "post",
         "category": "个人提升",
-        "title": "How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory",
-        "summary": "You show up to the negotiation wanting to be reasonable. You’ve prepared several ways to demonstrate this, all of which involve receiving less. To make it worse, you’re dealing with the kind of person who’d happily disconnect an orphan’s ventilator to charge his phone. He asks fo",
-        "source": "@bakadesuyo / Eric Barker (Barking Up The Wrong Tree)",
-        "source_url": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
-        "published_at": "2026-09-27T16:25:55.000Z",
+        "title": "Podcast #1,138: The Lost Art of Mingling — How to Talk to Anyone, Anywhere",
+        "summary": "It’s always been intimidating to enter a room where you don’t know everyone, or anyone, and to initiate conversation with people at a wedding, holiday party, or work event. But it’s never felt more potentially awkward and anxiety-generating than in an age dominated by screen-medi",
+        "source": "@artofmanliness / The Art of Manliness",
+        "source_url": "https://www.artofmanliness.com/social/social-skills/podcast-1138-the-lost-art-of-mingling-how-to-talk-to-anyone-anywhere/",
+        "published_at": "2026-10-20T13:35:19.000Z",
         "tags": [
           "习惯",
-          "决策"
+          "学习"
         ],
         "score": 55,
-        "why": "成长栏目：习惯；策展：每篇把学术研究整理成 N 条可执行要点，标题即写明数量。",
-        "deep_link": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
-        "blurb": "You show up to the negotiation wanting to be reasonable. You’ve prepared several ways to demonstrate this, all of which ",
-        "url": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
-        "posted_at": "2026-09-27",
-        "handle": "bakadesuyo",
-        "name": "Eric Barker (Barking Up The Wrong Tree)",
-        "person_id": "bakadesuyo",
-        "person_handle": "bakadesuyo",
-        "person_name": "Eric Barker (Barking Up The Wrong Tree)",
-        "tier": "A",
+        "why": "成长栏目：习惯；策展：习惯/效率/学习方法的实操长文，常给具体步骤。",
+        "deep_link": "https://www.artofmanliness.com/social/social-skills/podcast-1138-the-lost-art-of-mingling-how-to-talk-to-anyone-anywhere/",
+        "blurb": "It’s always been intimidating to enter a room where you don’t know everyone, or anyone, and to initiate conversation wit",
+        "url": "https://www.artofmanliness.com/social/social-skills/podcast-1138-the-lost-art-of-mingling-how-to-talk-to-anyone-anywhere/",
+        "posted_at": "2026-10-20",
+        "handle": "artofmanliness",
+        "name": "The Art of Manliness",
+        "person_id": "artofmanliness",
+        "person_handle": "artofmanliness",
+        "person_name": "The Art of Manliness",
+        "tier": "B",
         "lang": "EN",
         "_origin": "kol_rss",
-        "_source_id": "kol:bakadesuyo",
-        "_feed_url": "https://www.bakadesuyo.com/feed/",
+        "_source_id": "kol:artofmanliness",
+        "_feed_url": "https://www.artofmanliness.com/feed/",
         "_feed_type": "blog_rss",
         "_score_raw": 63,
         "_decay_penalty": 8,
@@ -7528,41 +7050,6 @@
         "_decay_exempt": null
       },
       {
-        "id": "growth-post-artofmanliness-8fe98ca0136c",
-        "partition": "growth",
-        "type": "post",
-        "category": "个人提升",
-        "title": "The 6 Fire Lays Every Man Should Know",
-        "summary": "Building a fire is one of the 100 skills every man should know. But every outdoor situation requires different types of campfire lays (set-ups in the firewood), so it’s imperative to know how to make more than one kind. Here we highlight six of the most common and useful fire lay",
-        "source": "@artofmanliness / The Art of Manliness",
-        "source_url": "https://www.artofmanliness.com/skills/outdoors/the-6-fire-lays-every-man-should-know/",
-        "published_at": "2026-10-11T17:22:28.000Z",
-        "tags": [
-          "习惯",
-          "学习"
-        ],
-        "score": 55,
-        "why": "成长栏目：习惯；策展：习惯/效率/学习方法的实操长文，常给具体步骤。",
-        "deep_link": "https://www.artofmanliness.com/skills/outdoors/the-6-fire-lays-every-man-should-know/",
-        "blurb": "Building a fire is one of the 100 skills every man should know. But every outdoor situation requires different types of ",
-        "url": "https://www.artofmanliness.com/skills/outdoors/the-6-fire-lays-every-man-should-know/",
-        "posted_at": "2026-10-11",
-        "handle": "artofmanliness",
-        "name": "The Art of Manliness",
-        "person_id": "artofmanliness",
-        "person_handle": "artofmanliness",
-        "person_name": "The Art of Manliness",
-        "tier": "B",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:artofmanliness",
-        "_feed_url": "https://www.artofmanliness.com/feed/",
-        "_feed_type": "blog_rss",
-        "_score_raw": 63,
-        "_decay_penalty": 8,
-        "_decay_exempt": null
-      },
-      {
         "id": "growth-post-CalNewport-dcfb7fdb5f6c",
         "partition": "growth",
         "type": "post",
@@ -7662,6 +7149,146 @@
         "_origin": "kol_rss",
         "_source_id": "kol:ScottHYoung",
         "_feed_url": "https://www.scotthyoung.com/blog/feed/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 53,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-askamanager-6556a914fbbc",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "should workplaces ban Meta glasses?",
+        "summary": "A reader writes: What do you do when you discover that multiple people in your office are wearing Meta glasses? (Note from Alison: Meta glasses are eyeglasses that include built-in cameras and microphones.) It has recently come to my attention that at least three people in my off",
+        "source": "@askamanager / Alison Green (Ask a Manager)",
+        "source_url": "https://www.askamanager.org/2026/10/should-workplaces-ban-meta-glasses.html",
+        "published_at": "2026-10-27T17:59:38.000Z",
+        "tags": [
+          "职场",
+          "求职"
+        ],
+        "score": 53,
+        "why": "策展成长账号近期帖；策展：职场老牌问答，给具体可照做的求职/面试/谈薪答复。",
+        "deep_link": "https://www.askamanager.org/2026/10/should-workplaces-ban-meta-glasses.html",
+        "blurb": "A reader writes: What do you do when you discover that multiple people in your office are wearing Meta glasses? (Note fr",
+        "url": "https://www.askamanager.org/2026/10/should-workplaces-ban-meta-glasses.html",
+        "posted_at": "2026-10-27",
+        "handle": "askamanager",
+        "name": "Alison Green (Ask a Manager)",
+        "person_id": "askamanager",
+        "person_handle": "askamanager",
+        "person_name": "Alison Green (Ask a Manager)",
+        "tier": "A",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:askamanager",
+        "_feed_url": "https://www.askamanager.org/feed",
+        "_feed_type": "blog_rss",
+        "_score_raw": 53,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-askamanager-67b48a2cf9e4",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "my boss stole my presentation",
+        "summary": "A reader writes: I was hired by my current employer about two years ago and joined our internal consulting team. Different departments bring us in to help address challenges or figure out what’s going on when they’re facing a problem they can’t figure out. However, we also occasi",
+        "source": "@askamanager / Alison Green (Ask a Manager)",
+        "source_url": "https://www.askamanager.org/2026/10/my-boss-stole-my-presentation.html",
+        "published_at": "2026-10-27T16:29:33.000Z",
+        "tags": [
+          "职场",
+          "求职"
+        ],
+        "score": 53,
+        "why": "策展成长账号近期帖；策展：职场老牌问答，给具体可照做的求职/面试/谈薪答复。",
+        "deep_link": "https://www.askamanager.org/2026/10/my-boss-stole-my-presentation.html",
+        "blurb": "A reader writes: I was hired by my current employer about two years ago and joined our internal consulting team. Differe",
+        "url": "https://www.askamanager.org/2026/10/my-boss-stole-my-presentation.html",
+        "posted_at": "2026-10-27",
+        "handle": "askamanager",
+        "name": "Alison Green (Ask a Manager)",
+        "person_id": "askamanager",
+        "person_handle": "askamanager",
+        "person_name": "Alison Green (Ask a Manager)",
+        "tier": "A",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:askamanager",
+        "_feed_url": "https://www.askamanager.org/feed",
+        "_feed_type": "blog_rss",
+        "_score_raw": 53,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-askamanager-39a8da6b2c59",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "my boss says I give too much praise to my employees",
+        "summary": "A reader writes: Recently, we had a tough situation where a new employee, Sam, rubbed my boss, Alex, the wrong way in their first two weeks, and since then I have not been able to successfully turn that ship around. I won’t deny that Sam has had challenges, but overall they are l",
+        "source": "@askamanager / Alison Green (Ask a Manager)",
+        "source_url": "https://www.askamanager.org/2026/10/my-boss-says-i-give-too-much-praise-to-my-employees.html",
+        "published_at": "2026-10-27T14:59:48.000Z",
+        "tags": [
+          "职场",
+          "求职"
+        ],
+        "score": 53,
+        "why": "策展成长账号近期帖；策展：职场老牌问答，给具体可照做的求职/面试/谈薪答复。",
+        "deep_link": "https://www.askamanager.org/2026/10/my-boss-says-i-give-too-much-praise-to-my-employees.html",
+        "blurb": "A reader writes: Recently, we had a tough situation where a new employee, Sam, rubbed my boss, Alex, the wrong way in th",
+        "url": "https://www.askamanager.org/2026/10/my-boss-says-i-give-too-much-praise-to-my-employees.html",
+        "posted_at": "2026-10-27",
+        "handle": "askamanager",
+        "name": "Alison Green (Ask a Manager)",
+        "person_id": "askamanager",
+        "person_handle": "askamanager",
+        "person_name": "Alison Green (Ask a Manager)",
+        "tier": "A",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:askamanager",
+        "_feed_url": "https://www.askamanager.org/feed",
+        "_feed_type": "blog_rss",
+        "_score_raw": 53,
+        "_decay_penalty": 0,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-askamanager-4cfd6121aa24",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "boss brags about her vacations, how often should I be talking with my coworkers, and more",
+        "summary": "It’s five answers to five questions. Here we go… 1. Boss brags to everybody about her vacations The owner of our company used to work in our industry and built the business from the ground up. Let’s say we do, for anonymity’s sake, teapot design. If you asked her, I think she sti",
+        "source": "@askamanager / Alison Green (Ask a Manager)",
+        "source_url": "https://www.askamanager.org/2026/10/boss-brags-about-her-vacations-how-often-should-i-be-talking-with-my-coworkers-and-more.html",
+        "published_at": "2026-10-27T04:03:55.000Z",
+        "tags": [
+          "职场",
+          "求职"
+        ],
+        "score": 53,
+        "why": "策展成长账号近期帖；策展：职场老牌问答，给具体可照做的求职/面试/谈薪答复。",
+        "deep_link": "https://www.askamanager.org/2026/10/boss-brags-about-her-vacations-how-often-should-i-be-talking-with-my-coworkers-and-more.html",
+        "blurb": "It’s five answers to five questions. Here we go… 1. Boss brags to everybody about her vacations The owner of our company",
+        "url": "https://www.askamanager.org/2026/10/boss-brags-about-her-vacations-how-often-should-i-be-talking-with-my-coworkers-and-more.html",
+        "posted_at": "2026-10-27",
+        "handle": "askamanager",
+        "name": "Alison Green (Ask a Manager)",
+        "person_id": "askamanager",
+        "person_handle": "askamanager",
+        "person_name": "Alison Green (Ask a Manager)",
+        "tier": "A",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:askamanager",
+        "_feed_url": "https://www.askamanager.org/feed",
         "_feed_type": "blog_rss",
         "_score_raw": 53,
         "_decay_penalty": 0,
@@ -7878,165 +7505,25 @@
         "_decay_exempt": null
       },
       {
-        "id": "growth-post-askamanager-9d13b7e8d8a5",
+        "id": "growth-post-PutThisOn-0e1d888418e8",
         "partition": "growth",
         "type": "post",
         "category": "个人提升",
-        "title": "open thread – October 23, 2026",
-        "summary": "It’s the Friday open thread! The comment section on this post is open for discussion with other readers on any work-related questions that you want to talk about (that includes school). If you want an answer from me, emailing me is still your best bet*, but this is a chance to ta",
-        "source": "@askamanager / Alison Green (Ask a Manager)",
-        "source_url": "https://www.askamanager.org/2026/10/open-thread-october-23-2026.html",
-        "published_at": "2026-10-23T15:00:52.000Z",
-        "tags": [
-          "职场",
-          "求职"
-        ],
-        "score": 53,
-        "why": "策展成长账号近期帖；策展：职场老牌问答，给具体可照做的求职/面试/谈薪答复。",
-        "deep_link": "https://www.askamanager.org/2026/10/open-thread-october-23-2026.html",
-        "blurb": "It’s the Friday open thread! The comment section on this post is open for discussion with other readers on any work-rela",
-        "url": "https://www.askamanager.org/2026/10/open-thread-october-23-2026.html",
-        "posted_at": "2026-10-23",
-        "handle": "askamanager",
-        "name": "Alison Green (Ask a Manager)",
-        "person_id": "askamanager",
-        "person_handle": "askamanager",
-        "person_name": "Alison Green (Ask a Manager)",
-        "tier": "A",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:askamanager",
-        "_feed_url": "https://www.askamanager.org/feed",
-        "_feed_type": "blog_rss",
-        "_score_raw": 53,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "growth-post-askamanager-f5707e75b684",
-        "partition": "growth",
-        "type": "post",
-        "category": "个人提升",
-        "title": "coworker who quit is claiming 150 hours of off-the-clock pay, my coworker keeps saying “per my last email,” and more",
-        "summary": "It’s four answers to four questions. Here we go… 1. My coworker who quit on the spot is claiming 150 hours of off-the-clock pay The company I work for is vaguely in the realm of special needs childcare. My role is a hybrid 50/50 admin role where I’m doing admin work half the day,",
-        "source": "@askamanager / Alison Green (Ask a Manager)",
-        "source_url": "https://www.askamanager.org/2026/10/coworker-who-quit-is-claiming-150-hours-of-off-the-clock-pay-my-coworker-keeps-saying-per-my-last-email-and-more.html",
-        "published_at": "2026-10-23T04:03:06.000Z",
-        "tags": [
-          "职场",
-          "求职"
-        ],
-        "score": 53,
-        "why": "策展成长账号近期帖；策展：职场老牌问答，给具体可照做的求职/面试/谈薪答复。",
-        "deep_link": "https://www.askamanager.org/2026/10/coworker-who-quit-is-claiming-150-hours-of-off-the-clock-pay-my-coworker-keeps-saying-per-my-last-email-and-more.html",
-        "blurb": "It’s four answers to four questions. Here we go… 1. My coworker who quit on the spot is claiming 150 hours of off-the-cl",
-        "url": "https://www.askamanager.org/2026/10/coworker-who-quit-is-claiming-150-hours-of-off-the-clock-pay-my-coworker-keeps-saying-per-my-last-email-and-more.html",
-        "posted_at": "2026-10-23",
-        "handle": "askamanager",
-        "name": "Alison Green (Ask a Manager)",
-        "person_id": "askamanager",
-        "person_handle": "askamanager",
-        "person_name": "Alison Green (Ask a Manager)",
-        "tier": "A",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:askamanager",
-        "_feed_url": "https://www.askamanager.org/feed",
-        "_feed_type": "blog_rss",
-        "_score_raw": 53,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "growth-post-askamanager-a0816a5e7b08",
-        "partition": "growth",
-        "type": "post",
-        "category": "个人提升",
-        "title": "can I ask for another interview with the hiring manager for my own questions?",
-        "summary": "A reader writes: I’ve been out of work for several months, since my last employer, a well-known tech giant, suddenly decided my globally scoped role (almost all computer-based) could no longer be performed remotely. Since then, I’ve been working on completing my doctoral disserta",
-        "source": "@askamanager / Alison Green (Ask a Manager)",
-        "source_url": "https://www.askamanager.org/2026/10/can-i-ask-for-another-interview-with-the-hiring-manager-for-my-own-questions.html",
-        "published_at": "2026-10-22T17:59:07.000Z",
-        "tags": [
-          "职场",
-          "求职"
-        ],
-        "score": 53,
-        "why": "策展成长账号近期帖；策展：职场老牌问答，给具体可照做的求职/面试/谈薪答复。",
-        "deep_link": "https://www.askamanager.org/2026/10/can-i-ask-for-another-interview-with-the-hiring-manager-for-my-own-questions.html",
-        "blurb": "A reader writes: I’ve been out of work for several months, since my last employer, a well-known tech giant, suddenly dec",
-        "url": "https://www.askamanager.org/2026/10/can-i-ask-for-another-interview-with-the-hiring-manager-for-my-own-questions.html",
-        "posted_at": "2026-10-22",
-        "handle": "askamanager",
-        "name": "Alison Green (Ask a Manager)",
-        "person_id": "askamanager",
-        "person_handle": "askamanager",
-        "person_name": "Alison Green (Ask a Manager)",
-        "tier": "A",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:askamanager",
-        "_feed_url": "https://www.askamanager.org/feed",
-        "_feed_type": "blog_rss",
-        "_score_raw": 53,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "growth-post-askamanager-551b8ab09fa8",
-        "partition": "growth",
-        "type": "post",
-        "category": "个人提升",
-        "title": "where are you now? (a call for updates)",
-        "summary": "At the end of each year, I publish a slew of “where are they now” updates from people whose questions I answered here in the past. In past years we’ve had several hundred each December and it’s been magnificent. If you’ve had your question answered here in the past, please email ",
-        "source": "@askamanager / Alison Green (Ask a Manager)",
-        "source_url": "https://www.askamanager.org/2026/10/where-are-you-now-a-call-for-updates-19.html",
-        "published_at": "2026-10-22T16:29:17.000Z",
-        "tags": [
-          "职场",
-          "求职"
-        ],
-        "score": 53,
-        "why": "策展成长账号近期帖；策展：职场老牌问答，给具体可照做的求职/面试/谈薪答复。",
-        "deep_link": "https://www.askamanager.org/2026/10/where-are-you-now-a-call-for-updates-19.html",
-        "blurb": "At the end of each year, I publish a slew of “where are they now” updates from people whose questions I answered here in",
-        "url": "https://www.askamanager.org/2026/10/where-are-you-now-a-call-for-updates-19.html",
-        "posted_at": "2026-10-22",
-        "handle": "askamanager",
-        "name": "Alison Green (Ask a Manager)",
-        "person_id": "askamanager",
-        "person_handle": "askamanager",
-        "person_name": "Alison Green (Ask a Manager)",
-        "tier": "A",
-        "lang": "EN",
-        "_origin": "kol_rss",
-        "_source_id": "kol:askamanager",
-        "_feed_url": "https://www.askamanager.org/feed",
-        "_feed_type": "blog_rss",
-        "_score_raw": 53,
-        "_decay_penalty": 0,
-        "_decay_exempt": null
-      },
-      {
-        "id": "growth-post-PutThisOn-ff0acdc43b27",
-        "partition": "growth",
-        "type": "post",
-        "category": "个人提升",
-        "title": "Inside Track: October 11th – October 17th Edition",
-        "summary": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you’re a member... The post Inside Track: October 11th – October 17th Edition appeared first on Put This On .",
+        "title": "Inside Track: October 18th – October 24th Edition",
+        "summary": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you’re a member... The post Inside Track: October 18th – October 24th Edition appeared first on Put This On .",
         "source": "@PutThisOn / Put This On",
-        "source_url": "https://putthison.com/inside-track-october-11th-october-17th-edition-2/",
-        "published_at": "2026-10-21T06:53:03.000Z",
+        "source_url": "https://putthison.com/inside-track-october-18th-october-24th-edition/",
+        "published_at": "2026-10-27T03:18:17.000Z",
         "tags": [
           "穿搭",
           "形象"
         ],
         "score": 51,
         "why": "成长栏目：穿搭；降权：穿搭形象（本轮优先认知/习惯）；策展：系统男士穿搭/合身教育，heritage menswear 圈与 dieworkwear 同轨，非奢侈晒单。",
-        "deep_link": "https://putthison.com/inside-track-october-11th-october-17th-edition-2/",
+        "deep_link": "https://putthison.com/inside-track-october-18th-october-24th-edition/",
         "blurb": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you’re a member..",
-        "url": "https://putthison.com/inside-track-october-11th-october-17th-edition-2/",
-        "posted_at": "2026-10-21",
+        "url": "https://putthison.com/inside-track-october-18th-october-24th-edition/",
+        "posted_at": "2026-10-27",
         "handle": "PutThisOn",
         "name": "Put This On",
         "person_id": "PutThisOn",
@@ -8155,6 +7642,109 @@
         "_feed_type": "blog_rss",
         "_score_raw": 53,
         "_decay_penalty": 8,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-RyanHoliday-cc63a2224678",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "10 Lessons It Took Me 10 Years To Understand",
+        "summary": "I’d put in my hours. 482 weeks. 3,379 days. That’s how long I’d been studying the Stoics when I sat down to write the Daily Stoic. I was 29 years old and I knew enough to write a couple-hundred-page book, one Stoic entry for every day of the year. But there’s a difference between",
+        "source": "@RyanHoliday / Ryan Holiday",
+        "source_url": "https://ryanholiday.net/10-lessons-it-took-me-10-years-to-understand/",
+        "published_at": "2026-10-07T20:16:57.000Z",
+        "tags": [
+          "认知"
+        ],
+        "score": 45,
+        "why": "策展成长账号近期帖；策展：斯多葛/决策实践框架可复述，书籍与日更均教育向；非 PUA、非操控术。",
+        "deep_link": "https://ryanholiday.net/10-lessons-it-took-me-10-years-to-understand/",
+        "blurb": "I’d put in my hours. 482 weeks. 3,379 days. That’s how long I’d been studying the Stoics when I sat down to write the Da",
+        "url": "https://ryanholiday.net/10-lessons-it-took-me-10-years-to-understand/",
+        "posted_at": "2026-10-07",
+        "handle": "RyanHoliday",
+        "name": "Ryan Holiday",
+        "person_id": "RyanHoliday",
+        "person_handle": "RyanHoliday",
+        "person_name": "Ryan Holiday",
+        "tier": "A",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:RyanHoliday",
+        "_feed_url": "https://www.ryanholiday.net/feed/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 53,
+        "_decay_penalty": 8,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-RyanHoliday-d93f94143098",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "Why I Ran A 50K Through Rome Alone (And What It Taught Me)",
+        "summary": "In the middle of Rome, there stands one of the great trophies of history, the Column of Marcus Aurelius. The nearly 100-foot monument was put up to commemorate Marcus’ victories during the Marcomannic Wars. It is covered in carvings depicting scenes of his armies marching, crossi",
+        "source": "@RyanHoliday / Ryan Holiday",
+        "source_url": "https://ryanholiday.net/why-i-ran-a-50k-through-rome-alone-and-what-it-taught-me/",
+        "published_at": "2026-09-29T21:51:02.000Z",
+        "tags": [
+          "认知"
+        ],
+        "score": 45,
+        "why": "策展成长账号近期帖；策展：斯多葛/决策实践框架可复述，书籍与日更均教育向；非 PUA、非操控术。",
+        "deep_link": "https://ryanholiday.net/why-i-ran-a-50k-through-rome-alone-and-what-it-taught-me/",
+        "blurb": "In the middle of Rome, there stands one of the great trophies of history, the Column of Marcus Aurelius. The nearly 100-",
+        "url": "https://ryanholiday.net/why-i-ran-a-50k-through-rome-alone-and-what-it-taught-me/",
+        "posted_at": "2026-09-29",
+        "handle": "RyanHoliday",
+        "name": "Ryan Holiday",
+        "person_id": "RyanHoliday",
+        "person_handle": "RyanHoliday",
+        "person_name": "Ryan Holiday",
+        "tier": "A",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:RyanHoliday",
+        "_feed_url": "https://www.ryanholiday.net/feed/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 53,
+        "_decay_penalty": 8,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-bakadesuyo-36eabbac6877",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory",
+        "summary": "You show up to the negotiation wanting to be reasonable. You’ve prepared several ways to demonstrate this, all of which involve receiving less. To make it worse, you’re dealing with the kind of person who’d happily disconnect an orphan’s ventilator to charge his phone. He asks fo",
+        "source": "@bakadesuyo / Eric Barker (Barking Up The Wrong Tree)",
+        "source_url": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
+        "published_at": "2026-09-27T16:25:55.000Z",
+        "tags": [
+          "习惯",
+          "决策"
+        ],
+        "score": 43,
+        "why": "成长栏目：习惯；策展：每篇把学术研究整理成 N 条可执行要点，标题即写明数量。",
+        "deep_link": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
+        "blurb": "You show up to the negotiation wanting to be reasonable. You’ve prepared several ways to demonstrate this, all of which ",
+        "url": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
+        "posted_at": "2026-09-27",
+        "handle": "bakadesuyo",
+        "name": "Eric Barker (Barking Up The Wrong Tree)",
+        "person_id": "bakadesuyo",
+        "person_handle": "bakadesuyo",
+        "person_name": "Eric Barker (Barking Up The Wrong Tree)",
+        "tier": "A",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:bakadesuyo",
+        "_feed_url": "https://www.bakadesuyo.com/feed/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 63,
+        "_decay_penalty": 20,
         "_decay_exempt": null
       },
       {
@@ -8327,6 +7917,74 @@
         "_origin": "kol_rss",
         "_source_id": "kol:ScottHYoung",
         "_feed_url": "https://www.scotthyoung.com/blog/feed/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 53,
+        "_decay_penalty": 20,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-RyanHoliday-e843e5668b60",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "If You’re Trying To Do This Fast, You’re Doing It Wrong",
+        "summary": "Before we get into today’s piece…tomorrow I’m hosting a live Q&A session with everyone in the Read to Lead course over at Daily Stoic. Today is the last day to sign up and get your invitation—I hope to see you there! Reading is a good thing. Every book teaches us something, makes",
+        "source": "@RyanHoliday / Ryan Holiday",
+        "source_url": "https://ryanholiday.net/if-youre-trying-to-do-this-fast-youre-doing-it-wrong/",
+        "published_at": "2026-09-22T17:04:49.000Z",
+        "tags": [
+          "认知"
+        ],
+        "score": 33,
+        "why": "策展成长账号近期帖；策展：斯多葛/决策实践框架可复述，书籍与日更均教育向；非 PUA、非操控术。",
+        "deep_link": "https://ryanholiday.net/if-youre-trying-to-do-this-fast-youre-doing-it-wrong/",
+        "blurb": "Before we get into today’s piece…tomorrow I’m hosting a live Q&A session with everyone in the Read to Lead course over a",
+        "url": "https://ryanholiday.net/if-youre-trying-to-do-this-fast-youre-doing-it-wrong/",
+        "posted_at": "2026-09-22",
+        "handle": "RyanHoliday",
+        "name": "Ryan Holiday",
+        "person_id": "RyanHoliday",
+        "person_handle": "RyanHoliday",
+        "person_name": "Ryan Holiday",
+        "tier": "A",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:RyanHoliday",
+        "_feed_url": "https://www.ryanholiday.net/feed/",
+        "_feed_type": "blog_rss",
+        "_score_raw": 53,
+        "_decay_penalty": 20,
+        "_decay_exempt": null
+      },
+      {
+        "id": "growth-post-RyanHoliday-556628b52d0d",
+        "partition": "growth",
+        "type": "post",
+        "category": "个人提升",
+        "title": "I’m Sorry But There’s No Shortcut for This (And That’s a Good Thing)",
+        "summary": "It’s clearly a timeless tendency because Seneca tells us a story about it from two thousand years ago. People have always wanted to get something for nothing. They’ve always wanted to get the results without doing the work. Especially when it comes to knowledge. “Wanting to appea",
+        "source": "@RyanHoliday / Ryan Holiday",
+        "source_url": "https://ryanholiday.net/im-sorry-but-theres-no-shortcut-for-this-and-thats-a-good-thing/",
+        "published_at": "2026-09-16T19:31:44.000Z",
+        "tags": [
+          "认知"
+        ],
+        "score": 33,
+        "why": "策展成长账号近期帖；策展：斯多葛/决策实践框架可复述，书籍与日更均教育向；非 PUA、非操控术。",
+        "deep_link": "https://ryanholiday.net/im-sorry-but-theres-no-shortcut-for-this-and-thats-a-good-thing/",
+        "blurb": "It’s clearly a timeless tendency because Seneca tells us a story about it from two thousand years ago. People have alway",
+        "url": "https://ryanholiday.net/im-sorry-but-theres-no-shortcut-for-this-and-thats-a-good-thing/",
+        "posted_at": "2026-09-16",
+        "handle": "RyanHoliday",
+        "name": "Ryan Holiday",
+        "person_id": "RyanHoliday",
+        "person_handle": "RyanHoliday",
+        "person_name": "Ryan Holiday",
+        "tier": "A",
+        "lang": "EN",
+        "_origin": "kol_rss",
+        "_source_id": "kol:RyanHoliday",
+        "_feed_url": "https://www.ryanholiday.net/feed/",
         "_feed_type": "blog_rss",
         "_score_raw": 53,
         "_decay_penalty": 20,

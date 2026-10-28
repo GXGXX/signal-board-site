@@ -1,8 +1,23 @@
 {
-  "updated_at": "2026-10-27T00:04:50.985Z",
+  "updated_at": "2026-10-28T00:05:05.014Z",
   "note": "摘要/用途行数字核对：生成的中文里出现的数字、金额、比例、周期必须能在原文（标题+摘要+正文）找到；找不到的该行被拦下，改用规则摘要（原文原句）。stage: llm_output=模型刚生成即被拒；final_pass=缓存或其它路径的摘要被兜底拦下；reader=用途行/要点行。",
-  "last_run_blocked": 0,
+  "last_run_blocked": 1,
   "entries": [
+    {
+      "stage": "final_pass",
+      "partition": "ai",
+      "url": "https://www.woshipm.com/ai/6484817.html",
+      "title": "Arc 让位 AI 浏览器，WorkBuddy 则让 AI 用上了旧浏览器",
+      "field": "highlights",
+      "rejected": "尼古拉斯·尼葛洛庞帝《数字化生存》 10 月 22 日，Arc 宣布将于 12 月 22…",
+      "unsupported": [
+        "22"
+      ],
+      "replacement": null,
+      "first_seen": "2026-10-28T00:04:53.620Z",
+      "last_seen": "2026-10-28T00:05:05.014Z",
+      "seen_count": 2
+    },
     {
       "stage": "reader",
       "partition": "ai",

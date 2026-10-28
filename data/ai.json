@@ -1,273 +1,139 @@
 [
   {
-    "id": "ai-community-ai-reddit-indiehackers-a65877d26980",
+    "id": "ai-zh-5b11fb81608a",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "My side project made almost $8,000 this year. Here's what worked (and what didn't)",
-    "summary": "I only charged a small one-time fee for it.",
-    "source": "r/indiehackers",
-    "source_url": "https://www.reddit.com/r/indiehackers/comments/1xfrmup/my_side_project_made_almost_8000_this_year_heres/",
-    "published_at": "2026-10-26T09:01:28.000Z",
-    "tags": [
-      "reddit",
-      "r/indiehackers",
-      "收入",
-      "踩坑/复盘",
-      "做法",
-      "用户/流量数",
-      "获客渠道"
-    ],
-    "score": 90,
-    "why": "一次性收费小工具样本：作者副业一年 116 笔付款、83 个客户、近 $8,000（自述），主要靠提交导航站/目录站获客，Product Hunt 也带来少量付费——做 AI 小工具可照这个低成本分发路径",
-    "deep_link": "https://www.reddit.com/r/indiehackers/comments/1xfrmup/my_side_project_made_almost_8000_this_year_heres/",
-    "extra": {},
-    "blurb": "I only charged a small one-time fee for it.",
-    "url": "https://www.reddit.com/r/indiehackers/comments/1xfrmup/my_side_project_made_almost_8000_this_year_heres/",
-    "name": "My side project made almost $8,000 this year. Here's what worked (and what didn't)",
-    "lang": "EN",
-    "posted_at": "2026-10-26",
-    "evidence_missing": false,
-    "_origin": "community_rss",
-    "_source_id": "ai-reddit-indiehackers",
-    "title_orig": "My side project made almost $8,000 this year. Here's what worked (and what didn't)",
-    "source_excerpt": "I only charged a small one-time fee for it. Since then I've made almost $8,000 from 116 payments by 83 customers. Other directories and sites, like Product Hunt, also brought in a few paying customers.",
-    "_feed_type": "reddit_rss",
-    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-    "_score_raw": 80,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "I only charged a small one-time fee for it.",
-    "highlights": [
-      "Since then I've made almost $8,000 from 116 payments by 83…",
-      "Other directories and sites, like Product Hunt…"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "worth",
-      "use": "一次性收费小工具样本：作者副业一年 116 笔付款、83 个客户、近 $8,000（自述），主要靠提交导航站/目录站获客，Product Hunt 也带来少量付费——做 AI 小工具可照这个低成本分发路径",
-      "lines": {
-        "model": "原帖写到：「I only charged a small one-time fee for it.」",
-        "value": "作者自述收入「$8,000」；数据「83 customers」；获客渠道「directories」；踩坑/复盘「what worked」",
-        "note": "数字均为发帖人自述，未经核实"
-      },
-      "evidence": [
-        "I only charged a small one-time fee for it.",
-        "$8,000",
-        "83 customers",
-        "directories",
-        "what worked",
-        "Here's what"
-      ],
-      "point": "一次性收费小工具样本：作者副业一年 116 笔付款、83 个客户、近 $8,000（自述），主要靠提交导航站/目录站获客，Product Hunt 也带来少量付费——做 AI 小工具可照这个低成本分发路径",
-      "verdict_label": "值得看",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-post-startupsfortherestofus-244b93751ec1",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "Episode 855 | The Eight SaaS Moats that Still Work in the Age of AI",
-    "summary": "Which SaaS moats are left in 2026?",
-    "source": "@startupsfortherestofus / Startups For The Rest Of Us",
-    "source_url": "https://www.startupsfortherestofus.com/episodes/episode-855-the-eight-saas-moats-that-still-work-in-the-age-of-ai",
-    "published_at": "2026-10-20T10:00:46.000Z",
-    "tags": [
-      "indie",
-      "bootstrap",
-      "arr",
-      "SaaS"
-    ],
-    "score": 86,
-    "why": "做 AI SaaS 前对照：播客列出 AI 时代仍有效的 8 条护城河和 10 个思路，可逐条检查自己的产品能否被大模型直接替代",
-    "deep_link": "https://www.startupsfortherestofus.com/episodes/episode-855-the-eight-saas-moats-that-still-work-in-the-age-of-ai",
-    "extra": {},
-    "blurb": "Which SaaS moats are left in 2026?",
-    "url": "https://www.startupsfortherestofus.com/episodes/episode-855-the-eight-saas-moats-that-still-work-in-the-age-of-ai",
-    "handle": "startupsfortherestofus",
-    "name": "Startups For The Rest Of Us",
-    "lang": "EN",
-    "posted_at": "2026-10-20",
-    "tier": "A",
-    "evidence_missing": false,
-    "_origin": "kol_rss",
-    "_source_id": "kol:startupsfortherestofus",
-    "title_orig": "Episode 855 | The Eight SaaS Moats that Still Work in the Age of AI",
-    "source_excerpt": "Which SaaS moats are left in 2026? In this episode, Rob Walling and Einar Vollset walk through the 10 ways AI is attacking SaaS companies, from customers vibe coding the app to per-seat revenue disappearing entirely. They then dig into the 8 moats they believe still work in the a",
-    "person_id": "startupsfortherestofus",
-    "person_handle": "startupsfortherestofus",
-    "person_name": "Startups For The Rest Of Us",
-    "_feed_type": "blog_rss",
-    "_feed_url": "https://www.startupsfortherestofus.com/feed",
-    "_score_raw": 76,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "Which SaaS moats are left in 2026?",
-    "highlights": [
-      "In this episode, Rob Walling and Einar Vollset walk through…",
-      "They then dig into the 8 moats they believe still work"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "做 AI SaaS 前对照：播客列出 AI 时代仍有效的 8 条护城河和 10 个思路，可逐条检查自己的产品能否被大模型直接替代",
-      "lines": {
-        "value": "原文数字：步骤/条数「Walling and Einar Vollset walk through the 10 ways AI is attacking SaaS companies, from」"
-      },
-      "evidence": [
-        "Walling and Einar Vollset walk through the 10 ways AI is attacking SaaS companies, from"
-      ],
-      "point": "做 AI SaaS 前对照：播客列出 AI 时代仍有效的 8 条护城河和 10 个思路，可逐条检查自己的产品能否被大模型直接替代",
-      "concrete": [
-        {
-          "kind": "list",
-          "quote": "10 ways"
-        }
-      ],
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-zh-4a9e9d9d636a",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "一颗AI毫米波雷达，千里科技在补哪一环",
-    "summary": "2026年上半年，千里科技智能辅助驾驶业务收入12.35亿元，占主营业务收入的24.3%，千里浩瀚已超百万搭载量 10月23日，千里科技发布了一颗AI毫米波雷达。",
-    "source": "36氪",
-    "source_url": "https://36kr.com/p/4040807584863111?f=rss",
-    "published_at": "2026-10-25 12:49:15 +0800",
+    "title": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人",
+    "summary": "优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下 （本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。",
+    "source": "钛媒体",
+    "source_url": "https://www.tmtpost.com/8183283.html",
+    "published_at": "Tue, 27 Oct 2026 18:19:20 +0800",
     "tags": [
       "中文",
-      "36氪"
+      "钛媒体"
     ],
-    "score": 82,
-    "why": "智驾供应链赚钱样本：千里科技 2026 上半年智驾业务收入 12.35 亿元、占主营 24.3%，千里浩瀚搭载超百万；新发的 AI 毫米波雷达在雷达内集成 10 TOPS NPU——看 AI 能力怎么往硬件里卖",
-    "deep_link": "https://36kr.com/p/4040807584863111?f=rss",
+    "score": 90,
+    "why": "机器人公司抢人行情：优必选 2025 年人形机器人收入 8.21 亿、销量 1079 台（全年仍净亏 7.9 亿），行业在用年薪上亿挖科学家——看具身智能商业化仍靠烧钱换量",
+    "deep_link": "https://www.tmtpost.com/8183283.html",
     "extra": {},
-    "blurb": "2026年上半年，千里科技智能辅助驾驶业务收入12.35亿元，占主营业务收入的24.3%，千里浩瀚已超百万搭载量 10月23日，千里科技发布了一颗AI毫米波雷达。",
-    "url": "https://36kr.com/p/4040807584863111?f=rss",
-    "name": "一颗AI毫米波雷达，千里科技在补哪一环",
+    "blurb": "优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下 （本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。",
+    "url": "https://www.tmtpost.com/8183283.html",
+    "name": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人",
     "lang": "zh",
-    "posted_at": "2026-10-25",
+    "posted_at": "Tue, 27 Oc",
     "evidence_missing": false,
     "_origin": "zh_media",
-    "_source_id": "zh-36kr",
+    "_source_id": "zh-tmtpost",
     "zh_reader": {
       "verdict": "save",
-      "use": "原文数字：2026年上半年，千里科技智能辅助驾驶业务收入12.35亿元，占主营业务收入的24.3%，千里浩瀚已超百万搭载量",
+      "use": "模式/数字：优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下",
       "lines": {
-        "fact": "原文数字：2026年上半年，千里科技智能辅助驾驶业务收入12.35亿元，占主营业务收入的24.3%，千里浩瀚已超百万搭载量"
+        "model": "怎么赚钱：优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下"
       },
       "evidence": [
-        "2026年上半年，千里科技智能辅助驾驶业务收入12.35亿元，占主营业务收入的24.3%，千里浩瀚已超百万搭载量",
-        "12.35亿元"
+        "优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下",
+        "8.21亿元"
       ],
-      "point": "一颗AI毫米波雷达，千里科技在补哪一环"
+      "point": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人"
     },
-    "title_orig": "一颗AI毫米波雷达，千里科技在补哪一环",
-    "source_excerpt": "2026年上半年，千里科技智能辅助驾驶业务收入12.35亿元，占主营业务收入的24.3%，千里浩瀚已超百万搭载量 10月23日，千里科技发布了一颗AI毫米波雷达。在公开信息范围内，这是首个在雷达内部集成10 TOPS算力NPU的方案，雷达自身就能完成目标检测和分类，同时支持边缘侧、卫星与兼容三种工作模式。 这不是一次单纯的产品线扩充。 过去两年，智驾行业的竞争集中在模型上，谁的端到端更强，谁的数据闭环转得更快。但当模型的能力开始受限于传感器给到的原始信息，竞争就会往上游走一层，走到硬件。 这颗雷达要回答的问题，是当模型已经足够强，感知这一端还能不能被改写。 为什么雷达要开始装AI 智驾眼下有两个方向同时在推进。一个是高阶智驾往十几万的主流市场下沉，一个是L3级自动驾驶准备进入量产。这两个方向对技术的要求不一样，落到同一个词上都是安全。规模化要靠安全说服用户买单，L3对安全的要求还要再高一个量级。 在安全这个需求下，4D毫米波雷",
-    "_score_raw": 72,
+    "title_orig": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人",
+    "source_excerpt": "优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下 （本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。 今年以来，具身智能行业持续升温，企业一边忙着融资、扩产，一边开始在人才市场上&ldquo;抢人&rdquo;。有公司为顶尖科学家开出上亿元年薪，也有企业把招聘范围延伸到应届生和在校博士，生怕错过下一个技术骨干。 今年春招期间，AI领域岗位量迎来爆发式增长，其中具身智能相关岗位的招聘需求更是暴增15倍，平均月薪达到6.2万元。 此前4月，优必选公开招募具身智能首席科学家，开出1500万元起步、最高1.24亿元的年薪总包。按照工作日折算，最高薪酬接近一天50万元。 这场重金求贤的背后，是整个行业在资本推动下的快速扩张。 数据显示，国内具身智能赛道今年上半年融资总额已突破900亿元，同比增长近5倍。 然而，",
+    "_score_raw": 80,
     "_decay_penalty": 0,
     "_decay_exempt": null,
     "_ai_business": true,
     "ai_frame": {
       "problem": null,
       "model": null,
-      "proof": "收入12.35"
+      "proof": "收入8.21"
     },
     "_practical_delta": 10,
-    "summary_zh": "2026年上半年，千里科技智能辅助驾驶业务收入12.35亿元，占主营业务收入的24.3%，千里浩瀚已超百万搭载量 10月23日，千里科技发布了一颗AI毫米波雷达。",
+    "summary_zh": "优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下 （本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。",
     "highlights": [
-      "在公开信息范围内，这是首个在雷达内部集成10…",
-      "这不是一次单纯的产品线扩充。",
-      "过去两年，智驾行业的竞争集中在模型上，谁的端到端更强，谁的数据闭环转得更快。"
+      "今年以来，具身智能行业持续升温，企业一边忙着融资、扩产，一边开始在人才市场上“抢人”。",
+      "有公司为顶尖科学家开出上亿元年薪，也有企业把招聘范围延伸到应届生和在校博士，生怕错过下一个技术骨干。",
+      "今年春招期间，AI领域岗位量迎来爆发式增长，其中具身智能相关岗位的招聘需求更是暴增15倍，平均月薪达到6.2万元。"
     ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "智驾供应链赚钱样本：千里科技 2026 上半年智驾业务收入 12.35 亿元、占主营 24.3%，千里浩瀚搭载超百万；新发的 AI 毫米波雷达在雷达内集成 10 TOPS NPU——看 AI 能力怎么往硬件里卖",
+      "use": "机器人公司抢人行情：优必选 2025 年人形机器人收入 8.21 亿、销量 1079 台（全年仍净亏 7.9 亿），行业在用年薪上亿挖科学家——看具身智能商业化仍靠烧钱换量",
       "lines": {
-        "fact": "原文数字：2026年上半年，千里科技智能辅助驾驶业务收入12.35亿元，占主营业务收入的24.3%，千里浩瀚已超百万搭载量"
+        "model": "怎么赚钱：优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下"
       },
       "evidence": [
-        "2026年上半年，千里科技智能辅助驾驶业务收入12.35亿元，占主营业务收入的24.3%，千里浩瀚已超百万搭载量",
-        "12.35亿元"
+        "优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下",
+        "8.21亿元"
       ],
-      "point": "智驾供应链赚钱样本：千里科技 2026 上半年智驾业务收入 12.35 亿元、占主营 24.3%，千里浩瀚搭载超百万；新发的 AI 毫米波雷达在雷达内集成 10 TOPS NPU——看 AI 能力怎么往硬件里卖",
+      "point": "机器人公司抢人行情：优必选 2025 年人形机器人收入 8.21 亿、销量 1079 台（全年仍净亏 7.9 亿），行业在用年薪上亿挖科学家——看具身智能商业化仍靠烧钱换量",
       "verdict_label": "收藏",
       "title": ""
     }
   },
   {
-    "id": "ai-community-ai-reddit-saas-ce6419ba49de",
+    "id": "ai-zh-6f064ad650e8",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "We built products for 6 months and kept hitting the same wall: reaching customers. Here's what finally worked.",
-    "summary": "Before that I'd built a tool that tracked which companies were investing and growing, so you could reach them before they bought from someone else.",
-    "source": "r/SaaS",
-    "source_url": "https://www.reddit.com/r/SaaS/comments/1xg1s5b/we_built_products_for_6_months_and_kept_hitting/",
-    "published_at": "2026-10-26T16:31:41.000Z",
+    "title": "这家全球汽零巨头，为何跨界做机器人？",
+    "summary": "目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。",
+    "source": "36氪",
+    "source_url": "https://36kr.com/p/4043530020115590?f=rss",
+    "published_at": "2026-10-27 10:56:53 +0800",
     "tags": [
-      "reddit",
-      "r/SaaS",
-      "做法",
-      "用户/流量数",
-      "获客渠道",
-      "踩坑/复盘"
+      "中文",
+      "36氪"
     ],
-    "score": 79,
-    "why": "B2B 获客样本：把自己内部用的「追踪哪些公司在投资扩张」线索工具卖给其他小企业，2 周签下 6 个付费客户；冷邮件有效但一个人做不能规模化（自述）——做 B2B AI 工具可先拿现成内部工具验证付费",
-    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xg1s5b/we_built_products_for_6_months_and_kept_hitting/",
+    "score": 82,
+    "why": "传统巨头跨界机器人：全球汽零公司在 20+ 国设厂、2025 营收超 600 亿（七成海外）后跨界做机器人——老供应链公司怎么切 AI 硬件可对照",
+    "deep_link": "https://36kr.com/p/4043530020115590?f=rss",
     "extra": {},
-    "blurb": "Before that I'd built a tool that tracked which companies were investing and growing, so you could reach them before they bought from someone else.",
-    "url": "https://www.reddit.com/r/SaaS/comments/1xg1s5b/we_built_products_for_6_months_and_kept_hitting/",
-    "name": "We built products for 6 months and kept hitting the same wall: reaching customers. Here's what finally worked.",
-    "lang": "EN",
-    "posted_at": "2026-10-26",
+    "blurb": "目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。",
+    "url": "https://36kr.com/p/4043530020115590?f=rss",
+    "name": "这家全球汽零巨头，为何跨界做机器人？",
+    "lang": "zh",
+    "posted_at": "2026-10-27",
     "evidence_missing": false,
-    "_origin": "community_rss",
-    "_source_id": "ai-reddit-saas",
-    "title_orig": "We built products for 6 months and kept hitting the same wall: reaching customers. Here's what finally worked.",
-    "source_excerpt": "Before that I'd built a tool that tracked which companies were investing and growing, so you could reach them before they bought from someone else. So he offered the same thing to other small businesses and signed 6 paying customers in 2 weeks. He started sending cold emails for his own business, and it worked. Not because it didn't work, but because it didn't scale with one person doing everything.",
-    "_feed_type": "reddit_rss",
-    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-    "_score_raw": 69,
+    "_origin": "zh_media",
+    "_source_id": "zh-36kr",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "原文数字：目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。",
+      "lines": {
+        "fact": "原文数字：目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。"
+      },
+      "evidence": [
+        "目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。",
+        "600亿元"
+      ],
+      "point": "这家全球汽零巨头，为何跨界做机器人？"
+    },
+    "title_orig": "这家全球汽零巨头，为何跨界做机器人？",
+    "source_excerpt": "目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。 汽车产业链企业进入机器人领域正在成为行业新趋势。 一方面，整车和零部件价格战持续，企业利润承压，需要寻找新的业务方向。另一方面，以人形机器人为代表的机器人行业，被不少从业者和机构视为下一个阶段的增长主线。行业里广为流传的说法是，具身智能的上半场是自动驾驶，下半场是人形机器人。 在这样的判断下，包括小鹏、奇瑞、北汽、蔚来、比亚迪等在内的数十家车企，纷纷在机器人领域落子。 宁波的汽车零部件巨头企业「均胜电子」也加入战局。均胜电子早期靠汽车功能件起家，后来通过整合德国普瑞、群英、TechniSat，美国KSS、日本高田等优质资产，切入汽车电子与汽车安全领域，并结合中国市场进行二次创新，成为全球汽车零部件前三十强企业。目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。 2025年，均胜电子将业务方向调整为",
+    "_score_raw": 72,
     "_decay_penalty": 0,
     "_decay_exempt": null,
     "_ai_business": true,
     "_practical_delta": 10,
-    "summary_zh": "Before that I'd built a tool that tracked which companies were investing and growing, so you could reach them before they bought from someone else.",
+    "summary_zh": "目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。",
     "highlights": [
-      "So he offered the same thing to other small businesses and…",
-      "He started sending cold emails for his own business…",
-      "Not because it didn't work…"
+      "汽车产业链企业进入机器人领域正在成为行业新趋势。",
+      "一方面，整车和零部件价格战持续，企业利润承压，需要寻找新的业务方向。",
+      "另一方面，以人形机器人为代表的机器人行业，被不少从业者和机构视为下一个阶段的增长主线。"
     ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "B2B 获客样本：把自己内部用的「追踪哪些公司在投资扩张」线索工具卖给其他小企业，2 周签下 6 个付费客户；冷邮件有效但一个人做不能规模化（自述）——做 B2B AI 工具可先拿现成内部工具验证付费",
+      "use": "传统巨头跨界机器人：全球汽零公司在 20+ 国设厂、2025 营收超 600 亿（七成海外）后跨界做机器人——老供应链公司怎么切 AI 硬件可对照",
       "lines": {
-        "problem": "原帖这样描述：「Before that I'd built a tool that tracked which companies were investing and growing, so you could reach them before they bought from someone else.」",
-        "value": "数据「6 paying customers」；获客渠道「cold emails」；踩坑/复盘「didn't work」；做法「Here's what」",
-        "note": "数字均为发帖人自述，未经核实"
+        "fact": "原文数字：目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。"
       },
       "evidence": [
-        "Before that I'd built a tool that tracked which companies were investing and growing, so you could reach them before they bought from someone else.",
-        "6 paying customers",
-        "cold emails",
-        "didn't work",
-        "Here's what"
+        "目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。",
+        "600亿元"
       ],
-      "point": "B2B 获客样本：把自己内部用的「追踪哪些公司在投资扩张」线索工具卖给其他小企业，2 周签下 6 个付费客户；冷邮件有效但一个人做不能规模化（自述）——做 B2B AI 工具可先拿现成内部工具验证付费",
+      "point": "传统巨头跨界机器人：全球汽零公司在 20+ 国设厂、2025 营收超 600 亿（七成海外）后跨界做机器人——老供应链公司怎么切 AI 硬件可对照",
       "verdict_label": "收藏",
       "title": ""
     }
@@ -278,7 +144,7 @@
     "type": "post",
     "category": "AI变现",
     "title": "How Craig Hewitt Grew Castos to $1M+ in Revenue",
-    "summary": "In this week's episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing.",
+    "summary": "In this week’s episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing.",
     "source": "@nichepursuits / Niche Pursuits",
     "source_url": "https://www.nichepursuits.com/craig-hewitt/",
     "published_at": "2026-10-21T14:03:10.000Z",
@@ -292,7 +158,7 @@
     "why": "小众 SaaS 路径：Castos（播客托管）做到 $1M+ 收入，访谈讲搜索流量被 AI 分流后，怎么靠对比页和免费工具继续获客",
     "deep_link": "https://www.nichepursuits.com/craig-hewitt/",
     "extra": {},
-    "blurb": "In this week's episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing.",
+    "blurb": "In this week’s episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing.",
     "url": "https://www.nichepursuits.com/craig-hewitt/",
     "handle": "nichepursuits",
     "name": "Niche Pursuits",
@@ -303,7 +169,7 @@
     "_origin": "kol_rss",
     "_source_id": "kol:nichepursuits",
     "title_orig": "How Craig Hewitt Grew Castos to $1M+ in Revenue",
-    "source_excerpt": "In this week's episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing. We cover why comparison pages and free tools are driving… The post How Craig Hewitt Grew Casto",
+    "source_excerpt": "In this week’s episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing. We cover why comparison pages and free tools are driving… The post How Craig Hewitt Grew Casto",
     "person_id": "nichepursuits",
     "person_handle": "nichepursuits",
     "person_name": "Niche Pursuits",
@@ -319,7 +185,7 @@
       "proof": "$1M"
     },
     "_practical_delta": 10,
-    "summary_zh": "In this week's episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing.",
+    "summary_zh": "In this week’s episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing.",
     "highlights": [
       "We cover why comparison pages and free tools are driving……"
     ],
@@ -345,249 +211,136 @@
     }
   },
   {
-    "id": "ai-zh-5a376ce9efd6",
+    "id": "ai-zh-c8b70517e02d",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding",
-    "summary": "当AI开始从屏幕走向现实世界，智能硬件的竞争逻辑也在发生变化。",
-    "source": "钛媒体",
-    "source_url": "https://www.tmtpost.com/8182406.html",
-    "published_at": "Mon, 26 Oct 2026 19:29:41 +0800",
+    "title": "Muse之后，灵光2.0让Personal Agent接手中国式日常",
+    "summary": "比如想买一个预算6000元左右的西门子洗碗机，它可以在京东、淘宝、拼多多、抖音上持续比价； 机票和酒店订好，还是忍不住隔几天查查价格。",
+    "source": "雷峰网",
+    "source_url": "https://www.leiphone.com/category/industrynews/PubkEap5yOtdT59V.html",
+    "published_at": "Tue, 27 Oct 2026 17:56:00 +0800",
     "tags": [
       "中文",
-      "钛媒体"
+      "雷峰网"
     ],
     "score": 74,
-    "why": "AI 硬件定价参照：小米做的开源桌面 AI 硬件约 150 元，主打用自然语言「Vibe Coding」改桌宠/控电脑——低价开源硬件+社区玩法是一种 AI 硬件切入方式",
-    "deep_link": "https://www.tmtpost.com/8182406.html",
+    "why": "Personal Agent 产品形态：灵光 2.0 演示在京东/淘宝/拼多多/抖音持续比价（例：预算 6000 元洗碗机）——做消费侧 Agent 可看多平台比价+下单闭环",
+    "deep_link": "https://www.leiphone.com/category/industrynews/PubkEap5yOtdT59V.html",
     "extra": {},
-    "blurb": "当AI开始从屏幕走向现实世界，智能硬件的竞争逻辑也在发生变化。",
-    "url": "https://www.tmtpost.com/8182406.html",
-    "name": "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding",
+    "blurb": "比如想买一个预算6000元左右的西门子洗碗机，它可以在京东、淘宝、拼多多、抖音上持续比价； 机票和酒店订好，还是忍不住隔几天查查价格。",
+    "url": "https://www.leiphone.com/category/industrynews/PubkEap5yOtdT59V.html",
+    "name": "Muse之后，灵光2.0让Personal Agent接手中国式日常",
     "lang": "zh",
-    "posted_at": "Mon, 26 Oc",
+    "posted_at": "Tue, 27 Oc",
     "evidence_missing": false,
     "_origin": "zh_media",
-    "_source_id": "zh-tmtpost",
+    "_source_id": "zh-leiphone",
     "zh_reader": {
       "verdict": "save",
-      "use": "原文数字：小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding。",
+      "use": "原文数字：比如想买一个预算6000元左右的西门子洗碗机，它可以在京东、淘宝、拼多多、抖音上持续比价；",
       "lines": {
-        "fact": "原文数字：小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding。"
+        "fact": "原文数字：比如想买一个预算6000元左右的西门子洗碗机，它可以在京东、淘宝、拼多多、抖音上持续比价；"
       },
       "evidence": [
-        "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding。",
-        "150元"
+        "比如想买一个预算6000元左右的西门子洗碗机，它可以在京东、淘宝、拼多多、抖音上持续比价；",
+        "6000元"
       ],
-      "point": "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding"
+      "point": "Muse之后，灵光2.0让Personal Agent接手中国式日常"
     },
-    "title_orig": "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding",
-    "source_excerpt": "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding。 当AI开始从屏幕走向现实世界，智能硬件的竞争逻辑也在发生变化。 过去，消费者购买一款AI硬件，往往是在选择厂商预先定义好的功能，品牌将预设功能打包交付，用户只能在厂商划定的框架内适配自身场景。但随着大模型能力不断增强，以及Vibe Coding的兴起，AI硬件的边界正在被重新定义：用户不再只是功能的使用者，也可以成为产品的创造者，普通人也能用自然语言亲手创造专属的AI硬件。 日前在2026观猹大会上，由小米技术委创新产品团队孵化的开源AI硬件HachimoDock首次公开亮相，这台巴掌大小的桌面设备，跳出了传统AI硬件定义的固有逻辑，可由用户按个人喜好自由改造，集成了个性化桌宠、语音操控电脑端Agent、智能家居联动、自定义组件创作等能力，试图成为大众入门Vibe Coding的第一台AI硬件，让更多人体会用自然语言创造一台万能桌面搭子的乐趣。 以桌宠为",
+    "title_orig": "Muse之后，灵光2.0让Personal Agent接手中国式日常",
+    "source_excerpt": "比如想买一个预算6000元左右的西门子洗碗机，它可以在京东、淘宝、拼多多、抖音上持续比价； 机票和酒店订好，还是忍不住隔几天查查价格。降了，算算退改费用，看要不要重订；没降，过两天再看。花不了多少时间，却总得惦记着。 为了追剧开了会员，剧看完就没再打开，自动续费却一直没停。直到某天翻账单，才发现又扣了几个月的钱。 这些事务单次处理并不复杂，却一直需要反复关注。过去，AI可以帮忙查一次价格、分析一份账单，跟进工作仍然留给用户。现在，灵光想把这部分也接过去。 10月27日，蚂蚁集团发布灵光2.0，以 “能管事的个人AI助理”为定位，成为国内大厂首批落地的Personal Agent产品。 它想带来的变化很直接：不再是被动响应指令、完成单次任务，而是能主动发现需求、持续帮你管理事务。 Muse之后，全球Personal Agent竞争开始加速，国内大厂也在密集布局。灵光率先交出产品答卷，从盯票价、理账单等日常小事入手，让AI开始替用",
     "_score_raw": 64,
     "_decay_penalty": 0,
     "_decay_exempt": null,
     "_ai_business": true,
     "_practical_delta": 10,
-    "summary_zh": "当AI开始从屏幕走向现实世界，智能硬件的竞争逻辑也在发生变化。",
+    "summary_zh": "比如想买一个预算6000元左右的西门子洗碗机，它可以在京东、淘宝、拼多多、抖音上持续比价； 机票和酒店订好，还是忍不住隔几天查查价格。",
     "highlights": [
-      "过去，消费者购买一款AI硬件，往往是在选择厂商预先定义好的功能，品牌将预设功能打包交付，用户只能在厂商划定的框架内适配…",
-      "但随着大模型能力不断增强，以及Vibe Coding的兴起，AI硬件的边界正在被重新定义：用户不再只是功能的使用者，也…",
-      "日前在2026观猹大会上，由小米技术委创新产品团队孵化的开源AI硬件HachimoDock首次公开亮相，这台巴掌大小的…"
+      "降了，算算退改费用，看要不要重订；没降，过两天再看。",
+      "花不了多少时间，却总得惦记着。",
+      "为了追剧开了会员，剧看完就没再打开，自动续费却一直没停。"
     ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "AI 硬件定价参照：小米做的开源桌面 AI 硬件约 150 元，主打用自然语言「Vibe Coding」改桌宠/控电脑——低价开源硬件+社区玩法是一种 AI 硬件切入方式",
+      "use": "Personal Agent 产品形态：灵光 2.0 演示在京东/淘宝/拼多多/抖音持续比价（例：预算 6000 元洗碗机）——做消费侧 Agent 可看多平台比价+下单闭环",
       "lines": {
-        "fact": "原文数字：小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding。"
+        "fact": "原文数字：比如想买一个预算6000元左右的西门子洗碗机，它可以在京东、淘宝、拼多多、抖音上持续比价；"
       },
       "evidence": [
-        "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding。",
-        "150元"
+        "比如想买一个预算6000元左右的西门子洗碗机，它可以在京东、淘宝、拼多多、抖音上持续比价；",
+        "6000元"
       ],
-      "point": "AI 硬件定价参照：小米做的开源桌面 AI 硬件约 150 元，主打用自然语言「Vibe Coding」改桌宠/控电脑——低价开源硬件+社区玩法是一种 AI 硬件切入方式",
+      "point": "Personal Agent 产品形态：灵光 2.0 演示在京东/淘宝/拼多多/抖音持续比价（例：预算 6000 元洗碗机）——做消费侧 Agent 可看多平台比价+下单闭环",
       "verdict_label": "收藏",
       "title": ""
     }
   },
   {
-    "id": "ai-zh-daea7fe40dcf",
+    "id": "ai-post-startupsfortherestofus-244b93751ec1",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "AI办公三强争霸：腾讯靠生态，阿里靠场景，百度靠什么？",
-    "summary": "百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。",
-    "source": "人人都是产品经理",
-    "source_url": "https://www.woshipm.com/ai/6484396.html",
-    "published_at": "Mon, 26 Oct 2026 09:11:59 +0000",
+    "title": "Episode 855 | The Eight SaaS Moats that Still Work in the Age of AI",
+    "summary": "Which SaaS moats are left in 2026?",
+    "source": "@startupsfortherestofus / Startups For The Rest Of Us",
+    "source_url": "https://www.startupsfortherestofus.com/episodes/episode-855-the-eight-saas-moats-that-still-work-in-the-age-of-ai",
+    "published_at": "2026-10-20T10:00:46.000Z",
     "tags": [
-      "中文",
-      "人人都是产品经理"
-    ],
-    "score": 74,
-    "why": "AI 办公赛道数据：百度搭子企业客户环比 +83%、交付物需求环比 4.3 倍；易观统计 20 款桌面 AI 办公智能体 9 月合计月访问破 3 亿、3 个月翻近 5 倍——AI 办公工具/服务需求在快速放大",
-    "deep_link": "https://www.woshipm.com/ai/6484396.html",
-    "extra": {},
-    "blurb": "百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。",
-    "url": "https://www.woshipm.com/ai/6484396.html",
-    "name": "AI办公三强争霸：腾讯靠生态，阿里靠场景，百度靠什么？",
-    "lang": "zh",
-    "posted_at": "Mon, 26 Oc",
-    "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-woshipm",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "原文数字：百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。",
-      "lines": {
-        "fact": "原文数字：百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。"
-      },
-      "evidence": [
-        "百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。",
-        "83%"
-      ],
-      "point": "AI办公三强争霸：腾讯靠生态，阿里靠场景，百度靠什么？"
-    },
-    "title_orig": "AI办公三强争霸：腾讯靠生态，阿里靠场景，百度靠什么？",
-    "source_excerpt": "百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。 百度搭子以“能干活”的差异化路线杀入AI办公战场，避开模型比拼，专攻系统操作与安全落地。面对腾讯WorkBuddy的生态规模与千问办公的场景深耕，它能否复制“自由画布”的内部整合经验，打破部门墙，将单点优势连成线？本文深度拆解百度搭子的机会与挑战。 10月21日，一场名为“搭子进行时”的百度搭子产品发布会，把这个略显口语化的名字，正式推到了AI办公牌桌的正中央。 百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。 最近 AI 办公的风口确实强劲，易观统计的20款桌面端AI原生办公智能体，9月合计月访问量突破3亿次，比三个月前翻了近5倍。 这种态势下，全身心发展 AI 的百度自然不会缺席，甚至可以说，这是它今年最认真的一次表态。 一、规模与场景的挑战 在这一轮AI办公的产品里",
-    "_score_raw": 64,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。",
-    "highlights": [
-      "百度搭子以“能干活”的差异化路线杀入AI办公战场，避开模型比拼，专攻系统操作与安全落地。",
-      "面对腾讯WorkBuddy的生态规模与千问办公的场景深耕，它能否复制“自由画布”的内部整合经验，打破部门墙，将单点优势…",
-      "本文深度拆解百度搭子的机会与挑战。"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "AI 办公赛道数据：百度搭子企业客户环比 +83%、交付物需求环比 4.3 倍；易观统计 20 款桌面 AI 办公智能体 9 月合计月访问破 3 亿、3 个月翻近 5 倍——AI 办公工具/服务需求在快速放大",
-      "lines": {
-        "fact": "原文数字：百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。"
-      },
-      "evidence": [
-        "百度搭子作为百度当下的主推产品之一，成绩相当不错：企业客户环比增长83%，交付物需求环比增长4.3倍。",
-        "83%"
-      ],
-      "point": "AI 办公赛道数据：百度搭子企业客户环比 +83%、交付物需求环比 4.3 倍；易观统计 20 款桌面 AI 办公智能体 9 月合计月访问破 3 亿、3 个月翻近 5 倍——AI 办公工具/服务需求在快速放大",
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-community-ai-reddit-saas-bd02fddd38ca",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "Average CAC Tells You How You Got Here. Marginal CAC Tells You Whether to Keep Going - Blended CAC hid a 2.4x cost increase on our new customers. Here’s how to ",
-    "summary": "Paid search works at $8k/month, so they scale to $25k, then $60k. When you scale, you’re paying for the next 50 customers, not your history.",
-    "source": "r/SaaS",
-    "source_url": "https://www.reddit.com/r/SaaS/comments/1xfvh6m/average_cac_tells_you_how_you_got_here_marginal/",
-    "published_at": "2026-10-26T12:30:31.000Z",
-    "tags": [
-      "reddit",
-      "r/SaaS",
-      "定价",
-      "用户/流量数"
-    ],
-    "score": 72,
-    "why": "投放算账方法：付费搜索 $8k/月有效、于是加到 $25k、$60k——加预算时你买的是「下一批 50 个客户」，要按边际 CAC 而不是历史平均 CAC 算，加预算前先单算新增客户成本",
-    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xfvh6m/average_cac_tells_you_how_you_got_here_marginal/",
-    "extra": {},
-    "blurb": "Paid search works at $8k/month, so they scale to $25k, then $60k. When you scale, you’re paying for the next 50 customers, not your history.",
-    "url": "https://www.reddit.com/r/SaaS/comments/1xfvh6m/average_cac_tells_you_how_you_got_here_marginal/",
-    "name": "Average CAC Tells You How You Got Here. Marginal CAC Tells You Whether to Keep Going - Blended CAC hid a 2.4x cost increase on our new customers. Here’s how to ",
-    "lang": "EN",
-    "posted_at": "2026-10-26",
-    "evidence_missing": false,
-    "_origin": "community_rss",
-    "_source_id": "ai-reddit-saas",
-    "title_orig": "Average CAC Tells You How You Got Here. Marginal CAC Tells You Whether to Keep Going - Blended CAC hid a 2.4x cost increase on our new customers. Here’s how to ",
-    "source_excerpt": "Paid search works at $8k/month, so they scale to $25k, then $60k. When you scale, you’re paying for the next 50 customers, not your history.",
-    "_feed_type": "reddit_rss",
-    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-    "_score_raw": 62,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "Paid search works at $8k/month, so they scale to $25k, then $60k. When you scale, you’re paying for the next 50 customers, not your history.",
-    "highlights": [
-      "来源：Average CAC Tells You How You Got Here. Marginal CAC Tells You Whether to Keep Going - Blended CAC hid a 2.4x cost increase on our new customers. Here’s how to"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "投放算账方法：付费搜索 $8k/月有效、于是加到 $25k、$60k——加预算时你买的是「下一批 50 个客户」，要按边际 CAC 而不是历史平均 CAC 算，加预算前先单算新增客户成本",
-      "lines": {
-        "model": "原帖写到：「Paid search works at $8k/month, so they scale to $25k, then $60k.」",
-        "value": "数据「50 customers」；定价「$8k/month」",
-        "note": "数字均为发帖人自述，未经核实"
-      },
-      "evidence": [
-        "Paid search works at $8k/month, so they scale to $25k, then $60k.",
-        "50 customers",
-        "$8k/month"
-      ],
-      "point": "投放算账方法：付费搜索 $8k/月有效、于是加到 $25k、$60k——加预算时你买的是「下一批 50 个客户」，要按边际 CAC 而不是历史平均 CAC 算，加预算前先单算新增客户成本",
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-community-ai-reddit-era-e1fc68dac4ba",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "Update: our first-time founder app went from 40 to 80 sign-ups. The first 4 users never came back, so here’s what we changed",
-    "summary": "Last week we posted here when Brand School had 40 sign-ups after 5 days.",
-    "source": "r/EntrepreneurRideAlong",
-    "source_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xfxtyq/update_our_firsttime_founder_app_went_from_40_to/",
-    "published_at": "2026-10-26T14:07:47.000Z",
-    "tags": [
-      "reddit",
-      "r/EntrepreneurRideAlong",
-      "用户/流量数"
+      "indie",
+      "bootstrap",
+      "arr",
+      "SaaS"
     ],
     "score": 70,
-    "why": "冷启动样本：Brand School 上线 5 天 40 个注册、之后涨到 80 个，但最早 4 个用户都没回来，帖里复盘改了什么——看早期留存怎么补（自述）",
-    "deep_link": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xfxtyq/update_our_firsttime_founder_app_went_from_40_to/",
+    "why": "做 AI SaaS 前对照：播客列出 AI 时代仍有效的 8 条护城河，可逐条检查自己的产品能否被大模型直接替代",
+    "deep_link": "https://www.startupsfortherestofus.com/episodes/episode-855-the-eight-saas-moats-that-still-work-in-the-age-of-ai",
     "extra": {},
-    "blurb": "Last week we posted here when Brand School had 40 sign-ups after 5 days.",
-    "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xfxtyq/update_our_firsttime_founder_app_went_from_40_to/",
-    "name": "Update: our first-time founder app went from 40 to 80 sign-ups. The first 4 users never came back, so here’s what we changed",
+    "blurb": "Which SaaS moats are left in 2026?",
+    "url": "https://www.startupsfortherestofus.com/episodes/episode-855-the-eight-saas-moats-that-still-work-in-the-age-of-ai",
+    "handle": "startupsfortherestofus",
+    "name": "Startups For The Rest Of Us",
     "lang": "EN",
-    "posted_at": "2026-10-26",
+    "posted_at": "2026-10-20",
+    "tier": "A",
     "evidence_missing": false,
-    "_origin": "community_rss",
-    "_source_id": "ai-reddit-era",
-    "title_orig": "Update: our first-time founder app went from 40 to 80 sign-ups. The first 4 users never came back, so here’s what we changed",
-    "source_excerpt": "Last week we posted here when Brand School had 40 sign-ups after 5 days.",
-    "_feed_type": "reddit_rss",
-    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-    "_score_raw": 60,
-    "_decay_penalty": 0,
+    "_origin": "kol_rss",
+    "_source_id": "kol:startupsfortherestofus",
+    "title_orig": "Episode 855 | The Eight SaaS Moats that Still Work in the Age of AI",
+    "source_excerpt": "Which SaaS moats are left in 2026? In this episode, Rob Walling and Einar Vollset walk through the 10 ways AI is attacking SaaS companies, from customers vibe coding the app to per-seat revenue disappearing entirely. They then dig into the 8 moats they believe still work in the a",
+    "person_id": "startupsfortherestofus",
+    "person_handle": "startupsfortherestofus",
+    "person_name": "Startups For The Rest Of Us",
+    "_feed_type": "blog_rss",
+    "_feed_url": "https://www.startupsfortherestofus.com/feed",
+    "_score_raw": 68,
+    "_decay_penalty": 8,
     "_decay_exempt": null,
     "_ai_business": true,
     "_practical_delta": 10,
-    "summary_zh": "Last week we posted here when Brand School had 40 sign-ups after 5 days.",
-    "highlights": [],
+    "summary_zh": "Which SaaS moats are left in 2026?",
+    "highlights": [
+      "In this episode, Rob Walling and Einar Vollset walk through…",
+      "They then dig into the 8 moats they believe still work"
+    ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "冷启动样本：Brand School 上线 5 天 40 个注册、之后涨到 80 个，但最早 4 个用户都没回来，帖里复盘改了什么——看早期留存怎么补（自述）",
+      "use": "做 AI SaaS 前对照：播客列出 AI 时代仍有效的 8 条护城河，可逐条检查自己的产品能否被大模型直接替代",
       "lines": {
-        "value": "数据「80 sign-ups」",
-        "note": "数字均为发帖人自述，未经核实"
+        "value": "原文数字：步骤/条数「Walling and Einar Vollset walk through the 10 ways AI is attacking SaaS companies, from」"
       },
       "evidence": [
-        "80 sign-ups"
+        "Walling and Einar Vollset walk through the 10 ways AI is attacking SaaS companies, from"
       ],
-      "point": "冷启动样本：Brand School 上线 5 天 40 个注册、之后涨到 80 个，但最早 4 个用户都没回来，帖里复盘改了什么——看早期留存怎么补（自述）",
+      "point": "做 AI SaaS 前对照：播客列出 AI 时代仍有效的 8 条护城河，可逐条检查自己的产品能否被大模型直接替代",
+      "concrete": [
+        {
+          "kind": "list",
+          "quote": "10 ways"
+        }
+      ],
       "verdict_label": "收藏",
       "title": ""
     }
@@ -598,7 +351,7 @@
     "type": "post",
     "category": "AI变现",
     "title": "How Jason Zigelbaum Is Running a Nearly $2M ARR SaaS as a Solo Founder",
-    "summary": "In this week's episode of the Niche Pursuits podcast, Jason Zigelbaum explains how he has grown Zigpoll into a one-person SaaS company approaching $2 million in annual revenue.",
+    "summary": "In this week’s episode of the Niche Pursuits podcast, Jason Zigelbaum explains how he has grown Zigpoll into a one-person SaaS company approaching $2 million in annual revenue.",
     "source": "@nichepursuits / Niche Pursuits",
     "source_url": "https://www.nichepursuits.com/jason-zigelbaum/",
     "published_at": "2026-09-30T14:02:25.000Z",
@@ -612,7 +365,7 @@
     "why": "一人 SaaS 参照：Zigpoll 创始人一人运营接近 $2M 年收入（ARR），访谈讲不扩团队怎么做到",
     "deep_link": "https://www.nichepursuits.com/jason-zigelbaum/",
     "extra": {},
-    "blurb": "In this week's episode of the Niche Pursuits podcast, Jason Zigelbaum explains how he has grown Zigpoll into a one-person SaaS company approaching $2 million in annual revenue.",
+    "blurb": "In this week’s episode of the Niche Pursuits podcast, Jason Zigelbaum explains how he has grown Zigpoll into a one-person SaaS company approaching $2 million in annual revenue.",
     "url": "https://www.nichepursuits.com/jason-zigelbaum/",
     "handle": "nichepursuits",
     "name": "Niche Pursuits",
@@ -623,7 +376,7 @@
     "_origin": "kol_rss",
     "_source_id": "kol:nichepursuits",
     "title_orig": "How Jason Zigelbaum Is Running a Nearly $2M ARR SaaS as a Solo Founder",
-    "source_excerpt": "In this week's episode of the Niche Pursuits podcast, Jason Zigelbaum explains how he has grown Zigpoll into a one-person SaaS company approaching $2 million in annual revenue. Rather than relying on a large team or flashy marketing campaigns, he… The post How Jason Zigelbaum Is",
+    "source_excerpt": "In this week’s episode of the Niche Pursuits podcast, Jason Zigelbaum explains how he has grown Zigpoll into a one-person SaaS company approaching $2 million in annual revenue. Rather than relying on a large team or flashy marketing campaigns, he… The post How Jason Zigelbaum Is",
     "person_id": "nichepursuits",
     "person_handle": "nichepursuits",
     "person_name": "Niche Pursuits",
@@ -639,7 +392,7 @@
       "proof": "$2M ARR"
     },
     "_practical_delta": 10,
-    "summary_zh": "In this week's episode of the Niche Pursuits podcast, Jason Zigelbaum explains how he has grown Zigpoll into a one-person SaaS company approaching $2 million in annual revenue.",
+    "summary_zh": "In this week’s episode of the Niche Pursuits podcast, Jason Zigelbaum explains how he has grown Zigpoll into a one-person SaaS company approaching $2 million in annual revenue.",
     "highlights": [
       "Rather than relying on a large team or flashy marketing…"
     ],
@@ -660,125 +413,6 @@
           "quote": "$2M"
         }
       ],
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-community-ai-reddit-saas-a6607a4611e1",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "three weeks of posting my api everywhere got me 25 users and zero customers",
-    "summary": "three weeks of posting my api everywhere got me 25 users and zero customers",
-    "source": "r/SaaS",
-    "source_url": "https://www.reddit.com/r/SaaS/comments/1xfs4xd/three_weeks_of_posting_my_api_everywhere_got_me/",
-    "published_at": "2026-10-26T09:32:08.000Z",
-    "tags": [
-      "reddit",
-      "r/SaaS",
-      "用户/流量数"
-    ],
-    "score": 67,
-    "why": "避坑样本：作者到处发 API 三周，换来 25 个用户、0 个付费客户——只铺渠道不验证付费意愿的教训",
-    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xfs4xd/three_weeks_of_posting_my_api_everywhere_got_me/",
-    "extra": {},
-    "blurb": "three weeks of posting my api everywhere got me 25 users and zero customers",
-    "url": "https://www.reddit.com/r/SaaS/comments/1xfs4xd/three_weeks_of_posting_my_api_everywhere_got_me/",
-    "name": "three weeks of posting my api everywhere got me 25 users and zero customers",
-    "lang": "EN",
-    "posted_at": "2026-10-26",
-    "evidence_missing": false,
-    "_origin": "community_rss",
-    "_source_id": "ai-reddit-saas",
-    "title_orig": "three weeks of posting my api everywhere got me 25 users and zero customers",
-    "source_excerpt": "",
-    "_feed_type": "reddit_rss",
-    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
-    "_score_raw": 57,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "_practical_delta": 10,
-    "summary_zh": "three weeks of posting my api everywhere got me 25 users and zero customers",
-    "highlights": [],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "避坑样本：作者到处发 API 三周，换来 25 个用户、0 个付费客户——只铺渠道不验证付费意愿的教训",
-      "lines": {
-        "value": "数据「25 users」",
-        "note": "数字均为发帖人自述，未经核实"
-      },
-      "evidence": [
-        "25 users"
-      ],
-      "point": "避坑样本：作者到处发 API 三周，换来 25 个用户、0 个付费客户——只铺渠道不验证付费意愿的教训",
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-zh-4cff725103f8",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "当知识不再稀缺：大模型时代企业知识管理的四重风险",
-    "summary": "例如，贝壳的经纪人AI工具“来客”在成都站全面铺开后，经纪人的每单平均成交周期缩短27天。",
-    "source": "虎嗅",
-    "source_url": "https://www.huxiu.com/article/4900646.html?f=rss",
-    "published_at": "Tue, 27 Oct 2026 06:09:38 +0800",
-    "tags": [
-      "中文",
-      "虎嗅"
-    ],
-    "score": 64,
-    "why": "AI 提效量化案例：贝壳经纪人 AI 工具「来客」在成都站全面铺开后，每单平均成交周期缩短 27 天——给企业讲 AI 落地 ROI 时可直接引用",
-    "deep_link": "https://www.huxiu.com/article/4900646.html?f=rss",
-    "extra": {},
-    "blurb": "例如，贝壳的经纪人AI工具“来客”在成都站全面铺开后，经纪人的每单平均成交周期缩短27天。",
-    "url": "https://www.huxiu.com/article/4900646.html?f=rss",
-    "name": "当知识不再稀缺：大模型时代企业知识管理的四重风险",
-    "lang": "zh",
-    "posted_at": "Tue, 27 Oc",
-    "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-huxiu",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "原文数字：例如，贝壳的经纪人AI工具“来客”在成都站全面铺开后，经纪人的每单平均成交周期缩短27天。",
-      "lines": {
-        "fact": "原文数字：例如，贝壳的经纪人AI工具“来客”在成都站全面铺开后，经纪人的每单平均成交周期缩短27天。"
-      },
-      "evidence": [
-        "例如，贝壳的经纪人AI工具“来客”在成都站全面铺开后，经纪人的每单平均成交周期缩短27天。",
-        "27天"
-      ],
-      "point": "当知识不再稀缺：大模型时代企业知识管理的四重风险"
-    },
-    "title_orig": "当知识不再稀缺：大模型时代企业知识管理的四重风险",
-    "source_excerpt": "例如，贝壳的经纪人AI工具“来客”在成都站全面铺开后，经纪人的每单平均成交周期缩短27天。 本文来自微信公众号： 清华管理评论 ，责编：刘永选，作者：朱秀梅 陈柳阳，原文标题：《当知识不再稀缺——大模型时代企业知识管理的四重风险》 知识管理正在从效率问题演变为治理问题，其核心不是技术，而是人与机制。AI可以生成和整合知识，但不能判断知识该不该被信任，不能划定知识主权的边界，不能替人完成真正的学习。在AI时代，组织长远的知识竞争力最终取决于能否在拥抱技术效率的同时，构建起有效的治理体系，从“管理知识”迈向“驾驭AI知识”，真正把AI转化为组织竞争力。 知识不再稀缺 长期以来，企业知识管理面临两个经典难题：一是“不够”，大量经验掌握在少数专家手里，难以复制传承；二是“不通”，跨部门信息分散、术语不统一、经验沉淀不下来，新人需要长时间摸索。面对这一困境，企业知识管理主要集中在“获取、沉淀、共享、流动”等环节。 生成式AI显著降低了获",
-    "_score_raw": 64,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "summary_zh": "例如，贝壳的经纪人AI工具“来客”在成都站全面铺开后，经纪人的每单平均成交周期缩短27天。",
-    "highlights": [
-      "本文来自微信公众号： 清华管理评论 ，责编：刘永选，作者：朱秀梅…",
-      "AI可以生成和整合知识，但不能判断知识该不该被信任，不能划定知识主权的边界，不能替人完成真正的学习。",
-      "在AI时代，组织长远的知识竞争力最终取决于能否在拥抱技术效率的同时，构建起有效的治理体系，从“管理知识”迈向“驾驭AI…"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "AI 提效量化案例：贝壳经纪人 AI 工具「来客」在成都站全面铺开后，每单平均成交周期缩短 27 天——给企业讲 AI 落地 ROI 时可直接引用",
-      "lines": {
-        "fact": "原文数字：例如，贝壳的经纪人AI工具“来客”在成都站全面铺开后，经纪人的每单平均成交周期缩短27天。"
-      },
-      "evidence": [
-        "例如，贝壳的经纪人AI工具“来客”在成都站全面铺开后，经纪人的每单平均成交周期缩短27天。",
-        "27天"
-      ],
-      "point": "AI 提效量化案例：贝壳经纪人 AI 工具「来客」在成都站全面铺开后，每单平均成交周期缩短 27 天——给企业讲 AI 落地 ROI 时可直接引用",
       "verdict_label": "收藏",
       "title": ""
     }
@@ -986,7 +620,7 @@
       "SaaS"
     ],
     "score": 62,
-    "why": "产品定价打法：拆解 Nikita Bier（做过 15 个 App、顾问费每月 $36,000）的方法——注册 3 秒内见价值、把客服里被问最多的需求做成付费功能，做 AI 小产品可直接套",
+    "why": "产品定价打法：拆解顾问费每月 $36,000 的方法——注册 3 秒内见价值、把客服里被问最多的需求做成付费功能，做 AI 小产品可直接套",
     "deep_link": "https://www.tmaker.io/blog/36-000-of-coaching-for-0",
     "extra": {},
     "blurb": "$36,000 of coaching for $0",
@@ -1018,16 +652,14 @@
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "产品定价打法：拆解 Nikita Bier（做过 15 个 App、顾问费每月 $36,000）的方法——注册 3 秒内见价值、把客服里被问最多的需求做成付费功能，做 AI 小产品可直接套",
+      "use": "产品定价打法：拆解顾问费每月 $36,000 的方法——注册 3 秒内见价值、把客服里被问最多的需求做成付费功能，做 AI 小产品可直接套",
       "lines": {
         "value": "原文数字：金额「$36,000 of coaching for $0」"
       },
       "evidence": [
-        "$36,000 of coaching for $0",
-        "He charges $36,000 a month to advise founders.",
-        "Read your support inbox like a pricing page. What people ask for most is what they'd pay for."
+        "$36,000 of coaching for $0"
       ],
-      "point": "产品定价打法：拆解 Nikita Bier（做过 15 个 App、顾问费每月 $36,000）的方法——注册 3 秒内见价值、把客服里被问最多的需求做成付费功能，做 AI 小产品可直接套",
+      "point": "产品定价打法：拆解顾问费每月 $36,000 的方法——注册 3 秒内见价值、把客服里被问最多的需求做成付费功能，做 AI 小产品可直接套",
       "concrete": [
         {
           "kind": "money",
@@ -1044,7 +676,7 @@
     "type": "post",
     "category": "AI变现",
     "title": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
-    "summary": "In this week's episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win.",
+    "summary": "In this week’s episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win.",
     "source": "@nichepursuits / Niche Pursuits",
     "source_url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
     "published_at": "2026-10-07T14:02:14.000Z",
@@ -1058,7 +690,7 @@
     "why": "内容站变现案例：Maddox 做到日入 $1,000 的网站并以 $120,000 卖出，访谈讲流量和出售过程",
     "deep_link": "https://www.nichepursuits.com/maddox-schmidlkofer/",
     "extra": {},
-    "blurb": "In this week's episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win.",
+    "blurb": "In this week’s episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win.",
     "url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
     "handle": "nichepursuits",
     "name": "Niche Pursuits",
@@ -1069,7 +701,7 @@
     "_origin": "kol_rss",
     "_source_id": "kol:nichepursuits",
     "title_orig": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
-    "source_excerpt": "In this week's episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win. At 21, Maddox has already built a website generating $1,000 per day and sold it for $120,000. His current… The post How Maddox Schmidlkofer Bui",
+    "source_excerpt": "In this week’s episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win. At 21, Maddox has already built a website generating $1,000 per day and sold it for $120,000. His current… The post How Maddox Schmidlkofer Bui",
     "person_id": "nichepursuits",
     "person_handle": "nichepursuits",
     "person_name": "Niche Pursuits",
@@ -1085,7 +717,7 @@
       "proof": "$1,000"
     },
     "_practical_delta": 10,
-    "summary_zh": "In this week's episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win.",
+    "summary_zh": "In this week’s episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win.",
     "highlights": [
       "At 21, Maddox has already built a website generating $1,000…",
       "His current… The post How Maddox Schmidlkofer Bui"
@@ -1191,7 +823,7 @@
       "SaaS"
     ],
     "score": 38,
-    "why": "创业经验：AppSumo（年营收 $1 亿）创始人 Noah Kagan 被微软/谷歌拒、做过 20+ 失败项目后，总结 9 条给年轻时自己的直白建议",
+    "why": "创业经验：AppSumo（年营收约 $1 亿）创始人总结给年轻时自己的直白建议，适合对照自己的副业/小产品节奏",
     "deep_link": "https://noahkagan.com/brutally-honest-business-advice-to-my-younger-self/",
     "extra": {},
     "blurb": "AppSumo does $100M a year in revenue.",
@@ -1230,14 +862,14 @@
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "创业经验：AppSumo（年营收 $1 亿）创始人 Noah Kagan 被微软/谷歌拒、做过 20+ 失败项目后，总结 9 条给年轻时自己的直白建议",
+      "use": "创业经验：AppSumo（年营收约 $1 亿）创始人总结给年轻时自己的直白建议，适合对照自己的副业/小产品节奏",
       "lines": {
         "value": "原文数字：金额「AppSumo does $100M a year in revenue.」"
       },
       "evidence": [
         "AppSumo does $100M a year in revenue."
       ],
-      "point": "创业经验：AppSumo（年营收 $1 亿）创始人 Noah Kagan 被微软/谷歌拒、做过 20+ 失败项目后，总结 9 条给年轻时自己的直白建议",
+      "point": "创业经验：AppSumo（年营收约 $1 亿）创始人总结给年轻时自己的直白建议，适合对照自己的副业/小产品节奏",
       "concrete": [
         {
           "kind": "money",

@@ -1,134 +1,134 @@
 {
-  "generated_at": "2026-10-27T00:01:06.504Z",
+  "generated_at": "2026-10-28T00:01:49.693Z",
   "sources": {
     "coingecko_global": {
       "url": "https://api.coingecko.com/api/v3/global",
       "status": 200,
-      "ms": 194
+      "ms": 211
     },
     "coingecko_markets": {
       "url": "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&price_change_percentage=24h,7d",
       "status": 200,
-      "ms": 102
+      "ms": 91
     },
     "coingecko_trending": {
       "url": "https://api.coingecko.com/api/v3/search/trending",
       "status": 200,
-      "ms": 34
+      "ms": 14
     },
     "farside_btc": {
       "url": "https://farside.co.uk/btc/",
       "status": 200,
-      "ms": 533
+      "ms": 517
     },
     "farside_eth": {
       "url": "https://farside.co.uk/eth/",
       "status": 200,
-      "ms": 393
+      "ms": 248
     },
     "farside_sol": {
       "url": "https://farside.co.uk/sol/",
       "status": 200,
-      "ms": 217
+      "ms": 216
     },
     "defillama_stablecoins": {
       "url": "https://stablecoins.llama.fi/stablecoincharts/all",
       "status": 200,
-      "ms": 119
+      "ms": 58
     },
     "defillama_fees": {
       "url": "https://api.llama.fi/overview/fees?excludeTotalDataChart=true&excludeTotalDataChartBreakdown=true&dataType=dailyRevenue",
       "status": 200,
-      "ms": 78
+      "ms": 69
     },
     "coindesk": {
       "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
       "status": 200,
-      "ms": 149,
+      "ms": 86,
       "items": 25
     },
     "theblock": {
       "url": "https://www.theblock.co/rss.xml",
       "status": 200,
-      "ms": 100,
-      "items": 19
+      "ms": 47,
+      "items": 20
     },
     "decrypt": {
       "url": "https://decrypt.co/feed",
       "status": 200,
-      "ms": 61,
-      "items": 40
+      "ms": 49,
+      "items": 55
     },
     "cointelegraph": {
       "url": "https://cointelegraph.com/rss",
       "status": 200,
-      "ms": 84,
+      "ms": 47,
       "items": 30
     },
     "okx_funding_BTC": {
       "url": "https://www.okx.com/api/v5/public/funding-rate?instId=BTC-USDT-SWAP",
       "status": 200,
-      "ms": 236
+      "ms": 210
     },
     "okx_oi_BTC": {
       "url": "https://www.okx.com/api/v5/public/open-interest?instType=SWAP&instId=BTC-USDT-SWAP",
       "status": 200,
-      "ms": 200
+      "ms": 257
     },
     "okx_funding_ETH": {
       "url": "https://www.okx.com/api/v5/public/funding-rate?instId=ETH-USDT-SWAP",
       "status": 200,
-      "ms": 248
+      "ms": 203
     },
     "okx_oi_ETH": {
       "url": "https://www.okx.com/api/v5/public/open-interest?instType=SWAP&instId=ETH-USDT-SWAP",
       "status": 200,
-      "ms": 218
+      "ms": 199
     },
     "okx_funding_SOL": {
       "url": "https://www.okx.com/api/v5/public/funding-rate?instId=SOL-USDT-SWAP",
       "status": 200,
-      "ms": 210
+      "ms": 190
     },
     "okx_oi_SOL": {
       "url": "https://www.okx.com/api/v5/public/open-interest?instType=SWAP&instId=SOL-USDT-SWAP",
       "status": 200,
-      "ms": 236
+      "ms": 187
     },
     "yahoo_chart_^GSPC": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?range=5d&interval=1d",
       "status": 200,
-      "ms": 169
+      "ms": 242
     },
     "yahoo_chart_^IXIC": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?range=5d&interval=1d",
       "status": 200,
-      "ms": 82
+      "ms": 70
     },
     "yahoo_chart_^SOX": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ESOX?range=5d&interval=1d",
       "status": 200,
-      "ms": 80
+      "ms": 186
     },
     "yahoo_chart_^VIX": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EVIX?range=5d&interval=1d",
       "status": 200,
-      "ms": 50
+      "ms": 84
     },
     "yahoo_chart_^TNX": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ETNX?range=5d&interval=1d",
       "status": 200,
-      "ms": 67
+      "ms": 59
     },
     "yahoo_chart_DX-Y.NYB": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?range=5d&interval=1d",
       "status": 200,
-      "ms": 58
+      "ms": 49
     },
     "yahoo_chart_NVDA": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/NVDA?range=5d&interval=1d",
       "status": 200,
-      "ms": 94
+      "ms": 93
     },
     "yahoo_chart_AMD": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/AMD?range=5d&interval=1d",
@@ -138,12 +138,12 @@
     "yahoo_chart_AVGO": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/AVGO?range=5d&interval=1d",
       "status": 200,
-      "ms": 187
+      "ms": 157
     },
     "yahoo_chart_TSM": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/TSM?range=5d&interval=1d",
       "status": 200,
-      "ms": 72
+      "ms": 68
     },
     "yahoo_chart_ASML": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/ASML?range=5d&interval=1d",
@@ -153,129 +153,134 @@
     "yahoo_chart_MU": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/MU?range=5d&interval=1d",
       "status": 200,
-      "ms": 121
+      "ms": 74
     },
     "yahoo_chart_ARM": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/ARM?range=5d&interval=1d",
       "status": 200,
-      "ms": 78
+      "ms": 52
     },
     "yahoo_chart_MSFT": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/MSFT?range=5d&interval=1d",
       "status": 200,
-      "ms": 98
+      "ms": 75
     },
     "yahoo_chart_GOOGL": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/GOOGL?range=5d&interval=1d",
       "status": 200,
-      "ms": 116
+      "ms": 54
     },
     "yahoo_chart_META": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/META?range=5d&interval=1d",
       "status": 200,
-      "ms": 60
+      "ms": 55
     },
     "yahoo_chart_AMZN": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/AMZN?range=5d&interval=1d",
       "status": 200,
-      "ms": 50
+      "ms": 85
     },
     "yahoo_chart_AAPL": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/AAPL?range=5d&interval=1d",
       "status": 200,
-      "ms": 108
+      "ms": 90
     },
     "yahoo_chart_TSLA": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/TSLA?range=5d&interval=1d",
       "status": 200,
-      "ms": 51
+      "ms": 61
     },
     "yahoo_chart_PLTR": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/PLTR?range=5d&interval=1d",
       "status": 200,
-      "ms": 52
+      "ms": 61
     },
     "yahoo_chart_ORCL": {
       "url": "https://query1.finance.yahoo.com/v8/finance/chart/ORCL?range=5d&interval=1d",
       "status": 200,
-      "ms": 67
+      "ms": 69
     },
     "yahoo_day_gainers": {
       "url": "https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?scrIds=day_gainers&count=100",
       "status": 200,
-      "ms": 137
+      "ms": 93
     },
     "yahoo_day_losers": {
       "url": "https://query1.finance.yahoo.com/v1/finance/screener/predefined/saved?scrIds=day_losers&count=100",
       "status": 200,
-      "ms": 137
+      "ms": 140
     },
     "cnbc_earnings": {
       "url": "https://www.cnbc.com/id/15839135/device/rss/rss.html",
       "status": 200,
-      "ms": 63,
+      "ms": 124,
       "items": 30
     },
     "yahoo_rss_leaders": {
       "url": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=NVDA,AMD,AVGO,TSM,ASML,MU,MSFT,GOOGL,META,AMZN,AAPL,TSLA,NFLX,ORCL&region=US&lang=en-US",
       "status": 200,
-      "ms": 218,
-      "items": 17
+      "ms": 225,
+      "items": 20
     },
     "nasdaq_earnings": {
       "url": "https://www.nasdaq.com/feed/rssoutbound?category=Earnings",
       "status": "error",
       "error": "The operation was aborted due to timeout",
-      "ms": 25003
+      "ms": 25005
     },
     "wscn_global-channel": {
       "url": "https://api-one-wscn.awtmt.com/apiv1/content/lives?channel=global-channel&limit=100",
       "status": 200,
-      "ms": 3984
+      "ms": 1275
     },
     "wscn_us-stock-channel": {
       "url": "https://api-one-wscn.awtmt.com/apiv1/content/lives?channel=us-stock-channel&limit=100",
       "status": 200,
-      "ms": 4370
+      "ms": 1976
     },
     "panews_rss": {
       "url": "https://www.panewslab.com/rss.xml",
       "status": 200,
-      "ms": 1537,
+      "ms": 1449,
       "items": 100
     },
     "blockbeats_flash": {
       "url": "https://api.theblockbeats.news/v1/open-api/open-flash?size=50&page=1&lang=cn",
       "status": "error",
       "error": "fetch failed",
-      "ms": 8018
+      "ms": 8014
     },
     "odaily_rss": {
       "url": "https://rss.odaily.news/rss/newsflash",
       "status": 200,
-      "ms": 1382
+      "ms": 1390
     },
     "jin10_flash": {
       "url": "https://flash-api.jin10.com/get_flash_list?channel=-8200",
       "status": 502,
-      "ms": 1089
+      "ms": 1355
     }
   },
   "dropped": [
     {
       "source": "CoinGecko",
-      "title": "热搜去重 Q",
-      "reason": "已在涨跌幅榜，热搜去掉：Q"
+      "title": "前100 跌幅榜",
+      "reason": "榜首 24h 变动 <5%，无异动"
+    },
+    {
+      "source": "CoinGecko",
+      "title": "热搜去重 ZEC",
+      "reason": "已在涨跌幅榜，热搜去掉：ZEC"
     },
     {
       "source": "Farside",
-      "title": "BTC 26 Oct 2026",
-      "reason": "跳过不完整行：仅 4/12 只基金有数值"
+      "title": "BTC 27 Oct 2026",
+      "reason": "跳过不完整行：仅 5/12 只基金有数值"
     },
     {
       "source": "Farside",
-      "title": "ETH 26 Oct 2026",
-      "reason": "跳过不完整行：仅 4/11 只基金有数值"
+      "title": "ETH 27 Oct 2026",
+      "reason": "跳过不完整行：仅 5/11 只基金有数值"
     },
     {
       "source": "Farside",
@@ -284,397 +289,462 @@
     },
     {
       "source": "Farside",
-      "title": "SOL 26 Oct 2026",
-      "reason": "跳过不完整行：仅 3/7 只基金有数值"
+      "title": "SOL 27 Oct 2026",
+      "reason": "跳过不完整行：3/7 只基金为空或 —"
     },
     {
-      "source": "Farside",
-      "title": "SOL 22 Oct 2026",
-      "reason": "最新一行已 4.0 天前，不是新信息"
+      "source": "DefiLlama",
+      "title": "协议收入",
+      "reason": "24h收入≥$0.5M 且 7日变化≥25% 的协议不足 2 个"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+      "reason": "sponsored_promo"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
+      "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
+      "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Now is the time to accumulate bitcoin, Galaxy says",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "An AI label alone no longer wins lenders, JPMorgan says",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+      "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "OCC calls on community banks to enter the stablecoin payments market",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "CoinDesk",
       "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
-      "source": "CoinDesk",
-      "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "AI giant Anthropic files for blockbuster IPO",
+      "source": "The Block",
+      "title": "Robinhood Chain brings in $26 million as crypto revenue rises 20% in Q3",
       "reason": "标题与价格/资金/监管/安全无关"
     },
     {
-      "source": "CoinDesk",
-      "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
+      "source": "The Block",
+      "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "The Block",
+      "title": "Crypto.com and OG.com launch US crypto perps with up to 5x leverage",
+      "reason": "leverage_recommendation"
+    },
+    {
+      "source": "The Block",
+      "title": "SoFi discloses 503,000 crypto products as gross crypto revenue hits $162 million",
+      "reason": "标题与价格/资金/监管/安全无关"
+    },
+    {
+      "source": "The Block",
+      "title": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "The Block",
+      "title": "Galaxy Digital swings to $323 million quarterly profit, announces new $200 million share buyback",
+      "reason": "标题与价格/资金/监管/安全无关"
+    },
+    {
+      "source": "The Block",
+      "title": "Crypto Market Structure Explained",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "The Block",
+      "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
+      "reason": "标题与价格/资金/监管/安全无关"
+    },
+    {
+      "source": "The Block",
+      "title": "StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy",
       "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
     },
     {
-      "source": "CoinDesk",
-      "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
+      "source": "The Block",
+      "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
       "reason": "no_concrete_number"
     },
     {
-      "source": "CoinDesk",
-      "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+      "source": "The Block",
+      "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
       "reason": "no_concrete_number"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Over 11 million bitcoin has no known owner. Here's what it means",
-      "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
-      "reason": "标题与价格/资金/监管/安全无关"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
-      "reason": "标题与价格/资金/监管/安全无关"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "The Block",
       "title": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "The Block",
       "title": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "The Block",
+      "title": "Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "The Block",
       "title": "Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "The Block",
       "title": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
-      "source": "The Block",
-      "title": "Tom Lee insists ‘crypto bull market is underway’ as Bitmine adds 10,452 ETH",
+      "source": "Decrypt",
+      "title": "China's Stock Market Has Lost $2.4 Trillion as Investors Doubt Its AI Boom Will Ever Pay Off",
       "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
     },
     {
-      "source": "The Block",
-      "title": "Galaxy says bitcoin bear market is over; now is the time to buy and hold",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "The Block",
-      "title": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
+      "source": "Decrypt",
+      "title": "Robinhood Misses Q3 Earnings as Crypto Revenue Rises and Prediction Market Bets Grow",
       "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
     },
     {
-      "source": "The Block",
-      "title": "South Korea weighs fourth delay of crypto gains tax, eyes 2029 start: report",
+      "source": "Decrypt",
+      "title": "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
       "reason": "no_concrete_number"
     },
     {
-      "source": "The Block",
-      "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
+      "source": "Decrypt",
+      "title": "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Circle Pushes Deeper Into Latin America With USDC Settlement in Colombia",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Decrypt",
+      "title": "A $3M Hedge, a Midterm Test and Retail's Rise: Prediction Markets at NEXTPredict",
+      "reason": "标题与价格/资金/监管/安全无关"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Decrypt",
+      "title": "McDonald's McRib Doesn't Actually Boost Bitcoin's Price, Sorry Everyone",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Polymarket Has Investigated 'Dozens' of Midterm Election Bets: Report",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Tokenized Stock Battle Looms Over Robinhood’s Earnings Call",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
+      "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
-      "source": "The Block",
-      "title": "Keystone customers say breach exposed data the hardware wallet maker promised to delete",
+      "source": "Decrypt",
+      "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
-      "source": "The Block",
-      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "The Block",
-      "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "The Block",
-      "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "The Block",
-      "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "The Block",
-      "title": "Initia halts network after security incident as attacker reportedly mints tokens",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "The Block",
-      "title": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
+      "source": "Decrypt",
+      "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Decrypt",
+      "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Why Prediction Markets Got the Brazilian Election So Wrong",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
-      "reason": "标题与价格/资金/监管/安全无关"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "India’s CoinDCX Confirms $16 Million Loss Days After CEO Called It a ‘False Alarm’",
-      "reason": "标题与价格/资金/监管/安全无关"
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
-      "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "'Privacy Horror’: Researcher Uncovers Extent of Samsung Smart TV User Tracking",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Anthropic Makes IPO Filing Public, Plans Nasdaq Listing Under ‘ANT’",
-      "reason": "标题与价格/资金/监管/安全无关"
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
-      "reason": "no_concrete_number"
+      "reason": "超过 24h，不是今天的新信息"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
       "title": "Israel's Central Bank Rebukes Netanyahu Plan to Use Crypto to Dodge Sanctions",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
+      "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
+      "title": "From Stellar to Canton: How Franklin Templeton Adopted Tokenization",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+      "title": "Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Game Publishers Have Pushed to Cut Discs Since 2007, Infinity Ward Veteran Says",
+      "title": "Trump’s speech at Davos gives small boost to Crypto! Saylor buys $2.13B BTC! Blondish Interview!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+      "title": "Trump Tariffs 3: Return of the Bull Market! NYSE Tokenising, what that means for $Hype! Claude Meme Meta!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+      "title": "Crypto sells off amidst Trump Tariff Turmoil! $Trove falls 90% in awful TGE! Pump Fund announced!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
+      "title": "Massive Coinbase News! Bitcoin Rips to $96,750! Football.Fun TGE Interview with Founder!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
+      "title": "Are we back? Crypto is Green! Solana Intern goes rogue! Pump up 13%! Monero hits another ATH!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+      "title": "Pump & Memes HEATING up! XMR vs ZEC! How important are these rate cuts? - Under Exposed",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "How I Vibe Coded My Smart TV—And Claude Killed It",
+      "title": "PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+      "title": "A16z raise $15B! Jerome Powell vs Trump! Crypto remains flat! Special Guest: Dudas!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
+      "title": "ZEC Rebounds 11%! Trump says he won’t pardon Sam Bankman-Fried! Florida revisits it’s Strategic Bitcoin Reserve!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+      "title": "The ZCash situation explained! Interview with ZEC bull Mert! BTC below $90K! ZEC falls 19%!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Morning Minute: a16z Drops 'Crypto' From Its Fund",
+      "title": "First 2026 Dip! BTC at 92K! Morgan Stanley file for BTC, ETH & SOL ETFs! Hyperliquid Airdrop Speculation!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Interpol Recovers $105M in African Cybercrime Sweep That Shut Illegal Crypto Mines",
+      "title": "Crypto starts 2026 STRONG! Venezuela Impacts on the market! Lighter TGE reactions!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+      "title": "Global Crypto MCap up to $3.22 Trillion! XRP up 12%! Japan Endorse Crypto! Fear & Greed back to Neutral!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
+      "title": "Crypto is Green! Up 6-9%! Memes outperform! Pepe up 67%! Infinex Founder Interview!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
+      "title": "Crypto Wallets Can ‘Directly Compete With Neobanks'",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
+      "title": "2026 Crypto Predictions! Tom Lee still buying ETH! Rekt tease WorldStar collab!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Decrypt",
-      "title": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
+      "title": "The White Whale up 10x in a week! Lighter TGE! Saylor buys $109M BTC!",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
-      "title": "US OCC calls on community banks to become payment stablecoin issuers",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "AI company Anthropic announces IPO, expected as early as November",
+      "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
       "reason": "标题与价格/资金/监管/安全无关"
     },
     {
       "source": "Cointelegraph",
-      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
+      "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
       "reason": "no_concrete_number"
     },
     {
       "source": "Cointelegraph",
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
+      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
       "reason": "no_concrete_number"
     },
     {
@@ -684,153 +754,208 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-      "reason": "标题与价格/资金/监管/安全无关"
+      "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
+      "reason": "no_concrete_number"
     },
     {
       "source": "Cointelegraph",
-      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
+      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
       "reason": "归不进价格/资金/监管/安全/宏观类别，对短线趋势感知用处小"
     },
     {
       "source": "Cointelegraph",
-      "title": "Securitize’s tokenized stock value halves as Circle widens lead",
-      "reason": "标题与价格/资金/监管/安全无关"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
-      "reason": "标题与价格/资金/监管/安全无关"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+      "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
       "reason": "no_concrete_number"
     },
     {
       "source": "Cointelegraph",
-      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+      "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
       "reason": "no_concrete_number"
     },
     {
       "source": "Cointelegraph",
-      "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+      "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
       "reason": "no_concrete_number"
     },
     {
       "source": "Cointelegraph",
-      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+      "title": "Binance files for Brazil crypto license ahead of Friday deadline",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ripple wins final US approval for national trust bank",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US OCC calls on community banks to become payment stablecoin issuers",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
-      "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
+      "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
-      "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+      "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
-      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+      "title": "AI company Anthropic announces IPO, expected as early as November",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
-      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
-      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
-      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
-      "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "China targets 2030 for its national blockchain network buildout",
-      "reason": "超过 24h，不是今天的新信息"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
+      "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
       "reason": "超过 24h，不是今天的新信息"
     },
     {
       "source": "Cointelegraph",
       "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-      "reason": "与「Strategy pauses bitcoin buys, repurchases $205 million of ST」重复"
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-      "reason": "与「Bitcoin slips under $80,000 as traders de-risk ahead of Fed 」重复"
+      "source": "Cointelegraph",
+      "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
+      "reason": "超过 24h，不是今天的新信息"
     },
     {
-      "source": "Decrypt",
-      "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
-      "reason": "与「Bitcoin slips under $80,000 as traders de-risk ahead of Fed 」重复"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
-      "reason": "与「Bitcoin slips under $80,000 as traders de-risk ahead of Fed 」重复"
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+      "source": "Cointelegraph",
+      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
       "reason": "单源上限 2"
     },
     {
-      "source": "Decrypt",
-      "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
-      "reason": "与「Strategy pauses bitcoin buys, repurchases $205 million of ST」重复"
+      "source": "CoinDesk",
+      "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
+      "reason": "与「Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despit」重复"
     },
     {
-      "source": "Decrypt",
-      "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
+      "source": "Cointelegraph",
+      "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
+      "reason": "单源上限 2"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
       "reason": "单源上限 2"
     },
     {
       "source": "The Block",
-      "title": "Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders",
+      "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
+      "reason": "与「Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI」重复"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
       "reason": "单源上限 2"
     },
     {
       "source": "CoinDesk",
-      "title": "Live news: Bitcoin dips below $80,000 as stocks rally following Anthropic IPO filing",
-      "reason": "与「Bitcoin slips under $80,000 as traders de-risk ahead of Fed 」重复"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
+      "title": "Live updates: Bitcoin edges higher as Nasdaq surges 1.2%",
       "reason": "单源上限 2"
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-      "reason": "新闻总上限 6（按证据数量/时间排序后靠后）"
+      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+      "reason": "单源上限 2"
+    },
+    {
+      "source": "The Block",
+      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
+      "reason": "单源上限 2"
     },
     {
       "source": "Cointelegraph",
-      "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
+      "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
+      "reason": "单源上限 2"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC sues Utah to block action against prediction markets",
+      "reason": "单源上限 2"
+    },
+    {
+      "source": "The Block",
+      "title": "Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation",
       "reason": "新闻总上限 6（按证据数量/时间排序后靠后）"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
+      "reason": "新闻总上限 6（按证据数量/时间排序后靠后）"
+    },
+    {
+      "source": "CNBC Earnings",
+      "title": "Where Cramer stands on two beaten-down aerospace stocks — and the one to buy",
+      "reason": "opinion_or_preview"
+    },
+    {
+      "source": "CNBC Earnings",
+      "title": "Robinhood shares fall 4% as crypto slump weighs on profits, offsetting gains in new businesses",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "CNBC Earnings",
+      "title": "Boeing shares slide on a disappointing cash flow update. Why this dip is buyable",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "CNBC Earnings",
+      "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "CNBC Earnings",
+      "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "CNBC Earnings",
+      "title": "UPS beats quarterly expectations, raises full-year guidance again",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "CNBC Earnings",
+      "title": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "CNBC Earnings",
+      "title": "JetBlue stock surges as company outlook calms investors",
+      "reason": "not_reported_result"
     },
     {
       "source": "CNBC Earnings",
@@ -895,12 +1020,12 @@
     {
       "source": "CNBC Earnings",
       "title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
-      "reason": "not_reported_result"
+      "reason": "超过 7 天，不是本轮财报新闻"
     },
     {
       "source": "CNBC Earnings",
       "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-      "reason": "no_concrete_number"
+      "reason": "超过 7 天，不是本轮财报新闻"
     },
     {
       "source": "CNBC Earnings",
@@ -910,7 +1035,7 @@
     {
       "source": "CNBC Earnings",
       "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-      "reason": "no_concrete_number"
+      "reason": "超过 7 天，不是本轮财报新闻"
     },
     {
       "source": "CNBC Earnings",
@@ -928,139 +1053,104 @@
       "reason": "超过 7 天，不是本轮财报新闻"
     },
     {
-      "source": "CNBC Earnings",
-      "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
-      "reason": "超过 7 天，不是本轮财报新闻"
-    },
-    {
-      "source": "CNBC Earnings",
-      "title": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
-      "reason": "超过 7 天，不是本轮财报新闻"
-    },
-    {
-      "source": "CNBC Earnings",
-      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-      "reason": "超过 7 天，不是本轮财报新闻"
-    },
-    {
-      "source": "CNBC Earnings",
-      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-      "reason": "超过 7 天，不是本轮财报新闻"
-    },
-    {
-      "source": "CNBC Earnings",
-      "title": "ASML says it's getting order interest through 2030 as profit smashes expectations",
-      "reason": "超过 7 天，不是本轮财报新闻"
-    },
-    {
-      "source": "CNBC Earnings",
-      "title": "We're upgrading our rating on Wells Fargo as the stock's pullback offers a nice entry point",
-      "reason": "超过 7 天，不是本轮财报新闻"
-    },
-    {
-      "source": "CNBC Earnings",
-      "title": "We're upgrading our Goldman Sachs rating after a strong quarter bodes well for the future",
-      "reason": "超过 7 天，不是本轮财报新闻"
-    },
-    {
-      "source": "CNBC Earnings",
-      "title": "J&J's 6% slide on an imperfect quarter is a gift to prospective buyers",
-      "reason": "超过 7 天，不是本轮财报新闻"
-    },
-    {
-      "source": "CNBC Earnings",
-      "title": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
-      "reason": "超过 7 天，不是本轮财报新闻"
-    },
-    {
-      "source": "CNBC Earnings",
-      "title": "Cramer’s week ahead: Earnings kick off as banks and chipmakers face big tests",
-      "reason": "超过 7 天，不是本轮财报新闻"
-    },
-    {
       "source": "Yahoo Finance RSS",
-      "title": "TSLA Analyst Ratings Hit Highest Since 2023; ARK Reiterates $4,400 Long-Term Price Target And 80% Robotaxi Thesis",
+      "title": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
       "reason": "not_reported_result"
     },
     {
       "source": "Yahoo Finance RSS",
-      "title": "CORRECTING and REPLACING Waymo, Google and Microsoft Alums Raise $30M to Build the Data Layer for Physical AI",
+      "title": "Nvidia Stock Is 10% Below Its Record. Does Anthropic's IPO Filing Make It a Buy?",
       "reason": "not_reported_result"
     },
     {
       "source": "Yahoo Finance RSS",
-      "title": "Target has a problem that sends shoppers to Amazon",
+      "title": "What Could Robot Memory Demand Mean For Micron Technology (MU) Stock?",
       "reason": "not_reported_result"
     },
     {
       "source": "Yahoo Finance RSS",
-      "title": "Broadcom Partners With Wall Street Bigwigs To Forge $63B Deal To Power Anthropic’s AI Hardware",
+      "title": "Intel, Microchip Technology, Marvell Technology, onsemi, and Seagate stocks trade up, what you need to know",
       "reason": "not_reported_result"
     },
     {
       "source": "Yahoo Finance RSS",
-      "title": "Why Range Resources Stock Surged Today",
+      "title": "Ascendion Expands AI Advisory Community with Four Global Business and Technology Leaders",
       "reason": "not_reported_result"
     },
     {
       "source": "Yahoo Finance RSS",
-      "title": "Intel vs. Nvidia: Flat Trends vs. Rapid Expansion in Revenue",
+      "title": "Amazon Backup Power Deal Could Be A Turning Point For Generac Stock",
       "reason": "not_reported_result"
     },
     {
       "source": "Yahoo Finance RSS",
-      "title": "Mark Cuban puts Bitcoin and Apple in the same bucket",
+      "title": "Micron Will Pay Bonuses Half in Stock. At 63, Shares He Hasn’t Sold Could Still Count Toward His $25,560 Social Security Limit",
       "reason": "not_reported_result"
     },
     {
       "source": "Yahoo Finance RSS",
-      "title": "Anthropic Just Filed to Go Public. Should You Buy the Stock?",
+      "title": "TSLA Stock Rises As Cybercabs Overtake Model Ys In Authorized Texas Robotaxi Fleet",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "History Says the Stock Market's Best 6 Months Start Nov. 1. Here's How Often They've Paid Off Since 1950.",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Why Celestica Stock Jumped Today",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Best Buy keeps a key customer perk Target dropped",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Why Archer Aviation Stock Took Flight on Tuesday",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "USA Rare Earth Just Broke Ground on a $1.2 Billion Magnet Complex. Here's Why It Matters.",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Semtech, Amkor, Entegris, MACOM, and Vishay Intertechnology stocks trade up, what you need to know",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Why Brown & Brown Stock Slumped by 5% Today",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "S&P 500, Nasdaq Jump On Chipmaker Strength As Investors Eye October Fed Decision — ORCL, HOOD, JBLU, RIVN, SMCI In Focus",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "The 5 moats that still matter in the AI era",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Boeing's Backlog Grew to $745 Billion. The Question Remains How Fast It Can Fulfill It",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "$10,000 Invested in Eli Lilly 5 Years Ago Would Be Worth This Much Today",
+      "reason": "not_reported_result"
+    },
+    {
+      "source": "Yahoo Finance RSS",
+      "title": "Earnings from Google and Microsoft and a Fed rate decision: What to Watch",
       "reason": "opinion_or_preview"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "Berkshire Hathaway: Is the Stock Still a Safe Buy Without Warren Buffett?",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "Why Nu Holdings Stock Got Crushed on Monday",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "Should You Forget Clorox Stock Near a 52-Week Low?",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "Why JetBlue Stock Dived by Almost 10% on Monday",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "SpaceX's Adjusted Earnings Quadrupled in Q3. Is the Stock Heading Back to $200?",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "Here's Exactly What Investors Should Look for From the Federal Reserve's October Meeting",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "S&P 500, Nasdaq, Dow Begin Week Higher As Anthropic IPO Filing Rekindles AI Enthusiasm — MSFT, AAPL, CART, VZ In Focus",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "Anthropic’s 7 Founders Will Use New Stock Class to Take Control of the Business",
-      "reason": "not_reported_result"
-    },
-    {
-      "source": "Yahoo Finance RSS",
-      "title": "Will Alphabet Stock Surge After Oct. 28?",
-      "reason": "not_reported_result"
     },
     {
       "source": "华尔街见闻 7x24",
@@ -1074,52 +1164,47 @@
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "日本财务大臣片山皋月：将以紧迫感应对外汇交易损失。",
+      "title": "SK海力士：HBM4芯片自第四季起成为主力产品。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "专家称中国央行鼓励构建“LPR+DR001”贷款利率双定价基准",
+      "title": "SK海力士：2027年资本开支将较2026年显著增长。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "存储上市企业多措并举稳定供应链",
+      "title": "在上周日大选中败选的巴西议员弗拉维奥·博索纳罗抵达美国迈阿密，与其兄弟Eduardo会合。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "Anthropic向美国SEC提交上市文件后，预测市场交易者认为其今年IPO几乎已成定局",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "韩国考虑对加密货币交易所征收教育税。",
+      "title": "亚马逊反“刷Token”备忘录：工程师应更审慎地使用AI",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "巴西自由党主席承认卢拉赢得总统选举",
+      "title": "SK海力士预计，存储芯片供应短缺将持续至2030年。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "伊武装部队总参谋长视察部队备战情况",
+      "title": "以色列大选出口民调显示，内塔尼亚胡派系与反对党阵营势均力敌。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "三季报透视创新药出海：海外授权收入兑现，产业链景气共振上行",
+      "title": "沙特就潜在危险对延布发出警告。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "卢拉胜选后转变立场，大摩下调巴西股票评级",
+      "title": "免息分期吹起消费暖风，信用卡行业悄然换挡",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "银行秋招释放信号：“AI+金融”复合型人才需求升温",
+      "title": "中证报：盈利稳健估值低位，核心资产迎来重估契机",
       "reason": "no_concrete_number"
     },
     {
@@ -1129,696 +1214,658 @@
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "长期限大额存单密集返场，利率优势弱化，流动性成卖点",
+      "title": "Anthropic PBC：拓展我们与美国总务管理局（GSA）的合作伙伴关系。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "西班牙针对数据中心放宽能源/电力政策，从而争取大型科技公司（到该国投资）。",
+      "title": "债市制度优化持续推进，稳市机制落地，跨市场互联互通在即",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "维珍银河定于10月28日，首架德尔塔级飞船抵达美国太空港，标志飞行测试筹备工作正式启动。",
+      "title": "A股公司回购增持升温，用实际行动筑信心稳市场",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "伊朗总统会见沙土巴三国高级官员",
+      "title": "苹果触屏Mac将成为该公司最贵的笔记本，已经探讨将新款14英寸Mac售价定在2899美元，16英寸机型至少3399美元。",
+      "reason": "prediction_roundup_people_or_leverage"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "巴西自由党众议员称弗拉维奥·博索纳罗已前往美国“流亡”",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "OpenAI宣布AI取得三项科学突破，涉及数学猜想、计算机算法及千禧年难题",
+      "title": "报道：燃油价格暴涨引发停运，“奥德赛号”邮轮致使乘客滞留柬埔寨",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "周一（10月26日）纽约尾盘，标普500股指期货最终涨0.7%，道指期货涨0.23%，纳斯达克100股指期货涨1.18%。",
+      "title": "报道：银行拟为博通芯片融资交易发行高达210亿美元的债券",
+      "reason": "us_not_market_move"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "卢拉：弗拉维奥·博索纳罗败选后逃离巴西“可耻”",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "英国首相伯纳姆公布应对英国住房危机的计划，承诺提供更多社会住房、为首次购房者提供帮助，并对出租劣质房产的房东采取更严厉的措施。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "巴西议员弗拉维奥·博尔索纳罗抵达美国。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "周二（10月27日）纽约尾盘，标普500股指期货最终涨0.57%，道指期货涨0.04%，纳斯达克100股指期货涨1.25%。",
       "reason": "index_level_covered_by_panel"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "约旦称轰炸叙利亚南部恐怖组织据点",
+      "title": "周二（10月27日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.6647元，较周一纽约尾盘涨29点，日内整体交投于6.6707-6.6636元区间。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "周一（10月26日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.6676元，较上周五纽约尾盘涨14点，日内整体交投于6.6698-6.6670元区间。",
+      "title": "美媒：美将向弗拉维奥·博索纳罗及其家人发放签证",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "诺和诺德在针对礼来肥胖症药物广告的美国诉讼中败诉",
+      "title": "巴西议员博索纳罗竞选阵营负责人：没有关于其下落的信息。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "巴西议员、总统大选中的败落者博索纳罗的律师：尚未被告知（有关他的）任何离开计划。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "行业周报：美国上周API原油库存减少超200万桶",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "环球音乐集团（UMG）与多家买断公司讨论私有化。",
+      "title": "特朗普：关闭边境无需新立法，只需要换一位总统",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "加拿大总理卡尼：加方打算迅速针对主权财富基金起草技术性文件。",
+      "title": "博通安排金融合作伙伴购买基于定制AI加速器的AI机架。",
+      "reason": "us_not_market_move"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "Anthropic：收购Mithril Medicine，以开展罕见病项目。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "伊拉克否认按美方指令关闭对伊朗边境口岸",
-      "reason": "no_concrete_number"
+      "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+      "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "报道：斡旋方推美伊5日互让协议，重开海峡换解除海上封锁",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "加拿大总理卡尼：不愿意在特朗普政府8月份提供的美国贸易协议上签字。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "美国白宫高级顾问哈塞特表示，可负担性危机是个谬论。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "英特尔：与Classiq合作打造全栈量子计算平台。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "墨西哥总统称多次拒绝美方入境开展缉毒行动的要求",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "泽连斯基下令加强乌克兰城市环形防御体系建设",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "周一（10月26日），美股行业ETF多数收涨，半导体ETF涨2.74%，科技行业ETF、全球科技股指数ETF、工业指数ETF、全球航空业ETF、可选消费ETF至多涨1.69%。",
+      "title": "周二（10月27日），美股行业ETF涨跌各异，半导体ETF收涨3.02%，全球航空业ETF涨2.23%，全球科技股指数ETF、科技行业ETF至多涨1.84%，能源业ETF跌2.05%。",
       "reason": "index_level_covered_by_panel"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "博通从2027年开始将通过SPV供应XPU AI加速器芯片。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "美银、黑石、花旗和大摩联合博通宣布里程碑式的630亿美元融资结构，助力AI算力部署",
-      "reason": "us_not_market_move"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "思科：推出基础设施特权访问方案，以身份绑定的加密管控机制替代永久管理员访问权限。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "巴西议员、承认在上周末大选中失败的博索纳罗：联邦警察要求我把护照交给他们。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "巴西财政部长透露明年将追求更有雄心的初级财政盈余目标",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "惠誉评级：巴西总统卢拉赢得选举，巴西财政不确定性上升。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "美国总统特朗普谈巴西：我喜欢（赢得连任的）巴西总统卢拉。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "据知情人士透露，Doordash收购Instacart的磋商处于高级阶段。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "美国联邦上诉法院推翻美联储 2011 年借记卡刷卡费规则",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "AI交易规模惊人，城堡证券称到了“没有容错空间”的地步",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "高盛：对冲基金以两年来最快速度抛售科技股，AI交易信念面临考验",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "惠誉评级美国经济研究主管：在近期整体通胀加速之前，美国通胀的广度就已经开始扩大。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "上期所原油期货2612合约夜盘收跌0.87%，报733.30元人民币/桶。",
+      "title": "加密货币收入超过腰斩、时间合约增超五倍，Robinhood股价盘后跌4%",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "伊朗最高国家安全委员会秘书雷扎伊：西亚安全必须依靠自身力量",
+      "title": "出口民调：以议会两大阵营均未过半，组阁有悬念",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "Anthropic拓展面向非营利机构的Claude服务，推出Claude非营利组织专用插件。",
+      "title": "特朗普暗示委内瑞拉可能成为美国的一个州",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "伊朗最高领袖：伊朗进一步强大的关键在于，其精英有能力拓展科学知识的边界，并为该国科学挑战找到解决方案。",
+      "title": "美国总统特朗普重申石油流出霍尔木兹海峡。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "多个支持博索纳罗的巴西政党承认卢拉胜选",
+      "title": "天然气出口国论坛第八次峰会发表《莫斯科宣言》",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "俄罗斯钢铁生产商北方钢铁公司（Severstal）表示，在当天早些时候因乌克兰无人机袭击导致部分断电后，其位于贝尔哥罗德州的采选矿厂目前已恢复供电。",
+      "title": "乌克兰外长：乌方已准备好参加乌美俄三方会谈",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "马斯克表示，星链移动网络的建设将需要2至3年时间。",
+      "title": "美俄探讨战后石油巨头合资项目",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "西班牙警方开展行动，将休达非法移民遣返摩洛哥",
+      "title": "波音分析师电话会议要点总结",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "IBM与英伟达将AI智能体身份和运行时访问控制绑定。",
+      "title": "Hugging Face称，所有LFM3模型均为开放权重模型，今日已在Hugging Face上线。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "伊朗外交部：实现地区可持续安全需依靠各国信任与合作",
+      "title": "美国能源部长Wright：新英格兰的住宅应当用天然气来取暖。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "燃油成本推高亏损，但JetBlue CEO称利润率正在改善",
+      "title": "普京与卡塔尔埃米尔举行会晤，讨论中东局势",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "胡塞武装称沙特主导联军对也门多地发动81次空袭",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "上期所原油期货2612合约夜盘收跌2.56%，报712.90元人民币/桶。",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "美国钢铁公司Cleveland-Cliffs Inc.确认全资控股附属公司Stelco Inc.已经致函加拿大工业部长Melanie Joly，就Stelco合规问题递交经过更新的报告。",
+      "title": "特朗普的夫人：俄乌奥列什基停火提前生效，范围已扩大",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "澳洲航天初创公司MP Space首席执行官称，正为SpaceX(SPCX.O)星舰发射计划增配更多电池。",
+      "title": "DWS Americas固定收益主管George Catrambone针对美国中期选举表示：有人因为过去的经验而认为政治僵局对市场有利，这种想法现在来看有些不合时宜。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "以色列选举官员裁定：不延长投票时间。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "美国能源部长Wright：Constellation Energy协议将新增1.1 GW电力供应。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "俄罗斯将7名英国军工企业高管列入禁止入境名单",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "航空公司Jetblue首席执行官Joanna Geraghty表示，该公司目前并未与债权人进行谈判，也未考虑进行债务重组。",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "辉瑞公司Talzenna获美国FDA批准用于前列腺癌治疗",
+      "title": "通用汽车：计划上市混合动力SUV。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "高通未能驳回处理器直接专利侵权指控",
+      "title": "伊朗外交部：伊朗外长与巴西外长通电话",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "Skydance向员工提出自愿离职方案。",
+      "title": "Intesa持股意大利西雅那银行（Monte Paschi）的努力获得欧洲央行批准。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "OpenAI发布100个国家的ChatGPT Work活动数据。",
+      "title": "周二（10月27日），美联储隔夜逆回购协议（RRP）使用规模为2.26亿美元（交易对手2家），上个交易日报2亿美元。",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "Cadenc推出一套AI模型，芯片制造商可在内部运行这些模型",
+      "title": "Folha援引盟友们的消息称：在上周末巴西总统大选中败落的议员博索纳罗前往美国。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "泽连斯基签署法案，延长国家战时状态和总动员令90天",
+      "title": "谷歌强调，该模型仍处于实验阶段。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "康菲石油发言人：已通知员工，加拿大劳动力队伍的裁员（包括雇员和承包商）将于周二进行。",
+      "title": "谷歌Google DeepMind产品经理里瓦斯（Diego Rivas）在新闻发布会上被问及对视频游戏行业的影响时表示：公司正与合作伙伴合作，以了解该技术如何融入他们的工作，以及其局限性何在。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "SpaceX：目标定于11月1日星期日进行USSF-432任务的猎鹰9号发射。",
+      "title": "谷歌在一篇博客文章中表示，当Genie 4渲染一个场景时，Gemini会监视传入的帧，解读用户的意图并将其分解为一系列步骤，然后检查每个步骤是否已发生。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "周一（10月26日），美联储隔夜逆回购协议（RRP）使用规模为2亿美元（交易对手1家），上个交易日报2亿美元。",
+      "title": "普京与挪芬领导人通话，丹麦首相批削弱欧洲团结",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "AI融资焦虑或近顶峰，亿万富豪Novogratz预计信贷市场将趋稳",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "伊朗、俄罗斯两国总统在莫斯科会晤。",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "报道：美国FTC将提起诉讼，来阻止Cintas与UniFirst的并购交易",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "苹果回应iPhone Duo屏幕开裂投诉",
+      "title": "乌克兰官员称阿列什基停火安排得到全面执行",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "伊朗总统：德黑兰与莫斯科的关系正在不断拓展，将在访问俄罗斯期间与俄罗斯总统普京讨论加强双边合作。",
+      "title": "美国商品期货交易委员会（CFTC）打算按照每周两次的频率披露持仓报告。",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "美国联邦贸易委员会（FTC）与20个州起诉达乐公司（Dollar General），指控其存在欺骗性定价行为，向消费者多收费，攫取了数百万美元。",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "日本信息科技服务商Sakana AI将从零自研本土模型。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "苹果公司iPhone Duo发售早期遭到屏幕破裂投诉",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "微软点评Teams问题，称：服务已经恢复至健康水平。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "奥迪发言人：政治中立是奥迪的一项重要原则，将继续坚持这一原则。",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "联合国调查委员会：以色列犯下战争罪及危害人类罪",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "伊朗与沙特、土耳其、巴基斯坦同意未来继续举行会谈",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "华尔街见闻 7x24",
-      "title": "以色列大选临近关键议题民意撕裂",
+      "title": "美国总统特朗普：我们很快会在所有相关文件中正式禁用“AI/人工智能”这一术语。",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "YC支持的Mochatrade累计融资556万美元，将向印度用户提供美股合约",
+      "title": "分析：币安ETH未平仓合约美元计价较去年峰值减半，但ETH计价接近峰值",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "PANews",
-      "title": "Ripple National Trust Bank获美OCC最终批准，将支持RLUSD及企业数字资产托管业务",
+      "title": "Solflare：质押服务商安全事件致验证者暂停发放奖励，用户资金未受影响",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "OpenAI宣布三项AI科学新发现，称已证伪指数时间假说",
+      "title": "Polymarket美国版上线5分钟加密货币涨跌预测市场",
+      "reason": "prediction_roundup_people_or_leverage"
+    },
+    {
+      "source": "PANews",
+      "title": "贝森特：将借SEC和CFTC行动弥补《CLARITY法案》未通过",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "美银、黑石等四家机构为Anthropic博通芯片提供630亿美元融资",
-      "reason": "us_not_market_move"
-    },
-    {
-      "source": "PANews",
-      "title": "美股三大指数集体收涨：Circle（CRCL）下跌6.92%，BitMine（BMNR）下跌6.14%",
+      "title": "美股三大指数集体收涨：Riot Platforms（RIOT）上涨7.09%，AMD上涨5.32%",
       "reason": "index_level_covered_by_panel"
     },
     {
       "source": "PANews",
-      "title": "前DOGE成员创立的安全公司称12小时内攻入Anthropic系统",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "美FTC要求Anthropic高管就消费者损害调查作证",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "Hyperliquid推出HIP-3*，支持部署许可型永续合约市场",
+      "title": "CFTC起诉犹他州，已就预测市场管辖权起诉10个州",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "PANews",
-      "title": "NBA牵手Kalshi与Polymarket，正式进入预测市场",
+      "title": "Crypto.com向美国用户推出加密永续合约，最高5倍杠杆",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "PANews",
-      "title": "Chainlink推出新方案，机构托管资产可直接参与DeFi借贷",
-      "reason": "no_concrete_number"
+      "title": "彭博社：千禧管理正开发工具，将预测市场数据用作交易信号",
+      "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "PANews",
-      "title": "微软拟向6万名员工提供自愿离职补偿方案",
+      "title": "深度解读Meta 950亿美元融资案：资本运作背后的股东利益博弈",
       "reason": "us_not_market_move"
     },
     {
       "source": "PANews",
-      "title": "Polygon：Miden合作伙伴主网已上线，接入Agglayer",
+      "title": "香港数字资产布局开始落地：稳定币支付、基金全天候交易相继落地",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "过去24小时全网合约爆仓1.96亿美元，主爆多单",
+      "title": "全球支付周报 2026W43",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "PANews",
-      "title": "BNB Standard（BNC）CEO敲响纳斯达克开市钟，赵长鹏到场",
+      "title": "Ondo代币化股票及ETF上线Robinhood Chain",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "谷歌DeepMind发布世界模型Genie 4，支持原生音频与实时交互",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "Coinbase将上线Stable（STABLE）现货交易",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "Coinbase将于10月30日自动转换欧洲经济区零售用户持有的14种受限代币",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "MANTRA开放OM升级第8批申领，部分用户须于12月2日前申领",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "过去24小时全网合约爆仓1.34亿美元，多空双爆",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "PANews",
-      "title": "美国CFTC主席：推进加密交易所自愿联邦注册路径",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "Zcash Labs推出JavaScript开发工具包Zcash JS",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "超大规模云服务商资本开支指数升至约6800",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "美股三大指数集体上涨，纳指日内涨幅达1.07%",
+      "title": "美股三大指数集体上涨，纳指日内涨幅达1.00%",
       "reason": "index_level_covered_by_panel"
     },
     {
       "source": "PANews",
-      "title": "Ripple Treasury新增AI自动化及全天候收益功能，支持符合条件的RLUSD资产",
+      "title": "渣打：美股与美债收益率齐升利好风险敏感型货币",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "trade.xyz上线Anthropic盘前永续合约市场ANT",
+      "title": "报告：阿联酋加密资产活动规模同比增长32%至1048亿美元",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "PANews",
-      "title": "谷歌、亚马逊和博通向Anthropic提供770亿美元融资",
+      "title": "Pump.fun应用新增支持TON，可使用USDC余额购买链上代币",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "Meta 250亿美元股票发行最终获得五倍超额认购",
       "reason": "us_not_market_move"
     },
     {
       "source": "PANews",
-      "title": "Injective推出GPU租赁价格指数SICI，支持最高10倍杠杆永续合约",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "PANews",
-      "title": "Ledger：Atom设有物理隐私开关，可从电路层面切断摄像头和麦克风电源",
+      "title": "ENSv2 上线以太坊主网",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "Keystone更新安全事件处理进展：18,835台旧密钥设备将销毁，客户信息保留期缩短至90天",
+      "title": "Genius推出移动应用，整合BNB Chain交易、社交及代币创建功能",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "Coinbase将上线Ritual（RITUAL）现货交易",
+      "title": "蚂蚁集团开源 Ling-3.1-flash-1019，AA 智能指数升至 44",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "Agentic Wallet 进阶指南：从自动扫盘到链上交易，手把手搭建你的 AI 交易系统",
+      "title": "Anthropic警告能源供应瓶颈或拖慢AI扩张，部分成本可能在算力未投产时产生",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "a16z致函CFTC：支持在美国上市算力衍生品，称现有监管框架即可覆盖",
+      "title": "某ETH巨鲸向币安转入3084枚ETH，疑似清仓，预计获利92.8万美元",
+      "reason": "whale_under_1m_usd"
+    },
+    {
+      "source": "PANews",
+      "title": "Ripple与Robinhood达成战略合作，RLUSD将接入Robinhood零售及机构业务",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "Anthropic CEO 2025年薪酬为1796万美元",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "PANews",
-      "title": "日元稳定币开始连接真实消费：新韩信用卡与 SBI 的合作，能否改写日韩跨境支付？",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "苹果发布新款iPad mini：配备8.5英寸OLED屏，起售价5499元",
+      "title": "Meta小幅上调股票融资计划至975亿美元，最高融资额或达1030亿美元",
       "reason": "us_not_market_move"
     },
     {
       "source": "PANews",
-      "title": "波场TRON行业周报：科技股走弱BTC失守$80000，详解AI驱动的机器人执行基建Axis Robotics",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "PANews",
-      "title": "Anthropic目标估值仍未披露，融资规模有望达到1000亿美元",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "PANews",
-      "title": "dYdX发起关闭多项交易市场的链上投票，涉及ENA、ONDO及WLFI等",
+      "title": "比特币矿业变天：Tether拉15家巨头联手让AI接管全球矿机",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "VCC虚拟信用卡平台涉嫌非法经营罪：创业者常见的四个认知误区",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "Hyperliquid想把监管留在前端：美国合规市场能否绕过公链难题？",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "Anthropic：过去曾大幅低估算力需求",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "Anthropic目标在11月16日当周进行IPO",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "Anthropic披露AMD拟在满足条件时投资至多50亿美元",
+      "title": "AMD将向Meta的股权发行投资10亿美元，EPYC处理器为Muse AI智能体提供算力支持",
       "reason": "us_not_market_move"
     },
     {
       "source": "PANews",
-      "title": "Anthropic公开提交S-1文件，拟以代码\"ANT\"登陆纳斯达克",
+      "title": "苹果推出搭载M6芯片的14英寸MacBook Pro和M6 iMac",
       "reason": "us_not_market_move"
     },
     {
       "source": "PANews",
-      "title": "巴西股市因触发熔断机制暂停交易",
+      "title": "Wayfinder恢复智能体执行及钱包导入等服务，Path部分功能将后续恢复",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "标普全球完成收购OpenZeppelin，开源智能合约库将继续免费提供",
-      "reason": "prediction_roundup_people_or_leverage"
+      "title": "Michael Saylor：任何人都能发币不等于没理由买比特币",
+      "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "特斯拉Optimus量产仍面临手部与AI能力瓶颈，周产2万台目标或需一年以上",
+      "title": "Janus Henderson推出代币化纳斯达克100指数基金JQQQ，基于Centrifuge技术发行在Stellar链上",
       "reason": "us_not_market_move"
     },
     {
       "source": "PANews",
-      "title": "富途、盈透加码加密业务，券商想做什么？",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "美股盘前要闻一览：Meta寻求最多950亿美元股权融资以支持AI支出",
+      "title": "美股盘前要闻一览：马斯克称机器人所需内存将超过其他任何领域",
       "reason": "us_not_market_move"
     },
     {
       "source": "PANews",
-      "title": "Pump.fun 应用上线 X Layer",
+      "title": "抖音李亮：腾讯公司短剧、短视频增长速度远远超过抖音和红果",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "Strategy过去一周没有新增购买比特币",
+      "title": "Strive成新晋“屯币王”，摇钱树STRC拖累微策略买币节奏",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "Gate 事件合约上线 INDEX 市场及一键交易，推出价值10万USDT奖池",
+      "title": "纽约梅隆银行支持XRP及RLUSD托管，与Ripple探索代币化贸易融资",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "香港金管局：伪冒数码港元借贷项目与其无关，已报警",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "EthSystems完成隐私池形式化验证，覆盖规范到Sepolia字节码",
+      "reason": "no_concrete_number"
+    },
+    {
+      "source": "PANews",
+      "title": "Gate 打金狗推出新人交易及邀请活动，最高可获 1,056 USDT 奖励",
       "reason": "prediction_roundup_people_or_leverage"
     },
     {
       "source": "PANews",
-      "title": "Robinhood CEO 访谈：当 AI 让财富变得更加集中，Robinhood 如何让普通人分享财富分配？",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "PANews",
-      "title": "外媒：Anthropic将于21:00发布S-1文件",
+      "title": "普京：我们正在探讨与美国合作伙伴开展合作的可能性",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "Meta拟发行股票募资350亿美元，英伟达、AMD等有意认购至多50亿美元",
-      "reason": "us_not_market_move"
+      "title": "沉寂近两年的日本比特币巨鲸再从交易所提出65枚BTC",
+      "reason": "whale_under_1m_usd"
     },
     {
       "source": "PANews",
-      "title": "MEXC宣布退出荷兰市场，最终清退定于11月16日",
+      "title": "某Solana巨鲸6天内向币安转入3亿枚PUMP",
+      "reason": "whale_under_1m_usd"
+    },
+    {
+      "source": "PANews",
+      "title": "美国货币监理署鼓励社区银行依据GENIUS法案申请成为稳定币发行方",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "Meta：计划于2027年Q1针对C类普通股启动600亿美元的“随行就市”发行计划",
-      "reason": "us_not_market_move"
-    },
-    {
-      "source": "PANews",
-      "title": "伯恩斯坦：将SpaceX目标价从248美元上调至268美元",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "PANews",
-      "title": "22家千亿巨头为何拒绝被“代币化”？",
+      "title": "安全机构：Udesk客服系统相关脚本被注入恶意代码，可窃取数据并替换充值地址",
       "reason": "no_concrete_number"
     },
     {
       "source": "PANews",
-      "title": "Gate 打金狗推出老用户回归福利，单人最高可获 65 USDT",
-      "reason": "prediction_roundup_people_or_leverage"
-    },
-    {
-      "source": "PANews",
-      "title": "美联社：Anthropic等科技公司向宗教界征询AI伦理意见",
-      "reason": "no_concrete_number"
-    },
-    {
-      "source": "PANews",
-      "title": "CoinW上线多智能体AI分析工具「AI智囊团」",
+      "title": "美银全球研究将SpaceX纳入美股首选股票名单",
       "reason": "no_concrete_number"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "周一（10月26日）纽约尾盘，ICE美元指数涨0.17%，报101.984点，日内交投区间为101.582-102.056点，北京时间10:44-21:59持续上扬。",
+      "title": "周二（10月27日）纽约尾盘，ICE美元指数涨0.3%，报102.302点，日内交投区间为101.986-102.331点，整体持续上涨。",
       "reason": "美元指数已在美股大盘卡里，同一事件不重复"
     },
     {
       "source": "华尔街见闻 7x24",
-      "title": "纳斯达克100指数收涨约1.1%，Anthropic递交IPO申请提振投资者对AI板块的热情",
-      "reason": "与已收录卡同一事件"
+      "title": "恩智浦美股盘后跌超8%。",
+      "reason": "类别「美股动向」上限"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "纳斯达克100指数收涨约1.3%，半导体指数涨3.6%",
+      "reason": "类别「美股动向」上限"
+    },
+    {
+      "source": "华尔街见闻 7x24",
+      "title": "美股费城半导体指数日内涨4.00%，英伟达涨1.13%，博通涨4.61%，美光涨3.52%，英特尔涨4.05%，AMD涨6.03%，高通涨2.02%，台积电涨3.33%，阿斯麦涨3.38%。",
+      "reason": "NVDA 已在 AI/芯片龙头或涨跌榜卡里"
     },
     {
       "source": "PANews",
-      "title": "特斯拉盘中涨幅扩大至5.5%，触及三个多月高点",
+      "title": "费城半导体指数日内涨3%，英特尔涨3.56%，AMD涨5.43%",
+      "reason": "AMD 已在 AI/芯片龙头或涨跌榜卡里"
+    },
+    {
+      "source": "PANews",
+      "title": "费城半导体指数日内涨超2%，美股AI算力租赁商盘初走高",
       "reason": "类别「美股动向」上限"
     },
     {
       "source": "PANews",
-      "title": "美股开盘，道指涨0.37%",
+      "title": "美股开盘，纳指涨0.33%",
       "reason": "类别「美股动向」上限"
     },
     {
       "source": "PANews",
-      "title": "Strive上周增持6182枚比特币，持仓增至43000枚",
-      "reason": "类别「机构/公司买币」上限"
+      "title": "Spicenet 完成 500 万美元 A 轮融资，dao5 领投",
+      "reason": "类别「热点叙事」上限"
+    },
+    {
+      "source": "PANews",
+      "title": "SoFi首次披露加密产品数据：Q3达50.3万个，总加密交易收入1.616亿美元",
+      "reason": "类别「热点叙事」上限"
+    },
+    {
+      "source": "PANews",
+      "title": "链上合规基础设施Predicate完成800万美元A轮融资，Blockchain Capital领投",
+      "reason": "类别「热点叙事」上限"
+    },
+    {
+      "source": "PANews",
+      "title": "未来资产证券与Grvt合作发行代币化融资票据",
+      "reason": "类别「热点叙事」上限"
+    },
+    {
+      "source": "PANews",
+      "title": "AI算力初创公司General Compute完成1亿美元A轮融资，估值升至8亿美元",
+      "reason": "类别「热点叙事」上限"
     }
   ],
   "kept": [
     {
-      "id": "crypto-market-2026-10-27",
-      "title": "大盘 · BTC $80,022（24h -0.03%）· ETH $2,321（-0.26%）",
+      "id": "crypto-market-2026-10-28",
+      "title": "大盘 · BTC $80,810（24h +0.97%）· ETH $2,348（+1.15%）",
       "source": "CoinGecko 公开 API（/global + /coins/markets）",
-      "use": "今日币圈整体横盘；总市值 $2.70T（24h +0.07%），BTC 占比 59.4%，先看大盘再看单币异动"
+      "use": "今日币圈整体横盘；总市值 $2.73T（24h +0.95%），BTC 占比 59.5%，先看大盘再看单币异动"
     },
     {
-      "id": "crypto-us-index-2026-10-26",
-      "title": "美股收盘（2026-10-26）· 标普500 +0.70% · 纳指 +0.82% · 费城半导体 +2.82%",
+      "id": "crypto-us-index-2026-10-27",
+      "title": "美股收盘（2026-10-27）· 标普500 +0.60% · 纳指 +1.18% · 费城半导体 +3.60%",
       "source": "Yahoo Finance 公开 chart 接口（日线收盘）",
-      "use": "美股+宏观一屏看：指数波动不大，宏观面没有明显新信号（助手解读，非原文）"
+      "use": "美股+宏观一屏看：科技股走强，风险偏好回升，BTC 常同向；美元走强压制 BTC（助手解读，非原文）"
     },
     {
-      "id": "crypto-etf-btc-23Oct2026",
-      "title": "BTC 现货 ETF · 23 Oct 2026 净流出 $137.9M",
+      "id": "crypto-etf-btc-26Oct2026",
+      "title": "BTC 现货 ETF · 26 Oct 2026 净流入 $110.3M",
       "source": "Farside Investors 公开 BTC ETF 日流表（单位：百万美元）",
-      "use": "机构资金方向：已连续 2 个交易日净流出，近5日合计 +$301.2M"
+      "use": "机构资金方向：已连续 1 个交易日净流入，近5日合计 −$115.2M"
     },
     {
-      "id": "crypto-us-ai-chip-2026-10-23",
-      "title": "AI/芯片龙头（2026-10-23）· MU +2.46% / AMD +1.74% / TSM +1.49% / GOOGL -1.24% / META -0.96%",
+      "id": "crypto-us-ai-chip-2026-10-26",
+      "title": "AI/芯片龙头（2026-10-26）· ARM +6.19% / TSLA +5.21% / MU +2.98% / AMD +2.80% / NVDA +2.39%",
       "source": "Yahoo Finance 公开 chart 接口（日线收盘）",
-      "use": "AI 主线温度计：15 只龙头里 8 涨 7 跌，波动最大的是 MU（+2.46%）；AI 交易冷热也会传导到 AI 概念币（助手解读，非原文）"
+      "use": "AI 主线温度计：15 只龙头里 11 涨 4 跌，波动最大的是 ARM（+6.19%）；AI 交易冷热也会传导到 AI 概念币（助手解读，非原文）"
     },
     {
-      "id": "crypto-etf-eth-23Oct2026",
-      "title": "ETH 现货 ETF · 23 Oct 2026 净流入 $4.4M",
+      "id": "crypto-etf-eth-26Oct2026",
+      "title": "ETH 现货 ETF · 26 Oct 2026 净流出 $88.6M",
       "source": "Farside Investors 公开 ETH ETF 日流表（单位：百万美元）",
-      "use": "机构资金方向：已连续 1 个交易日净流入，近5日合计 −$220.7M"
+      "use": "机构资金方向：已连续 1 个交易日净流出，近5日合计 −$206.0M"
     },
     {
-      "id": "crypto-us-movers-涨-2026-10-26",
-      "title": "美股大市值涨幅榜（2026-10-26，市值≥$200亿）· LITE +8.19% / FIX +7.18% / TSEM +6.68% / P +6.49%",
+      "id": "crypto-us-movers-涨-2026-10-27",
+      "title": "美股大市值涨幅榜（2026-10-27，市值≥$200亿）· SOFI +13.42% / CLS +12.12% / NBIS +11.22% / CRDO +10.77%",
       "source": "Yahoo Finance 公开 screener（day_gainers）",
-      "use": "大票单日涨 8.2% 以上通常有消息（财报/指引/评级/监管），先查原因，不追高（助手解读，非原文）"
+      "use": "大票单日涨 13.4% 以上通常有消息（财报/指引/评级/监管），先查原因，不追高（助手解读，非原文）"
     },
     {
-      "id": "crypto-movers-涨-2026-10-27",
-      "title": "前100市值涨幅榜 · Q +249.74% / XDC +8.23% / QNT +7.13%（24h）",
+      "id": "crypto-movers-涨-2026-10-28",
+      "title": "前100市值涨幅榜 · PEPE +6.46% / ZEC +6.20% / BCH +5.54%（24h）",
       "source": "CoinGecko 公开 API（/coins/markets 前100）",
       "use": "大市值里资金在往这几只挤；先查有没有消息驱动，没消息的急涨更容易回吐"
     },
     {
-      "id": "crypto-movers-跌-2026-10-27",
-      "title": "前100市值跌幅榜 · BTW -27.60% / ZRO -7.53% / LIT -4.91%（24h）",
-      "source": "CoinGecko 公开 API（/coins/markets 前100）",
-      "use": "大市值里这几只承压最重；留意是个币利空还是板块轮动，不急着接"
-    },
-    {
-      "id": "crypto-us-movers-跌-2026-10-26",
-      "title": "美股大市值跌幅榜（2026-10-26，市值≥$200亿）· ITUB -20.37% / NU -16.95% / PBR-A -15.43% / PBR -13.99%",
+      "id": "crypto-us-movers-跌-2026-10-27",
+      "title": "美股大市值跌幅榜（2026-10-27，市值≥$200亿）· XYL -14.21% / BA -10.69% / VLO -9.24% / DINO -8.81%",
       "source": "Yahoo Finance 公开 screener（day_losers）",
-      "use": "大票单日跌 20.4% 以上通常有消息（财报/指引/评级/监管），先分清个股利空还是板块退潮，不急着抄底（助手解读，非原文）"
+      "use": "大票单日跌 14.2% 以上通常有消息（财报/指引/评级/监管），先分清个股利空还是板块退潮，不急着抄底（助手解读，非原文）"
     },
     {
-      "id": "crypto-macro-us_yield-2026-10-27",
-      "title": "美国两年期国债收益率涨超3.6个基点",
+      "id": "crypto-macro-us_yield-2026-10-28",
+      "title": "两年期美债收益率涨约1.3个基点",
       "source": "华尔街见闻 7x24",
       "use": "美债收益率：美债收益率上行压制高估值科技股，BTC 也常同步走弱；回落则给风险资产松绑（助手解读，非原文）"
     },
     {
-      "id": "crypto-funding-2026-10-27",
-      "title": "永续资金费率（OKX）· BTC +0.0100% / ETH +0.0100% / SOL +0.0100%",
+      "id": "crypto-funding-2026-10-28",
+      "title": "永续资金费率（OKX）· BTC +0.0100% / ETH +0.0087% / SOL +0.0100%",
       "source": "OKX 公开 API（public/funding-rate + open-interest）",
       "use": "合约情绪：费率都在常态区间（<0.03%/8h），合约市场没有明显一边倒（助手解读，非原文；只看情绪，不建议开合约）"
+    },
+    {
+      "id": "crypto-etf-sol-26Oct2026",
+      "title": "SOL 现货 ETF · 26 Oct 2026 净流出 $8.2M",
+      "source": "Farside Investors 公开 SOL ETF 日流表（单位：百万美元）",
+      "use": "机构资金方向：已连续 2 个交易日净流出，近5日合计 −$25.8M"
+    },
+    {
+      "id": "crypto-earn-YXJuaW5ncy5odG1s",
+      "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+      "source": "CNBC Earnings",
+      "use": "10/27 Coca-Cola 财报超预期并上调指引：说明同行业需求仍在，板块情绪偏正面（助手解读，非原文）"
+    },
+    {
+      "id": "crypto-earn-cHJvZml0LS5odG1s",
+      "title": "HSBC shares slump on revenue miss, lender announces share buyback of up to $1 billion",
+      "source": "CNBC Earnings",
+      "use": "10/27 HSBC 财报不及预期（$1 billion）：同行业情绪可能被拖累，先看指引和盘后反应（助手解读，非原文）"
     },
     {
       "id": "crypto-earn-hcm5pbmdzLmh0bWw",
@@ -1827,117 +1874,117 @@
       "use": "10/22 Procter & Gamble earnings 财报超预期（4%）：说明同行业需求仍在，板块情绪偏正面（助手解读，非原文）"
     },
     {
-      "id": "crypto-zh-iOWM1N2I0YTQ2MDA",
-      "title": "X100攻击者地址向混币器Tornado Cash存入821.2枚ETH",
+      "id": "crypto-zh-xZGM4NTgxNWUyMTI",
+      "title": "BNB Chain上的Predict Fun疑遭攻击，约30万美元转入Tornado Cash",
       "source": "PANews",
-      "use": "钱包/安全事件：X100攻击者地址向混币器Tornado Cash存入821.2枚ETH——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）"
+      "use": "钱包/安全事件：BNB Chain上的Predict Fun疑遭攻击，约30万美元转入Torn…——先自查是否用过相关协议/钱包或授权，涉事代币短线常有抛压（助手解读，非原文）"
     },
     {
-      "id": "crypto-zh-uZXdzLzMxODY0NjU",
-      "title": "美股大类资产类ETF涨跌各异，纳指100 ETF涨1.1%，布油基金跌1.3%",
+      "id": "crypto-zh-uZXdzLzMxODc5MTE",
+      "title": "纳指100 ETF收涨将近1.3%，领跑美股大类资产类ETF",
       "source": "华尔街见闻 7x24",
-      "use": "美股动向：美股大类资产类ETF涨跌各异，纳指100 ETF涨1.1%，布油基金跌1.3%——影响美股科技/芯片板块情绪，也常传导到币圈风险偏好（助手解读，非原文）"
+      "use": "美股动向：纳指100 ETF收涨将近1.3%，领跑美股大类资产类ETF——影响美股科技/芯片板块情绪，也常传导到币圈风险偏好（助手解读，非原文）"
     },
     {
-      "id": "crypto-trending-2026-10-27",
-      "title": "CoinGecko 热搜 · PENGU +0.51% / AERO +0.13% / NEAR -1.71% / IRYS -24.74%",
+      "id": "crypto-trending-2026-10-28",
+      "title": "CoinGecko 热搜 · SUI +1.76% / PENGU +2.83% / PONS +8.93% / NEAR +4.07%",
       "source": "CoinGecko 公开 API（/search/trending）",
-      "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 PENGU、AERO、NEAR"
+      "use": "散户注意力在往哪转：热搜≠值得买，其中排名前300的只有 SUI、PENGU、PONS、NEAR"
     },
     {
-      "id": "crypto-zh-mMTY4OTRlMDIzNDk",
-      "title": "纳指涨1.3%，AI相关股票上涨，英伟达上涨3.1%",
+      "id": "crypto-zh-uZXdzLzMxODc5MDc",
+      "title": "周二（10月27日），彭博电动汽车价格回报指数涨1.12%，报2912.70点，亚太时段冲高回落，美股盘初快速拉升、随后逐步扩大涨幅。",
+      "source": "华尔街见闻 7x24",
+      "use": "美股动向：周二（10月27日），彭博电动汽车价格回报指数涨1.12%，报2912.70点…——影响美股科技/芯片板块情绪，也常传导到币圈风险偏好（助手解读，非原文）"
+    },
+    {
+      "id": "crypto-zh-1YjRmY2E4MDM5OWI",
+      "title": "数据：某巨鲸沉寂27天后买入12.3万枚HYPE，价值约1002万美元",
       "source": "PANews",
-      "use": "美股动向：纳指涨1.3%，AI相关股票上涨，英伟达上涨3.1%——影响美股科技/芯片板块情绪，也常传导到币圈风险偏好（助手解读，非原文）"
+      "use": "机构/公司买币：数据：某巨鲸沉寂27天后买入12.3万枚HYPE，价值约1002万美元——公司真实落地买币，对短线情绪偏正面，但不等于价格会涨（助手解读，非原文）"
     },
     {
-      "id": "crypto-zh-lNzVmM2VjMGFhMzE",
-      "title": "数据：全球上市公司上周净买入约5.1亿美元比特币，主要来自Strive",
-      "source": "PANews",
-      "use": "机构/公司买币：数据：全球上市公司上周净买入约5.1亿美元比特币，主要来自Strive——公司真实落地买币，对短线情绪偏正面，但不等于价格会涨（助手解读，非原文）"
-    },
-    {
-      "id": "crypto-stables-2026-10-26",
-      "title": "稳定币总量 $302.28B · 7日 -0.77% · 30日 -0.93%",
+      "id": "crypto-stables-2026-10-27",
+      "title": "稳定币总量 $301.55B · 7日 -0.72% · 30日 -1.20%",
       "source": "DefiLlama 公开 API（stablecoincharts/all）",
       "use": "稳定币在收缩：场内资金流出，反弹持续性要打折扣"
     },
     {
-      "id": "crypto-zh-iMzBjNTg1ZWRmOTg",
-      "title": "Strive拟通过ATM发行最多10亿美元SATS优先股，募资用于购买比特币等",
+      "id": "crypto-zh-yNzU4ODZmZDlkZjI",
+      "title": "一沉寂5个月的比特币巨鲸从币安提出11,330枚BTC，价值超9亿美元",
       "source": "PANews",
-      "use": "机构/公司买币：Strive拟通过ATM发行最多10亿美元SATS优先股，募资用于购买比特币等——公司真实落地买币，对短线情绪偏正面，但不等于价格会涨（助手解读，非原文）"
+      "use": "巨鲸动向：一沉寂5个月的比特币巨鲸从币安提出11,330枚BTC，价值超9亿美元——大户资金方向，仅作情绪参考，单个地址动作不代表趋势（助手解读，非原文）"
     },
     {
-      "id": "crypto-zh-xMDY5NGE4ZTEzNmM",
-      "title": "Centrifuge：从现实资产融资到机构级金融基础设施，为什么又要重组 CFG？",
+      "id": "crypto-zh-zZjhhMTM4YTRkMmI",
+      "title": "Robinhood第三季度营收14.2亿美元，加密收入同比降55%",
       "source": "PANews",
-      "use": "热点叙事：Centrifuge：从现实资产融资到机构级金融基础设施，为什么又要重组 CF…——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）"
+      "use": "热点叙事：Robinhood第三季度营收14.2亿美元，加密收入同比降55%——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）"
     },
     {
-      "id": "crypto-revenue-2026-10-27",
-      "title": "协议收入异动 · Hyperliquid Perps $1.4M/日（较7日前 -26.01%） / Collector Crypt $1.1M/日（较7日前 +394.26%） / pump.fun $1.0M/日（较7日前 -26.59%） / Papertrade $653,857/日（较7日前 -72.04%）",
-      "source": "DefiLlama 公开 API（overview/fees, dailyRevenue）",
-      "use": "真实使用量变化：收入暴增的协议/链通常是当下资金和话题在的地方，收入下滑说明热度退潮"
-    },
-    {
-      "id": "crypto-zh-zNmE5MTcxMjgwOTU",
-      "title": "加拿大发布稳定币监管草案，禁止发行方支付收益",
+      "id": "crypto-zh-xY2MzN2U1ZTBlMTY",
+      "title": "Canton生态交易平台Cancore完成720万美元种子轮融资",
       "source": "PANews",
-      "use": "监管：加拿大发布稳定币监管草案，禁止发行方支付收益——影响机构入场预期和相关代币情绪，落地前多是预期博弈（助手解读，非原文）"
+      "use": "热点叙事：Canton生态交易平台Cancore完成720万美元种子轮融资——资金和话题正在往这里走，热点轮动快，看热度不等于值得买（助手解读，非原文）"
     },
     {
-      "id": "crypto-news-Y2hhc2UtNDMxNzI5",
-      "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
-      "source": "The Block",
-      "use": "真实买入/持仓（Strive · $511 million）：公司或大户实际落地买卖，短线情绪与跟风参考"
-    },
-    {
-      "id": "crypto-news-hhcmVzLTQzMTY5OQ",
-      "title": "Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares",
-      "source": "The Block",
-      "use": "真实买入/持仓（Strategy · $205 million）：公司或大户实际落地买卖，短线情绪与跟风参考"
-    },
-    {
-      "id": "crypto-news-wdG8tZGVjbGluZXM",
-      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-      "source": "CoinDesk",
-      "use": "真实买入/持仓（Tom Lee's Bitmine）：公司或大户实际落地买卖，短线情绪与跟风参考"
-    },
-    {
-      "id": "crypto-news-oYWNraW5nLWNhc2U",
-      "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
-      "source": "Decrypt",
-      "use": "安全事件（South Korea Arrests）：涉事协议/代币短线有抛压，相关仓位先查是否受影响"
+      "id": "crypto-zh-iMTUzN2VhNDM5NTc",
+      "title": "CFTC调查Polymarket是否违反2022年禁止美国用户协议",
+      "source": "PANews",
+      "use": "监管：CFTC调查Polymarket是否违反2022年禁止美国用户协议——影响机构入场预期和相关代币情绪，落地前多是预期博弈（助手解读，非原文）"
     },
     {
       "id": "crypto-news-RuZXJfaW5ib3VuZA",
-      "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+      "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
       "source": "Cointelegraph",
-      "use": "机构资金流向（Bitcoin ETFs · $301M）：ETF 资金方向会影响 BTC/ETH 短线承接力"
+      "use": "安全事件（Bloom · $953K）：涉事协议/代币短线有抛压，相关仓位先查是否受影响"
     },
     {
-      "id": "crypto-news-ZXMtYmFuLXlpZWxk",
-      "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+      "id": "crypto-news-RuZXJfaW5ib3VuZA",
+      "title": "Bitcoin ETFs claw back $110M after $774M exit",
+      "source": "Cointelegraph",
+      "use": "机构资金流向（Bitcoin ETFs · $110M / $774M）：ETF 资金方向会影响 BTC/ETH 短线承接力"
+    },
+    {
+      "id": "crypto-news-sb3dlci00MzE4Mzg",
+      "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower",
+      "source": "The Block",
+      "use": "机构资金流向（Ark Invest · $5.2 million / $15.9 million）：ETF 资金方向会影响 BTC/ETH 短线承接力"
+    },
+    {
+      "id": "crypto-news-Qtc3RhYmxlY29pbg",
+      "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
       "source": "Decrypt",
-      "use": "监管进展（Canada’s Draft Stablecoin · 1%）：影响机构入场预期和相关代币情绪"
+      "use": "监管进展（Ripple Wins Final · $2.6B）：影响机构入场预期和相关代币情绪"
+    },
+    {
+      "id": "crypto-news-V0aW5nLWJlZ2lucw",
+      "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+      "source": "CoinDesk",
+      "use": "宏观联动（Bitcoin · $80,000）：利率/美元变化正在传导到币价"
+    },
+    {
+      "id": "crypto-news-bWVyLXBsYXRmb3Jt",
+      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+      "source": "CoinDesk",
+      "use": "宏观联动（Robinhood · $2.5 billion）：利率/美元变化正在传导到币价"
     }
   ],
   "notes": [
-    "global 24h 市值变化 -2.06% 与前100加权 0.07% 不符，改用前100加权"
+    "global 24h 市值变化 -1.75% 与前100加权 0.95% 不符，改用前100加权"
   ],
   "farside_skipped": [
     {
       "asset": "BTC",
-      "date": "26 Oct 2026",
-      "reason": "仅 4/12 只基金有数值",
-      "raw": "26 Oct 2026 - - - 0.0 - - - - - 0.0 0.0 0.0 0.0"
+      "date": "27 Oct 2026",
+      "reason": "仅 5/12 只基金有数值",
+      "raw": "27 Oct 2026 - - 0.0 0.0 - - - - - 0.0 0.0 0.0 0.0"
     },
     {
       "asset": "ETH",
-      "date": "26 Oct 2026",
-      "reason": "仅 4/11 只基金有数值",
-      "raw": "26 Oct 2026 - - - - 0.0 - - - 0.0 0.0 0.0 0.0"
+      "date": "27 Oct 2026",
+      "reason": "仅 5/11 只基金有数值",
+      "raw": "27 Oct 2026 - - - 0.0 0.0 - - - 0.0 0.0 4.5 4.5"
     },
     {
       "asset": "SOL",
@@ -1947,9 +1994,9 @@
     },
     {
       "asset": "SOL",
-      "date": "26 Oct 2026",
-      "reason": "仅 3/7 只基金有数值",
-      "raw": "26 Oct 2026 - - - 0.0 - 0.8 (1.8) (1.0)"
+      "date": "27 Oct 2026",
+      "reason": "3/7 只基金为空或 —",
+      "raw": "27 Oct 2026 0.0 - - 0.0 - 0.0 (19.2) (19.2)"
     }
   ],
   "x": {
