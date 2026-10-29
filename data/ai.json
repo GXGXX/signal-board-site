@@ -1,153 +1,395 @@
 [
   {
-    "id": "ai-zh-5b11fb81608a",
+    "id": "ai-community-ai-reddit-saas-bb2d5f474a13",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人",
-    "summary": "优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下 （本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。",
+    "title": "my saas just crossed $10k ARR",
+    "summary": "5 months ago I started building this saas while losing ~$100/mo on infrastructure and AI costs an seo youtuber made a video about the tool. half of my first 10 paying customers came from it…",
+    "source": "r/SaaS",
+    "source_url": "https://www.reddit.com/r/SaaS/comments/1xhxgqm/my_saas_just_crossed_10k_arr/",
+    "published_at": "2026-10-28T19:10:51.000Z",
+    "tags": [
+      "reddit",
+      "r/SaaS",
+      "收入",
+      "用户/流量数",
+      "定价",
+      "获客渠道"
+    ],
+    "score": 87,
+    "why": "一人 SaaS 获客实例：5 个月做到 $10k ARR，前 10 个付费客户一半来自一位 SEO YouTuber 的视频，冷邮件触达约 55 人 0 回复——找垂类博主比冷邮件更值得试",
+    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xhxgqm/my_saas_just_crossed_10k_arr/",
+    "extra": {},
+    "blurb": "5 months ago I started building this saas while losing ~$100/mo on infrastructure and AI costs an seo youtuber made a video about the tool. half of my first 10 paying customers came from it…",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xhxgqm/my_saas_just_crossed_10k_arr/",
+    "name": "my saas just crossed $10k ARR",
+    "lang": "EN",
+    "posted_at": "2026-10-28",
+    "evidence_missing": false,
+    "_origin": "community_rss",
+    "_source_id": "ai-reddit-saas",
+    "title_orig": "my saas just crossed $10k ARR",
+    "source_excerpt": "5 months ago I started building this saas while losing ~$100/mo on infrastructure and AI costs an seo youtuber made a video about the tool. half of my first 10 paying customers came from it, and i only figured that out later I spent a lot of time on cold email to find customers. the last version reached ~55 people and got 0 interested replies, so i turned it all off a couple of weeks ago :/",
+    "_feed_type": "reddit_rss",
+    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+    "_score_raw": 77,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_ai_business": true,
+    "_practical_delta": 10,
+    "summary_zh": "5 months ago I started building this saas while losing ~$100/mo on infrastructure and AI costs an seo youtuber made a video about the tool. half of my first 10 paying customers came from it…",
+    "highlights": [],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "worth",
+      "use": "一人 SaaS 获客实例：5 个月做到 $10k ARR，前 10 个付费客户一半来自一位 SEO YouTuber 的视频，冷邮件触达约 55 人 0 回复——找垂类博主比冷邮件更值得试",
+      "lines": {
+        "value": "作者自述收入「$10k ARR」；数据「10 paying customers」；定价「$100/mo」；获客渠道「seo」",
+        "note": "数字均为发帖人自述，未经核实"
+      },
+      "evidence": [
+        "$10k ARR",
+        "10 paying customers",
+        "$100/mo",
+        "seo"
+      ],
+      "point": "一人 SaaS 获客实例：5 个月做到 $10k ARR，前 10 个付费客户一半来自一位 SEO YouTuber 的视频，冷邮件触达约 55 人 0 回复——找垂类博主比冷邮件更值得试",
+      "verdict_label": "值得看",
+      "title": ""
+    }
+  },
+  {
+    "id": "ai-community-ai-reddit-saas-ecd49143d17e",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "A year ago I started planning a side project to make learning SQL less boring. 5 months after launch: 2,500+ users, ~£2,200 in revenue",
+    "summary": "The goal: I have a very ambitious target of 5,000 users before the end of the year, which means doubling in about two months.",
+    "source": "r/SaaS",
+    "source_url": "https://www.reddit.com/r/SaaS/comments/1xhjxcg/a_year_ago_i_started_planning_a_side_project_to/",
+    "published_at": "2026-10-28T10:02:31.000Z",
+    "tags": [
+      "reddit",
+      "r/SaaS",
+      "收入",
+      "用户/流量数",
+      "获客渠道"
+    ],
+    "score": 76,
+    "why": "学习类副业：SQL 学习工具上线 5 个月 2,500+ 用户、约 £2,200 收入，流量主要来自 Reddit——教育类小工具可先在社区冷启动",
+    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xhjxcg/a_year_ago_i_started_planning_a_side_project_to/",
+    "extra": {},
+    "blurb": "The goal: I have a very ambitious target of 5,000 users before the end of the year, which means doubling in about two months.",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xhjxcg/a_year_ago_i_started_planning_a_side_project_to/",
+    "name": "A year ago I started planning a side project to make learning SQL less boring. 5 months after launch: 2,500+ users, ~£2,200 in revenue",
+    "lang": "EN",
+    "posted_at": "2026-10-28",
+    "evidence_missing": false,
+    "_origin": "community_rss",
+    "_source_id": "ai-reddit-saas",
+    "title_orig": "A year ago I started planning a side project to make learning SQL less boring. 5 months after launch: 2,500+ users, ~£2,200 in revenue",
+    "source_excerpt": "The goal: I have a very ambitious target of 5,000 users before the end of the year, which means doubling in about two months. Most of it has come from Reddit.",
+    "_feed_type": "reddit_rss",
+    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+    "_score_raw": 66,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_ai_business": true,
+    "_practical_delta": 10,
+    "summary_zh": "The goal: I have a very ambitious target of 5,000 users before the end of the year, which means doubling in about two months.",
+    "highlights": [
+      "Most of it has come from Reddit."
+    ],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "worth",
+      "use": "学习类副业：SQL 学习工具上线 5 个月 2,500+ 用户、约 £2,200 收入，流量主要来自 Reddit——教育类小工具可先在社区冷启动",
+      "lines": {
+        "value": "作者自述收入「£2,200 in revenue」；数据「5,000 users」；获客渠道「Reddit」",
+        "note": "数字均为发帖人自述，未经核实"
+      },
+      "evidence": [
+        "£2,200 in revenue",
+        "5,000 users",
+        "Reddit"
+      ],
+      "point": "学习类副业：SQL 学习工具上线 5 个月 2,500+ 用户、约 £2,200 收入，流量主要来自 Reddit——教育类小工具可先在社区冷启动",
+      "verdict_label": "值得看",
+      "title": ""
+    }
+  },
+  {
+    "id": "ai-zh-46ad0533b32f",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "Anthropic，正在用AI创造一种全新的企业组织",
+    "summary": "2026年上半年，Anthropic模型服务毛利率达到85.4%，而2025年同期仅为12.4%。",
+    "source": "虎嗅",
+    "source_url": "https://www.huxiu.com/article/4901261.html?f=rss",
+    "published_at": "Thu, 29 Oct 2026 00:01:11 +0800",
+    "tags": [
+      "中文",
+      "虎嗅"
+    ],
+    "score": 90,
+    "why": "AI 模型生意的利润样本：Anthropic 招股书显示 2026 上半年模型服务毛利率 85.4%（去年同期 12.4%）——卖模型/API 规模上来后毛利能很高",
+    "deep_link": "https://www.huxiu.com/article/4901261.html?f=rss",
+    "extra": {},
+    "blurb": "2026年上半年，Anthropic模型服务毛利率达到85.4%，而2025年同期仅为12.4%。",
+    "url": "https://www.huxiu.com/article/4901261.html?f=rss",
+    "name": "Anthropic，正在用AI创造一种全新的企业组织",
+    "lang": "zh",
+    "posted_at": "Thu, 29 Oc",
+    "evidence_missing": false,
+    "_origin": "zh_media",
+    "_source_id": "zh-huxiu",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "模式/数字：2026年上半年，Anthropic模型服务毛利率达到85.4%，而2025年同期仅为12.4%。",
+      "lines": {
+        "model": "怎么赚钱：2026年上半年，Anthropic模型服务毛利率达到85.4%，而2025年同期仅为12.4%。"
+      },
+      "evidence": [
+        "2026年上半年，Anthropic模型服务毛利率达到85.4%，而2025年同期仅为12.4%。",
+        "85.4%"
+      ],
+      "point": "Anthropic，正在用AI创造一种全新的企业组织"
+    },
+    "title_orig": "Anthropic，正在用AI创造一种全新的企业组织",
+    "source_excerpt": "2026年上半年，Anthropic模型服务毛利率达到85.4%，而2025年同期仅为12.4%。 本文来自微信公众号： 未尽研究 ，作者：未尽研究 Anthropic的招股书终于公开了。它既不是“皇帝的新衣”，也不是市场担忧的解药。理解它，需要一种新的认知。 Anthropic把一种新的企业组组摆到了公众面前：研究前沿AI，并转变为认知能力卖给企业，以巨额算力为物质基础，同时试图用特殊治理结构约束自身追逐利润的方式。 一上市就是超级企业 比较一下代表性的科技IPO。 （数据选自Anthropic S-1） 还有更早的，微软1986年IPO募资约6100万美元，亚马逊1997年约5400万美元，让它们真正成为超级企业的增长，主要发生在上市之后。 Anthropic的情况不同。公开市场投资者已经在接手一个已经被赋予巨大历史使命、增长预期和资本需求的AI领军企业；它一上市可能就跻身于世界最大的科技企业之列。 一方面，这说明资本市场",
+    "_score_raw": 80,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_ai_business": true,
+    "_practical_delta": 10,
+    "summary_zh": "2026年上半年，Anthropic模型服务毛利率达到85.4%，而2025年同期仅为12.4%。",
+    "highlights": [
+      "本文来自微信公众号： 未尽研究 ，作者：未尽研究 Anthropic的招股书终于公开了。",
+      "它既不是“皇帝的新衣”，也不是市场担忧的解药。",
+      "Anthropic把一种新的企业组组摆到了公众面前：研究前沿AI，并转变为认知能力卖给企业，以巨额算力为物质基础，同时…"
+    ],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "save",
+      "use": "AI 模型生意的利润样本：Anthropic 招股书显示 2026 上半年模型服务毛利率 85.4%（去年同期 12.4%）——卖模型/API 规模上来后毛利能很高",
+      "lines": {
+        "model": "怎么赚钱：2026年上半年，Anthropic模型服务毛利率达到85.4%，而2025年同期仅为12.4%。"
+      },
+      "evidence": [
+        "2026年上半年，Anthropic模型服务毛利率达到85.4%，而2025年同期仅为12.4%。",
+        "85.4%"
+      ],
+      "point": "AI 模型生意的利润样本：Anthropic 招股书显示 2026 上半年模型服务毛利率 85.4%（去年同期 12.4%）——卖模型/API 规模上来后毛利能很高",
+      "verdict_label": "收藏",
+      "title": ""
+    }
+  },
+  {
+    "id": "ai-zh-74f01406152b",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "当上下文成为产业共识，金蝶灵基把ERP变成Agent的认知底座",
+    "summary": "据金蝶2026年中期业绩披露，灵基发布后签约26家客户、上线40余个Agent，AI原生产品收入同比增长189%。",
     "source": "钛媒体",
-    "source_url": "https://www.tmtpost.com/8183283.html",
-    "published_at": "Tue, 27 Oct 2026 18:19:20 +0800",
+    "source_url": "https://www.tmtpost.com/8184285.html",
+    "published_at": "Wed, 28 Oct 2026 17:28:49 +0800",
     "tags": [
       "中文",
       "钛媒体"
     ],
     "score": 90,
-    "why": "机器人公司抢人行情：优必选 2025 年人形机器人收入 8.21 亿、销量 1079 台（全年仍净亏 7.9 亿），行业在用年薪上亿挖科学家——看具身智能商业化仍靠烧钱换量",
-    "deep_link": "https://www.tmtpost.com/8183283.html",
+    "why": "企业 Agent 变现：金蝶灵基签约 26 家客户、上线 40 余个 Agent，AI 原生产品收入同比 +189%，付费客户 3706 家——「老 ERP 数据 + Agent」是 B 端落地路径",
+    "deep_link": "https://www.tmtpost.com/8184285.html",
     "extra": {},
-    "blurb": "优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下 （本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。",
-    "url": "https://www.tmtpost.com/8183283.html",
-    "name": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人",
+    "blurb": "据金蝶2026年中期业绩披露，灵基发布后签约26家客户、上线40余个Agent，AI原生产品收入同比增长189%。",
+    "url": "https://www.tmtpost.com/8184285.html",
+    "name": "当上下文成为产业共识，金蝶灵基把ERP变成Agent的认知底座",
     "lang": "zh",
-    "posted_at": "Tue, 27 Oc",
+    "posted_at": "Wed, 28 Oc",
     "evidence_missing": false,
     "_origin": "zh_media",
     "_source_id": "zh-tmtpost",
     "zh_reader": {
       "verdict": "save",
-      "use": "模式/数字：优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下",
+      "use": "模式/数字：据金蝶2026年中期业绩披露，灵基发布后签约26家客户、上线40余个Agent，AI原生产品收入同比增长189%。",
       "lines": {
-        "model": "怎么赚钱：优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下"
+        "model": "怎么赚钱：据金蝶2026年中期业绩披露，灵基发布后签约26家客户、上线40余个Agent，AI原生产品收入同比增长189%。"
       },
       "evidence": [
-        "优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下",
-        "8.21亿元"
+        "据金蝶2026年中期业绩披露，灵基发布后签约26家客户、上线40余个Agent，AI原生产品收入同比增长189%。",
+        "189%"
       ],
-      "point": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人"
+      "point": "当上下文成为产业共识，金蝶灵基把ERP变成Agent的认知底座"
     },
-    "title_orig": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人",
-    "source_excerpt": "优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下 （本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。 今年以来，具身智能行业持续升温，企业一边忙着融资、扩产，一边开始在人才市场上&ldquo;抢人&rdquo;。有公司为顶尖科学家开出上亿元年薪，也有企业把招聘范围延伸到应届生和在校博士，生怕错过下一个技术骨干。 今年春招期间，AI领域岗位量迎来爆发式增长，其中具身智能相关岗位的招聘需求更是暴增15倍，平均月薪达到6.2万元。 此前4月，优必选公开招募具身智能首席科学家，开出1500万元起步、最高1.24亿元的年薪总包。按照工作日折算，最高薪酬接近一天50万元。 这场重金求贤的背后，是整个行业在资本推动下的快速扩张。 数据显示，国内具身智能赛道今年上半年融资总额已突破900亿元，同比增长近5倍。 然而，",
+    "title_orig": "当上下文成为产业共识，金蝶灵基把ERP变成Agent的认知底座",
+    "source_excerpt": "据金蝶2026年中期业绩披露，灵基发布后签约26家客户、上线40余个Agent，AI原生产品收入同比增长189%。 据金蝶2026年中期业绩披露，灵基发布后签约26家客户、上线40余个Agent，AI原生产品收入同比增长189%。到本次更新前，灵基付费客户已达3706家。 期间，金蝶集团总裁章勇、金蝶中国副总裁兼研发中心总经理刘仲文围绕产品定位、行业变局等进行分享。其核心思路是将ERP从记录系统升级为Agent的认知底座，让Agent带着企业既有的业务逻辑、权限边界和历史习惯去干活。 金蝶的AI尝试早于灵基的发布。2023年8月，金蝶发布苍穹GPT大模型，彼时的思路是将大模型能力嵌入ERP与财务场景，推出预算规划、代码生成等AI助手。到了2024年，金蝶苍穹升级为新一代企业级AI平台，这一阶段验证了AI在企业管理场景中的可行性，但同时也暴露出一个问题：Agent如果没有企业既有的业务逻辑和上下文，很难真正干活。 如今来看，软件",
     "_score_raw": 80,
     "_decay_penalty": 0,
     "_decay_exempt": null,
     "_ai_business": true,
-    "ai_frame": {
-      "problem": null,
-      "model": null,
-      "proof": "收入8.21"
-    },
     "_practical_delta": 10,
-    "summary_zh": "优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下 （本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。",
+    "summary_zh": "据金蝶2026年中期业绩披露，灵基发布后签约26家客户、上线40余个Agent，AI原生产品收入同比增长189%。",
     "highlights": [
-      "今年以来，具身智能行业持续升温，企业一边忙着融资、扩产，一边开始在人才市场上“抢人”。",
-      "有公司为顶尖科学家开出上亿元年薪，也有企业把招聘范围延伸到应届生和在校博士，生怕错过下一个技术骨干。",
-      "今年春招期间，AI领域岗位量迎来爆发式增长，其中具身智能相关岗位的招聘需求更是暴增15倍，平均月薪达到6.2万元。"
+      "到本次更新前，灵基付费客户已达3706家。",
+      "期间，金蝶集团总裁章勇、金蝶中国副总裁兼研发中心总经理刘仲文围绕产品定位、行业变局等进行分享。",
+      "其核心思路是将ERP从记录系统升级为Agent的认知底座，让Agent带着企业既有的业务逻辑、权限边界和历史习惯去干活。"
     ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "机器人公司抢人行情：优必选 2025 年人形机器人收入 8.21 亿、销量 1079 台（全年仍净亏 7.9 亿），行业在用年薪上亿挖科学家——看具身智能商业化仍靠烧钱换量",
+      "use": "企业 Agent 变现：金蝶灵基签约 26 家客户、上线 40 余个 Agent，AI 原生产品收入同比 +189%，付费客户 3706 家——「老 ERP 数据 + Agent」是 B 端落地路径",
       "lines": {
-        "model": "怎么赚钱：优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下"
+        "model": "怎么赚钱：据金蝶2026年中期业绩披露，灵基发布后签约26家客户、上线40余个Agent，AI原生产品收入同比增长189%。"
       },
       "evidence": [
-        "优必选在2025年财报中透露，其全尺寸具身智能人形机器人实现收入8.21亿元、销量1079台，在全年净亏损7.9亿元背景下",
-        "8.21亿元"
+        "据金蝶2026年中期业绩披露，灵基发布后签约26家客户、上线40余个Agent，AI原生产品收入同比增长189%。",
+        "189%"
       ],
-      "point": "机器人公司抢人行情：优必选 2025 年人形机器人收入 8.21 亿、销量 1079 台（全年仍净亏 7.9 亿），行业在用年薪上亿挖科学家——看具身智能商业化仍靠烧钱换量",
+      "point": "企业 Agent 变现：金蝶灵基签约 26 家客户、上线 40 余个 Agent，AI 原生产品收入同比 +189%，付费客户 3706 家——「老 ERP 数据 + Agent」是 B 端落地路径",
       "verdict_label": "收藏",
       "title": ""
     }
   },
   {
-    "id": "ai-zh-6f064ad650e8",
+    "id": "ai-zh-14fc3d62ad66",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "这家全球汽零巨头，为何跨界做机器人？",
-    "summary": "目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。",
-    "source": "36氪",
-    "source_url": "https://36kr.com/p/4043530020115590?f=rss",
-    "published_at": "2026-10-27 10:56:53 +0800",
+    "title": "老干妈能用AI，很多企业却卡在“思想障碍”",
+    "summary": "老干妈登上热搜：去年营收回归54亿元； 本文来自微信公众号： 中外管理传媒 ，责任编辑：胸怀天下，作者：中外管理 一边是“不上市不融资不借钱、线上几乎断网”的传统标签，一边是AI质检与全链路追溯的深度应用，这种反差背后，藏着传统企业拥抱AI的真实门槛。",
+    "source": "虎嗅",
+    "source_url": "https://www.huxiu.com/article/4901273.html?f=rss",
+    "published_at": "Thu, 29 Oct 2026 07:13:58 +0800",
     "tags": [
       "中文",
-      "36氪"
+      "虎嗅"
     ],
     "score": 82,
-    "why": "传统巨头跨界机器人：全球汽零公司在 20+ 国设厂、2025 营收超 600 亿（七成海外）后跨界做机器人——老供应链公司怎么切 AI 硬件可对照",
-    "deep_link": "https://36kr.com/p/4043530020115590?f=rss",
+    "why": "传统工厂 AI 降本案例：老干妈上 AI 质检后关键工序不良率降到 0.02%，拣椒工人从 600 多人减到 48 人——做 To B AI 可拿这种「替人工」账算 ROI",
+    "deep_link": "https://www.huxiu.com/article/4901273.html?f=rss",
     "extra": {},
-    "blurb": "目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。",
-    "url": "https://36kr.com/p/4043530020115590?f=rss",
-    "name": "这家全球汽零巨头，为何跨界做机器人？",
+    "blurb": "老干妈登上热搜：去年营收回归54亿元； 本文来自微信公众号： 中外管理传媒 ，责任编辑：胸怀天下，作者：中外管理 一边是“不上市不融资不借钱、线上几乎断网”的传统标签，一边是AI质检与全链路追溯的深度应用，这种反差背后，藏着传统企业拥抱AI的真实门槛。",
+    "url": "https://www.huxiu.com/article/4901273.html?f=rss",
+    "name": "老干妈能用AI，很多企业却卡在“思想障碍”",
     "lang": "zh",
-    "posted_at": "2026-10-27",
+    "posted_at": "Thu, 29 Oc",
     "evidence_missing": false,
     "_origin": "zh_media",
-    "_source_id": "zh-36kr",
+    "_source_id": "zh-huxiu",
     "zh_reader": {
       "verdict": "save",
-      "use": "原文数字：目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。",
+      "use": "原文数字：老干妈登上热搜：去年营收回归54亿元；",
       "lines": {
-        "fact": "原文数字：目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。"
+        "fact": "原文数字：老干妈登上热搜：去年营收回归54亿元；"
       },
       "evidence": [
-        "目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。",
-        "600亿元"
+        "老干妈登上热搜：去年营收回归54亿元；",
+        "54亿元"
       ],
-      "point": "这家全球汽零巨头，为何跨界做机器人？"
+      "point": "老干妈能用AI，很多企业却卡在“思想障碍”"
     },
-    "title_orig": "这家全球汽零巨头，为何跨界做机器人？",
-    "source_excerpt": "目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。 汽车产业链企业进入机器人领域正在成为行业新趋势。 一方面，整车和零部件价格战持续，企业利润承压，需要寻找新的业务方向。另一方面，以人形机器人为代表的机器人行业，被不少从业者和机构视为下一个阶段的增长主线。行业里广为流传的说法是，具身智能的上半场是自动驾驶，下半场是人形机器人。 在这样的判断下，包括小鹏、奇瑞、北汽、蔚来、比亚迪等在内的数十家车企，纷纷在机器人领域落子。 宁波的汽车零部件巨头企业「均胜电子」也加入战局。均胜电子早期靠汽车功能件起家，后来通过整合德国普瑞、群英、TechniSat，美国KSS、日本高田等优质资产，切入汽车电子与汽车安全领域，并结合中国市场进行二次创新，成为全球汽车零部件前三十强企业。目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。 2025年，均胜电子将业务方向调整为",
+    "title_orig": "老干妈能用AI，很多企业却卡在“思想障碍”",
+    "source_excerpt": "老干妈登上热搜：去年营收回归54亿元； 本文来自微信公众号： 中外管理传媒 ，责任编辑：胸怀天下，作者：中外管理 一边是“不上市不融资不借钱、线上几乎断网”的传统标签，一边是AI质检与全链路追溯的深度应用，这种反差背后，藏着传统企业拥抱AI的真实门槛。 管理解读：刘百功（“中国造隐形冠军”评选评委、中外管理传媒利润倍增中心学术主任、西南财经大学西部商学院企业赋能增长研究中心执行主任） 近期，老干妈登上热搜：去年营收回归54亿元；厂区用上全链路AI管理系统，核心原料100%可追溯，AI视觉质检全面上线，关键工序不良率降至0.02%，拣椒工人从600多人减至48人。一家由79岁创始人主导、不上市不融资不借钱、线上几乎“断网”的传统食品厂，反而率先把AI用进了生产全链路。老干妈这轮翻红，AI是不是第一功臣？传统企业拥抱AI，真正的门槛是什么？第一落点怎么选？人机边界又在哪里？ 品质是“1”，AI是“加速器” 中外管理传媒：老干妈的业",
     "_score_raw": 72,
     "_decay_penalty": 0,
     "_decay_exempt": null,
     "_ai_business": true,
     "_practical_delta": 10,
-    "summary_zh": "目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。",
+    "summary_zh": "老干妈登上热搜：去年营收回归54亿元； 本文来自微信公众号： 中外管理传媒 ，责任编辑：胸怀天下，作者：中外管理 一边是“不上市不融资不借钱、线上几乎断网”的传统标签，一边是AI质检与全链路追溯的深度应用，这种反差背后，藏着传统企业拥抱AI的真实门槛。",
     "highlights": [
-      "汽车产业链企业进入机器人领域正在成为行业新趋势。",
-      "一方面，整车和零部件价格战持续，企业利润承压，需要寻找新的业务方向。",
-      "另一方面，以人形机器人为代表的机器人行业，被不少从业者和机构视为下一个阶段的增长主线。"
+      "管理解读：刘百功（“中国造隐形冠军”评选评委、中外管理传媒利润倍增中心学术主任、西南财经大学西部商学院企业赋能增长研究…",
+      "一家由79岁创始人主导、不上市不融资不借钱、线上几乎“断网”的传统食品厂，反而率先把AI用进了生产全链路。",
+      "老干妈这轮翻红，AI是不是第一功臣？"
     ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "传统巨头跨界机器人：全球汽零公司在 20+ 国设厂、2025 营收超 600 亿（七成海外）后跨界做机器人——老供应链公司怎么切 AI 硬件可对照",
+      "use": "传统工厂 AI 降本案例：老干妈上 AI 质检后关键工序不良率降到 0.02%，拣椒工人从 600 多人减到 48 人——做 To B AI 可拿这种「替人工」账算 ROI",
       "lines": {
-        "fact": "原文数字：目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。"
+        "fact": "原文数字：老干妈登上热搜：去年营收回归54亿元；"
       },
       "evidence": [
-        "目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。",
-        "600亿元"
+        "老干妈登上热搜：去年营收回归54亿元；",
+        "54亿元"
       ],
-      "point": "传统巨头跨界机器人：全球汽零公司在 20+ 国设厂、2025 营收超 600 亿（七成海外）后跨界做机器人——老供应链公司怎么切 AI 硬件可对照",
+      "point": "传统工厂 AI 降本案例：老干妈上 AI 质检后关键工序不良率降到 0.02%，拣椒工人从 600 多人减到 48 人——做 To B AI 可拿这种「替人工」账算 ROI",
       "verdict_label": "收藏",
       "title": ""
     }
   },
   {
-    "id": "ai-post-nichepursuits-fc054a6a9b7e",
+    "id": "ai-community-ai-reddit-saas-88a068a128a1",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "How Craig Hewitt Grew Castos to $1M+ in Revenue",
-    "summary": "In this week’s episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing.",
+    "title": "I launched my side project 2 days ago. 100 users, 8 trials, and my first paying customer! 🚀",
+    "summary": "For other indie hackers: How did you get from your first 100 users to your first 1,000?",
+    "source": "r/SaaS",
+    "source_url": "https://www.reddit.com/r/SaaS/comments/1xht2cn/i_launched_my_side_project_2_days_ago_100_users_8/",
+    "published_at": "2026-10-28T16:34:45.000Z",
+    "tags": [
+      "reddit",
+      "r/SaaS",
+      "用户/流量数",
+      "获客渠道",
+      "做法"
+    ],
+    "score": 78,
+    "why": "冷启动数据参照：小产品上线 2 天 100 个用户、8 个试用、首个付费客户，主要在 Indie Hackers 社区推——可对照自己产品首周转化",
+    "deep_link": "https://www.reddit.com/r/SaaS/comments/1xht2cn/i_launched_my_side_project_2_days_ago_100_users_8/",
+    "extra": {},
+    "blurb": "For other indie hackers: How did you get from your first 100 users to your first 1,000?",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xht2cn/i_launched_my_side_project_2_days_ago_100_users_8/",
+    "name": "I launched my side project 2 days ago. 100 users, 8 trials, and my first paying customer! 🚀",
+    "lang": "EN",
+    "posted_at": "2026-10-28",
+    "evidence_missing": false,
+    "_origin": "community_rss",
+    "_source_id": "ai-reddit-saas",
+    "title_orig": "I launched my side project 2 days ago. 100 users, 8 trials, and my first paying customer! 🚀",
+    "source_excerpt": "For other indie hackers: How did you get from your first 100 users to your first 1,000? Here's what makes Monetor different: 🔥 8 active trials",
+    "_feed_type": "reddit_rss",
+    "_feed_url": "https://www.reddit.com/r/SaaS+indiehackers+EntrepreneurRideAlong+Entrepreneur/top/.rss?t=day&limit=100",
+    "_score_raw": 68,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_ai_business": true,
+    "_practical_delta": 10,
+    "summary_zh": "For other indie hackers: How did you get from your first 100 users to your first 1,000?",
+    "highlights": [
+      "Here's what makes Monetor different: 🔥 8 active trials"
+    ],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "save",
+      "use": "冷启动数据参照：小产品上线 2 天 100 个用户、8 个试用、首个付费客户，主要在 Indie Hackers 社区推——可对照自己产品首周转化",
+      "lines": {
+        "value": "数据「100 users」；获客渠道「indie hackers」；做法「Here's what」",
+        "note": "数字均为发帖人自述，未经核实"
+      },
+      "evidence": [
+        "100 users",
+        "indie hackers",
+        "Here's what"
+      ],
+      "point": "冷启动数据参照：小产品上线 2 天 100 个用户、8 个试用、首个付费客户，主要在 Indie Hackers 社区推——可对照自己产品首周转化",
+      "verdict_label": "收藏",
+      "title": ""
+    }
+  },
+  {
+    "id": "ai-post-nichepursuits-afc1f7fda9de",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "How Tomi Mikula Grew Delivrd to $400K-$500K in Sales With a $1,000 Flat-Fee Service",
+    "summary": "In this week’s episode of the Niche Pursuits podcast, Tomi Mikula and I discuss how he grew Delivrd from 100 free deals to 400+ deals per month.",
     "source": "@nichepursuits / Niche Pursuits",
-    "source_url": "https://www.nichepursuits.com/craig-hewitt/",
-    "published_at": "2026-10-21T14:03:10.000Z",
+    "source_url": "https://www.nichepursuits.com/tomi-mikula/",
+    "published_at": "2026-10-28T15:54:04.000Z",
     "tags": [
       "公开营收",
       "indie",
@@ -155,21 +397,21 @@
       "SaaS"
     ],
     "score": 78,
-    "why": "小众 SaaS 路径：Castos（播客托管）做到 $1M+ 收入，访谈讲搜索流量被 AI 分流后，怎么靠对比页和免费工具继续获客",
-    "deep_link": "https://www.nichepursuits.com/craig-hewitt/",
+    "why": "服务型小生意：Delivrd 用 $1,000 固定收费的购车代办服务做到 $40–50 万销售额，从 100 单免费做到每月 400+ 单——先免费验证再定价的打法可抄",
+    "deep_link": "https://www.nichepursuits.com/tomi-mikula/",
     "extra": {},
-    "blurb": "In this week’s episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing.",
-    "url": "https://www.nichepursuits.com/craig-hewitt/",
+    "blurb": "In this week’s episode of the Niche Pursuits podcast, Tomi Mikula and I discuss how he grew Delivrd from 100 free deals to 400+ deals per month.",
+    "url": "https://www.nichepursuits.com/tomi-mikula/",
     "handle": "nichepursuits",
     "name": "Niche Pursuits",
     "lang": "EN",
-    "posted_at": "2026-10-21",
+    "posted_at": "2026-10-28",
     "tier": "A",
     "evidence_missing": false,
     "_origin": "kol_rss",
     "_source_id": "kol:nichepursuits",
-    "title_orig": "How Craig Hewitt Grew Castos to $1M+ in Revenue",
-    "source_excerpt": "In this week’s episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing. We cover why comparison pages and free tools are driving… The post How Craig Hewitt Grew Casto",
+    "title_orig": "How Tomi Mikula Grew Delivrd to $400K-$500K in Sales With a $1,000 Flat-Fee Service",
+    "source_excerpt": "In this week’s episode of the Niche Pursuits podcast, Tomi Mikula and I discuss how he grew Delivrd from 100 free deals to 400+ deals per month. After years in the auto industry, he built the company around a problem… The post How Tomi Mikula Grew Delivrd to $400K-$500K in Sales",
     "person_id": "nichepursuits",
     "person_handle": "nichepursuits",
     "person_name": "Niche Pursuits",
@@ -182,30 +424,160 @@
     "ai_frame": {
       "problem": null,
       "model": null,
-      "proof": "$1M"
+      "proof": "$400K"
     },
     "_practical_delta": 10,
-    "summary_zh": "In this week’s episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing.",
+    "summary_zh": "In this week’s episode of the Niche Pursuits podcast, Tomi Mikula and I discuss how he grew Delivrd from 100 free deals to 400+ deals per month.",
     "highlights": [
-      "We cover why comparison pages and free tools are driving……"
+      "After years in the auto industry…"
     ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "小众 SaaS 路径：Castos（播客托管）做到 $1M+ 收入，访谈讲搜索流量被 AI 分流后，怎么靠对比页和免费工具继续获客",
+      "use": "服务型小生意：Delivrd 用 $1,000 固定收费的购车代办服务做到 $40–50 万销售额，从 100 单免费做到每月 400+ 单——先免费验证再定价的打法可抄",
       "lines": {
-        "value": "原文数字：金额「How Craig Hewitt Grew Castos to $1M+ in Revenue」"
+        "value": "原文数字：金额「How Tomi Mikula Grew Delivrd to $400K-$500K in Sales With a $1,000 Flat-Fee」"
       },
       "evidence": [
-        "How Craig Hewitt Grew Castos to $1M+ in Revenue"
+        "How Tomi Mikula Grew Delivrd to $400K-$500K in Sales With a $1,000 Flat-Fee"
       ],
-      "point": "小众 SaaS 路径：Castos（播客托管）做到 $1M+ 收入，访谈讲搜索流量被 AI 分流后，怎么靠对比页和免费工具继续获客",
+      "point": "服务型小生意：Delivrd 用 $1,000 固定收费的购车代办服务做到 $40–50 万销售额，从 100 单免费做到每月 400+ 单——先免费验证再定价的打法可抄",
       "concrete": [
         {
           "kind": "money",
-          "quote": "$1M"
+          "quote": "$400K"
         }
       ],
+      "verdict_label": "收藏",
+      "title": ""
+    }
+  },
+  {
+    "id": "ai-zh-e8672756eacc",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%",
+    "summary": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%",
+    "source": "InfoQ 中文",
+    "source_url": "https://www.infoq.cn/article/bXKVgLdpf7HONYHIi6Su?utm_source=rss&utm_medium=article",
+    "published_at": "Wed, 28 Oct 2026 21:00:00 GMT",
+    "tags": [
+      "中文",
+      "InfoQ 中文"
+    ],
+    "score": 74,
+    "why": "AI 成本账：Instagram 改用原生 AI 架构重做界面后 token 成本降 33%——做 AI 应用时架构优化本身就能省成本",
+    "deep_link": "https://www.infoq.cn/article/bXKVgLdpf7HONYHIi6Su?utm_source=rss&utm_medium=article",
+    "extra": {},
+    "blurb": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%",
+    "url": "https://www.infoq.cn/article/bXKVgLdpf7HONYHIi6Su?utm_source=rss&utm_medium=article",
+    "name": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%",
+    "lang": "zh",
+    "posted_at": "Wed, 28 Oc",
+    "evidence_missing": false,
+    "_origin": "zh_media",
+    "_source_id": "zh-infoq",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "原文数字：Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%。",
+      "lines": {
+        "fact": "原文数字：Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%。"
+      },
+      "evidence": [
+        "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%。",
+        "33%"
+      ],
+      "point": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 tok…"
+    },
+    "title_orig": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%",
+    "source_excerpt": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%。 点击查看原文>",
+    "_score_raw": 64,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_ai_business": true,
+    "_practical_delta": 10,
+    "summary_zh": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%",
+    "highlights": [],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "save",
+      "use": "AI 成本账：Instagram 改用原生 AI 架构重做界面后 token 成本降 33%——做 AI 应用时架构优化本身就能省成本",
+      "lines": {
+        "fact": "原文数字：Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%。"
+      },
+      "evidence": [
+        "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%。",
+        "33%"
+      ],
+      "point": "AI 成本账：Instagram 改用原生 AI 架构重做界面后 token 成本降 33%——做 AI 应用时架构优化本身就能省成本",
+      "verdict_label": "收藏",
+      "title": ""
+    }
+  },
+  {
+    "id": "ai-zh-87a5a803e493",
+    "partition": "ai",
+    "type": "post",
+    "category": "AI变现",
+    "title": "接入AI半年后，一家自闭症康复机构辞了兼职督导",
+    "summary": "目前，该系统已在近100家直营门店及300余家合作机构中使用。",
+    "source": "36氪",
+    "source_url": "https://36kr.com/p/4044028040844417?f=rss",
+    "published_at": "2026-10-28 10:33:44 +0800",
+    "tags": [
+      "中文",
+      "36氪"
+    ],
+    "score": 74,
+    "why": "垂直行业 AI 产品化：自闭症康复机构把督导经验做成 AI 系统，已用于近 100 家直营门店和 300 余家合作机构——「稀缺专家经验 → SaaS」的变现样本",
+    "deep_link": "https://36kr.com/p/4044028040844417?f=rss",
+    "extra": {},
+    "blurb": "目前，该系统已在近100家直营门店及300余家合作机构中使用。",
+    "url": "https://36kr.com/p/4044028040844417?f=rss",
+    "name": "接入AI半年后，一家自闭症康复机构辞了兼职督导",
+    "lang": "zh",
+    "posted_at": "2026-10-28",
+    "evidence_missing": false,
+    "_origin": "zh_media",
+    "_source_id": "zh-36kr",
+    "zh_reader": {
+      "verdict": "save",
+      "use": "原文数字：目前，该系统已在近100家直营门店及300余家合作机构中使用。",
+      "lines": {
+        "fact": "原文数字：目前，该系统已在近100家直营门店及300余家合作机构中使用。"
+      },
+      "evidence": [
+        "目前，该系统已在近100家直营门店及300余家合作机构中使用。",
+        "100家"
+      ],
+      "point": "接入AI半年后，一家自闭症康复机构辞了兼职督导"
+    },
+    "title_orig": "接入AI半年后，一家自闭症康复机构辞了兼职督导",
+    "source_excerpt": "目前，该系统已在近100家直营门店及300余家合作机构中使用。 文 | 刘凌果 编辑 | 海若镜 教一个四岁半的孩子认识什么是苹果，要花多长时间？对自闭症儿童而言，这是个未知数。 欢欢坐在小板凳上，康复师将印有苹果图样的小卡，一张一张举到她的眼前：红苹果、蛇果、切开的苹果、咬了一口的苹果、苹果简笔画，她要辨认并回答，以上都是苹果吗？答对了会被康复师记作“+（加）”，反之记为“-（减）”。对普通孩子而言，这种相对简单的认知泛化能力可自然习得，但一些自闭症儿童可能需要上百次练习。 一堂30分钟的课程下来，康复师至少会进行30个问答回合，每回合可以视作一条行为数据。欢欢母亲告诉36氪，孩子一天需要上七节课，一周五天，全年基本无长间断。这意味着，大量带有明确“教学-行为-反馈”对应关系的数据，在这个过程中形成。 过去，这些数据主要用于让老师判断一堂课的完成情况。当前，它们被用于训练AI，成为一门新生意。 “把稀缺的督导经验，产品化、规",
+    "_score_raw": 64,
+    "_decay_penalty": 0,
+    "_decay_exempt": null,
+    "_ai_business": true,
+    "_practical_delta": 10,
+    "summary_zh": "目前，该系统已在近100家直营门店及300余家合作机构中使用。",
+    "highlights": [
+      "文 | 刘凌果 编辑 | 海若镜 教一个四岁半的孩子认识什么是苹果，要花多长时间？",
+      "对自闭症儿童而言，这是个未知数。",
+      "欢欢坐在小板凳上，康复师将印有苹果图样的小卡，一张一张举到她的眼前：红苹果、蛇果、切开的苹果、咬了一口的苹果、苹果简笔…"
+    ],
+    "summary_source": "fallback",
+    "reader": {
+      "verdict": "save",
+      "use": "垂直行业 AI 产品化：自闭症康复机构把督导经验做成 AI 系统，已用于近 100 家直营门店和 300 余家合作机构——「稀缺专家经验 → SaaS」的变现样本",
+      "lines": {
+        "fact": "原文数字：目前，该系统已在近100家直营门店及300余家合作机构中使用。"
+      },
+      "evidence": [
+        "目前，该系统已在近100家直营门店及300余家合作机构中使用。",
+        "100家"
+      ],
+      "point": "垂直行业 AI 产品化：自闭症康复机构把督导经验做成 AI 系统，已用于近 100 家直营门店和 300 余家合作机构——「稀缺专家经验 → SaaS」的变现样本",
       "verdict_label": "收藏",
       "title": ""
     }
@@ -418,127 +790,137 @@
     }
   },
   {
-    "id": "ai-zh-e9b64b31530d",
+    "id": "ai-zh-bd7c7f36be2d",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
-    "summary": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
-    "source": "InfoQ 中文",
-    "source_url": "https://www.infoq.cn/article/O7lcxqKD2avRPbNoMmtg?utm_source=rss&utm_medium=article",
-    "published_at": "Mon, 26 Oct 2026 15:05:27 GMT",
+    "title": "中国AI 最有权力的数据掌舵人：8家公司，11位核心负责人",
+    "summary": "9月中旬，成立不到一年的中国AI评测与合成数据初创公司UniPat AI被曝即将完成约3亿美元融资，由阿里拟领投 本文来自微信公众号： Z Finance ，作者：ZF编辑部，原文标题：《独家丨中国 AI 最有权力的数据掌舵人：8 家公司，11 位核心负责人》 2026年秋天，大模型行业水面之下同时发生了两件事。",
+    "source": "虎嗅",
+    "source_url": "https://www.huxiu.com/article/4901243.html?f=rss",
+    "published_at": "Thu, 29 Oct 2026 07:45:07 +0800",
     "tags": [
       "中文",
-      "InfoQ 中文"
+      "虎嗅"
     ],
     "score": 64,
-    "why": "企业 AI 落地案例：花椒直播内部建了 30 个 Agent，文章讲怎么让企业 AI 能力持续迭代——做企业 AI 落地/咨询可参考",
-    "deep_link": "https://www.infoq.cn/article/O7lcxqKD2avRPbNoMmtg?utm_source=rss&utm_medium=article",
+    "why": "AI 数据生意在被追：评测与合成数据公司 UniPat AI 成立不到一年，被曝约 $3 亿融资、估值 $25 亿（阿里拟领投）——卖数据给大模型厂是正热的商业模式",
+    "deep_link": "https://www.huxiu.com/article/4901243.html?f=rss",
     "extra": {},
-    "blurb": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
-    "url": "https://www.infoq.cn/article/O7lcxqKD2avRPbNoMmtg?utm_source=rss&utm_medium=article",
-    "name": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+    "blurb": "9月中旬，成立不到一年的中国AI评测与合成数据初创公司UniPat AI被曝即将完成约3亿美元融资，由阿里拟领投 本文来自微信公众号： Z Finance ，作者：ZF编辑部，原文标题：《独家丨中国 AI 最有权力的数据掌舵人：8 家公司，11 位核心负责人》 2026年秋天，大模型行业水面之下同时发生了两件事。",
+    "url": "https://www.huxiu.com/article/4901243.html?f=rss",
+    "name": "中国AI 最有权力的数据掌舵人：8家公司，11位核心负责人",
     "lang": "zh",
-    "posted_at": "Mon, 26 Oc",
+    "posted_at": "Thu, 29 Oc",
     "evidence_missing": false,
     "_origin": "zh_media",
-    "_source_id": "zh-infoq",
+    "_source_id": "zh-huxiu",
     "zh_reader": {
       "verdict": "save",
-      "use": "原文数字：30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+      "use": "原文数字：9月中旬，成立不到一年的中国AI评测与合成数据初创公司UniPat AI被曝即将完成约3亿美元融资，由阿里拟领投",
       "lines": {
-        "fact": "原文数字：30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？"
+        "fact": "原文数字：9月中旬，成立不到一年的中国AI评测与合成数据初创公司UniPat AI被曝即将完成约3亿美元融资，由阿里拟领投"
       },
       "evidence": [
-        "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
-        "30 个"
+        "9月中旬，成立不到一年的中国AI评测与合成数据初创公司UniPat AI被曝即将完成约3亿美元融资，由阿里拟领投",
+        "3亿美元"
       ],
-      "point": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？"
+      "point": "中国AI 最有权力的数据掌舵人：8家公司，11位核心负责人"
     },
-    "title_orig": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
-    "source_excerpt": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？ 点击查看原文>",
+    "title_orig": "中国AI 最有权力的数据掌舵人：8家公司，11位核心负责人",
+    "source_excerpt": "9月中旬，成立不到一年的中国AI评测与合成数据初创公司UniPat AI被曝即将完成约3亿美元融资，由阿里拟领投 本文来自微信公众号： Z Finance ，作者：ZF编辑部，原文标题：《独家丨中国 AI 最有权力的数据掌舵人：8 家公司，11 位核心负责人》 2026年秋天，大模型行业水面之下同时发生了两件事。 第一件事发生在创投市场。9月中旬，成立不到一年的中国AI评测与合成数据初创公司UniPat AI被曝即将完成约3亿美元融资，由阿里拟领投，腾讯、红杉中国等跟投，估值飙至25亿美元。创始人李宽是一名90后港科大博士，去年还在阿里通义实验室做后训练与数据合成。而在UniPat身后，前字节Seed成员创办的智能知识、前MiniMax骨干创办的Copula Lab、以及获红杉、BAI与鼎晖连轮押注的原壤智能都在今年密集浮出水面。 第二件事发生在大厂与头部模型公司内部：随着数据战略从内部自给全面转向外采与合成，掌管AI数据的一",
     "_score_raw": 64,
     "_decay_penalty": 0,
     "_decay_exempt": null,
-    "summary_zh": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
-    "highlights": [],
+    "summary_zh": "9月中旬，成立不到一年的中国AI评测与合成数据初创公司UniPat AI被曝即将完成约3亿美元融资，由阿里拟领投 本文来自微信公众号： Z Finance ，作者：ZF编辑部，原文标题：《独家丨中国 AI 最有权力的数据掌舵人：8 家公司，11 位核心负责人》 2026年秋天，大模型行业水面之下同时发生了两件事。",
+    "highlights": [
+      "创始人李宽是一名90后港科大博士，去年还在阿里通义实验室做后训练与数据合成。",
+      "而在UniPat身后，前字节Seed成员创办的智能知识、前MiniMax骨干创办的Copula…"
+    ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "企业 AI 落地案例：花椒直播内部建了 30 个 Agent，文章讲怎么让企业 AI 能力持续迭代——做企业 AI 落地/咨询可参考",
+      "use": "AI 数据生意在被追：评测与合成数据公司 UniPat AI 成立不到一年，被曝约 $3 亿融资、估值 $25 亿（阿里拟领投）——卖数据给大模型厂是正热的商业模式",
       "lines": {
-        "fact": "原文数字：30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？"
+        "fact": "原文数字：9月中旬，成立不到一年的中国AI评测与合成数据初创公司UniPat AI被曝即将完成约3亿美元融资，由阿里拟领投"
       },
       "evidence": [
-        "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
-        "30 个"
+        "9月中旬，成立不到一年的中国AI评测与合成数据初创公司UniPat AI被曝即将完成约3亿美元融资，由阿里拟领投",
+        "3亿美元"
       ],
-      "point": "企业 AI 落地案例：花椒直播内部建了 30 个 Agent，文章讲怎么让企业 AI 能力持续迭代——做企业 AI 落地/咨询可参考",
+      "point": "AI 数据生意在被追：评测与合成数据公司 UniPat AI 成立不到一年，被曝约 $3 亿融资、估值 $25 亿（阿里拟领投）——卖数据给大模型厂是正热的商业模式",
       "verdict_label": "收藏",
       "title": ""
     }
   },
   {
-    "id": "ai-zh-30f61a8f25fc",
+    "id": "ai-post-nichepursuits-fc054a6a9b7e",
     "partition": "ai",
     "type": "post",
     "category": "AI变现",
-    "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
-    "summary": "近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币 近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币；今年内已累计募得24亿人民币。",
-    "source": "雷峰网",
-    "source_url": "https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html",
-    "published_at": "Mon, 26 Oct 2026 10:37:00 +0800",
+    "title": "How Craig Hewitt Grew Castos to $1M+ in Revenue",
+    "summary": "In this week’s episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing.",
+    "source": "@nichepursuits / Niche Pursuits",
+    "source_url": "https://www.nichepursuits.com/craig-hewitt/",
+    "published_at": "2026-10-21T14:03:10.000Z",
     "tags": [
-      "中文",
-      "雷峰网"
+      "公开营收",
+      "indie",
+      "saas",
+      "SaaS"
     ],
-    "score": 64,
-    "why": "AI 基础设施生意：趋境科技卖「高品质 AI Token 生产服务」，B 轮超 13 亿元、核心指标半年超十倍增长——Token 算力服务是正被资本追的商业模式",
-    "deep_link": "https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html",
+    "score": 62,
+    "why": "小众 SaaS 路径：Castos（播客托管）做到 $1M+ 收入，访谈讲搜索流量被 AI 分流后怎么继续获客",
+    "deep_link": "https://www.nichepursuits.com/craig-hewitt/",
     "extra": {},
-    "blurb": "近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币 近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币；今年内已累计募得24亿人民币。",
-    "url": "https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html",
-    "name": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
-    "lang": "zh",
-    "posted_at": "Mon, 26 Oc",
+    "blurb": "In this week’s episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing.",
+    "url": "https://www.nichepursuits.com/craig-hewitt/",
+    "handle": "nichepursuits",
+    "name": "Niche Pursuits",
+    "lang": "EN",
+    "posted_at": "2026-10-21",
+    "tier": "A",
     "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-leiphone",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "原文数字：近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币",
-      "lines": {
-        "fact": "原文数字：近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币"
-      },
-      "evidence": [
-        "近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币",
-        "13亿人民币"
-      ],
-      "point": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token …"
-    },
-    "title_orig": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
-    "source_excerpt": "近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币 近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币；今年内已累计募得24亿人民币。多项核心经营指标在半年内实现超十倍速增长，持续获得产业和资本的高度认可。 本轮融资由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投。云创资本、湖南高新纵横、建投华科、申万创新投、中信聚信、珠海科技产业集团、商汤科技、网宿科技、甘肃树帜、常金控、元智未来、清证星竹、小咖资本等跟投，老股东尚势资本继续追投。 这是继今年 7 月完成 A 轮融资后，趋境科技短期内再获大额融资。截至今年10月，趋境科技已在 2026 年连续完成多轮融资。密集的资本跟进背后，既反映出市场对 AI 基础设施赛道长期价值的共识，",
-    "_score_raw": 64,
-    "_decay_penalty": 0,
+    "_origin": "kol_rss",
+    "_source_id": "kol:nichepursuits",
+    "title_orig": "How Craig Hewitt Grew Castos to $1M+ in Revenue",
+    "source_excerpt": "In this week’s episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing. We cover why comparison pages and free tools are driving… The post How Craig Hewitt Grew Casto",
+    "person_id": "nichepursuits",
+    "person_handle": "nichepursuits",
+    "person_name": "Niche Pursuits",
+    "_feed_type": "blog_rss",
+    "_feed_url": "https://www.nichepursuits.com/feed/",
+    "_score_raw": 60,
+    "_decay_penalty": 8,
     "_decay_exempt": null,
-    "summary_zh": "近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币 近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币；今年内已累计募得24亿人民币。",
+    "_ai_business": true,
+    "ai_frame": {
+      "problem": null,
+      "model": null,
+      "proof": "$1M"
+    },
+    "_practical_delta": 10,
+    "summary_zh": "In this week’s episode of the Niche Pursuits podcast, Craig Hewitt and I discuss how Castos is adapting its content strategy as search traffic changes, and AI reshapes online marketing.",
     "highlights": [
-      "多项核心经营指标在半年内实现超十倍速增长，持续获得产业和资本的高度认可。",
-      "本轮融资由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投。",
-      "云创资本、湖南高新纵横、建投华科、申万创新投、中信聚信、珠海科技产业集团、商汤科技、网宿科技、甘肃树帜、常金控、元智未…"
+      "We cover why comparison pages and free tools are driving……"
     ],
     "summary_source": "fallback",
     "reader": {
       "verdict": "save",
-      "use": "AI 基础设施生意：趋境科技卖「高品质 AI Token 生产服务」，B 轮超 13 亿元、核心指标半年超十倍增长——Token 算力服务是正被资本追的商业模式",
+      "use": "小众 SaaS 路径：Castos（播客托管）做到 $1M+ 收入，访谈讲搜索流量被 AI 分流后怎么继续获客",
       "lines": {
-        "fact": "原文数字：近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币"
+        "value": "原文数字：金额「How Craig Hewitt Grew Castos to $1M+ in Revenue」"
       },
       "evidence": [
-        "近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币",
-        "13亿人民币"
+        "How Craig Hewitt Grew Castos to $1M+ in Revenue"
       ],
-      "point": "AI 基础设施生意：趋境科技卖「高品质 AI Token 生产服务」，B 轮超 13 亿元、核心指标半年超十倍增长——Token 算力服务是正被资本追的商业模式",
+      "point": "小众 SaaS 路径：Castos（播客托管）做到 $1M+ 收入，访谈讲搜索流量被 AI 分流后怎么继续获客",
+      "concrete": [
+        {
+          "kind": "money",
+          "quote": "$1M"
+        }
+      ],
       "verdict_label": "收藏",
       "title": ""
     }
@@ -666,142 +1048,6 @@
           "quote": "$36,000"
         }
       ],
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-post-nichepursuits-42549d21d42e",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
-    "summary": "In this week’s episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win.",
-    "source": "@nichepursuits / Niche Pursuits",
-    "source_url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
-    "published_at": "2026-10-07T14:02:14.000Z",
-    "tags": [
-      "公开营收",
-      "indie",
-      "saas",
-      "SaaS"
-    ],
-    "score": 62,
-    "why": "内容站变现案例：Maddox 做到日入 $1,000 的网站并以 $120,000 卖出，访谈讲流量和出售过程",
-    "deep_link": "https://www.nichepursuits.com/maddox-schmidlkofer/",
-    "extra": {},
-    "blurb": "In this week’s episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win.",
-    "url": "https://www.nichepursuits.com/maddox-schmidlkofer/",
-    "handle": "nichepursuits",
-    "name": "Niche Pursuits",
-    "lang": "EN",
-    "posted_at": "2026-10-07",
-    "tier": "A",
-    "evidence_missing": false,
-    "_origin": "kol_rss",
-    "_source_id": "kol:nichepursuits",
-    "title_orig": "How Maddox Schmidlkofer Built a $1,000-a-Day Site, Sold it for $120,000, and Started Again",
-    "source_excerpt": "In this week’s episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win. At 21, Maddox has already built a website generating $1,000 per day and sold it for $120,000. His current… The post How Maddox Schmidlkofer Bui",
-    "person_id": "nichepursuits",
-    "person_handle": "nichepursuits",
-    "person_name": "Niche Pursuits",
-    "_feed_type": "blog_rss",
-    "_feed_url": "https://www.nichepursuits.com/feed/",
-    "_score_raw": 60,
-    "_decay_penalty": 8,
-    "_decay_exempt": null,
-    "_ai_business": true,
-    "ai_frame": {
-      "problem": null,
-      "model": null,
-      "proof": "$1,000"
-    },
-    "_practical_delta": 10,
-    "summary_zh": "In this week’s episode of the Niche Pursuits podcast, Maddox Schmidlkofer and I discuss what happens after an early entrepreneurial win.",
-    "highlights": [
-      "At 21, Maddox has already built a website generating $1,000…",
-      "His current… The post How Maddox Schmidlkofer Bui"
-    ],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "内容站变现案例：Maddox 做到日入 $1,000 的网站并以 $120,000 卖出，访谈讲流量和出售过程",
-      "lines": {
-        "value": "真实收入数字（$1,000）"
-      },
-      "evidence": [
-        "generating $1,000"
-      ],
-      "point": "内容站变现案例：Maddox 做到日入 $1,000 的网站并以 $120,000 卖出，访谈讲流量和出售过程",
-      "concrete": [
-        {
-          "kind": "money",
-          "quote": "$1,000"
-        }
-      ],
-      "verdict_label": "收藏",
-      "title": ""
-    }
-  },
-  {
-    "id": "ai-zh-4f3c14bb092d",
-    "partition": "ai",
-    "type": "post",
-    "category": "AI变现",
-    "title": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
-    "summary": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
-    "source": "InfoQ 中文",
-    "source_url": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo?utm_source=rss&utm_medium=article",
-    "published_at": "Mon, 26 Oct 2026 18:30:50 GMT",
-    "tags": [
-      "中文",
-      "InfoQ 中文"
-    ],
-    "score": 54,
-    "why": "具身智能变现样本：中科慧灵制鞋机器人订单超 4 亿元、完成数亿元 A++ 轮——机器人赛道开始比量产交付和真实订单",
-    "deep_link": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo?utm_source=rss&utm_medium=article",
-    "extra": {},
-    "blurb": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
-    "url": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo?utm_source=rss&utm_medium=article",
-    "name": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
-    "lang": "zh",
-    "posted_at": "Mon, 26 Oc",
-    "evidence_missing": false,
-    "_origin": "zh_media",
-    "_source_id": "zh-infoq",
-    "zh_reader": {
-      "verdict": "save",
-      "use": "原文数字：中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付。",
-      "lines": {
-        "fact": "原文数字：中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付。"
-      },
-      "evidence": [
-        "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付。",
-        "4 亿元"
-      ],
-      "point": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产…"
-    },
-    "title_orig": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
-    "source_excerpt": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付。 点击查看原文>",
-    "_score_raw": 64,
-    "_decay_penalty": 0,
-    "_decay_exempt": null,
-    "_ai_no_business": true,
-    "_practical_delta": -10,
-    "summary_zh": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
-    "highlights": [],
-    "summary_source": "fallback",
-    "reader": {
-      "verdict": "save",
-      "use": "具身智能变现样本：中科慧灵制鞋机器人订单超 4 亿元、完成数亿元 A++ 轮——机器人赛道开始比量产交付和真实订单",
-      "lines": {
-        "fact": "原文数字：中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付。"
-      },
-      "evidence": [
-        "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付。",
-        "4 亿元"
-      ],
-      "point": "具身智能变现样本：中科慧灵制鞋机器人订单超 4 亿元、完成数亿元 A++ 轮——机器人赛道开始比量产交付和真实订单",
       "verdict_label": "收藏",
       "title": ""
     }
